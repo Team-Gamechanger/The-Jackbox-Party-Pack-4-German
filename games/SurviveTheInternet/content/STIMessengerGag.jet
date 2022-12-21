@@ -18,7 +18,7 @@
                 },
                 { 
                     "from":"Mama",
-                    "text":"Letztes Mal hast dus vergessen und er hatte Ausschlag am Hintern.",
+                    "text":"Letztes Mal hast du\u2019s vergessen und er hatte Ausschlag am Hintern.",
                     "behavior":"receive",
                     "timeTilNextMessage":3.0
                 }
@@ -792,7 +792,7 @@
                 },
                 { 
                     "from":"Eric",
-                    "text":"Danke! Ich bin Froh, dass ihr Unternehmen hilft!",
+                    "text":"Danke! Ich bin froh, dass ihr Unternehmen hilft!",
                     "behavior":"send",
                     "timeTilNextMessage":1.0
                 },

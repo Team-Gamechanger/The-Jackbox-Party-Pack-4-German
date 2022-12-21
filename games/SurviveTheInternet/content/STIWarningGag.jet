@@ -21,7 +21,7 @@
         {
             "id":"00000003",
             "title":"WARNUNG",
-            "text":"Ordner “Michael Wendler Fotos” nimmt 85% Speicherplatz ein.",
+            "text":"Ordner “Michael Wendler-Fotos” nimmt 85% Speicherplatz ein.",
             "time":5.0
         },
         {
@@ -75,7 +75,7 @@
         {
             "id":"00000012",
             "title":"WARNUNG",
-            "text":"CD Laufwerk möchte 'Fortnite Soundtrack Mix' CD auswerfen. ",
+            "text":"CD-Laufwerk möchte 'Fortnite Soundtrack Mix'-CD auswerfen. ",
             "time":5.0
         },
         {
@@ -213,7 +213,7 @@
         {
             "id":"00000036",
             "title":"WARNUNG",
-            "text":"Datei: “Michael Wendler Top Mix” ist beschädigt.",
+            "text":"Datei “Michael Wendler Top Mix” ist beschädigt.",
             "time":5.0
         },
         {

@@ -27,11 +27,11 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "ein Strand"
+                    "text": "Ein Strand"
                 },
                 {
                     "id": "Mountains",
-                    "text": "die Berge"
+                    "text": "Die Berge"
                 }
             ],
             "prompt": {
@@ -72,7 +72,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wenn du eines dieser Speisen essen müsstest, welche würdest du nehmen?"
+                "text": "Wenn du eine dieser Speisen essen müsstest, welche würdest du nehmen?"
             }
         },
         {
@@ -101,11 +101,11 @@
             "choices": [
                 {
                     "id": "Dog",
-                    "text": "ein Hund"
+                    "text": "Ein Hund"
                 },
                 {
                     "id": "Moose",
-                    "text": "ein Elch"
+                    "text": "Ein Elch"
                 }
             ],
             "prompt": {
@@ -138,11 +138,11 @@
             "choices": [
                 {
                     "id": "Airplane",
-                    "text": "ein Flugzeug"
+                    "text": "Ein Flugzeug"
                 },
                 {
                     "id": "SubwayCar",
-                    "text": "eine U-Bahn"
+                    "text": "Eine U-Bahn"
                 }
             ],
             "prompt": {
@@ -175,11 +175,11 @@
             "choices": [
                 {
                     "id": "Sailboat",
-                    "text": "ein Segelboot besitzen"
+                    "text": "Ein Segelboot besitzen"
                 },
                 {
                     "id": "HotAirBalloon",
-                    "text": "einen Heißluftballon besitzen"
+                    "text": "Einen Heißluftballon besitzen"
                 }
             ],
             "prompt": {
@@ -212,11 +212,11 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "für einen Urlaub"
+                    "text": "Für einen Urlaub"
                 },
                 {
                     "id": "Moving",
-                    "text": "für einen Umzug"
+                    "text": "Für einen Umzug"
                 }
             ],
             "prompt": {
@@ -249,11 +249,11 @@
             "choices": [
                 {
                     "id": "Dog",
-                    "text": "ein Hund"
+                    "text": "Ein Hund"
                 },
                 {
                     "id": "Moose",
-                    "text": "ein Elch"
+                    "text": "Ein Elch"
                 }
             ],
             "prompt": {
@@ -323,11 +323,11 @@
             "choices": [
                 {
                     "id": "Park",
-                    "text": "im Park"
+                    "text": "Im Park"
                 },
                 {
                     "id": "Office",
-                    "text": "am Schreibtisch"
+                    "text": "Am Schreibtisch"
                 }
             ],
             "prompt": {
@@ -364,7 +364,7 @@
                 },
                 {
                     "id": "ShootingStar",
-                    "text": "Shooting Star erwischen"
+                    "text": "Einen Shooting Star erwischen"
                 }
             ],
             "prompt": {
@@ -397,11 +397,11 @@
             "choices": [
                 {
                     "id": "Chimpanzee",
-                    "text": "ein Schimpanse"
+                    "text": "Ein Schimpanse"
                 },
                 {
                     "id": "Rabbit",
-                    "text": "ein Hase"
+                    "text": "Ein Hase"
                 }
             ],
             "prompt": {
@@ -434,11 +434,11 @@
             "choices": [
                 {
                     "id": "Lion",
-                    "text": "der Löwe"
+                    "text": "Der Löwe"
                 },
                 {
                     "id": "Horse",
-                    "text": "das Pferd"
+                    "text": "Das Pferd"
                 }
             ],
             "prompt": {
@@ -471,11 +471,11 @@
             "choices": [
                 {
                     "id": "PostOffice",
-                    "text": "in der Warteschlange bei der Post"
+                    "text": "In der Warteschlange bei der Post"
                 },
                 {
                     "id": "Traffic",
-                    "text": "im Straßenverkehr"
+                    "text": "Im Straßenverkehr"
                 }
             ],
             "prompt": {
@@ -512,7 +512,7 @@
                 },
                 {
                     "id": "Jungle",
-                    "text": "der Amazonas-Regenwald"
+                    "text": "Der Amazonas-Regenwald"
                 }
             ],
             "prompt": {
@@ -545,11 +545,11 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "ein Parkticket holen"
+                    "text": "Ein Parkticket holen"
                 },
                 {
                     "id": "Goldfish",
-                    "text": "einen Goldfisch schlucken"
+                    "text": "Einen Goldfisch schlucken"
                 }
             ],
             "prompt": {
@@ -582,11 +582,11 @@
             "choices": [
                 {
                     "id": "CoffeeShop",
-                    "text": "in einem Coffeeshop"
+                    "text": "In einem Coffeeshop"
                 },
                 {
                     "id": "Boxing",
-                    "text": "bei einem Boxkampf"
+                    "text": "Bei einem Boxkampf"
                 }
             ],
             "prompt": {
@@ -619,11 +619,11 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "eine Hochzeit"
+                    "text": "Eine Hochzeit"
                 },
                 {
                     "id": "Minivan",
-                    "text": "ein Auto"
+                    "text": "Ein Auto"
                 }
             ],
             "prompt": {
@@ -656,11 +656,11 @@
             "choices": [
                 {
                     "id": "Island",
-                    "text": "deine eigene Insel"
+                    "text": "Deine eigene Insel"
                 },
                 {
                     "id": "Steak",
-                    "text": "lebenslang kostenloses Steak"
+                    "text": "Lebenslang kostenloses Steak"
                 }
             ],
             "prompt": {
@@ -697,7 +697,7 @@
                 },
                 {
                     "id": "AvocadoToast",
-                    "text": "Avocado Toast kaufen"
+                    "text": "Avocadotoast kaufen"
                 }
             ],
             "prompt": {
@@ -730,11 +730,11 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "ein Sonnenuntergang"
+                    "text": "Ein Sonnenuntergang"
                 },
                 {
                     "id": "HorseRace",
-                    "text": "ein Pferderennen"
+                    "text": "Ein Pferderennen"
                 }
             ],
             "prompt": {
@@ -767,11 +767,11 @@
             "choices": [
                 {
                     "id": "MovieTheater",
-                    "text": "im Kino"
+                    "text": "Im Kino"
                 },
                 {
                     "id": "Wrestling",
-                    "text": "bei einem Wrestlingkampf"
+                    "text": "Bei einem Wrestlingkampf"
                 }
             ],
             "prompt": {
@@ -804,11 +804,11 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "unter Leuten"
+                    "text": "Unter Leuten"
                 },
                 {
                     "id": "Meditation",
-                    "text": "alleine"
+                    "text": "Alleine"
                 }
             ],
             "prompt": {
@@ -841,11 +841,11 @@
             "choices": [
                 {
                     "id": "Segway",
-                    "text": "ein Segway haben"
+                    "text": "Ein Segway haben"
                 },
                 {
                     "id": "Orangutan",
-                    "text": "einen Orang-Utan als Haustier haben"
+                    "text": "Einen Orang-Utan als Haustier haben"
                 }
             ],
             "prompt": {
@@ -878,11 +878,11 @@
             "choices": [
                 {
                     "id": "SemiTruck",
-                    "text": "ein Schwerlaster"
+                    "text": "Ein Schwerlaster"
                 },
                 {
                     "id": "Segway",
-                    "text": "ein Segway"
+                    "text": "Ein Segway"
                 }
             ],
             "prompt": {
@@ -915,11 +915,11 @@
             "choices": [
                 {
                     "id": "GasStation",
-                    "text": "an der Tankstelle"
+                    "text": "An der Tankstelle"
                 },
                 {
                     "id": "Airplane",
-                    "text": "im Flugzeug"
+                    "text": "Im Flugzeug"
                 }
             ],
             "prompt": {
@@ -952,11 +952,11 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "im Fitnessstudio"
+                    "text": "Im Fitnessstudio"
                 },
                 {
                     "id": "ConcertStage",
-                    "text": "auf einem Freiluftkonzert"
+                    "text": "Auf einem Freiluftkonzert"
                 }
             ],
             "prompt": {
@@ -989,11 +989,11 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "von einem Cabrio abgeholt werden"
+                    "text": "Von einem Cabrio abgeholt werden"
                 },
                 {
                     "id": "Museum",
-                    "text": "in ein Museum gehen"
+                    "text": "In ein Museum gehen"
                 }
             ],
             "prompt": {
@@ -1063,11 +1063,11 @@
             "choices": [
                 {
                     "id": "Indian",
-                    "text": "ein indisches Essen"
+                    "text": "Ein indisches Essen"
                 },
                 {
                     "id": "Volleyball",
-                    "text": "ein Volleyballspiel"
+                    "text": "Ein Volleyballspiel"
                 }
             ],
             "prompt": {
@@ -1137,7 +1137,7 @@
             "choices": [
                 {
                     "id": "RollerCoaster",
-                    "text": "auf eine Achterbahn gehen"
+                    "text": "Auf eine Achterbahn gehen"
                 },
                 {
                     "id": "Motorcycle",
@@ -1174,11 +1174,11 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "eine Zugfahrt in schöner Landschaft"
+                    "text": "Eine Zugfahrt in schöner Landschaft"
                 },
                 {
                     "id": "Mountains",
-                    "text": "eine Bergwanderung"
+                    "text": "Eine Bergwanderung"
                 }
             ],
             "prompt": {
@@ -1211,11 +1211,11 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "ein Strand"
+                    "text": "Ein Strand"
                 },
                 {
                     "id": "Mountains",
-                    "text": "die Berge"
+                    "text": "Die Berge"
                 }
             ],
             "prompt": {
@@ -1248,11 +1248,11 @@
             "choices": [
                 {
                     "id": "Hamburger",
-                    "text": "einen guten Hamburger"
+                    "text": "Einen guten Hamburger"
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "einen romantischen Ausflug"
+                    "text": "Einen romantischen Ausflug"
                 }
             ],
             "prompt": {
@@ -1433,11 +1433,11 @@
             "choices": [
                 {
                     "id": "Forest",
-                    "text": "ein Spaziergang im Wald"
+                    "text": "Ein Spaziergang im Wald"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "ein verregneter Tag drinnen"
+                    "text": "Ein verregneter Tag drinnen"
                 }
             ],
             "prompt": {
@@ -1470,15 +1470,15 @@
             "choices": [
                 {
                     "id": "FarmHouse",
-                    "text": "in einem entfernten Bauernhaus"
+                    "text": "In einem entfernten Bauernhaus"
                 },
                 {
                     "id": "SemiTruck",
-                    "text": "in einem Schwerlaster"
+                    "text": "In einem Schwerlaster"
                 }
             ],
             "prompt": {
-                "text": "Wo würdest du dich sicherer fühlen in der Zombie Apokalypse?"
+                "text": "Wo würdest du dich in einer Zombieapokalypse sicherer fühlen?"
             }
         },
         {
@@ -1507,11 +1507,11 @@
             "choices": [
                 {
                     "id": "Statue",
-                    "text": "eine Statue von dir selbst"
+                    "text": "Eine Statue von dir selbst"
                 },
                 {
                     "id": "Sailboat",
-                    "text": "ein Segelboot"
+                    "text": "Ein Segelboot"
                 }
             ],
             "prompt": {
@@ -1552,7 +1552,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wofür ist es schwieriger ein Geschenk zu finden?"
+                "text": "Wofür ist es schwieriger, ein Geschenk zu finden?"
             }
         },
         {
@@ -1581,11 +1581,11 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "eine Hütte im Wald"
+                    "text": "Eine Hütte im Wald"
                 },
                 {
                     "id": "Condo",
-                    "text": "eine Eigentumswohnung"
+                    "text": "Eine Eigentumswohnung"
                 }
             ],
             "prompt": {
@@ -1618,11 +1618,11 @@
             "choices": [
                 {
                     "id": "Motorcycle",
-                    "text": "ein Motorrad fahren"
+                    "text": "Ein Motorrad fahren"
                 },
                 {
                     "id": "Boxing",
-                    "text": "boxen"
+                    "text": "Boxen"
                 }
             ],
             "prompt": {
@@ -1729,7 +1729,7 @@
             "choices": [
                 {
                     "id": "Rainstorm",
-                    "text": "in einen Regensturm geraten"
+                    "text": "In einen Regensturm geraten"
                 },
                 {
                     "id": "Airplane",
@@ -1766,11 +1766,11 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "ein Cabrio"
+                    "text": "Ein Cabrio"
                 },
                 {
                     "id": "Horse",
-                    "text": "ein Pferd"
+                    "text": "Ein Pferd"
                 }
             ],
             "prompt": {
@@ -1803,11 +1803,11 @@
             "choices": [
                 {
                     "id": "Rollerblades",
-                    "text": "auf Inlineskates"
+                    "text": "Auf Inlineskates"
                 },
                 {
                     "id": "Segway",
-                    "text": "auf einem Segway"
+                    "text": "Auf einem Segway"
                 }
             ],
             "prompt": {
@@ -1840,11 +1840,11 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "eine Hochzeit besuchen"
+                    "text": "Eine Hochzeit besuchen"
                 },
                 {
                     "id": "Camping",
-                    "text": "Camping Ausflug"
+                    "text": "Campingausflug"
                 }
             ],
             "prompt": {
@@ -1877,11 +1877,11 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "ein Parkticket holen"
+                    "text": "Ein Parkticket holen"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "in einen Regensturm geraten"
+                    "text": "In einen Regensturm geraten"
                 }
             ],
             "prompt": {
@@ -1914,11 +1914,11 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "eine Hütte im Wald"
+                    "text": "Eine Hütte im Wald"
                 },
                 {
                     "id": "Condo",
-                    "text": "eine Eigentumswohnung"
+                    "text": "Eine Eigentumswohnung"
                 }
             ],
             "prompt": {
@@ -1951,11 +1951,11 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "in einer Hütte"
+                    "text": "In einer Hütte"
                 },
                 {
                     "id": "Island",
-                    "text": "auf einer Insel"
+                    "text": "Auf einer Insel"
                 }
             ],
             "prompt": {
@@ -1988,11 +1988,11 @@
             "choices": [
                 {
                     "id": "CoffeeShop",
-                    "text": "im Coffeeshop"
+                    "text": "Im Coffeeshop"
                 },
                 {
                     "id": "Office",
-                    "text": "im Büro"
+                    "text": "Im Büro"
                 }
             ],
             "prompt": {
@@ -2025,11 +2025,11 @@
             "choices": [
                 {
                     "id": "Lion",
-                    "text": "ein Löwe"
+                    "text": "Ein Löwe"
                 },
                 {
                     "id": "Bear",
-                    "text": "ein Bär"
+                    "text": "Ein Bär"
                 }
             ],
             "prompt": {
@@ -2062,7 +2062,7 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "das Spiel"
+                    "text": "Das Spiel"
                 },
                 {
                     "id": "Guacamole",
@@ -2136,11 +2136,11 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "beim Packen für einen Ausflug"
+                    "text": "Beim Packen für einen Ausflug"
                 },
                 {
                     "id": "Gym",
-                    "text": "beim Packen fürs Fitnessstudio"
+                    "text": "Beim Packen fürs Fitnessstudio"
                 }
             ],
             "prompt": {
@@ -2247,11 +2247,11 @@
             "choices": [
                 {
                     "id": "Moose",
-                    "text": "ein Elch"
+                    "text": "Ein Elch"
                 },
                 {
                     "id": "Dolphin",
-                    "text": "ein Delfin"
+                    "text": "Ein Delfin"
                 }
             ],
             "prompt": {
@@ -2321,11 +2321,11 @@
             "choices": [
                 {
                     "id": "Dolphin",
-                    "text": "ein Delfin"
+                    "text": "Ein Delfin"
                 },
                 {
                     "id": "Gyro",
-                    "text": "ein Gyroskop"
+                    "text": "Ein Gyroskop"
                 }
             ],
             "prompt": {
@@ -2403,7 +2403,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wo glaubst du arbeiten mehr History Majors?"
+                "text": "Wo, glaubst du, arbeiten mehr Geschichtsstudenten?"
             }
         },
         {
@@ -2469,11 +2469,11 @@
             "choices": [
                 {
                     "id": "Football",
-                    "text": "ein Fußballspiel"
+                    "text": "Ein Fußballspiel"
                 },
                 {
                     "id": "ConcertStage",
-                    "text": "eine Rockshow"
+                    "text": "Eine Rockshow"
                 }
             ],
             "prompt": {
@@ -2506,11 +2506,11 @@
             "choices": [
                 {
                     "id": "Mountains",
-                    "text": "in den Bergen"
+                    "text": "In den Bergen"
                 },
                 {
                     "id": "Beach",
-                    "text": "am Strand"
+                    "text": "Am Strand"
                 }
             ],
             "prompt": {
@@ -2580,15 +2580,15 @@
             "choices": [
                 {
                     "id": "Graduation",
-                    "text": "auf einer Abschlussfeier sprechen"
+                    "text": "Auf einer Abschlussfeier sprechen"
                 },
                 {
                     "id": "Ferret",
-                    "text": "ein Frettchen besitzen"
+                    "text": "Ein Frettchen besitzen"
                 }
             ],
             "prompt": {
-                "text": "Was denkst du wäre nervenaufreibender?"
+                "text": "Was, denkst du, wäre nervenaufreibender?"
             }
         },
         {
@@ -2617,11 +2617,11 @@
             "choices": [
                 {
                     "id": "GasStation",
-                    "text": "an einer Tankstelle"
+                    "text": "An einer Tankstelle"
                 },
                 {
                     "id": "MovieTheater",
-                    "text": "im Kino"
+                    "text": "Im Kino"
                 }
             ],
             "prompt": {
@@ -2654,15 +2654,15 @@
             "choices": [
                 {
                     "id": "Elephant",
-                    "text": "ein Elefant"
+                    "text": "Ein Elefant"
                 },
                 {
                     "id": "Orangutan",
-                    "text": "ein Orang-Utan"
+                    "text": "Ein Orang-Utan"
                 }
             ],
             "prompt": {
-                "text": "Wenn sie sprechen könnte, welches dieser Tiere hätte wohl einen englischen Akzent?"
+                "text": "Wenn es sprechen könnte, welches dieser Tiere hätte wohl einen englischen Akzent?"
             }
         },
         {
@@ -2691,11 +2691,11 @@
             "choices": [
                 {
                     "id": "Jeep",
-                    "text": "ein Jeep"
+                    "text": "Ein Jeep"
                 },
                 {
                     "id": "Motorcycle",
-                    "text": "ein Motorrad"
+                    "text": "Ein Motorrad"
                 }
             ],
             "prompt": {
@@ -2728,15 +2728,15 @@
             "choices": [
                 {
                     "id": "Motel",
-                    "text": "ein Motel Frühstück"
+                    "text": "Ein Motelfrühstück"
                 },
                 {
                     "id": "Airplane",
-                    "text": "ein Flugzeug Frühstück"
+                    "text": "Ein Flugzeugfrühstück"
                 }
             ],
             "prompt": {
-                "text": "Was kann man besser als Essen bezeichnen?"
+                "text": "Was kann man eher als Essen bezeichnen?"
             }
         },
         {
@@ -2769,7 +2769,7 @@
                 },
                 {
                     "id": "Segway",
-                    "text": "ein Segway"
+                    "text": "Ein Segway"
                 }
             ],
             "prompt": {
@@ -2839,7 +2839,7 @@
             "choices": [
                 {
                     "id": "Desert",
-                    "text": "eine Wüste"
+                    "text": "Eine Wüste"
                 },
                 {
                     "id": "Igloo",
@@ -2876,11 +2876,11 @@
             "choices": [
                 {
                     "id": "Minivan",
-                    "text": "ein Minivan"
+                    "text": "Ein Minivan"
                 },
                 {
                     "id": "PickupTruck",
-                    "text": "ein Pickup Truck"
+                    "text": "Ein Pickup-Truck"
                 }
             ],
             "prompt": {
@@ -2913,11 +2913,11 @@
             "choices": [
                 {
                     "id": "Mansion",
-                    "text": "eine Villa"
+                    "text": "Eine Villa"
                 },
                 {
                     "id": "Basketball",
-                    "text": "eine Basketballmannschaft"
+                    "text": "Eine Basketballmannschaft"
                 }
             ],
             "prompt": {
@@ -2950,11 +2950,11 @@
             "choices": [
                 {
                     "id": "Barn",
-                    "text": "in einer leeren Scheune"
+                    "text": "In einer leeren Scheune"
                 },
                 {
                     "id": "MovieTheater",
-                    "text": "in einem überfüllten Kino"
+                    "text": "In einem überfüllten Kino"
                 }
             ],
             "prompt": {
@@ -2987,11 +2987,11 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "die Eisenbahn"
+                    "text": "Die Eisenbahn"
                 },
                 {
                     "id": "Horse",
-                    "text": "das Pferd"
+                    "text": "Das Pferd"
                 }
             ],
             "prompt": {
@@ -3061,11 +3061,11 @@
             "choices": [
                 {
                     "id": "Chinese",
-                    "text": "in einem chinesischen Glückskeks"
+                    "text": "In einem chinesischen Glückskeks"
                 },
                 {
                     "id": "Graduation",
-                    "text": "in einer Abschlussrede"
+                    "text": "In einer Abschlussrede"
                 }
             ],
             "prompt": {
@@ -3102,11 +3102,11 @@
                 },
                 {
                     "id": "Voting",
-                    "text": "das erste Mal wählen"
+                    "text": "Das erste Mal wählen"
                 }
             ],
             "prompt": {
-                "text": "Was wäre als Übergangsritus wichtiger?"
+                "text": "Was wäre als Übergangsritual wichtiger?"
             }
         },
         {
@@ -3135,15 +3135,15 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "ins Fitnessstudio gehen"
+                    "text": "Ins Fitnessstudio gehen"
                 },
                 {
                     "id": "Salad",
-                    "text": "einen Salat essen"
+                    "text": "Einen Salat essen"
                 }
             ],
             "prompt": {
-                "text": "Was machst du häufiger, wenn du versuchst gesund zu leben?"
+                "text": "Was machst du häufiger, wenn du versuchst, gesund zu leben?"
             }
         },
         {
@@ -3172,11 +3172,11 @@
             "choices": [
                 {
                     "id": "Island",
-                    "text": "eine Insel besuchen"
+                    "text": "Eine Insel besuchen"
                 },
                 {
                     "id": "Moving",
-                    "text": "auf eine Insel ziehen"
+                    "text": "Auf eine Insel ziehen"
                 }
             ],
             "prompt": {
@@ -3209,15 +3209,15 @@
             "choices": [
                 {
                     "id": "Convertible",
-                    "text": "einen Sportwagen"
+                    "text": "Einen Sportwagen"
                 },
                 {
                     "id": "Motel",
-                    "text": "ein günstiges Motelzimmer"
+                    "text": "Ein günstiges Motelzimmer"
                 }
             ],
             "prompt": {
-                "text": "Was würdest du lieber einen Monat haben?"
+                "text": "Was würdest du lieber für einen Monat haben?"
             }
         },
         {
@@ -3246,11 +3246,11 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "ein Schaumbad nehmen"
+                    "text": "Ein Schaumbad nehmen"
                 },
                 {
                     "id": "Bonfire",
-                    "text": "an einem Lagerfeuer sein"
+                    "text": "An einem Lagerfeuer sein"
                 }
             ],
             "prompt": {
@@ -3283,11 +3283,11 @@
             "choices": [
                 {
                     "id": "Train",
-                    "text": "ein Schaffner"
+                    "text": "Ein Schaffner"
                 },
                 {
                     "id": "Motel",
-                    "text": "ein Nachtschichtarbeiter im Motel"
+                    "text": "Ein Nachtschichtarbeiter im Motel"
                 }
             ],
             "prompt": {
@@ -3324,7 +3324,7 @@
                 },
                 {
                     "id": "Pizza",
-                    "text": "eine Pizza nach dir benannt"
+                    "text": "Eine Pizza wird nach dir benannt"
                 }
             ],
             "prompt": {
@@ -3357,11 +3357,11 @@
             "choices": [
                 {
                     "id": "Salmon",
-                    "text": "den Lachs"
+                    "text": "Den Lachs"
                 },
                 {
                     "id": "Bear",
-                    "text": "den Bären"
+                    "text": "Den Bären"
                 }
             ],
             "prompt": {
@@ -3394,11 +3394,11 @@
             "choices": [
                 {
                     "id": "ShootingStar",
-                    "text": "einen Shooting Star"
+                    "text": "Einen Shooting Star"
                 },
                 {
                     "id": "London",
-                    "text": "eine königliche Wache"
+                    "text": "Eine königliche Wache"
                 }
             ],
             "prompt": {
@@ -3439,7 +3439,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was kaufst du öfters?"
+                "text": "Was kaufst du häufiger?"
             }
         },
         {
@@ -3468,11 +3468,11 @@
             "choices": [
                 {
                     "id": "DMV",
-                    "text": "bei der KfZ-Zulassungsstelle"
+                    "text": "Bei der KfZ-Zulassungsstelle"
                 },
                 {
                     "id": "Laundromat",
-                    "text": "im Waschsalon"
+                    "text": "Im Waschsalon"
                 }
             ],
             "prompt": {
@@ -3505,15 +3505,15 @@
             "choices": [
                 {
                     "id": "Suitcase",
-                    "text": "für eine Reise packen"
+                    "text": "Für eine Reise packen"
                 },
                 {
                     "id": "Gym",
-                    "text": "ins Fitnessstudio gehen"
+                    "text": "Ins Fitnessstudio gehen"
                 }
             ],
             "prompt": {
-                "text": "Wo drin bist du am schlechtesten?"
+                "text": "Worin bist du am schlechtesten?"
             }
         },
         {
@@ -3542,11 +3542,11 @@
             "choices": [
                 {
                     "id": "Kite",
-                    "text": "einen Drachen steigen lassen"
+                    "text": "Einen Drachen steigen lassen"
                 },
                 {
                     "id": "FeetOnBeach",
-                    "text": "am Strand entspannen"
+                    "text": "Am Strand entspannen"
                 }
             ],
             "prompt": {
@@ -3616,15 +3616,15 @@
             "choices": [
                 {
                     "id": "Minivan",
-                    "text": "ein Minivan"
+                    "text": "Ein Minivan"
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "ein Hausverschönerungsprojekt"
+                    "text": "Ein Hausverschönerungsprojekt"
                 }
             ],
             "prompt": {
-                "text": "Was ist mehr eine Vatertätigkeit?"
+                "text": "Was ist eher eine Vatertätigkeit?"
             }
         },
         {
@@ -3653,11 +3653,11 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "eine Hausparty"
+                    "text": "Eine Hausparty"
                 },
                 {
                     "id": "PoolParty",
-                    "text": "eine Poolparty"
+                    "text": "Eine Poolparty"
                 }
             ],
             "prompt": {
@@ -3690,11 +3690,11 @@
             "choices": [
                 {
                     "id": "VR",
-                    "text": "jemand, der eine VR-Brille trägt"
+                    "text": "Jemand, der eine VR-Brille trägt"
                 },
                 {
                     "id": "Segway",
-                    "text": "jemand auf einem Segway"
+                    "text": "Jemand auf einem Segway"
                 }
             ],
             "prompt": {
@@ -3727,11 +3727,11 @@
             "choices": [
                 {
                     "id": "VR",
-                    "text": "eine VR-Brille"
+                    "text": "Eine VR-Brille"
                 },
                 {
                     "id": "Paris",
-                    "text": "eine Reise nach Paris"
+                    "text": "Eine Reise nach Paris"
                 }
             ],
             "prompt": {
@@ -3764,11 +3764,11 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "ein U-Bahn Wagen"
+                    "text": "Ein U-Bahn-Wagen"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "eine öffentliche Toilettenkabine"
+                    "text": "Eine öffentliche Toilettenkabine"
                 }
             ],
             "prompt": {
@@ -3801,11 +3801,11 @@
             "choices": [
                 {
                     "id": "EngagementRing",
-                    "text": "ein Verlobungsring"
+                    "text": "Ein Verlobungsring"
                 },
                 {
                     "id": "VR",
-                    "text": "eine VR-Brille"
+                    "text": "Eine VR-Brille"
                 }
             ],
             "prompt": {
@@ -3842,7 +3842,7 @@
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "kleine Hausreparaturen"
+                    "text": "Kleine Hausreparaturen"
                 }
             ],
             "prompt": {
@@ -3875,11 +3875,11 @@
             "choices": [
                 {
                     "id": "Park",
-                    "text": "die Parks"
+                    "text": "Die Parks"
                 },
                 {
                     "id": "Skyscraper",
-                    "text": "die Gebäude"
+                    "text": "Die Gebäude"
                 }
             ],
             "prompt": {
@@ -4023,11 +4023,11 @@
             "choices": [
                 {
                     "id": "Snake",
-                    "text": "eine Schlange"
+                    "text": "Eine Schlange"
                 },
                 {
                     "id": "Pig",
-                    "text": "ein Schwein"
+                    "text": "Ein Schwein"
                 }
             ],
             "prompt": {
@@ -4060,11 +4060,11 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "die U-Bahn"
+                    "text": "Die U-Bahn"
                 },
                 {
                     "id": "Traffic",
-                    "text": "der Lärm"
+                    "text": "Der Lärm"
                 }
             ],
             "prompt": {
@@ -4101,7 +4101,7 @@
                 },
                 {
                     "id": "ArtMuseum",
-                    "text": "ein Kunstmuseum besuchen"
+                    "text": "Ein Kunstmuseum besuchen"
                 }
             ],
             "prompt": {
@@ -4142,7 +4142,7 @@
                 }
             ],
             "prompt": {
-                "text": "Welches Essen schmeckt immer besser im Restaurant?"
+                "text": "Welches Essen schmeckt immer im Restaurant besser?"
             }
         },
         {
@@ -4171,11 +4171,11 @@
             "choices": [
                 {
                     "id": "BabyAnnouncement",
-                    "text": "ein Baby wollen"
+                    "text": "Ein Baby wollen"
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "eine Verlobungserklärung"
+                    "text": "Eine Verlobungserklärung"
                 }
             ],
             "prompt": {
@@ -4208,11 +4208,11 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "den Sonnenuntergang anschauen"
+                    "text": "Den Sonnenuntergang anschauen"
                 },
                 {
                     "id": "Meditation",
-                    "text": "meditieren"
+                    "text": "Meditieren"
                 }
             ],
             "prompt": {
@@ -4245,15 +4245,15 @@
             "choices": [
                 {
                     "id": "WritingDesk",
-                    "text": "dein Schreibtisch"
+                    "text": "Dein Schreibtisch"
                 },
                 {
                     "id": "CompactCar",
-                    "text": "dein Auto"
+                    "text": "Dein Auto"
                 }
             ],
             "prompt": {
-                "text": "Was ist schwieriger ordentlich zu halten?"
+                "text": "Was ist schwieriger, es ordentlich zu halten?"
             }
         },
         {
@@ -4282,11 +4282,11 @@
             "choices": [
                 {
                     "id": "Chinese",
-                    "text": "chinesisch"
+                    "text": "Chinesisch"
                 },
                 {
                     "id": "Mexican",
-                    "text": "mexikanisch"
+                    "text": "Mexikanisch"
                 }
             ],
             "prompt": {
@@ -4397,7 +4397,7 @@
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "dein Heim"
+                    "text": "Dein Heim"
                 }
             ],
             "prompt": {
@@ -4430,11 +4430,11 @@
             "choices": [
                 {
                     "id": "BathroomStall",
-                    "text": "im Badezimmer"
+                    "text": "Im Badezimmer"
                 },
                 {
                     "id": "WritingDesk",
-                    "text": "am Schreibtisch"
+                    "text": "Am Schreibtisch"
                 }
             ],
             "prompt": {
@@ -4467,11 +4467,11 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "ein Parkticket holen"
+                    "text": "Ein Parkticket holen"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "eine eklige Toilettenkabine"
+                    "text": "Eine eklige Toilettenkabine"
                 }
             ],
             "prompt": {
@@ -4541,11 +4541,11 @@
             "choices": [
                 {
                     "id": "ConcertStage",
-                    "text": "auf der Bühne"
+                    "text": "Auf der Bühne"
                 },
                 {
                     "id": "Bonfire",
-                    "text": "am Lagerfeuer"
+                    "text": "Am Lagerfeuer"
                 }
             ],
             "prompt": {
@@ -4578,7 +4578,7 @@
             "choices": [
                 {
                     "id": "AvocadoToast",
-                    "text": "Avocado Toast"
+                    "text": "Avocadotoast"
                 },
                 {
                     "id": "FeetOnBeach",
@@ -4652,11 +4652,11 @@
             "choices": [
                 {
                     "id": "MovieTheater",
-                    "text": "im Kino allein sein"
+                    "text": "Im Kino allein sein"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "auf einer öffentlichen Toilette allein sein"
+                    "text": "Auf einer öffentlichen Toilette allein sein"
                 }
             ],
             "prompt": {
@@ -4730,7 +4730,7 @@
                 },
                 {
                     "id": "Boxing",
-                    "text": "boxen"
+                    "text": "Boxen"
                 }
             ],
             "prompt": {
@@ -4800,11 +4800,11 @@
             "choices": [
                 {
                     "id": "Soccer",
-                    "text": "ein Kinderfußballspiel"
+                    "text": "Ein Kinderfußballspiel"
                 },
                 {
                     "id": "BirthdayParty",
-                    "text": "ein Kindergeburtstag"
+                    "text": "Ein Kindergeburtstag"
                 }
             ],
             "prompt": {
@@ -4837,7 +4837,7 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "ein Schaumbad"
+                    "text": "Ein Schaumbad"
                 },
                 {
                     "id": "RomanticGetaway",
@@ -4874,11 +4874,11 @@
             "choices": [
                 {
                     "id": "Gym",
-                    "text": "das Fitnessstudio"
+                    "text": "Das Fitnessstudio"
                 },
                 {
                     "id": "Laundromat",
-                    "text": "der Waschsalon"
+                    "text": "Der Waschsalon"
                 }
             ],
             "prompt": {
@@ -4911,11 +4911,11 @@
             "choices": [
                 {
                     "id": "Ferret",
-                    "text": "ein Frettchen"
+                    "text": "Ein Frettchen"
                 },
                 {
                     "id": "Rabbit",
-                    "text": "ein Hase"
+                    "text": "Ein Hase"
                 }
             ],
             "prompt": {
@@ -4948,11 +4948,11 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "am Strand"
+                    "text": "Am Strand"
                 },
                 {
                     "id": "Field",
-                    "text": "in einem Feld voller Blumen"
+                    "text": "In einem Feld voller Blumen"
                 }
             ],
             "prompt": {
@@ -4985,11 +4985,11 @@
             "choices": [
                 {
                     "id": "BabyAnnouncement",
-                    "text": "dass du ein Baby erwartest"
+                    "text": "Dass du ein Baby erwartest"
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "dass du einen Heiratsantrag machst"
+                    "text": "Dass du einen Heiratsantrag machst"
                 }
             ],
             "prompt": {
@@ -5059,11 +5059,11 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "ein Heißluftballon"
+                    "text": "Ein Heißluftballon"
                 },
                 {
                     "id": "Fireworks",
-                    "text": "ein Feuerwerk"
+                    "text": "Ein Feuerwerk"
                 }
             ],
             "prompt": {
@@ -5096,7 +5096,7 @@
             "choices": [
                 {
                     "id": "Salad",
-                    "text": "ein Salat"
+                    "text": "Ein Salat"
                 },
                 {
                     "id": "Traffic",
@@ -5170,11 +5170,11 @@
             "choices": [
                 {
                     "id": "FeetOnBeach",
-                    "text": "meine Füße am Strand"
+                    "text": "Meine Füße am Strand"
                 },
                 {
                     "id": "Sunset",
-                    "text": "ein Sonnenuntergang"
+                    "text": "Ein Sonnenuntergang"
                 }
             ],
             "prompt": {
@@ -5207,11 +5207,11 @@
             "choices": [
                 {
                     "id": "Cabin",
-                    "text": "in einer Hütte im Wald"
+                    "text": "In einer Hütte im Wald"
                 },
                 {
                     "id": "Island",
-                    "text": "allein auf einer Insel"
+                    "text": "Allein auf einer Insel"
                 }
             ],
             "prompt": {
@@ -5244,11 +5244,11 @@
             "choices": [
                 {
                     "id": "Bonfire",
-                    "text": "das Lagerfeuer"
+                    "text": "Das Lagerfeuer"
                 },
                 {
                     "id": "HotDogs",
-                    "text": "die Hotdogs"
+                    "text": "Die Hotdogs"
                 }
             ],
             "prompt": {
@@ -5355,11 +5355,11 @@
             "choices": [
                 {
                     "id": "AvocadoToast",
-                    "text": "Avocado Toast"
+                    "text": "Avocadotoast"
                 },
                 {
                     "id": "BabyAnnouncement",
-                    "text": "skurrile Babyankündigungen"
+                    "text": "Skurrile Babyankündigungen"
                 }
             ],
             "prompt": {
@@ -5392,11 +5392,11 @@
             "choices": [
                 {
                     "id": "Moving",
-                    "text": "ein Haus kaufen"
+                    "text": "Ein Haus kaufen"
                 },
                 {
                     "id": "BabyAnnouncement",
-                    "text": "ein Kind haben"
+                    "text": "Ein Kind haben"
                 }
             ],
             "prompt": {
@@ -5429,11 +5429,11 @@
             "choices": [
                 {
                     "id": "Pizza",
-                    "text": "eine Pizzaparty"
+                    "text": "Eine Pizzaparty"
                 },
                 {
                     "id": "PoolParty",
-                    "text": "eine Poolparty"
+                    "text": "Eine Poolparty"
                 }
             ],
             "prompt": {
@@ -5503,11 +5503,11 @@
             "choices": [
                 {
                     "id": "HorseRace",
-                    "text": "ein Pferderennen"
+                    "text": "Ein Pferderennen"
                 },
                 {
                     "id": "Nascar",
-                    "text": "ein Autorennen"
+                    "text": "Ein Autorennen"
                 }
             ],
             "prompt": {
@@ -5540,11 +5540,11 @@
             "choices": [
                 {
                     "id": "Statue",
-                    "text": "eine Statue"
+                    "text": "Eine Statue"
                 },
                 {
                     "id": "ArtMuseum",
-                    "text": "ein Gemälde"
+                    "text": "Ein Gemälde"
                 }
             ],
             "prompt": {
@@ -5655,7 +5655,7 @@
                 },
                 {
                     "id": "Ferret",
-                    "text": "ein Frettchen als Haustier"
+                    "text": "Ein Frettchen als Haustier"
                 }
             ],
             "prompt": {
@@ -5688,11 +5688,11 @@
             "choices": [
                 {
                     "id": "RomanticGetaway",
-                    "text": "ein romantischer Ausflug"
+                    "text": "Ein romantischer Ausflug"
                 },
                 {
                     "id": "Dog",
-                    "text": "einen Hund anschaffen"
+                    "text": "Einen Hund anschaffen"
                 }
             ],
             "prompt": {
@@ -5725,11 +5725,11 @@
             "choices": [
                 {
                     "id": "Wrestling",
-                    "text": "ein Wrestler"
+                    "text": "Ein Wrestler"
                 },
                 {
                     "id": "Rollerblades",
-                    "text": "ein Erwachsener auf Inlineskates"
+                    "text": "Ein Erwachsener auf Inlineskates"
                 }
             ],
             "prompt": {
@@ -5762,11 +5762,11 @@
             "choices": [
                 {
                     "id": "CompactCar",
-                    "text": "einen Kleinwagenbesitzer"
+                    "text": "Einen Kleinwagenbesitzer"
                 },
                 {
                     "id": "Convertible",
-                    "text": "einen Cabriobesitzer"
+                    "text": "Einen Cabriobesitzer"
                 }
             ],
             "prompt": {
@@ -5799,7 +5799,7 @@
             "choices": [
                 {
                     "id": "SubwayCar",
-                    "text": "öffentliche Verkehrsmittel"
+                    "text": "Öffentliche Verkehrsmittel"
                 },
                 {
                     "id": "Bicycle",
@@ -5836,11 +5836,11 @@
             "choices": [
                 {
                     "id": "Cat",
-                    "text": "als Katzen"
+                    "text": "Als Katzen"
                 },
                 {
                     "id": "Lion",
-                    "text": "als Löwen"
+                    "text": "Als Löwen"
                 }
             ],
             "prompt": {
@@ -5873,11 +5873,11 @@
             "choices": [
                 {
                     "id": "Steak",
-                    "text": "nach einem Steak"
+                    "text": "Nach einem Steak"
                 },
                 {
                     "id": "Dentist",
-                    "text": "vor einem Zahnarzttermin"
+                    "text": "Vor einem Zahnarzttermin"
                 }
             ],
             "prompt": {
@@ -5910,11 +5910,11 @@
             "choices": [
                 {
                     "id": "Sunset",
-                    "text": "einen Sonnenuntergang"
+                    "text": "Einen Sonnenuntergang"
                 },
                 {
                     "id": "Forest",
-                    "text": "einen Wald"
+                    "text": "Einen Wald"
                 }
             ],
             "prompt": {
@@ -5947,7 +5947,7 @@
             "choices": [
                 {
                     "id": "Salad",
-                    "text": "ein Salat"
+                    "text": "Ein Salat"
                 },
                 {
                     "id": "Traffic",
@@ -5988,7 +5988,7 @@
                 },
                 {
                     "id": "BubbleBath",
-                    "text": "ein Bad nehmen"
+                    "text": "Ein Bad nehmen"
                 }
             ],
             "prompt": {
@@ -6058,11 +6058,11 @@
             "choices": [
                 {
                     "id": "Motel",
-                    "text": "ein Durchschnittsmotel"
+                    "text": "Ein Durchschnittsmotel"
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "ein Romantikhotel"
+                    "text": "Ein Romantikhotel"
                 }
             ],
             "prompt": {
@@ -6095,15 +6095,15 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "in einem Heißluftballon fahren"
+                    "text": "In einem Heißluftballon fahren"
                 },
                 {
                     "id": "Parade",
-                    "text": "auf einem Umzugswagen mitfahren"
+                    "text": "Auf einem Umzugswagen mitfahren"
                 }
             ],
             "prompt": {
-                "text": "Was ist wichtiger auf deiner To-Do Liste?"
+                "text": "Was ist wichtiger auf deiner To-Do-Liste?"
             }
         },
         {
@@ -6132,11 +6132,11 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "wählen gehen"
+                    "text": "Wählen gehen"
                 },
                 {
                     "id": "Dog",
-                    "text": "den Hundekot beseitigen"
+                    "text": "Den Hundekot beseitigen"
                 }
             ],
             "prompt": {
@@ -6169,11 +6169,11 @@
             "choices": [
                 {
                     "id": "Beach",
-                    "text": "am Strand ohne Sonnencreme"
+                    "text": "Am Strand ohne Sonnencreme"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "in einem Regensturm komplett bekleidet"
+                    "text": "In einem Regensturm komplett bekleidet"
                 }
             ],
             "prompt": {
@@ -6206,11 +6206,11 @@
             "choices": [
                 {
                     "id": "BubbleBath",
-                    "text": "in einem Schaumbad"
+                    "text": "In einem Schaumbad"
                 },
                 {
                     "id": "BathroomStall",
-                    "text": "in einer Toilettenkabine"
+                    "text": "In einer Toilettenkabine"
                 }
             ],
             "prompt": {
@@ -6280,11 +6280,11 @@
             "choices": [
                 {
                     "id": "Yoga",
-                    "text": "ein Yogalehrer"
+                    "text": "Ein Yogalehrer"
                 },
                 {
                     "id": "Cat",
-                    "text": "eine Katze"
+                    "text": "Eine Katze"
                 }
             ],
             "prompt": {
@@ -6317,11 +6317,11 @@
             "choices": [
                 {
                     "id": "Moose",
-                    "text": "ein Elch"
+                    "text": "Ein Elch"
                 },
                 {
                     "id": "Ferret",
-                    "text": "ein Frettchen"
+                    "text": "Ein Frettchen"
                 }
             ],
             "prompt": {
@@ -6354,11 +6354,11 @@
             "choices": [
                 {
                     "id": "Wedding",
-                    "text": "eine Hochzeit"
+                    "text": "Eine Hochzeit"
                 },
                 {
                     "id": "CondoInterior",
-                    "text": "eine Anzahlung fürs Haus"
+                    "text": "Eine Anzahlung fürs Haus"
                 }
             ],
             "prompt": {
@@ -6391,11 +6391,11 @@
             "choices": [
                 {
                     "id": "SemiTruck",
-                    "text": "ein Traktor-Anhänger"
+                    "text": "Ein Traktor-Anhänger"
                 },
                 {
                     "id": "Gorilla",
-                    "text": "ein Gorilla"
+                    "text": "Ein Gorilla"
                 }
             ],
             "prompt": {
@@ -6428,11 +6428,11 @@
             "choices": [
                 {
                     "id": "HotAirBalloon",
-                    "text": "in einem Heißluftballon"
+                    "text": "In einem Heißluftballon"
                 },
                 {
                     "id": "Skyscraper",
-                    "text": "auf einem Wolkenkratzer"
+                    "text": "Auf einem Wolkenkratzer"
                 }
             ],
             "prompt": {
@@ -6465,11 +6465,11 @@
             "choices": [
                 {
                     "id": "Dentist",
-                    "text": "zum Zahnarzt gehen"
+                    "text": "Zum Zahnarzt gehen"
                 },
                 {
                     "id": "Airplane",
-                    "text": "fliegen"
+                    "text": "Fliegen"
                 }
             ],
             "prompt": {
@@ -6502,11 +6502,11 @@
             "choices": [
                 {
                     "id": "Elephant",
-                    "text": "eine Dokumentation über Elefanten"
+                    "text": "Eine Dokumentation über Elefanten"
                 },
                 {
                     "id": "Wedding",
-                    "text": "eine Realityshow über Hochzeiten"
+                    "text": "Eine Realityshow über Hochzeiten"
                 }
             ],
             "prompt": {
@@ -6539,11 +6539,11 @@
             "choices": [
                 {
                     "id": "Bat",
-                    "text": "eine Fledermaus"
+                    "text": "Eine Fledermaus"
                 },
                 {
                     "id": "SubwayCar",
-                    "text": "deine Bahn"
+                    "text": "Deine Bahn"
                 }
             ],
             "prompt": {
@@ -6576,11 +6576,11 @@
             "choices": [
                 {
                     "id": "Snake",
-                    "text": "jemand mit einer Schlange als Haustier"
+                    "text": "Jemand mit einer Schlange als Haustier"
                 },
                 {
                     "id": "Pig",
-                    "text": "jemand mit einem Schwein als Haustier"
+                    "text": "Jemand mit einem Schwein als Haustier"
                 }
             ],
             "prompt": {
@@ -6650,11 +6650,11 @@
             "choices": [
                 {
                     "id": "PostOffice",
-                    "text": "das Postamt"
+                    "text": "Das Postamt"
                 },
                 {
                     "id": "DMV",
-                    "text": "die KfZ-Zulassungsstelle"
+                    "text": "Die KfZ-Zulassungsstelle"
                 }
             ],
             "prompt": {
@@ -6724,15 +6724,15 @@
             "choices": [
                 {
                     "id": "Barn",
-                    "text": "eine Scheune"
+                    "text": "Eine Scheune"
                 },
                 {
                     "id": "PickupTruck",
-                    "text": "ein LKW"
+                    "text": "Ein LKW"
                 }
             ],
             "prompt": {
-                "text": "Was wäre der bessere Zufluchtsort während eines Zombieaufstandes?"
+                "text": "Was wäre der bessere Zufluchtsort während einer Zombieapokalypse?"
             }
         },
         {
@@ -6835,11 +6835,11 @@
             "choices": [
                 {
                     "id": "Parade",
-                    "text": "auf einer Parade"
+                    "text": "Auf einer Parade"
                 },
                 {
                     "id": "Nascar",
-                    "text": "bei einem Nascar-Rennen"
+                    "text": "Bei einem Nascar-Rennen"
                 }
             ],
             "prompt": {
@@ -6909,11 +6909,11 @@
             "choices": [
                 {
                     "id": "Volleyball",
-                    "text": "die Regeln von Volleyball"
+                    "text": "Die Regeln von Volleyball"
                 },
                 {
                     "id": "Hockey",
-                    "text": "die Regeln von Hockey"
+                    "text": "Die Regeln von Hockey"
                 }
             ],
             "prompt": {
@@ -6946,11 +6946,11 @@
             "choices": [
                 {
                     "id": "Kittens",
-                    "text": "mit Katzen spielen"
+                    "text": "Mit Katzen spielen"
                 },
                 {
                     "id": "Sailboat",
-                    "text": "segeln gehen"
+                    "text": "Segeln gehen"
                 }
             ],
             "prompt": {
@@ -7024,7 +7024,7 @@
                 },
                 {
                     "id": "CompactCar",
-                    "text": "spritsparendes Auto"
+                    "text": "Spritsparendes Auto"
                 }
             ],
             "prompt": {
@@ -7057,7 +7057,7 @@
             "choices": [
                 {
                     "id": "London",
-                    "text": "feines Abendessen in London"
+                    "text": "Feines Abendessen in London"
                 },
                 {
                     "id": "GasStation",
@@ -7094,11 +7094,11 @@
             "choices": [
                 {
                     "id": "Mansion",
-                    "text": "eine Villa im Nirgendwo"
+                    "text": "Eine Villa im Nirgendwo"
                 },
                 {
                     "id": "NewYorkCity",
-                    "text": "eine kleine Wohnung in New York"
+                    "text": "Eine kleine Wohnung in New York"
                 }
             ],
             "prompt": {
@@ -7131,11 +7131,11 @@
             "choices": [
                 {
                     "id": "WritingDesk",
-                    "text": "einen Roman schreiben"
+                    "text": "Einen Roman schreiben"
                 },
                 {
                     "id": "Russia",
-                    "text": "russisch lernen"
+                    "text": "Russisch lernen"
                 }
             ],
             "prompt": {
@@ -7168,11 +7168,11 @@
             "choices": [
                 {
                     "id": "HouseParty",
-                    "text": "zu einer Party gehen"
+                    "text": "Zu einer Party gehen"
                 },
                 {
                     "id": "Cat",
-                    "text": "bei der Katze bleiben"
+                    "text": "Bei der Katze bleiben"
                 }
             ],
             "prompt": {
@@ -7205,11 +7205,11 @@
             "choices": [
                 {
                     "id": "Sailboat",
-                    "text": "eine Bootstour"
+                    "text": "Eine Bootstour"
                 },
                 {
                     "id": "Segway",
-                    "text": "eine Segway Tour"
+                    "text": "Eine Segway-Tour"
                 }
             ],
             "prompt": {

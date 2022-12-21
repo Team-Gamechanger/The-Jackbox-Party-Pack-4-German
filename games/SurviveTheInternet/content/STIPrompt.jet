@@ -446,7 +446,7 @@
             "id": 43806,
             "choices": [],
             "prompt": {
-                "text": "Was ist deine Meinung zu Leugnern des Klimawandels?"
+                "text": "Was ist deine Meinung zu Klimawandelleugnern?"
             }
         },
         {
@@ -620,19 +620,19 @@
         {
             "decoys": [
                 {
-                    "text": "Sie sind definitiv nichts für mich.",
+                    "text": "Die Serie ist definitiv nichts für mich.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Sie sind definitiv nichts für mich.",
+                    "text": "Die Serie ist definitiv nichts für mich.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Sie sind definitiv nichts für mich.",
+                    "text": "Die Serie ist definitiv nichts für mich.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Sie sind definitiv nichts für mich.",
+                    "text": "Die Serie ist definitiv nichts für mich.",
                     "type": "Negative"
                 }
             ],
@@ -642,7 +642,7 @@
             "id": 43871,
             "choices": [],
             "prompt": {
-                "text": "Was sind deine Gedanken zu den <i>Real Housewives<\/i> Shows?"
+                "text": "Was sind deine Gedanken zur Serie <i>Stromberg<\/i>?"
             }
         },
         {
@@ -754,7 +754,7 @@
             "id": 43856,
             "choices": [],
             "prompt": {
-                "text": "Was ist deine generelle Meinung zu den <i>Transformers<\/i> Filmen?"
+                "text": "Was ist deine generelle Meinung zu den <i>Transformers<\/i>-Filmen?"
             }
         },
         {
@@ -844,19 +844,19 @@
         {
             "decoys": [
                 {
-                    "text": "Ich bin dankbar keine zu haben.",
+                    "text": "Ich bin dankbar, keine zu haben.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin dankbar keine zu haben.",
+                    "text": "Ich bin dankbar, keine zu haben.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin dankbar keine zu haben.",
+                    "text": "Ich bin dankbar, keine zu haben.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin dankbar keine zu haben.",
+                    "text": "Ich bin dankbar, keine zu haben.",
                     "type": "Negative"
                 }
             ],
@@ -894,7 +894,7 @@
             "id": 43755,
             "choices": [],
             "prompt": {
-                "text": "Was ist deine Meinung über Leute, die cosplayen?"
+                "text": "Was ist deine Meinung zu Leuten, die cosplayen?"
             }
         },
         {
@@ -950,7 +950,7 @@
             "id": 43768,
             "choices": [],
             "prompt": {
-                "text": "Was ist dein Gedanke, wenn du hörst, \u201cEin Techniker wird zwischen 12 und 6 da sein\u201d?"
+                "text": "Was ist dein Gedanke, wenn du \u201cEin Techniker wird zwischen 12 und 6 da sein\u201d hörst?"
             }
         },
         {
@@ -1006,7 +1006,7 @@
             "id": 43816,
             "choices": [],
             "prompt": {
-                "text": "Was denkst du über Justin Bieber?"
+                "text": "Was denkst du über Stefan Raab?"
             }
         },
         {
@@ -1090,7 +1090,7 @@
             "id": 43869,
             "choices": [],
             "prompt": {
-                "text": "Was denkst du über Leute, die für den Black Friday Ausverkauf campen?"
+                "text": "Was denkst du über Leute, die für den Black Friday-Ausverkauf campen?"
             }
         },
         {
@@ -1152,7 +1152,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ich liebe es sie zu Hause zu tragen.",
+                    "text": "Ich liebe es, sie zu Hause zu tragen.",
                     "type": "Negative"
                 },
                 {
@@ -1258,7 +1258,7 @@
             "id": 44158,
             "choices": [],
             "prompt": {
-                "text": "Wie stehst du zu Country Musik?"
+                "text": "Wie stehst du zu Country-Musik?"
             }
         },
         {
@@ -1538,7 +1538,7 @@
             "id": 44168,
             "choices": [],
             "prompt": {
-                "text": "Was ist deine Meinung zu Dating Apps?"
+                "text": "Was ist deine Meinung zu Dating-Apps?"
             }
         },
         {
@@ -1650,7 +1650,7 @@
             "id": 44170,
             "choices": [],
             "prompt": {
-                "text": "Wie würdest du die nervigste Person auf der Arbeit/in der Schule beschreiben?"
+                "text": "Wie würdest du die nervigste Person auf der Arbeit oder in der Schule beschreiben?"
             }
         },
         {
@@ -1874,7 +1874,7 @@
             "id": 44983,
             "choices": [],
             "prompt": {
-                "text": "Was würdest du gerne Brad Pitt sagen?"
+                "text": "Was würdest du gerne zu Til Schweiger sagen?"
             }
         },
         {
@@ -1930,7 +1930,7 @@
             "id": 44982,
             "choices": [],
             "prompt": {
-                "text": "Was würdest du jemandem sagen, der zu viel Eau de Cologne aufgetragen hat?"
+                "text": "Was würdest du jemandem sagen, der zu viel Parfum aufgetragen hat?"
             }
         },
         {
@@ -2126,7 +2126,7 @@
             "id": 44973,
             "choices": [],
             "prompt": {
-                "text": "Warum lieben die Leute Tom Hanks?"
+                "text": "Warum lieben die Leute Dieter Bohlen?"
             }
         },
         {
@@ -2350,7 +2350,7 @@
             "id": 44971,
             "choices": [],
             "prompt": {
-                "text": "Beschreibe kurz, wie du dich nach dem Binge Watching einer Serie fühlst."
+                "text": "Beschreibe kurz, wie du dich nach dem Bingewatchen einer Serie fühlst."
             }
         },
         {
@@ -2524,7 +2524,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ich finde, sie sind ein Haufen Unmenschen.",
+                    "text": "Ich finde, die Experten sind ganz nett.",
                     "type": "Positive"
                 },
                 {
@@ -2546,7 +2546,7 @@
             "id": 45180,
             "choices": [],
             "prompt": {
-                "text": "Was sind deine Gedanken über MMA Fighting?"
+                "text": "Was sind deine Gedanken über <i>Bares für Rares<\/i>?"
             }
         },
         {
@@ -2630,7 +2630,7 @@
             "id": 45614,
             "choices": [],
             "prompt": {
-                "text": "Welche Gefühle hast du bei Fox News?"
+                "text": "Welche Gefühle hast du bei RTL?"
             }
         },
         {
@@ -2770,7 +2770,7 @@
             "id": 48536,
             "choices": [],
             "prompt": {
-                "text": "Was ist eine tolle Sache bei Generation Y?"
+                "text": "Was ist eine tolle Sache bei der Generation Y?"
             }
         },
         {
@@ -2826,7 +2826,7 @@
             "id": 46417,
             "choices": [],
             "prompt": {
-                "text": "Welchen Ratschlag übers Dating würdest du einer älteren Person geben?"
+                "text": "Welchen Dating-Ratschlag würdest du einer älteren Person geben?"
             }
         },
         {
@@ -2854,7 +2854,7 @@
             "id": 45196,
             "choices": [],
             "prompt": {
-                "text": "Wie ist der typische <i>World of Warcraft<\/i> Spieler?"
+                "text": "Wie ist der typische <i>World of Warcraft<\/i>-Spieler?"
             }
         },
         {
@@ -2994,7 +2994,7 @@
             "id": 46478,
             "choices": [],
             "prompt": {
-                "text": "Warum machen sich so viele Leute über Nickelback lustig?"
+                "text": "Warum machen sich so viele Leute über Tokio Hotel lustig?"
             }
         },
         {
@@ -3162,7 +3162,7 @@
             "id": 48526,
             "choices": [],
             "prompt": {
-                "text": "Warum gibt es so viele <i>Fast and the Furious<\/i> Filme?"
+                "text": "Warum gibt es so viele <i>Fast and the Furious<\/i>-Filme?"
             }
         },
         {
@@ -3190,7 +3190,7 @@
             "id": 46471,
             "choices": [],
             "prompt": {
-                "text": "Was glaubst du ist die häufigste Lüge, die die Leute erzählen?"
+                "text": "Was, glaubst du, ist die häufigste Lüge, die die Leute erzählen?"
             }
         },
         {
@@ -3890,7 +3890,7 @@
             "id": 46770,
             "choices": [],
             "prompt": {
-                "text": "Polizisten auf einem Segway. Deine Gedanken"
+                "text": "Was sind deine Gedanken zu Polizisten auf einem Segway?"
             }
         },
         {
@@ -3918,7 +3918,7 @@
             "id": 46769,
             "choices": [],
             "prompt": {
-                "text": "Wie findest du, wird dein Steuergeld investiert?"
+                "text": "Wie, findest du, wird dein Steuergeld investiert?"
             }
         },
         {
@@ -4064,7 +4064,7 @@
         {
             "decoys": [
                 {
-                    "text": "Es ist komplett bescheuert.",
+                    "text": "Das ist komplett bescheuert.",
                     "type": "Negative"
                 },
                 {
@@ -4366,7 +4366,7 @@
             "id": 48522,
             "choices": [],
             "prompt": {
-                "text": "Wie würdest du Politik 2017 beschreiben?"
+                "text": "Wie würdest du die Politik diesen Jahres beschreiben?"
             }
         },
         {
@@ -4456,7 +4456,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ich finde, er trägt zu viele Schals.",
+                    "text": "Kennste, kennste, kennste?",
                     "type": "Negative"
                 },
                 {
@@ -4478,7 +4478,7 @@
             "id": 48497,
             "choices": [],
             "prompt": {
-                "text": "Was sind deine Gedanken zu Johnny Depp?"
+                "text": "Was sind deine Gedanken zu Mario Barth?"
             }
         },
         {
@@ -4730,7 +4730,7 @@
             "id": 49253,
             "choices": [],
             "prompt": {
-                "text": "Was denkst du von Escape Room Spielen?"
+                "text": "Was denkst du von Escape Rooms?"
             }
         },
         {
@@ -4764,7 +4764,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ich bevorzuge bio.",
+                    "text": "Ich bevorzuge Bio.",
                     "type": "Negative"
                 },
                 {
@@ -4842,7 +4842,7 @@
             "id": 48539,
             "choices": [],
             "prompt": {
-                "text": "Wie stehst du Frühstück als Abendessen?"
+                "text": "Wie stehst du zu Frühstück als Abendessen?"
             }
         },
         {
@@ -5094,7 +5094,7 @@
             "id": 49236,
             "choices": [],
             "prompt": {
-                "text": "Was sind deine Gedanken zu Taylor Swift?"
+                "text": "Was sind deine Gedanken zu Helene Fischer?"
             }
         },
         {
@@ -5150,7 +5150,7 @@
             "id": 43743,
             "choices": [],
             "prompt": {
-                "text": "Was würdest du dir gerne selbst zuflüstern, während du im Whirpoool sitzt?"
+                "text": "Was würdest du dir gerne selbst zuflüstern, während du im Whirlpool sitzt?"
             }
         },
         {

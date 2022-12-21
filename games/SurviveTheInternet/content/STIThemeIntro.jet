@@ -28,19 +28,19 @@
             "id":"00000004", 
             "applicableThemes":["Chirp"], 
             "responseText":"Weckt mich jeden morgen.",
-            "twistText":"MeineFürze" 
+            "twistText":"Meine Fürze" 
         },
         { 
             "id":"00000005", 
             "applicableThemes":["CrowdFund"], 
             "responseText":"Manche Dinge sollten einfach im dunkeln bleiben.",
-            "twistText":"Helft mir meinen Film zu finanzieren" 
+            "twistText":"Helft mir, meinen Film zu finanzieren" 
         },
         { 
             "id":"00000006", 
             "applicableThemes":["CheckIn"], 
             "responseText":"Alles hier ist super lecker.",
-            "twistText":"Chemie Labor" 
+            "twistText":"Chemielabor" 
         },
         { 
             "id":"00000007", 
@@ -81,14 +81,14 @@
         { 
             "id":"00000013", 
             "applicableThemes":["FriendFeed"], 
-            "responseText":"Bin froh das zu hören!",
+            "responseText":"Bin froh, das zu hören!",
             "twistText":"Der Tag heute ist echt mist." 
         },
         { 
             "id":"00000014", 
             "applicableThemes":["Video"], 
             "responseText":"Zu viel Nacktheit.",
-            "twistText":"Gitarren Tutorial" 
+            "twistText":"Gitarren-Tutorial" 
         },
         { 
             "id":"00000015", 
@@ -154,7 +154,7 @@
             "id":"00000025", 
             "applicableThemes":["News"], 
             "responseText":"Die Regierung lügt euch an.",
-            "twistText":"18 Food Hacks" 
+            "twistText":"18 Essenstipps" 
         },
         { 
             "id":"00000026", 
@@ -190,7 +190,7 @@
             "id":"00000031", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Schaut wie spannend mein Leben ist!" 
+            "twistText":"Schaut, wie spannend mein Leben ist!" 
         },
         { 
             "id":"00000032", 
@@ -202,7 +202,7 @@
             "id":"00000033", 
             "applicableThemes":["Photo"], 
             "responseText":"",
-            "twistText":"Leckerste Sushi der Stadt." 
+            "twistText":"Leckerstes Sushi der Stadt." 
         },
         { 
             "id":"00000034", 
