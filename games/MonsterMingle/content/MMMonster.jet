@@ -62,12 +62,12 @@
         {
             "id":"MonsterHunter",
             "frame":"Monster4",
-            "name":"Monster-Jäger",
+            "name":"Monsterjäger",
             "role":"DateTarget",
             "minimumPlayers":3,
 
             "shortDescription": "[Player] ist ein",
-            "description":"[Player] ist ein MONSTER-JÄGER.<br/>Zu Beginn wird dem Monster-Jäger ein bestimmtes Ziel zugewiesen. Am Ende des Spiels erhält er ein Bonus-Herz für jedes Date mit diesem Monster.",
+            "description":"[Player] ist ein MONSTERJÄGER.<br/>Zu Beginn wird dem Monsterjäger ein bestimmtes Ziel zugewiesen. Am Ende des Spiels erhält er ein Bonus-Herz für jedes Date mit diesem Monster.",
             "selfDescription":"Am Ende des Spiels erhältst du ein Bonus-Herz für jedes Date mit folgendem Monster: [Monster Type].<br />Dieser Jemand ist im Spiel.",
             "powerpopup": {"single": "Ein Bonus-Herz für das Date mit dem Monster [Monster Type].",
                            "multiple": "Bonus-Herzen für [Number] Dates mit dem Monster [Monster Type].",
@@ -244,12 +244,12 @@
         {
             "id":"VentriloquistPuppet",
             "frame":"Monster2",
-            "name":"Bauchredner Puppe",
+            "name":"Bauchrednerpuppe",
             "role":"DateTarget",
             "minimumPlayers":3,
 
             "shortDescription": "[Player] ist eine",
-            "description":"[Player] ist eine BAUCHREDNER PUPPE.<br/>Traurige Leute lieben Puppen.<br/>Die Puppe bekommt ein Bonus-Herz, wenn sie ein Date mit jemanden hat, der letzte Nacht einen Korb bekommen hat.",
+            "description":"[Player] ist eine BAUCHREDNERPUPPE.<br/>Traurige Leute lieben Puppen.<br/>Die Puppe bekommt ein Bonus-Herz, wenn sie ein Date mit jemanden hat, der letzte Nacht einen Korb bekommen hat.",
             "selfDescription":"Traurige Leute lieben Puppen.<br/>Du bekommst ein Bonus-Herz wenn du mit jemanden auf ein Date gehst, der letzte Nacht einen Korb bekommen hat.",
             "powerpopup": { "datereject": "[Player] erhielt letzte Nacht eine Absage.<br/>Die Puppe bekommt ein Bonus-Herz.",
                             "triggered" : "<div>Du bist mit jemanden auf ein Date gegangen, der letzte Nacht abgelehnt worden ist.<br/>Du bekommst ein Bonus-Herz.</div>"},
