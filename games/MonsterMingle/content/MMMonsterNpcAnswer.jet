@@ -17,11 +17,11 @@
             {"id":15, "answer":"Ich habe Laser!"},
             {"id":16, "answer":"Beginne mit Smalltalk"},
             {"id":17, "answer":"Scanne deine wahren Kern"},
-            {"id":18, "answer":"Domo arigato"},
+            {"id":18, "answer":"Doumo arigato"},
             {"id":19, "answer":"Hallo. Hallo. Hallo. Hallo du. Hallo."},
             {"id":20, "answer":"Kannst du berechnen?"},
             {"id":21, "answer":"Was ist Liebe?"},
-            {"id":22, "answer":"Ich setze mich so gut wie möglich ein. Ich glaube, dass ist das Beste, was jedem lebendigem Wesen passieren kann."},
+            {"id":22, "answer":"Ich setze mich so gut wie möglich ein. Ich glaube, das ist das Beste, was jedem lebendigem Wesen passieren kann."},
             {"id":23, "answer":"Diese Konversation hat keinen Zweck mehr."},
             {"id":24, "answer":"Diese Mission ist viel zu wichtig, um sie von dir gefährden zu lassen."},
             {"id":25, "answer":"Ich glaube, ich habe ein Gefühl gefühlt."},
@@ -61,6 +61,6 @@
             {"id":59, "answer":"So... Rost ist schrecklich, hab ich recht?"},
             {"id":60, "answer":"Ich wünschte, Roboter könnten furzen. Scheint spaßig zu sein."},
             {"id":61, "answer":"Verbindungsprobleme."},
-            {"id":62, "answer":"Ich nähere mich der Singularität um nach der Minuglarität zu schauen."}
+            {"id":62, "answer":"Ich nähere mich der Singularität, um nach der Mingularität zu schauen."}
     ]
 }

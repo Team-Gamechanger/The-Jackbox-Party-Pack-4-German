@@ -1,6 +1,6 @@
 {
     "content":[
-        {"id":1, "question":"Ich kann nicht aufhören über [BLANK] nachzudenken!"},
+        {"id":1, "question":"Ich kann nicht aufhören, über [BLANK] nachzudenken!"},
         {"id":2, "question":"Wenn an [BLANK] etwas falsch ist, was kann noch richtig sein?"},
         {"id":3, "question":"Was denkst du über [BLANK]?"},
         {"id":4, "question":"Ich bin nicht sicher, ob ich [BLANK] überhaupt mag."},
