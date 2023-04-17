@@ -1,0 +1,224 @@
+﻿{
+    "credits":[
+        {
+            "Title": "PROJEKTLEITUNG",
+            "Name": "ERIZZLE"
+        },
+        {
+            "Title": "ÜBERSETZUNG",
+            "Name": "LARA SCHMIDT"
+        },
+        {
+            "Title": "ÜBERSETZUNG",
+            "Name": "ERIZZLE"
+        },
+        {
+            "Title": "WEB-ENTWICKLUNG",
+            "Name": "THEDARKSID3R"
+        },
+        {
+            "Title": "WEB-ENTWICKLUNG",
+            "Name": "ERIZZLE"
+        },
+        {
+            "Title": "BESONDERER DANK AN",
+            "Name": "AKIRA896"
+        },
+        {
+            "Title": "BESONDERER DANK AN",
+            "Name": "JACKBOX GAMES"
+        },
+        {
+            "Title": "BESONDERER DANK AN",
+            "Name": "UNSERE PATREON-UNTERSTÜTZER"
+        },
+        {
+            "Title": "DIRECTOR",
+            "Name": "MARK TUROWETZ"
+        },
+        {
+            "Title": "LEAD ENGINEER",
+            "Name": "BEN JACOBS"
+        },
+        {
+            "Title": "ART DIRECTOR",
+            "Name": "ALLARD LABAN"
+        },
+        {
+            "Title": "LEAD ART",
+            "Name": "ALAIN HELMERS"
+        },
+        {
+            "Title": "AUDIO DIRECTOR",
+            "Name": "BRIAN CHARD"
+        },
+        {
+            "Title": "HOST",
+            "Name": "PHIL RIDARELLI"
+        },
+        {
+            "Title": "EDITORIAL DIRECTOR",
+            "Name": "ARNIE NIEKAMP"
+        },
+        {
+            "Title": "LEAD WRITER",
+            "Name": "WARREN ARNOLD"
+        },   
+        {
+            "Title": "LEAD WRITER",
+            "Name": "SPENCER HAM"
+        },   
+        {
+            "Title": "WRITER",
+            "Name": "MARLA CACERES"
+        },		
+        {
+            "Title": "WRITER",
+            "Name": "DANNY GALLAGHER"
+        },
+        {
+            "Title": "WRITER",
+            "Name": "STEPHANIE WEBER"
+        },		
+        {
+            "Title": "CONTRIBUTING WRITER",
+            "Name": "BRIAN CHARD"
+        },   
+        {
+            "Title": "CONTRIBUTING WRITER",
+            "Name": "RYAN DIGIORGI"
+        },		
+        {
+            "Title": "CONTRIBUTING WRITER",
+            "Name": "BRIAN MCGOVERN"
+        },
+        {
+            "Title": "CONTRIBUTING WRITER",
+            "Name": "ANDY POLAND"
+        },
+        {
+            "Title": "PROJECT MANAGER",
+            "Name": "LUKE CODY"
+        }, 
+        {
+            "Title": "TECHINCAL ARTIST",
+            "Name": "MARK TUROWETZ"
+        },        
+        {
+            "Title": "ARTIST",
+            "Name": "NOLAN DOWNS"
+        },
+        {
+            "Title": "ARTIST",
+            "Name": "HECTOR M PADILLA"
+        },     
+        {
+            "Title": "SOFTWARE ENGINEER",
+            "Name": "EVAN JACOVER"
+        },
+        {
+            "Title": "SOFTWARE ENGINEER",
+            "Name": "JORDAN ORELLI"
+        }, 
+        {
+            "Title": "SOFTWARE ENGINEER",
+            "Name": "PASCAL POCHOL"
+        },
+        {
+            "Title": "SOFTWARE ENGINEER",
+            "Name": "ALEX SWAN"
+        },  
+        {
+            "Title": "SOFTWARE ENGINEER",
+            "Name": "MIKE ZUBA"
+        },        
+        {
+            "Title": "SOFTWARE ENGINEERING INTERN",
+            "Name": "STASHA BLANK"
+        },
+        {
+            "Title": "SOFTWARE ENGINEERING INTERN",
+            "Name": "JEANNETTE FORBES"
+        },
+        {
+            "Title": "SOFTWARE ENGINEERING INTERN",
+            "Name": "APRIL MARTIN"
+        },        
+        {
+            "Title": "AUDIO ASSISTANT",
+            "Name": "TOM BARRETT"
+        },
+	{
+            "Title": "PROOFREADER",
+            "Name": "ELAINE FRIEDBERG"
+        },
+        {
+            "Title": "QA LEAD",
+            "Name": "STEVE “WAT” PAKAL"
+        },
+        {
+            "Title": "QA",
+            "Name": "JACOB MOONEY"
+        }, 
+        {
+            "Title": "QA",
+            "Name": "EM K REISHUS"
+        },
+        {
+            "Title": "QA",
+            "Name": "RILEY HALLIGAN"
+        },
+        {
+            "Title": "QA",
+            "Name": "KEVIN VEKONY"
+        },        
+        {
+            "Title": "LEGAL COUNSEL",
+            "Name": "KURT HIRSCH"
+        },
+        {
+            "Title": "CONTROLLER",
+            "Name": "ANNA WODYNSKI"
+        },
+        {
+            "Title": "HUMAN RESOURCES, OFFICE MANAGER & BEAN COUNTER",
+            "Name": "ROB ALLETTO"
+        },
+        {
+            "Title": "CEO",
+            "Name": "MIKE BILDER"
+        },
+        {
+            "Title": "VP OF CREATIVE",
+            "Name": "ALLARD LABAN"
+        },
+        {
+            "Title": "VP OF ENGINEERING",
+            "Name": "EVAN JACOVER"
+        },
+        {
+            "Title": "SPECIAL THANKS",
+            "Name": "ADAM CHARNEY"
+        },     
+        {
+            "Title": "SPECIAL THANKS",
+            "Name": "GREG GRETSCH"
+        },
+        {
+            "Title": "SPECIAL THANKS",
+            "Name": "DAVE INNIS"
+        },
+        {
+            "Title": "SPECIAL THANKS",
+            "Name": "ROB JOHNSON"
+        },
+        {
+            "Title": "SPECIAL THANKS",
+            "Name": "OWEN WATSON"
+        },
+        {
+            "Title": "FOUNDER OF JACKBOX GAMES",
+            "Name": "HARRY GOTTLIEB"
+        }         
+    ]
+}
