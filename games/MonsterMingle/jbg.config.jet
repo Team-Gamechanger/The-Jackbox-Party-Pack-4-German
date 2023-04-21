@@ -9,7 +9,7 @@
 	"videoplayer":"true",
 	"supportsMouse":"true",
 	"gameName":"MonsterMingle",
-	"joinUrl":"JACKBOX.GG",
+	"joinUrl":"JACKBOX.DE",
 	"serverUrl":"blobcast.jackboxgames.com",
 	"supportsJoysticksHotplugging":"true",
 	"uaAppName":"MonsterMingle",

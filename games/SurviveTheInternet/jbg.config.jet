@@ -9,7 +9,7 @@
 	"videoplayer":"true",
 	"supportsMouse":"true",
 	"gameName":"SurviveTheInternet",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"serverUrl":"blobcast.jackboxgames.com",
 	"supportsJoysticksHotplugging":"true",
 	"uaAppName":"SurviveTheInternet",
