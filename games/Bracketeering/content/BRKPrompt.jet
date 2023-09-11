@@ -112,7 +112,7 @@
                     "text": "Beste Tätigkeit um plötzlich dabei \u201causzurasten\u201d"
                 },
                 {
-                    "text": "Bester Titel für einen Til Schweiger Film"
+                    "text": "Bester Titel für einen Til-Schweiger-Film"
                 },
                 {
                     "text": "Der schrecklichste Zweitname"
@@ -349,7 +349,7 @@
                 }
             ],
             "prompt": {
-                "text": "Write Any Two Words and Place<br />\u201cand\u201d or \u201c&\u201d Between Them"
+                "text": "Schreibe zwei Wörter und setze<br />\u201cund\u201d oder \u201c&\u201d dazwischen"
             },
             "facts": []
         },
@@ -395,7 +395,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendein Tier."
+                "text": "Nenne irgendein Tier"
             },
             "facts": []
         },
@@ -717,7 +717,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne ein Gericht."
+                "text": "Nenne ein Gericht"
             },
             "facts": []
         },
@@ -763,7 +763,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Farbe."
+                "text": "Nenne eine Farbe"
             },
             "facts": []
         },
@@ -1177,7 +1177,7 @@
                 }
             ],
             "prompt": {
-                "text": "Gib mir zwei Wörter die sich reimen"
+                "text": "Nenne zwei Wörter die sich reimen"
             },
             "facts": []
         },
@@ -1775,7 +1775,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine Band."
+                "text": "Nenne irgendeine Band"
             },
             "facts": []
         },
@@ -2211,7 +2211,7 @@
                     "text": "Cluedo"
                 },
                 {
-                    "text": "memory"
+                    "text": "Memory"
                 },
                 {
                     "text": "Kniffel"
@@ -2625,7 +2625,7 @@
                     "text": "einen Kondor"
                 },
                 {
-                    "text": "einen beheizten Pool "
+                    "text": "einen beheizten Pool"
                 },
                 {
                     "text": "Kaviar"
@@ -4143,7 +4143,7 @@
                 }
             ],
             "prompt": {
-                "text": "Gib mir ein Adjektiv"
+                "text": "Nenne ein Adjektiv"
             },
             "facts": []
         },
@@ -4675,7 +4675,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache die dich anmacht."
+                "text": "Nenne eine Sache die dich anmacht"
             },
             "facts": []
         },
@@ -5241,7 +5241,7 @@
                 }
             ],
             "prompt": {
-                "text": "Name Any Classic Book"
+                "text": "Nenne irgendein klassisches Buch"
             },
             "facts": []
         },
@@ -5607,7 +5607,7 @@
                 }
             ],
             "prompt": {
-                "text": "Name any animal"
+                "text": "Nenne irgendein Tier"
             },
             "facts": []
         },
@@ -6717,7 +6717,7 @@
             "category": "Sentence",
             "twists": [],
             "prompt": {
-                "text": "Die Frage auf die die Wissenschaft noch unbedingt eine Antwort finden muss."
+                "text": "Die Frage auf die die Wissenschaft noch unbedingt eine Antwort finden muss"
             },
             "facts": []
         },
@@ -6753,7 +6753,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Coolster Name für einen zuckerfreien Energy Drink."
+                "text": "Coolster Name für einen zuckerfreien Energy Drink"
             },
             "facts": []
         },
@@ -7219,7 +7219,7 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "der männlichste Ort um ein Picknick zu veranstalten"
+                "text": "Nenne den männlichsten Ort zum picknicken"
             },
             "facts": []
         },
@@ -7307,7 +7307,7 @@
                     "text": "Hang in there, baby!"
                 },
                 {
-                    "text": "Was auch immer.."
+                    "text": "Was auch immer..."
                 },
                 {
                     "text": "Glaub an dich selbst!"
@@ -7759,7 +7759,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Wie dein Ex dich am ehesten beschreiben würde."
+                    "text": "Wie dein Ex dich am ehesten beschreiben würde"
                 }
             ],
             "prompt": {
@@ -8777,7 +8777,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolste Sache die in einem Schrank versteckt sein kann."
+                "text": "Coolste Sache die in einem Schrank versteckt sein kann"
             },
             "facts": []
         },
@@ -9141,7 +9141,7 @@
             "category": "Movie",
             "twists": [],
             "prompt": {
-                "text": "Dieser Film sollte in 100 Jahren am ehesten in einem historischen Museum gezeigt werden."
+                "text": "Dieser Film sollte in 100 Jahren am ehesten in einem historischen Museum gezeigt werden"
             },
             "facts": []
         },
@@ -9609,7 +9609,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Diese Sache sollte jeder für den Notfall in einem Glaskasten haben."
+                "text": "Diese Sache sollte jeder für den Notfall in einem Glaskasten haben"
             },
             "facts": []
         },
@@ -10733,7 +10733,7 @@
                 }
             ],
             "prompt": {
-                "text": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen."
+                "text": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen"
             },
             "facts": []
         },
@@ -10773,7 +10773,7 @@
                 }
             ],
             "prompt": {
-                "text": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen."
+                "text": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen"
             },
             "facts": []
         },
@@ -10933,7 +10933,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Farbe."
+                "text": "Nenne eine Farbe"
             },
             "facts": []
         },
@@ -11093,7 +11093,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne deine liebste Comicfigur."
+                "text": "Nenne deine liebste Comicfigur"
             },
             "facts": []
         },
@@ -12849,7 +12849,7 @@
                     "text": "Mittwoch Morgen"
                 },
                 {
-                    "text": "11:11Uhr"
+                    "text": "11:11 Uhr"
                 },
                 {
                     "text": "1976"
