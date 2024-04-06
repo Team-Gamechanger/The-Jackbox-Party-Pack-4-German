@@ -10,7 +10,7 @@
             "skipResponse":true,
             
             "responsePlaceholder" : null,
-            "twistPlaceholder" : "gib einen Titel ein",
+            "twistPlaceholder" : "Gebe einen Titel ein",
             "prefix" : null,
             
             "revealSpec":{
@@ -33,7 +33,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : "<TargetPhotoChoiceImage>",
                 "blackBox" : null,
-                "belowBlackBox" :  "<TargetName> würde verrückt darstehen, wenn er das Bild mit der Bildunterschrift posten würde:",
+                "belowBlackBox" :  "<TargetName> würde verrückt dastehen, wenn er das Bild mit der Bildunterschrift posten würde:",
                 "caret" : true
             },
             "controllerInputSpec":{
