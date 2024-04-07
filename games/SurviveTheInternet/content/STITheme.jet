@@ -188,7 +188,7 @@
                     { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
                     { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
                     { "path":"container.twist",                  "value":"Twist", "numLines":3, "balance":"top", "censorable":true },
-                    { "path":"container.contribution.color",     "value":"[5000-99999]", "prefix":"$", "commaDelimited" : true, "color":"ResponseAuthorColor" },
+                    { "path":"container.contribution.color",     "value":"[5000-99999]", "prefix":"€", "commaDelimited" : true, "color":"ResponseAuthorColor" },
                     { "path":"container.supporters.color",       "value":"[100-9999]", "color":"ResponseAuthorColor" }
                 ],
                 "frames" : [
