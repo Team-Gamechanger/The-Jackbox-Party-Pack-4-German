@@ -581,7 +581,7 @@
             "id": 47361,
             "choices": [
                 {
-                    "id": "Cafe",
+                    "id": "CoffeeShop",
                     "text": "In einem Cafe"
                 },
                 {
@@ -878,7 +878,7 @@
             "choices": [
                 {
                     "id": "SemiTruck",
-                    "text": "Ein Schwerlaster"
+                    "text": "Ein LKW"
                 },
                 {
                     "id": "Segway",
@@ -886,7 +886,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was wärst, wenn du ein Fahrzeug sein müsstest?"
+                "text": "Was wärst du, wenn du ein Fahrzeug sein müsstest?"
             }
         },
         {
@@ -1987,7 +1987,7 @@
             "id": 47260,
             "choices": [
                 {
-                    "id": "Cafe",
+                    "id": "CoffeeShop",
                     "text": "Im Cafe"
                 },
                 {
@@ -2361,7 +2361,7 @@
                     "text": "Grillparty"
                 },
                 {
-                    "id": "Cafe",
+                    "id": "CoffeeShop",
                     "text": "Cafe"
                 }
             ],
@@ -2398,7 +2398,7 @@
                     "text": "Museen"
                 },
                 {
-                    "id": "Cafe",
+                    "id": "CoffeeShop",
                     "text": "Cafes"
                 }
             ],
@@ -2662,7 +2662,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wenn es sprechen könnte, welches dieser Tiere hätte wohl einen bayerischen Akzent?"
+                "text": "Wenn es sprechen könnte, welches dieser Tiere hätte wohl einen bayerischen Dialekt?"
             }
         },
         {
@@ -3320,7 +3320,7 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "Leute stimmen für dich ab"
+                    "text": "Leute wählen für dich"
                 },
                 {
                     "id": "Pizza",
@@ -6173,7 +6173,7 @@
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "In einem Gewitter komplett bekleidet"
+                    "text": "In einem Regenschauer komplett bekleidet"
                 }
             ],
             "prompt": {
