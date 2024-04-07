@@ -317,7 +317,7 @@
                     { "path":"container.playerName.color",       "value":"ResponseAuthorName", "color":"ResponseAuthorColor" },
                     { "path":"container.comment",                "value":"Response", "numLines":2, "balance":"top", "censorable":true },
                     { "path":"container.twist",                  "value":"Twist", "numLines":2, "censorable":true },
-                    { "path":"container.dateAndTime.tf",         "value":"CurrentDate(d. MF yyyy, um th24:tm Uhr)" }
+                    { "path":"container.dateAndTime.tf",         "value":"CurrentDate(d. MF yyyy, th24:tm Uhr)" }
                 ],
                 "frames" : [
                     { "path" : "container.avatar",               "value":"ResponseAuthorColor" },

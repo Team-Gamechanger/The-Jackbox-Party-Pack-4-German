@@ -364,7 +364,7 @@
                 },
                 {
                     "id": "ShootingStar",
-                    "text": "Einen Shooting Star erwischen"
+                    "text": "Eine Sternschnuppe sehen"
                 }
             ],
             "prompt": {
@@ -512,7 +512,7 @@
                 },
                 {
                     "id": "Jungle",
-                    "text": "Der Amazonas-Regenwald"
+                    "text": "Amazonas-Regenwald"
                 }
             ],
             "prompt": {
@@ -545,7 +545,7 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "Ein Parkticket holen"
+                    "text": "Ein Knöllchen kriegen"
                 },
                 {
                     "id": "Goldfish",
@@ -581,8 +581,8 @@
             "id": 47361,
             "choices": [
                 {
-                    "id": "CoffeeShop",
-                    "text": "In einem Coffeeshop"
+                    "id": "Cafe",
+                    "text": "In einem Cafe"
                 },
                 {
                     "id": "Boxing",
@@ -886,7 +886,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was wärst du auf dem Highway deines Lebens?"
+                "text": "Was wärst, wenn du ein Fahrzeug sein müsstest?"
             }
         },
         {
@@ -1478,7 +1478,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wo würdest du dich in einer Zombieapokalypse sicherer fühlen?"
+                "text": "Wo würdest du dich während einer Zombieapokalypse sicherer fühlen?"
             }
         },
         {
@@ -1729,7 +1729,7 @@
             "choices": [
                 {
                     "id": "Rainstorm",
-                    "text": "In einen Regensturm geraten"
+                    "text": "In ein Gewitter geraten"
                 },
                 {
                     "id": "Airplane",
@@ -1877,11 +1877,11 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "Ein Parkticket holen"
+                    "text": "Ein Knöllchen kriegen"
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "In einen Regensturm geraten"
+                    "text": "In ein Gewitter geraten"
                 }
             ],
             "prompt": {
@@ -1987,8 +1987,8 @@
             "id": 47260,
             "choices": [
                 {
-                    "id": "CoffeeShop",
-                    "text": "Im Coffeeshop"
+                    "id": "Cafe",
+                    "text": "Im Cafe"
                 },
                 {
                     "id": "Office",
@@ -2066,11 +2066,11 @@
                 },
                 {
                     "id": "Guacamole",
-                    "text": "Guacamole"
+                    "text": "Ungesundes Essen"
                 }
             ],
             "prompt": {
-                "text": "Was ist das beste am American Football Public Viewing?"
+                "text": "Was ist das beste am Public Viewing?"
             }
         },
         {
@@ -2214,7 +2214,7 @@
                 },
                 {
                     "id": "BBQ",
-                    "text": "Ribfest"
+                    "text": "Grillfest"
                 }
             ],
             "prompt": {
@@ -2325,7 +2325,7 @@
                 },
                 {
                     "id": "Gyro",
-                    "text": "Ein Gyroskop"
+                    "text": "Ein Gyros"
                 }
             ],
             "prompt": {
@@ -2361,8 +2361,8 @@
                     "text": "Grillparty"
                 },
                 {
-                    "id": "CoffeeShop",
-                    "text": "Coffeeshop"
+                    "id": "Cafe",
+                    "text": "Cafe"
                 }
             ],
             "prompt": {
@@ -2398,8 +2398,8 @@
                     "text": "Museen"
                 },
                 {
-                    "id": "CoffeeShop",
-                    "text": "Coffeeshops"
+                    "id": "Cafe",
+                    "text": "Cafes"
                 }
             ],
             "prompt": {
@@ -2662,7 +2662,7 @@
                 }
             ],
             "prompt": {
-                "text": "Wenn es sprechen könnte, welches dieser Tiere hätte wohl einen englischen Akzent?"
+                "text": "Wenn es sprechen könnte, welches dieser Tiere hätte wohl einen bayerischen Akzent?"
             }
         },
         {
@@ -3106,7 +3106,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was wäre als Übergangsritual wichtiger?"
+                "text": "Was ist als Übergangsritual ins Erwachsenenleben wichtiger?"
             }
         },
         {
@@ -3320,7 +3320,7 @@
             "choices": [
                 {
                     "id": "Voting",
-                    "text": "Leute stimmen für dich"
+                    "text": "Leute stimmen für dich ab"
                 },
                 {
                     "id": "Pizza",
@@ -3394,7 +3394,7 @@
             "choices": [
                 {
                     "id": "ShootingStar",
-                    "text": "Einen Shooting Star"
+                    "text": "Eine Sternschnuppe"
                 },
                 {
                     "id": "London",
@@ -3838,7 +3838,7 @@
             "choices": [
                 {
                     "id": "Laundromat",
-                    "text": "Wäsche"
+                    "text": "Wäsche waschen"
                 },
                 {
                     "id": "HomeRepair",
@@ -4142,7 +4142,7 @@
                 }
             ],
             "prompt": {
-                "text": "Welches Essen schmeckt immer im Restaurant besser?"
+                "text": "Welches Essen schmeckt im Restaurant immer besser?"
             }
         },
         {
@@ -4175,7 +4175,7 @@
                 },
                 {
                     "id": "EngagementRing",
-                    "text": "Eine Verlobungserklärung"
+                    "text": "Eine Heiratsantrag"
                 }
             ],
             "prompt": {
@@ -4364,7 +4364,7 @@
                 }
             ],
             "prompt": {
-                "text": "Welches Tier würdest du eher für den Rest deines Lebens untersuchen?"
+                "text": "Welches Tier würdest du eher für den Rest deines Lebens erforschen?"
             }
         },
         {
@@ -4397,7 +4397,7 @@
                 },
                 {
                     "id": "HomeRepair",
-                    "text": "Dein Heim"
+                    "text": "Dein Zuhause"
                 }
             ],
             "prompt": {
@@ -4467,7 +4467,7 @@
             "choices": [
                 {
                     "id": "ParkingTicket",
-                    "text": "Ein Parkticket holen"
+                    "text": "Ein Knöllchen kriegen"
                 },
                 {
                     "id": "BathroomStall",
@@ -4697,7 +4697,7 @@
                 }
             ],
             "prompt": {
-                "text": "Welche Stadt hat mehr schöne Brücken?"
+                "text": "Welche Stadt möchtest du lieber einmal besuchen?"
             }
         },
         {
@@ -4841,7 +4841,7 @@
                 },
                 {
                     "id": "RomanticGetaway",
-                    "text": "Rosenblumenblätter"
+                    "text": "Rosenblüten"
                 }
             ],
             "prompt": {
@@ -5688,7 +5688,7 @@
             "choices": [
                 {
                     "id": "RomanticGetaway",
-                    "text": "Ein romantischer Ausflug"
+                    "text": "Ein romantisches Wochenende"
                 },
                 {
                     "id": "Dog",
@@ -6140,7 +6140,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was wünschst du dir mehr, dass es mehr Leute machen?"
+                "text": "Was wünschst du dir, dass es mehr Leute machen?"
             }
         },
         {
@@ -6173,7 +6173,7 @@
                 },
                 {
                     "id": "Rainstorm",
-                    "text": "In einem Regensturm komplett bekleidet"
+                    "text": "In einem Gewitter komplett bekleidet"
                 }
             ],
             "prompt": {
@@ -6399,7 +6399,7 @@
                 }
             ],
             "prompt": {
-                "text": "Was von diesen wäre als Roboter cooler?"
+                "text": "Was wäre als Roboter cooler?"
             }
         },
         {
@@ -6728,7 +6728,7 @@
                 },
                 {
                     "id": "PickupTruck",
-                    "text": "Ein LKW"
+                    "text": "Ein Pickup-Truck"
                 }
             ],
             "prompt": {
@@ -6797,12 +6797,12 @@
             "id": 48557,
             "choices": [
                 {
-                    "id": "Desert",
-                    "text": "\u201cDesert Rose\u201d"
+                    "id": "Train",
+                    "text": "\u201cDer Zug hat keine Bremse\u201d"
                 },
                 {
-                    "id": "Kite",
-                    "text": "\u201cLet\u2019s Go Fly a Kite\u201d"
+                    "id": "HotAirBalloon",
+                    "text": "\u201c99 Luftballons\u201d"
                 }
             ],
             "prompt": {
@@ -6839,7 +6839,7 @@
                 },
                 {
                     "id": "Nascar",
-                    "text": "Bei einem Nascar-Rennen"
+                    "text": "Bei einem Autorennen"
                 }
             ],
             "prompt": {
@@ -6872,7 +6872,7 @@
             "choices": [
                 {
                     "id": "MeatSkewer",
-                    "text": "Kebobs"
+                    "text": "Bifteki"
                 },
                 {
                     "id": "Gyro",

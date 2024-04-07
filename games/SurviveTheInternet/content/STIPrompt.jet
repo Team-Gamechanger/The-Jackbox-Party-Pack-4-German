@@ -116,19 +116,19 @@
         {
             "decoys": [
                 {
-                    "text": "Ich bin nicht LeBron James.",
+                    "text": "Ich bin nicht Dirk Nowitzki.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin nicht LeBron James.",
+                    "text": "Ich bin nicht Dirk Nowitzki.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin nicht LeBron James.",
+                    "text": "Ich bin nicht Dirk Nowitzki.",
                     "type": "Negative"
                 },
                 {
-                    "text": "Ich bin nicht LeBron James.",
+                    "text": "Ich bin nicht Dirk Nowitzki.",
                     "type": "Negative"
                 }
             ],
@@ -172,7 +172,7 @@
         {
             "decoys": [
                 {
-                    "text": "Sie sind die 20$ wert!",
+                    "text": "Sie sind die 20€ wert!",
                     "type": "Negative"
                 },
                 {
@@ -950,7 +950,7 @@
             "id": 43768,
             "choices": [],
             "prompt": {
-                "text": "Was ist dein Gedanke, wenn du \u201cEin Techniker wird zwischen 12 und 6 da sein\u201d hörst?"
+                "text": "Was ist dein Gedanke, wenn du \u201cEin Techniker wird zwischen 8 und 16 Uhr da sein\u201d hörst?"
             }
         },
         {
@@ -978,13 +978,13 @@
             "id": 43805,
             "choices": [],
             "prompt": {
-                "text": "Du hast zwei Stunden in New Orleans. Was machst du?"
+                "text": "Du hast zwei Stunden in Hamburg. Was machst du?"
             }
         },
         {
             "decoys": [
                 {
-                    "text": "Er ist ein talentierter junger Mann, der ein kleines Einstellungsproblem hat.",
+                    "text": "Er ist ein talentierter Mann, der ein kleines Einstellungsproblem hat.",
                     "type": "Negative"
                 },
                 {
@@ -1258,7 +1258,7 @@
             "id": 44158,
             "choices": [],
             "prompt": {
-                "text": "Wie stehst du zu Country-Musik?"
+                "text": "Wie stehst du zu Schlagermusik?"
             }
         },
         {
@@ -3218,7 +3218,7 @@
             "id": 46610,
             "choices": [],
             "prompt": {
-                "text": "Was sagst du, wenn ein Gespräch schleppt?"
+                "text": "Was sagst du, wenn ein Gespräch nicht so recht in die Gänge kommen will?"
             }
         },
         {
@@ -3308,7 +3308,7 @@
         {
             "decoys": [
                 {
-                    "text": "Alles was du brauchst ist Liebe.",
+                    "text": "Trautes Heim, Glück allein.",
                     "type": "Negative"
                 },
                 {
@@ -3470,7 +3470,7 @@
             "id": 46627,
             "choices": [],
             "prompt": {
-                "text": "Mit welchem Satz fängst du einen Smalltalk an?"
+                "text": "Mit welchem Satz fängst du Smalltalk an?"
             }
         },
         {
@@ -3666,7 +3666,7 @@
             "id": 48537,
             "choices": [],
             "prompt": {
-                "text": "Leute, die heimlich auf Partys sind, deine Gedanken dazu."
+                "text": "Wie stehst du zu Menschen, die sich auf fremde Partys schleichen?"
             }
         },
         {
@@ -4198,7 +4198,7 @@
             "id": 49366,
             "choices": [],
             "prompt": {
-                "text": "Was macht deine Rentenkasse?"
+                "text": "Was macht dein Sparschwein?"
             }
         },
         {
@@ -4344,7 +4344,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ein Feuer im Müllcontainer.",
+                    "text": "Eine absolute Vollkatastrophe.",
                     "type": "Negative"
                 },
                 {
@@ -5128,7 +5128,7 @@
         {
             "decoys": [
                 {
-                    "text": "Ohhh yeah. Daddy mag es.",
+                    "text": "Ohhh yeah. Daddy mag das.",
                     "type": "Negative"
                 },
                 {

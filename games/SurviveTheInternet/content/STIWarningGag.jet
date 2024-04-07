@@ -3,13 +3,13 @@
         {
             "id":"00000000",
             "title":"WARNUNG",
-            "text":"Verdächtige Aktivität: Ein Mädchen hat auf Ihre Nachricht geantwortet.",
+            "text":"Verdächtige Aktivität: Ein Mädchen hat auf deine Nachricht geantwortet.",
             "time":5.0
         },
         {
             "id":"00000001",
             "title":"WARNUNG",
-            "text":"Sie sind mit einem WLAN-Netzwerk verbunden, das keinen lustigen Namen hat.",
+            "text":"Du bist mit einem WLAN-Netzwerk verbunden, das keinen lustigen Namen hat.",
             "time":5.0
         },
         {
@@ -27,7 +27,7 @@
         {
             "id":"00000004",
             "title":"WARNUNG",
-            "text":"Diese Hose passt überhaupt nicht zum Oberteil.",
+            "text":"Deine Hose passt überhaupt nicht zum Oberteil.",
             "time":5.0
         },
         {
@@ -51,7 +51,7 @@
         {
             "id":"00000008",
             "title":"WARNUNG",
-            "text":"Bluthochdruck liegt in Ihrer Familie.",
+            "text":"Bluthochdruck liegt in deiner Familie.",
             "time":5.0
         },
         {
@@ -75,7 +75,7 @@
         {
             "id":"00000012",
             "title":"WARNUNG",
-            "text":"CD-Laufwerk möchte 'Fortnite Soundtrack Mix'-CD auswerfen. ",
+            "text":"CD-Laufwerk möchte 'Fortnite Soundtrack Mix'-CD auswerfen.",
             "time":5.0
         },
         {
@@ -93,25 +93,25 @@
         {
             "id":"00000015",
             "title":"WARNUNG",
-            "text":"Ich spoilere Ihnen gleich das Ende von Game of Thrones.",
+            "text":"Ich spoilere dir gleich das Ende von Game of Thrones.",
             "time":5.0
         },
         {
             "id":"00000016",
             "title":"WARNUNG",
-            "text":"Sie sehen heute aus wie Olaf Scholz.",
+            "text":"Du siehst heute aus wie Olaf Scholz.",
             "time":5.0
         },
         {
             "id":"00000017",
             "title":"WARNUNG",
-            "text":"Sie haben drei Tage in Folge keine Hose getragen.",
+            "text":"Du hast drei Tage in Folge keine Hose getragen.",
             "time":5.0
         },
         {
             "id":"00000018",
             "title":"WARNUNG",
-            "text":"Sie haben da etwas zwischen Ihren Zähnen.",
+            "text":"Du hast da etwas zwischen deinen Zähnen.",
             "time":5.0
         },
         {
@@ -123,7 +123,7 @@
         {
             "id":"00000020",
             "title":"WARNUNG",
-            "text":"Nenn mich nicht “mäuschen”",
+            "text":"Nenn mich nicht “Mäuschen”",
             "time":5.0
         },
         {
@@ -135,19 +135,19 @@
         {
             "id":"00000022",
             "title":"WARNUNG",
-            "text":"Ihre Maus ist mit Chipskrümeln bedeckt.",
+            "text":"Deine Maus ist mit Chipskrümeln bedeckt.",
             "time":5.0
         },
         {
             "id":"00000023",
             "title":"WARNUNG",
-            "text":"Dort sind Jugendliche direkt vor Ihrem Haus.",
+            "text":"Jugendliche sind direkt vor deinem Haus.",
             "time":5.0
         },
         {
             "id":"00000024",
             "title":"WARNUNG",
-            "text":"Verlieben Sie sich nicht in mich.",
+            "text":"Verlieben dich nicht in mich.",
             "time":5.0
         },
         {
@@ -159,13 +159,13 @@
         {
             "id":"00000026",
             "title":"WARNUNG",
-            "text":"Reden Sie NICHT mit mir, bevor ich meinen Kaffee hatte.",
+            "text":"Rede NICHT mit mir, bevor ich meinen Kaffee hatte.",
             "time":5.0
         },
         {
             "id":"00000028",
             "title":"WARNUNG",
-            "text":"Die Regierung beobachtet Sie gerade.",
+            "text":"Die Regierung beobachtet dich gerade.",
             "time":5.0
         },
         {
@@ -195,7 +195,7 @@
         {
             "id":"00000033",
             "title":"WARNUNG",
-            "text":"Deine Bitcoin sind wertlos.",
+            "text":"Deine Bitcoins sind wertlos.",
             "time":5.0
         },
         {
@@ -231,7 +231,7 @@
         {
             "id":"00000039",
             "title":"WARNUNG",
-            "text":"Sie sind dabei, den Kommentarbereich aufzurufen.",
+            "text":"Du bist dabei, den Kommentarbereich aufzurufen.",
             "time":5.0
         },
         {
@@ -243,19 +243,19 @@
         {
             "id":"00000041",
             "title":"WARNUNG",
-            "text":"Deine Kamera ist an. Zieh dir ein Shirt an.",
+            "text":"Deine Kamera ist an. Ziehe dir ein Shirt an.",
             "time":5.0
         },
         {
             "id":"00000042",
             "title":"WARNUNG",
-            "text":"Ihre Festplatte ist voll mit widerlichem Zeug.",
+            "text":"Deine Festplatte ist voll mit widerlichem Zeug.",
             "time":5.0
         },
         {
             "id":"00000043",
             "title":"WARNUNG",
-            "text":"Sie haben ein USB-Gerät nicht ausgeworfen. Gehen Sie in Deckung.",
+            "text":"Du hast ein USB-Gerät nicht ausgeworfen. Gehe in Deckung.",
             "time":5.0
         }
     ]

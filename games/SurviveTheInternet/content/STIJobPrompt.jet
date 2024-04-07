@@ -614,7 +614,7 @@
             "id": 47766,
             "choices": [],
             "prompt": {
-                "text": "Wie würdest du Harry Potter jemandem kurz beschreiben?"
+                "text": "Wie würdest du Harry Potter kurz beschreiben?"
             }
         },
         {
@@ -1012,7 +1012,7 @@
         {
             "decoys": [
                 {
-                    "text": "ruhig, schüchtern, klug",
+                    "text": "Ruhig, schüchtern, klug",
                     "type": "Negative"
                 },
                 {

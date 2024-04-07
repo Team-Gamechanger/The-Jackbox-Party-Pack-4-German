@@ -2,12 +2,12 @@
     "content":[
         {
             "id":"00000000",
-            "text":"Erinnerung: Dem Zahnarzt zum Geburtstag gratulieren",
+            "text":"Erinnerung: Zahnarzt zum Geburtstag gratulieren",
             "time":5.0
         },
         {
             "id":"00000001",
-            "text":"Onkel Günther daran erinnern, dass er mit den dummen Witzen aufhören soll",
+            "text":"Onkel Walter daran erinnern, dass er mit den dummen Witzen aufhören soll",
             "time":5.0
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "id":"00000004",
-            "text":"Notiz an mich selbst: Teammates fragen, ob sie nach dem Game noch abhängen wollen",
+            "text":"Erinnerung: Teammates fragen, ob sie nach dem Game noch abhängen wollen",
             "time":5.0
         },
         {
@@ -37,7 +37,7 @@
         },
         {
             "id":"00000007",
-            "text":"Erinnerung: Einen Mord aufklären",
+            "text":"Erinnerung: Mord aufklären",
             "time":5.0
         },
         {
@@ -57,17 +57,17 @@
         },
         {
             "id":"00000011",
-            "text":"Erinnerung: Das Batman-Kostüm in die Wäscherei bringen",
+            "text":"Erinnerung: Batman-Kostüm in die Wäscherei bringen",
             "time":5.0
         },
         {
             "id":"00000012",
-            "text":"Erinnerung: Ausrede ausdenken, dass ich nicht beim Umzug meines Freundes helfen muss",
+            "text":"Ausrede ausdenken, um nicht beim Umzug meines Freundes helfen zu müssen",
             "time":5.0
         },
         {
             "id":"00000013",
-            "text":"Erinnerung: häufiger “fabelhaft” sagen",
+            "text":"Erinnerung: Öfter “fabelhaft” sagen",
             "time":5.0
         },
         {
@@ -77,7 +77,7 @@
         },
         {
             "id":"00000015",
-            "text":"Erinnerung: Egal wie sehr man es versucht, Vögel werden einen nicht einkleiden.",
+            "text":"Erinnerung: Vögel werden dich nie einkleiden, versuch es gar nicht erst",
             "time":5.0
         },
         {
@@ -112,7 +112,7 @@
         },
         {
             "id":"00000022",
-            "text":"Geschäftsidee: Haribo Color-Rado, aber nur die Gummibärchen",
+            "text":"Geschäftsidee: Haribo Color-Rado, ohne die Lakritze",
             "time":5.0
         },
         {
@@ -127,22 +127,22 @@
         },
         {
             "id":"00000025",
-            "text":"Der Plan für heute: Den Satz des Pythagoras widerlegen",
+            "text":"Plan für heute: Satz des Pythagoras widerlegen",
             "time":5.0
         },
         {
             "id":"00000026",
-            "text":"Besprechung um 8. Dieses Mal unparteiisch sein",
+            "text":"Besprechung um 8!! (Dieses Mal unparteiisch sein)",
             "time":5.0
         },
         {
             "id":"00000027",
-            "text":"Der Plan für heute: Nachtwache halten",
+            "text":"Plan für heute: Nachtwache halten",
             "time":5.0
         },
         {
             "id":"00000028",
-            "text":"Erinnerung: Du bist schön, wie du bist. Ja, auch du.",
+            "text":"Erinnerung: Du bist schön, so wie du bist. Ja, auch du.",
             "time":5.0
         },
         {
@@ -157,7 +157,7 @@
         },
         {
             "id":"00000031",
-            "text":"Der Plan für heute: Eine Persönlichkeit entwickeln",
+            "text":"Plan für heute: Eine Persönlichkeit entwickeln",
             "time":5.0
         },
         {
@@ -172,12 +172,12 @@
         },
         {
             "id":"00000034",
-            "text":"Filmidee: Eine Superhelden-Geschichte, aber gut",
+            "text":"Filmidee: Eine Superhelden-Geschichte, die gut ist",
             "time":5.0
         },
         {
             "id":"00000035",
-            "text":"Der Plan für heute: Selbstachtung gewinnen",
+            "text":"Plan für heute: Selbstachtung gewinnen",
             "time":5.0
         },
         {
@@ -197,7 +197,7 @@
         },
         {
             "id":"00000039",
-            "text":"Psst... glaub an dich. Du schaffst das!",
+            "text":"Psst... glaub an euch. Ihr schafft das!",
             "time":5.0
         },
         {
@@ -207,7 +207,7 @@
         },
         {
             "id":"00000041",
-            "text":"Der Plan für heute: Crocs kaufen",
+            "text":"Plan für heute: Gebrauchte Crocs kaufen",
             "time":5.0
         }
     ]
