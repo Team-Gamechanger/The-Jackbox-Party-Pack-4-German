@@ -73,7 +73,7 @@
             "controllerTextSpec":{
                 "aboveBlackBox" : null,
                 "blackBox" : "<TargetResponse>",
-                "belowBlackBox" : "dieser Kommentar wäre peinlich, wenn zu folgendem Hashtag abgesetzt wäre:",
+                "belowBlackBox" : "wäre ein peinlicher Kommentar zu diesem Hashtag:",
                 "caret" : true
             },
             "controllerInputSpec":{
