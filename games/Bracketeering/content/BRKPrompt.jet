@@ -1499,7 +1499,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine historische Figur"
+                "text": "Nenne eine historische Figur"
             },
             "facts": []
         },
@@ -1591,7 +1591,7 @@
                 }
             ],
             "prompt": {
-                "text": "Gib einen guten Ratschlag"
+                "text": "Gebe einen guten Ratschlag"
             },
             "facts": []
         },
@@ -2557,7 +2557,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, das du jetzt gerade in deinem Mülleimer finden würdest"
+                "text": "Nenne etwas, was du jetzt gerade in deinem Mülleimer finden würdest"
             },
             "facts": []
         },
@@ -4229,7 +4229,7 @@
                 }
             ],
             "prompt": {
-                "text": "Gib einen guten Ratschlag"
+                "text": "Gebe einen guten Ratschlag"
             },
             "facts": []
         },
@@ -4435,7 +4435,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, das du in einem Badezimmer finden würdest"
+                "text": "Nenne etwas, was du in einem Badezimmer finden würdest"
             },
             "facts": []
         },
@@ -6733,19 +6733,19 @@
                     "text": "Schüttelfrost"
                 },
                 {
-                    "text": "Schütelldischüttel"
+                    "text": "Schütteldischüttel"
                 },
                 {
                     "text": "Insta-Crash"
                 },
                 {
-                    "text": "Ohne Zucker-Hoch"
+                    "text": "Null Zucker - Null Geschmack"
                 },
                 {
-                    "text": "Laser Blast"
+                    "text": "Laser Blaster"
                 },
                 {
-                    "text": "Manic Monday"
+                    "text": "Marder-Montag"
                 }
             ],
             "x": false,
@@ -6753,14 +6753,14 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Coolster Name für einen zuckerfreien Energy Drink"
+                "text": "Der coolste Name für einen zuckerfreien Energydrink"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Stinker Straße"
+                    "text": "Stinker-Straße"
                 },
                 {
                     "text": "Schusselweg"
@@ -6775,10 +6775,10 @@
                     "text": "Knickerbocker Parkplatz"
                 },
                 {
-                    "text": "Brumm Brumm Straße"
+                    "text": "Brumm-Brumm-Straße"
                 },
                 {
-                    "text": "Kuhmuh Weide"
+                    "text": "Kuhmuh-Weide"
                 },
                 {
                     "text": "Sesamstraße"
@@ -6789,7 +6789,7 @@
             "category": "Game",
             "twists": [],
             "prompt": {
-                "text": "Bestes neues Feld für ein Monopoly Brett"
+                "text": "Das beste neue Feld für ein Monopoly-Spielbrett"
             },
             "facts": []
         },
@@ -6805,19 +6805,19 @@
                     "text": "Daffy Duck"
                 },
                 {
-                    "text": "Fred Flintstone"
+                    "text": "Fred Feuerstein"
                 },
                 {
-                    "text": "Bender"
+                    "text": "Danny Phantom"
                 },
                 {
-                    "text": "BoJack Horeseman"
+                    "text": "Rick Sanchez"
                 },
                 {
-                    "text": "Archer"
+                    "text": "Timmy Turner"
                 },
                 {
-                    "text": "Linda Belcher"
+                    "text": "Phineas Flynn"
                 }
             ],
             "x": false,
@@ -6825,13 +6825,13 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Bester Charakter um ihn auf einen LKW zu drucken"
+                    "text": "Der beste Charakter, um ihn auf einen Lkw zu drucken"
                 },
                 {
-                    "text": "Bester Charakter um ihn auf seiner Untwerwäsche zu haben"
+                    "text": "Der beste Charakter, um ihn auf seiner Unterwäsche zu haben"
                 },
                 {
-                    "text": "Dieser Charakter sollte am ehesten Bundeskanzler werden"
+                    "text": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
                 }
             ],
             "prompt": {
@@ -6871,13 +6871,13 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Wäre der coolste Butler"
+                    "text": "Welches Tier wäre der coolste Butler?"
                 },
                 {
-                    "text": "Wäre der beste CEO"
+                    "text": "Welches Tier wäre der beste Geschäftsführer?"
                 },
                 {
-                    "text": "Würde die berührendste Rede bei deiner Hochzeit geben"
+                    "text": "Welches Tier würde die berührendste Rede bei deiner Hochzeit halten?"
                 }
             ],
             "prompt": {
@@ -6897,33 +6897,33 @@
                     "text": "1492"
                 },
                 {
-                    "text": "4:45Uhr Morgens"
+                    "text": "4:45 Uhr Morgens"
                 },
                 {
-                    "text": "Montag Morgen"
+                    "text": "Montagmorgen"
                 },
                 {
                     "text": "2017"
                 },
                 {
-                    "text": "Mittwoch"
+                    "text": "Letzter Mittwoch"
                 },
                 {
                     "text": "16 Uhr"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48485,
             "category": "Time",
             "twists": [
                 {
-                    "text": "Bester Zeitpunkt um einen Film in Kino zu sehen"
+                    "text": "Der beste Zeitpunkt, um einen Film im Kino zu sehen"
                 },
                 {
-                    "text": "Bester Zeitpunkt für ein Duell"
+                    "text": "Der beste Zeitpunkt für ein Duell auf Leben und Tod"
                 },
                 {
-                    "text": "Die beste Zeit um sie wieder und wieder und wieder zu erleben"
+                    "text": "Die beste Zeit, um sie wieder und wieder und wieder zu erleben"
                 }
             ],
             "prompt": {
@@ -6943,19 +6943,19 @@
                     "text": "Aquaman"
                 },
                 {
-                    "text": "Darth Vader"
+                    "text": "Donald Duck"
                 },
                 {
-                    "text": "Poison Ivy"
+                    "text": "Spider-Man"
                 },
                 {
-                    "text": "Huntress"
+                    "text": "Das Marsupilami"
                 },
                 {
                     "text": "Iron Man"
                 },
                 {
-                    "text": "Skeletor"
+                    "text": "Obelix"
                 }
             ],
             "x": true,
@@ -6963,17 +6963,17 @@
             "category": "Super",
             "twists": [
                 {
-                    "text": "Bester Partner für einen spaßigen Roadtrip"
+                    "text": "Der beste Partner für einen spaßigen Roadtrip"
                 },
                 {
-                    "text": "Wäre der beste Liebhaber"
+                    "text": "Wer wäre der beste Liebhaber?"
                 },
                 {
-                    "text": "Hat wahrscheinlich die stinkigste Kacke"
+                    "text": "Wer hätte wahrscheinlich die stinkigste Kacke?"
                 }
             ],
             "prompt": {
-                "text": "Nenne einen Comiccharakter"
+                "text": "Nenne einen Comic-Charakter"
             },
             "facts": []
         },
@@ -6986,7 +6986,7 @@
                     "text": "Giraffe"
                 },
                 {
-                    "text": "Rentier"
+                    "text": "Affe"
                 },
                 {
                     "text": "Elch"
@@ -7009,13 +7009,13 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Bestes Tier um damit Kinder zu erschrecken"
+                    "text": "Das beste Tier, um damit Kinder zu erschrecken"
                 },
                 {
-                    "text": "Coolstes Tier um darauf in eine Schlacht zu reiten"
+                    "text": "Das coolste Tier, um darauf in eine Schlacht zu reiten"
                 },
                 {
-                    "text": "Bester Hauptcharakter für einen Animationsfilm?"
+                    "text": "Der beste Hauptcharakter für einen Animationsfilm"
                 }
             ],
             "prompt": {
@@ -7029,19 +7029,19 @@
                     "text": "Büroklammer"
                 },
                 {
-                    "text": "fidget spinner"
+                    "text": "Fidget Spinner"
                 },
                 {
-                    "text": "Hochzeitsring"
+                    "text": "Ehering"
                 },
                 {
-                    "text": "Fingernagel Clipper"
+                    "text": "Nagelfeile"
                 },
                 {
-                    "text": "ein Penny"
+                    "text": "Centmünze"
                 },
                 {
-                    "text": "ein Knopf"
+                    "text": "Ein Knopf"
                 },
                 {
                     "text": "ein Stein"
@@ -7055,17 +7055,17 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Beste Sache um sie an Halloween Kindern zu geben"
+                    "text": "Die beste Sache, um sie an Halloween Kindern zu geben"
                 },
                 {
-                    "text": "Würde den besten Horcrux abgeben"
+                    "text": "Der beste Horkrux"
                 },
                 {
-                    "text": "Würde in einem Animationsfilm am ehesten von Julien Bam gesprochen werden"
+                    "text": "Was würde in einem Animationsfilm am ehesten von Julien Bam gesprochen werden?"
                 }
             ],
             "prompt": {
-                "text": "Irgendeine kleine Sache"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
@@ -7093,7 +7093,7 @@
                     "text": "Netto"
                 },
                 {
-                    "text": "Taco Bell"
+                    "text": "Haferkater"
                 }
             ],
             "x": false,
@@ -7101,13 +7101,13 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Hier würdest du am ehesten auf Mark Forster treffen"
+                    "text": "Der Ort, an dem man am ehesten auf Mark Forster treffen würde"
                 },
                 {
-                    "text": "Beste Toilette"
+                    "text": "Welcher Ort hat die beste Toilette?"
                 },
                 {
-                    "text": "Eignet sich am besten für eine Hochzeit"
+                    "text": "Der Ort, der sich am besten für eine Hochzeit eignet"
                 }
             ],
             "prompt": {
@@ -7124,7 +7124,7 @@
                     "text": "Fragezeichen"
                 },
                 {
-                    "text": "ein kleiner Tisch"
+                    "text": "Ein Känguru"
                 },
                 {
                     "text": "Fisch"
@@ -7136,10 +7136,10 @@
                     "text": "eine Kaffeetasse"
                 },
                 {
-                    "text": "operierte Lippen"
+                    "text": "Aufgespritzte Lippen"
                 },
                 {
-                    "text": "ein Octagon"
+                    "text": "Ein Achteck"
                 }
             ],
             "x": false,
@@ -7147,7 +7147,7 @@
             "category": "Game",
             "twists": [],
             "prompt": {
-                "text": "Würde sich am ehesten als fünfte Farbe für ein Kartenspiel eignen"
+                "text": "Was würde sich am ehesten als fünfte Farbe für ein Kartenspiel eignen?"
             },
             "facts": []
         },
@@ -7157,25 +7157,25 @@
                     "text": "ziehende Vögel"
                 },
                 {
-                    "text": "eine blühende Blume"
+                    "text": "Bienen bei der Arbeit"
                 },
                 {
-                    "text": "trocknende Farbe"
+                    "text": "Trocknende Farbe"
                 },
                 {
-                    "text": "ein Vogel der geboren wird"
+                    "text": "Ein Entenküken"
                 },
                 {
                     "text": "Wolken"
                 },
                 {
-                    "text": "ein schlafendes Baby"
+                    "text": "Ein schlafendes Baby"
                 },
                 {
                     "text": "Leute am Flughafen"
                 },
                 {
-                    "text": "meine Nachbarn"
+                    "text": "Meine Nachbarn"
                 }
             ],
             "x": false,
@@ -7190,25 +7190,25 @@
         {
             "decoys": [
                 {
-                    "text": "im Untergrund"
+                    "text": "In der U-Bahn"
                 },
                 {
-                    "text": "auf einer Rennbahn"
+                    "text": "Auf einer Rennbahn"
                 },
                 {
-                    "text": "während man auf der Jadg ist"
+                    "text": "Auf der Jagd"
                 },
                 {
-                    "text": "in einem Vape Shop"
+                    "text": "In einem Tabakladen"
                 },
                 {
-                    "text": "beim Friseur"
+                    "text": "Beim Friseur"
                 },
                 {
-                    "text": "Detroit"
+                    "text": "Auf der Reeperbahn"
                 },
                 {
-                    "text": "beim Bowling"
+                    "text": "Beim Bowling"
                 },
                 {
                     "text": "Alaska"
@@ -7219,35 +7219,35 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Nenne den männlichsten Ort zum picknicken"
+                "text": "Der männlichste Ort, an dem man picknicken könnte"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "die schlauen Jungs"
+                    "text": "Die schlauen Buben"
                 },
                 {
                     "text": "Smarties"
                 },
                 {
-                    "text": "Never Clever"
+                    "text": "Schlaufüchse"
                 },
                 {
                     "text": "Großhirne"
                 },
                 {
-                    "text": "die schlauen Hosen"
+                    "text": "Die Spätzünder"
                 },
                 {
-                    "text": "Singing in the Brain"
+                    "text": "Fehlerlos durch die Nacht"
                 },
                 {
                     "text": "Die Quizkönige"
                 },
                 {
-                    "text": "SmortSmort"
+                    "text": "Die Klugscheißer"
                 }
             ],
             "x": false,
@@ -7255,7 +7255,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Bester Name für ein Quiz-Team"
+                "text": "Der beste Name für ein Quiz-Team"
             },
             "facts": []
         },
@@ -7291,7 +7291,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Wort oder Satz, der als Punchline für jeden Witz funktioniert"
+                "text": "Ein Wort oder ein Satz, der als Punchline für jeden Witz funktioniert"
             },
             "facts": []
         },
@@ -7304,16 +7304,16 @@
                     "text": "Greife nach den Sternen!"
                 },
                 {
-                    "text": "Hang in there, baby!"
+                    "text": "Häng dich rein!"
                 },
                 {
                     "text": "Was auch immer..."
                 },
                 {
-                    "text": "Glaub an dich selbst!"
+                    "text": "Glaube an dich selbst!"
                 },
                 {
-                    "text": "Das erste Kapitel vom Herr der Fliegen"
+                    "text": "Lass' den Balast einfach hinter dir!"
                 },
                 {
                     "text": "Ich hab Mad Men immer noch nicht gesehen"
@@ -7334,28 +7334,28 @@
         {
             "decoys": [
                 {
-                    "text": "ein Anmeldebogen"
+                    "text": "Werbezeitschriften"
                 },
                 {
-                    "text": "ein Erpressungsbrief"
+                    "text": "Ein Erpressungsbrief"
                 },
                 {
                     "text": "dein Horoskop"
                 },
                 {
-                    "text": "ein Buch über den Zweiten Weltkrieg"
+                    "text": "Ein Buch über den Zweiten Weltkrieg"
                 },
                 {
-                    "text": "die Rückseite einer Shampooflasche"
+                    "text": "Lustige Taschenbücher"
                 },
                 {
                     "text": "Til Schweigers Autobiografie"
                 },
                 {
-                    "text": "das Schild in deiner Hose"
+                    "text": "Das Muster auf dem Klopapier"
                 },
                 {
-                    "text": "deine Handfläche"
+                    "text": "Deine Handfläche"
                 }
             ],
             "x": false,
@@ -7363,7 +7363,7 @@
             "category": "Book",
             "twists": [],
             "prompt": {
-                "text": "Beste Sache um sich auf der Toilette zu beschäftigen"
+                "text": "Die beste Sache, um sich auf der Toilette zu beschäftigen"
             },
             "facts": []
         },
@@ -7382,7 +7382,7 @@
                     "text": "Nickelback"
                 },
                 {
-                    "text": "Marilyn Manson"
+                    "text": "Die Amigos"
                 },
                 {
                     "text": "Blackpink"
@@ -7391,7 +7391,7 @@
                     "text": "BTS"
                 },
                 {
-                    "text": "Rammstein"
+                    "text": "Metallica"
                 }
             ],
             "x": false,
@@ -7439,7 +7439,7 @@
             "category": "Action",
             "twists": [
                 {
-                    "text": "Beste Ablenkung von diesem tiefen Hass der tief in dir verankert ist"
+                    "text": "Die beste Ablenkung vom bitteren Hass, der tief in dir schlummert"
                 }
             ],
             "prompt": {
@@ -7471,7 +7471,7 @@
                     "text": "Lesen"
                 },
                 {
-                    "text": "Höhlenwände bemalen"
+                    "text": "Höhlenwände bekritzeln"
                 }
             ],
             "x": false,
@@ -7479,11 +7479,11 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Bester Name für ein Schlageralbum"
+                    "text": "Der beste Name für ein Schlageralbum"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was Menschen wahrscheinlich gemacht haben bevor das Fernsehen erfunden wurde"
+                "text": "Nenne eine Sache, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
             },
             "facts": []
         },
@@ -7493,13 +7493,13 @@
                     "text": "Sportauto"
                 },
                 {
-                    "text": "Polo Spielfeld"
+                    "text": "Eigenes Golffeld"
                 },
                 {
-                    "text": "großes Teleskop"
+                    "text": "Riesiges Teleskop"
                 },
                 {
-                    "text": "fancy Socken"
+                    "text": "Abgefahrene Socken"
                 },
                 {
                     "text": "Rennpferd"
@@ -7511,7 +7511,7 @@
                     "text": "Kuschellöwe"
                 },
                 {
-                    "text": "Basketball Team"
+                    "text": "Basketballteam"
                 }
             ],
             "x": false,
@@ -7519,36 +7519,36 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Ist am wahrscheinlichsten schrecklich verflucht"
+                    "text": "Was ist am wahrscheinlichsten schrecklich verflucht?"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was eine verdammt reiche Person wahrscheinlich besitzt"
+                "text": "Nenne eine Sache, die eine verdammt reiche Person wahrscheinlich besitzt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Charlie Brown\u2019s Haus"
+                    "text": "Charlie Browns Haus"
                 },
                 {
                     "text": "Mordor"
                 },
                 {
-                    "text": "Shreks Sumpf"
+                    "text": "Die Lindenstraße"
                 },
                 {
-                    "text": "Hannibal Lecter\u2019s Gefängniszelle"
+                    "text": "Hannibal Lecters Gefängniszelle"
                 },
                 {
-                    "text": "Dracula\u2019s Schloss"
+                    "text": "Draculas Schloss"
                 },
                 {
-                    "text": "Frankenstein\u2019s Labor"
+                    "text": "Frankensteins Labor"
                 },
                 {
-                    "text": "die Mad Max Wüste"
+                    "text": "Die Mad Max Wüste"
                 },
                 {
                     "text": "Sesamstraße"
@@ -7559,7 +7559,7 @@
             "category": "Place",
             "twists": [
                 {
-                    "text": "Bester Urlaubsort"
+                    "text": "Der beste Urlaubsort"
                 }
             ],
             "prompt": {
@@ -7570,25 +7570,25 @@
         {
             "decoys": [
                 {
-                    "text": "Calvin"
+                    "text": "Kevin"
                 },
                 {
-                    "text": "Alistor"
+                    "text": "Luis"
                 },
                 {
-                    "text": "Lewis"
+                    "text": "Lara"
                 },
                 {
                     "text": "Gretchen"
                 },
                 {
-                    "text": "Francis"
+                    "text": "Fridolin-Pascal"
                 },
                 {
                     "text": "Thomas"
                 },
                 {
-                    "text": "Maddy"
+                    "text": "Mascha"
                 },
                 {
                     "text": "Linda"
@@ -7599,7 +7599,7 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Bester Name für das coolste Kind in der Schule"
+                    "text": "Der beste Name für das coole Kind auf der Schule"
                 }
             ],
             "prompt": {
@@ -7610,47 +7610,47 @@
         {
             "decoys": [
                 {
-                    "text": "putze deine Zähne regelmäßig"
+                    "text": "Putze deine Zähne regelmäßig"
                 },
                 {
                     "text": "Pass auf deine Knie auf"
                 },
                 {
-                    "text": "hol dir Mückenspray"
+                    "text": "Kauf' dir Mückenspray"
                 },
                 {
-                    "text": "brate Fleisch immer gut durch"
+                    "text": "Fleisch immer gut durchbraten"
                 },
                 {
-                    "text": "wasche deine Hände nachdem du rohes Fleisch angefasst hast"
+                    "text": "Dusche regelmäßig"
                 },
                 {
-                    "text": "schlaf genug"
+                    "text": "Schlaf genug"
                 },
                 {
-                    "text": "mache Sport"
+                    "text": "Mach Sport"
                 },
                 {
-                    "text": "benutze Zahnseide"
+                    "text": "Benutze Zahnseide"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48416,
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Bester letzter Satz für ein romantisches Buch"
+                    "text": "Der beste letzte Satz vor dem Tod"
                 }
             ],
             "prompt": {
-                "text": "Gib einen guten Ratschlag"
+                "text": "Gebe einen guten Ratschlag"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "kaue dein Essen"
+                    "text": "Kau dein Essen"
                 },
                 {
                     "text": "Augen nach vorn"
@@ -7659,19 +7659,19 @@
                     "text": "Augen auf die Straße"
                 },
                 {
-                    "text": "nutze Sonnencreme"
+                    "text": "Benutze Sonnencreme"
                 },
                 {
-                    "text": "trinke genug Wasser"
+                    "text": "Viel Wasser trinken"
                 },
                 {
-                    "text": "benutze Zahnseide"
+                    "text": "Benutze Zahnseide"
                 },
                 {
-                    "text": "blase Kerzen immer aus"
+                    "text": "Immer Kerzen ausblasen"
                 },
                 {
-                    "text": "gib dir Zeit für dich selbst"
+                    "text": "Nimm dir Zeit für dich selbst"
                 }
             ],
             "x": true,
@@ -7679,39 +7679,39 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Sexiester Satz fürs Schlafzimmer"
+                    "text": "Der heißeste Satz fürs Schlafzimmer"
                 }
             ],
             "prompt": {
-                "text": "Gib einen guten Ratschlag"
+                "text": "Gebe einen guten Ratschlag"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "sich vordrängeln"
+                    "text": "Vordrängeln"
                 },
                 {
-                    "text": "hupen"
+                    "text": "Hupen"
                 },
                 {
-                    "text": "in der Nase bohren"
+                    "text": "In der Nase bohren"
                 },
                 {
-                    "text": "auf den Weg rotzen"
+                    "text": "auf den Weg spucken"
                 },
                 {
-                    "text": "im Kino brabbeln"
+                    "text": "Im Kino tratschen"
                 },
                 {
-                    "text": "laut kauen"
+                    "text": "Laut kauen"
                 },
                 {
-                    "text": "vor anderen furzen"
+                    "text": "Vor anderen furzen"
                 },
                 {
-                    "text": "laut am Telefon sprechen"
+                    "text": "Im Zug telefonieren"
                 }
             ],
             "x": false,
@@ -7719,11 +7719,11 @@
             "category": "Action",
             "twists": [
                 {
-                    "text": "Bester Titel für die Autobiografie von Mario Barth"
+                    "text": "Der beste Titel für die Autobiografie von Mario Barth"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Tätigkeit die dich unglaublich nervt"
+                "text": "Nenne eine Tätigkeit, die dich unglaublich nervt"
             },
             "facts": []
         },
@@ -7759,11 +7759,11 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Wie dein Ex dich am ehesten beschreiben würde"
+                    "text": "Wie würde dein Ex dich am ehesten beschreiben?"
                 }
             ],
             "prompt": {
-                "text": "Nenne mir ein negatives Adjektiv!"
+                "text": "Nenne ein abwertendes Adjektiv"
             },
             "facts": []
         },
@@ -7782,10 +7782,10 @@
                     "text": "Rugby"
                 },
                 {
-                    "text": "Skydiving"
+                    "text": "Fallschirmspringen"
                 },
                 {
-                    "text": "Snowboarding"
+                    "text": "Snowboarden"
                 },
                 {
                     "text": "Fußball"
@@ -7799,7 +7799,7 @@
             "category": "Sport",
             "twists": [
                 {
-                    "text": "Sport dem du am ehesten dein Leben verschreiben würdest"
+                    "text": "Die Sportart, der du am ehesten dein Leben widmen würdest"
                 }
             ],
             "prompt": {
@@ -7810,7 +7810,7 @@
         {
             "decoys": [
                 {
-                    "text": "Football"
+                    "text": "Tennis"
                 },
                 {
                     "text": "Basketball"
@@ -7819,10 +7819,10 @@
                     "text": "Hockey"
                 },
                 {
-                    "text": "Rugby"
+                    "text": "Wasserball"
                 },
                 {
-                    "text": "Fussball"
+                    "text": "Fußball"
                 },
                 {
                     "text": "Boxen"
@@ -7839,7 +7839,7 @@
             "category": "Sport",
             "twists": [
                 {
-                    "text": "Welche Sportart würde einem Nerd am ehesten taugen?"
+                    "text": "Die Sportart, die einem Nerd am ehesten liegen würde"
                 }
             ],
             "prompt": {
@@ -7850,10 +7850,10 @@
         {
             "decoys": [
                 {
-                    "text": "alte Windel"
+                    "text": "Alte Windel"
                 },
                 {
-                    "text": "benutzte Kaffeefilter"
+                    "text": "Benutzte Kaffeefilter"
                 },
                 {
                     "text": "Reifen"
@@ -7879,7 +7879,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Würde dir in einem Antiquitätenshop am ehesten 100$ einbringen"
+                    "text": "Was würde dir in einem Antiquitätenladen am ehesten 100€ einbringen?"
                 }
             ],
             "prompt": {
@@ -7890,7 +7890,7 @@
         {
             "decoys": [
                 {
-                    "text": "Relish"
+                    "text": "Meerrettich"
                 },
                 {
                     "text": "Mayonnaise"
@@ -7902,7 +7902,7 @@
                     "text": "Senf"
                 },
                 {
-                    "text": "Srirache"
+                    "text": "Sriracha"
                 },
                 {
                     "text": "Salsa"
@@ -7911,7 +7911,7 @@
                     "text": "Frühlingszwiebeln"
                 },
                 {
-                    "text": "braune Soße"
+                    "text": "Maggi"
                 }
             ],
             "x": false,
@@ -7919,11 +7919,11 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Beste Sache um sie in deine Unterhose zu tun und ein wenig drin rumzusitzen"
+                    "text": "Die beste Sache, um sie in deine Unterhose zu tun und ein wenig darin rumzusitzen"
                 }
             ],
             "prompt": {
-                "text": "Nenne ein Gewürz oder ein Topping, was du auf Essen tun kannst"
+                "text": "Nenne ein Gewürz oder ein Topping, das du auf Essen tun kannst"
             },
             "facts": []
         },
@@ -7945,13 +7945,13 @@
                     "text": "Langeweile"
                 },
                 {
-                    "text": "grumpy"
+                    "text": "Wut"
                 },
                 {
                     "text": "Zweifel"
                 },
                 {
-                    "text": "Rage"
+                    "text": "Empörung"
                 }
             ],
             "x": false,
@@ -7959,11 +7959,11 @@
             "category": "Feelings",
             "twists": [
                 {
-                    "text": "Beste Emotion für einen Hirnchirurgen während er an dir rumdoktort"
+                    "text": "Die beste Emotion für einen Hirnchirurgen, während er dich operiert"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine spezifische Emotion"
+                "text": "Nenne eine Emotion"
             },
             "facts": []
         },
@@ -7985,13 +7985,13 @@
                     "text": "Wehmut"
                 },
                 {
-                    "text": "zufrieden"
+                    "text": "Zufriedenheit"
                 },
                 {
-                    "text": "aufgeregt"
+                    "text": "Aufregung"
                 },
                 {
-                    "text": "angegriffen"
+                    "text": "Verletzt"
                 }
             ],
             "x": false,
@@ -7999,39 +7999,39 @@
             "category": "Feelings",
             "twists": [
                 {
-                    "text": "Die beste Emotion um eine Hulk Transformation einzuleiten"
+                    "text": "Welche Emotion ist am nützlichsten, wenn man sich Hulk verwandeln möchte?"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine spezifische Emotion"
+                "text": "Nenne eine Emotion"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "paranoid"
+                    "text": "Paranoia"
                 },
                 {
-                    "text": "besorgt"
+                    "text": "Sorge"
                 },
                 {
-                    "text": "müde"
+                    "text": "Müdigkeit"
                 },
                 {
-                    "text": "wütend"
+                    "text": "Wut"
                 },
                 {
-                    "text": "glücklich"
+                    "text": "Freude"
                 },
                 {
-                    "text": "frustriert"
+                    "text": "Ekel"
                 },
                 {
-                    "text": "ambivalent"
+                    "text": "Frustration"
                 },
                 {
-                    "text": "gelangweilt"
+                    "text": "Langeweile"
                 }
             ],
             "x": false,
@@ -8039,11 +8039,11 @@
             "category": "Feelings",
             "twists": [
                 {
-                    "text": "Der beste Name für deine TV Show"
+                    "text": "Der beste Name für deine eigene TV-Show"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine spezifische Emotion"
+                "text": "Nenne eine Emotion"
             },
             "facts": []
         },
@@ -8062,13 +8062,13 @@
                     "text": "Rüstungen polieren"
                 },
                 {
-                    "text": "über Drachen Bescheid wissen"
+                    "text": "Drachen jagen"
                 },
                 {
                     "text": "Länder entdecken"
                 },
                 {
-                    "text": "in die Armbeuge niesen"
+                    "text": "Hexen jagen"
                 },
                 {
                     "text": "Pferde putzen"
@@ -8079,11 +8079,11 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Wahrscheinlich am nützlichsten in einer post-apokalyptischen Zukunft"
+                    "text": "Diese nützlichste Sache in einer postapokalyptischen Zukunft"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas was Leute im Mittelalter wahrscheinlich gemacht haben"
+                "text": "Nenne eine Sache, die Leute im Mittelalter wahrscheinlich gemacht haben"
             },
             "facts": []
         },
@@ -8093,7 +8093,7 @@
                     "text": "Kohle abbauen"
                 },
                 {
-                    "text": "draußen schlafen"
+                    "text": "Draußen schlafen"
                 },
                 {
                     "text": "Wölfe bekämpfen"
@@ -8102,13 +8102,13 @@
                     "text": "Keuchhusten heilen"
                 },
                 {
-                    "text": "mit dem Zug fahren"
+                    "text": "In den Krieg ziehen"
                 },
                 {
                     "text": "Angst vor der Sonne haben"
                 },
                 {
-                    "text": "Wagons bauen"
+                    "text": "Dampfmaschinen bauen"
                 },
                 {
                     "text": "Kerzen ziehen"
@@ -8119,11 +8119,11 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Diese Aktivität hat am wahrscheinlichsten ein großes Hipster Comeback"
+                    "text": "Die Aktivität, die am wahrscheinlichsten ein großes Hipster-Comeback bekommt"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was Leute früher wahrscheinlich gemacht haben"
+                "text": "Nenne eine Aktivität, die Leute früher wahrscheinlich gemacht haben"
             },
             "facts": []
         },
@@ -8159,24 +8159,24 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Am erträglichsten, falls du gezwungen wirst es für die Ewigkeit zu tun"
+                    "text": "Die erträglichste Tätigkeit, wenn du sie bis ans Ende aller Tage machen müsstest"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine unglaublich langweilige Tätigkeit"
+                "text": "Nenne eine sehr langweilige Tätigkeit"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "summen"
+                    "text": "Summen"
                 },
                 {
-                    "text": "ein Formular ausfüllen"
+                    "text": "Ein Formular ausfüllen"
                 },
                 {
-                    "text": "einen Fisch babysitten"
+                    "text": "Fische babysitten"
                 },
                 {
                     "text": "Müsli essen"
@@ -8185,13 +8185,13 @@
                     "text": "Sachen zählen"
                 },
                 {
-                    "text": "darüber nachdenken was du getan hast"
+                    "text": "Nicht einschlafen können"
                 },
                 {
                     "text": "Kerzen ziehen"
                 },
                 {
-                    "text": "Socken falten"
+                    "text": "Unterhosen falten"
                 }
             ],
             "x": false,
@@ -8199,11 +8199,11 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Die coolste Sache die eine Oma auf einem Foto tun könnte"
+                    "text": "Die coolste Sache, die eine Oma auf einem Foto tun könnte"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine unglaublich langweilige Tätigkeit"
+                "text": "Nenne eine sehr langweilige Tätigkeit"
             },
             "facts": []
         },
@@ -8239,11 +8239,11 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Bester Name für eine Bierstube"
+                    "text": "Der beste Name für eine bayerische Bierstube"
                 }
             ],
             "prompt": {
-                "text": "Nenne ein Wort oder einen kurzen Satz der mit -ein aufhört"
+                "text": "Nenne ein Wort oder einen kurzen Satz, der mit \u201c-ein\u201d endet"
             },
             "facts": []
         },
@@ -8259,19 +8259,19 @@
                     "text": "Julius Caesar"
                 },
                 {
-                    "text": "van Gogh"
+                    "text": "Van Gogh"
                 },
                 {
-                    "text": "Billy the Kid"
+                    "text": "Alexander der Große"
                 },
                 {
-                    "text": "Aristotle"
+                    "text": "Aristoteles"
                 },
                 {
                     "text": "Einstein"
                 },
                 {
-                    "text": "Henry VIII"
+                    "text": "Otto von Bismark"
                 }
             ],
             "x": false,
@@ -8279,7 +8279,7 @@
             "category": "People",
             "twists": [
                 {
-                    "text": "Hätte heute die meisten Follower auf Instagram"
+                    "text": "Wer hätte heute die meisten Follower auf Instagram?"
                 }
             ],
             "prompt": {
@@ -8293,7 +8293,7 @@
                     "text": "Müllmann"
                 },
                 {
-                    "text": "Banker"
+                    "text": "Bankier"
                 },
                 {
                     "text": "Meteorologe"
@@ -8302,13 +8302,13 @@
                     "text": "Comedian"
                 },
                 {
-                    "text": "Lidl Angstellter"
+                    "text": "Lidl-Kassierer"
                 },
                 {
                     "text": "Pizzakoch"
                 },
                 {
-                    "text": "Fußdoktor"
+                    "text": "Ohrenarzt"
                 },
                 {
                     "text": "Pokerspieler"
@@ -8319,7 +8319,7 @@
             "category": "Job",
             "twists": [
                 {
-                    "text": "Bester Job für ein sexy Kostüm"
+                    "text": "Der beste Job für ein sexy Kostüm"
                 }
             ],
             "prompt": {
@@ -8336,7 +8336,7 @@
                     "text": "Ölinselarbeiter"
                 },
                 {
-                    "text": "Boxcoach"
+                    "text": "Boxtrainer"
                 },
                 {
                     "text": "Kapitän zur See"
@@ -8359,7 +8359,7 @@
             "category": "Job",
             "twists": [
                 {
-                    "text": "Bester Job um was von der Arbeit mitgehen zu lassen"
+                    "text": "Der beste Job, um was von der Arbeit mitgehen zu lassen"
                 }
             ],
             "prompt": {
@@ -8382,13 +8382,13 @@
                     "text": "Sonntag"
                 },
                 {
-                    "text": "2:53 Uhr frühs"
+                    "text": "2:53 Uhr nachts"
                 },
                 {
                     "text": "Mitternacht"
                 },
                 {
-                    "text": "high noon"
+                    "text": "Freitag Nachmittag"
                 },
                 {
                     "text": "Montag"
@@ -8399,17 +8399,17 @@
             "category": "Time",
             "twists": [
                 {
-                    "text": "Beste Zeit um eine Pizza komplett alleine zu verdrücken"
+                    "text": "Der beste Zeitpunkt, um eine ganze Pizza alleine zu verdrücken"
                 },
                 {
-                    "text": "Beste Zeit um nach einem ersten Date nochmal anzurufen"
+                    "text": "Der beste Zeitpunkt, um nach einem ersten Date noch mal anzurufen"
                 },
                 {
-                    "text": "Beste Zeit für den Weltuntergang"
+                    "text": "Der beste Zeitpunkt für den Weltuntergang"
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine Uhrzeit. Egal ob Tag oder Uhrzeit."
+                "text": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
             },
             "facts": []
         },
@@ -8422,7 +8422,7 @@
                     "text": "Hummus"
                 },
                 {
-                    "text": "Chili"
+                    "text": "Chili con Carne"
                 },
                 {
                     "text": "Cheeseburger"
@@ -8431,10 +8431,10 @@
                     "text": "Jogurt"
                 },
                 {
-                    "text": "HotDog"
+                    "text": "Hotdog"
                 },
                 {
-                    "text": "saure Gurken"
+                    "text": "Essiggurken"
                 },
                 {
                     "text": "Schokoladenpudding"
@@ -8445,11 +8445,11 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Die beste Sache um sie nach einer Magen Darm Grippe zu essen"
+                    "text": "Die beste Sache, um sie nach einer Magen-Darm-Grippe zu essen"
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendein Frühstücksessen"
+                "text": "Nenne irgendeine Frühstücksspeise"
             },
             "facts": []
         },
@@ -8485,7 +8485,7 @@
             "category": "Sentence",
             "twists": [],
             "prompt": {
-                "text": "Die komischste Nachricht, die du einer Brieftaube ans Bein binden kannst"
+                "text": "Die komischste Nachricht, die du einer Brieftaube ans Bein binden könntest"
             },
             "facts": []
         },
@@ -12447,7 +12447,7 @@
                     "text": "George Washington"
                 },
                 {
-                    "text": "Spiderman"
+                    "text": "Spider-Man"
                 },
                 {
                     "text": "Hamilton"
