@@ -6835,7 +6835,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne einen Cartooncharakter"
+                "text": "Nenne einen Cartoon-Charakter"
             },
             "facts": []
         },
@@ -9980,7 +9980,7 @@
         {
             "decoys": [
                 {
-                    "text": "Flamin\u2019 Hot Cheetos"
+                    "text": "Erdnussflips"
                 },
                 {
                     "text": "Schinkensandwich"
@@ -10049,7 +10049,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Bestes Essen um es an einer dreckigen Tankstelle zu kaufen"
+                    "text": "Das beste Essen, um es an einer dreckigen Tankstelle zu kaufen"
                 }
             ],
             "prompt": {
@@ -10089,11 +10089,11 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Das beste Emoji um deinen heimlichen Schwarm heiß zu machen"
+                    "text": "Das beste Emoji, um deinen heimlichen Schwarm heiß zu machen"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was man essen kann"
+                "text": "Nenne irgendein Lebensmittel"
             },
             "facts": []
         },
@@ -10112,7 +10112,7 @@
                     "text": "Pegasus"
                 },
                 {
-                    "text": "Loch Ness Monster"
+                    "text": "Loch-Ness-Monster"
                 },
                 {
                     "text": "Yeti"
@@ -10129,7 +10129,7 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Coolster Name für ein Sportauto"
+                    "text": "Der coolste Name für ein Sportauto"
                 }
             ],
             "prompt": {
@@ -10149,7 +10149,7 @@
                     "text": "Trichter"
                 },
                 {
-                    "text": "Käsetuch"
+                    "text": "Käsehobel"
                 },
                 {
                     "text": "Knoblauchpresse"
@@ -10169,11 +10169,11 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Beste Waffe um einen Gremlin zu töten"
+                    "text": "Die beste Waffe um einen bösen Gartenzwerg zu töten"
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was du in der Küche gut gebrauchen kannst"
+                "text": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
             },
             "facts": []
         },
@@ -10189,7 +10189,7 @@
                     "text": "Groot"
                 },
                 {
-                    "text": "Tom Sawyer"
+                    "text": "Peter Parker"
                 },
                 {
                     "text": "Frodo"
@@ -10209,7 +10209,7 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Der beste Name, die ein Schläger seiner Faust geben kann"
+                    "text": "Der beste Name, den ein Boxer seiner Faust geben kann"
                 }
             ],
             "prompt": {
@@ -10249,7 +10249,7 @@
             "category": "Book",
             "twists": [
                 {
-                    "text": "Buch das am meisten von ein paar Vampiren profitieren würde"
+                    "text": "Das Buch, dessen Handlung am meisten von ein paar Vampiren profitieren würde"
                 }
             ],
             "prompt": {
@@ -10289,7 +10289,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Beste Aktivität um sie pantomimisch darzustellen"
+                    "text": "Die beste Aktivität, um sie pantomimisch darzustellen"
                 }
             ],
             "prompt": {
@@ -10329,11 +10329,11 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Bester Gefägnisspitzname"
+                    "text": "Was wäre der beste Gefängnis-Spitzname?"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die du in der Küche gut gebrauchen kannst"
+                "text": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
             },
             "facts": []
         },
@@ -10369,7 +10369,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Coolste Sache um darin Weltrekordhalter zu sein"
+                    "text": "Die coolste Aktivität, in der man Weltrekordhalter sein kann"
                 }
             ],
             "prompt": {
@@ -10409,11 +10409,11 @@
             "category": "College",
             "twists": [
                 {
-                    "text": "Einfachste Quizfragen-Kategorie"
+                    "text": "Die einfachste Kategorie für Quizfragen"
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendein Unifach"
+                "text": "Nenne irgendein Studienfach"
             },
             "facts": []
         },
@@ -10449,7 +10449,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Benedict Cumberbatch sollte in seinem nächsten Film am ehesten dieses Gemüse spielen"
+                    "text": "Das Gemüse, das Benedict Cumberbatch am ehesten in seinem nächsten Film spielen sollte"
                 }
             ],
             "prompt": {
@@ -10489,7 +10489,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Erotischstes Gemüse"
+                    "text": "Das erotischste Gemüse"
                 }
             ],
             "prompt": {
@@ -10529,7 +10529,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Bestes Gemüse um es für ein Kunstprojekt an die Wand zu nageln"
+                    "text": "Das beste Gemüse, um es für ein Kunstprojekt an die Wand zu nageln"
                 }
             ],
             "prompt": {
@@ -10569,7 +10569,7 @@
             "category": "Place",
             "twists": [
                 {
-                    "text": "Bester Spitzname für einen Soldaten in einem Film, der definitiv sterben wird"
+                    "text": "Der beste Spitzname für einen Soldaten in einem Film, der definitiv sterben wird"
                 }
             ],
             "prompt": {
@@ -10592,7 +10592,7 @@
                     "text": "Tag der Erde"
                 },
                 {
-                    "text": "Sprich wie ein Wikinger Tag"
+                    "text": "Sprich-wie-ein-Wikinger-Tag"
                 },
                 {
                     "text": "Nimm dein Kind mit zur Arbeit Tag"
@@ -10609,11 +10609,11 @@
             "category": "Time",
             "twists": [
                 {
-                    "text": "Bester Titel für einen billigen Horrorfilm"
+                    "text": "Der beste Titel für einen billigen Horrorfilm"
                 }
             ],
             "prompt": {
-                "text": "Nenne einen Feiertag der nicht wirklich gefeiert wird"
+                "text": "Nenne einen Feiertag, der nicht wirklich gefeiert wird"
             },
             "facts": []
         },
@@ -10644,12 +10644,12 @@
                     "text": "Nase"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48155,
             "category": "Body",
             "twists": [
                 {
-                    "text": "Bestes Körperteil um genau neun Stück davon zu haben"
+                    "text": "Das Körperteil, das man am besten gleich neun Mal am Körper hat"
                 }
             ],
             "prompt": {
@@ -10689,7 +10689,7 @@
             "category": "Body",
             "twists": [
                 {
-                    "text": "Bestes Körperteil um es durch eine Roboterversion zu ersetzen"
+                    "text": "Das beste Körperteil, um es durch eine Roboterversion zu ersetzen"
                 }
             ],
             "prompt": {
@@ -10718,7 +10718,7 @@
                     "text": "Keine Suppe für dich!"
                 },
                 {
-                    "text": "winter is coming"
+                    "text": "Der Winter naht"
                 },
                 {
                     "text": "Bibbedi Babbedi Bu"
@@ -10729,7 +10729,7 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Gruseligste Sache, die eine Kinderstimme mitten in der Nacht flüstern könnte"
+                    "text": "Die gruseligste Sache, die eine Kinderstimme mitten in der Nacht flüstern könnte"
                 }
             ],
             "prompt": {
@@ -10740,28 +10740,28 @@
         {
             "decoys": [
                 {
-                    "text": "Yada, yada, yada"
+                    "text": "Chantal, heul leise!"
                 },
                 {
-                    "text": "Here\u2019s Johnny!"
+                    "text": "Hasta la vista, Baby!"
                 },
                 {
                     "text": "Ich bin bereit!"
                 },
                 {
-                    "text": "Winter is coming"
+                    "text": "Der Winter naht"
                 },
                 {
-                    "text": "Sssssmokin\u2019!"
+                    "text": "Einigen wir uns auf Unentschieden!"
                 },
                 {
-                    "text": "Yeah, baby, yeah"
+                    "text": "Yippie-Ya-Yeah, Schweinebacke!"
                 },
                 {
                     "text": "Roaaaar."
                 },
                 {
-                    "text": "I never had a sugar daddy"
+                    "text": "Luke, ich bin dein Vater"
                 }
             ],
             "x": false,
@@ -10769,7 +10769,7 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Beste Unterschrift für dein Foto in der Abizeitung"
+                    "text": "Der beste Spruch für deine Seite in der Abizeitung"
                 }
             ],
             "prompt": {
@@ -10780,7 +10780,7 @@
         {
             "decoys": [
                 {
-                    "text": "Bridge"
+                    "text": "Schach"
                 },
                 {
                     "text": "Uno"
@@ -10801,7 +10801,7 @@
                     "text": "Siedler von Catan"
                 },
                 {
-                    "text": "CLuedo"
+                    "text": "Cluedo"
                 }
             ],
             "x": false,
@@ -10809,7 +10809,7 @@
             "category": "Game",
             "twists": [
                 {
-                    "text": "Bestes Spiel um damit mit dem Teufel um dein Leben zu spielen"
+                    "text": "Das beste Spiel, um darin mit dem Teufel um dein Leben zu spielen"
                 }
             ],
             "prompt": {
@@ -10860,7 +10860,7 @@
         {
             "decoys": [
                 {
-                    "text": "Reese\u2019s Pieces"
+                    "text": "Toffifee"
                 },
                 {
                     "text": "Twix"
@@ -10869,16 +10869,16 @@
                     "text": "Milky Way"
                 },
                 {
-                    "text": "Hitschies"
+                    "text": "Werthers Echte"
                 },
                 {
-                    "text": "Sour Patch Kids"
+                    "text": "Goldbären"
                 },
                 {
                     "text": "Mars"
                 },
                 {
-                    "text": "Tom Tom Riegel"
+                    "text": "Lakritze"
                 },
                 {
                     "text": "Toblerone"
@@ -10889,7 +10889,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Schmeckt frittiert am besten"
+                    "text": "Was schmeckt frittiert am besten?"
                 }
             ],
             "prompt": {
@@ -10929,7 +10929,7 @@
             "category": "Color",
             "twists": [
                 {
-                    "text": "Die beste Farbwahl, wenn du ab heute nur noch Gerichte mit dieser Färbung essen dürftest"
+                    "text": "Die beste Wahl, wenn du ab heute nur noch Gerichte mit dieser Farbe essen dürftest"
                 }
             ],
             "prompt": {
@@ -10946,13 +10946,13 @@
                     "text": "Link"
                 },
                 {
-                    "text": "Sub Zero"
+                    "text": "Samus"
                 },
                 {
                     "text": "Max Payne"
                 },
                 {
-                    "text": "Q*Bert"
+                    "text": "Snake"
                 },
                 {
                     "text": "Sonic"
@@ -11009,7 +11009,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Tier, das den besten Superhelden abgeben würde"
+                    "text": "Das Tier, das den besten Superhelden abgeben würde"
                 }
             ],
             "prompt": {
@@ -11049,7 +11049,7 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Film in dem du am ehesten 10 Jahre verbringen würdest"
+                    "text": "Die beste Filmwelt, um zehn Jahre lang darin leben zu müssen"
                 }
             ],
             "prompt": {
@@ -11089,7 +11089,7 @@
             "category": "Super",
             "twists": [
                 {
-                    "text": "Sollte am ehesten von Elyas M'Barek gespielt werden"
+                    "text": "Wer sollte am ehesten von Elyas M'Barek gespielt werden?"
                 }
             ],
             "prompt": {
@@ -11100,7 +11100,7 @@
         {
             "decoys": [
                 {
-                    "text": "McDonalds"
+                    "text": "Obi"
                 },
                 {
                     "text": "Lidl"
@@ -11115,7 +11115,7 @@
                     "text": "Rewe"
                 },
                 {
-                    "text": "Gartenhaus"
+                    "text": "Roller"
                 },
                 {
                     "text": "Taco Bell"
@@ -11129,7 +11129,7 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Bestes Versteck während einer Zombieapokalypse"
+                    "text": "Das beste Versteck während einer Zombieapokalypse"
                 }
             ],
             "prompt": {
@@ -11158,10 +11158,10 @@
                     "text": "Garfield Comics"
                 },
                 {
-                    "text": "How I met your mother"
+                    "text": "Star Wars"
                 },
                 {
-                    "text": "der Hobbit"
+                    "text": "Der Hobbit"
                 }
             ],
             "x": false,
@@ -11169,7 +11169,7 @@
             "category": "Book",
             "twists": [],
             "prompt": {
-                "text": "Diese Gute-Nacht-Geschichte wird deinem Kind am ehesten Albträume geben"
+                "text": "Diese Gute-Nacht-Geschichte wird deinem Kind am ehesten Albträume bescheren"
             },
             "facts": []
         },
@@ -11179,10 +11179,10 @@
                     "text": "Jumanji!"
                 },
                 {
-                    "text": "cheese!"
+                    "text": "Ameisenkacke!"
                 },
                 {
-                    "text": "pudding!"
+                    "text": "Pudding!"
                 },
                 {
                     "text": "Pyjama Zeit"
@@ -11194,7 +11194,7 @@
                     "text": "Podcasting!!"
                 },
                 {
-                    "text": "fulcrum"
+                    "text": "Ziege"
                 },
                 {
                     "text": "Das ist ein Überfall!"
@@ -11205,7 +11205,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Bestes Wort um es bei einer Überraschungsparty zu schreien"
+                "text": "Das beste Wort, mit dem man eine Überraschungsparty einleiten könnte"
             },
             "facts": []
         },
@@ -11227,10 +11227,10 @@
                     "text": "Couchbesetzer"
                 },
                 {
-                    "text": "der Geruch"
+                    "text": "Das Krümelmonster"
                 },
                 {
-                    "text": "wie ich irgendwann mal aussehen werde"
+                    "text": "Rüstiger Rentner"
                 },
                 {
                     "text": "liebster Vater"
@@ -11241,7 +11241,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Bester Ersatz für das Wort Papa"
+                "text": "Der beste Ersatz für das Wort \u201cPapa\u201d"
             },
             "facts": []
         },
@@ -11269,7 +11269,7 @@
                     "text": "die Nachtlichter"
                 },
                 {
-                    "text": "die coolen Kids"
+                    "text": "Die coolen Kids"
                 }
             ],
             "x": false,
@@ -11277,23 +11277,23 @@
             "category": "Sport",
             "twists": [],
             "prompt": {
-                "text": "Bester Name für ein Fußballteam das echt nicht gut ist"
+                "text": "Der beste Name für ein Fußballteam, das echt schlecht ist"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ein Müsliriegel"
+                    "text": "Ein Müsliriegel"
                 },
                 {
                     "text": "Gift"
                 },
                 {
-                    "text": "eine kleine Bowlingkugel"
+                    "text": "Eine kleinere Schneekugel"
                 },
                 {
-                    "text": "Zwei-Euro-Stück"
+                    "text": "Zwei Euro"
                 },
                 {
                     "text": "TV"
@@ -11313,7 +11313,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolste Sache um sie in eine durchsichtige Bowlingkugel zu tun"
+                "text": "Die coolste Sache, um sie in eine Schneekugel zu stecken"
             },
             "facts": []
         },
@@ -11335,7 +11335,7 @@
                     "text": "Heidi Klum"
                 },
                 {
-                    "text": "Putin"
+                    "text": "Donald Trump"
                 },
                 {
                     "text": "Scooter"
@@ -11349,7 +11349,7 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Beste Person um mit ihr auf einer verlassenen Insel zu stranden"
+                    "text": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
                 }
             ],
             "prompt": {
@@ -11389,11 +11389,11 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Bestes Tier um davon ein riesiges Bild über deinem Bett zu haben"
+                    "text": "Das beste Tier, um davon ein riesiges Bild über dem Bett hängen zu haben"
                 }
             ],
             "prompt": {
-                "text": "Nenne ein Tier das größer ist als du"
+                "text": "Nenne ein Tier, das größer ist als du"
             },
             "facts": []
         },
@@ -11436,10 +11436,10 @@
         {
             "decoys": [
                 {
-                    "text": "beim Abfahrtslauf"
+                    "text": "Beim Skispringen"
                 },
                 {
-                    "text": "während man ein Sandwich isst"
+                    "text": "Während man ein Sandwich isst"
                 },
                 {
                     "text": "an deinem Geburtstag"
@@ -11448,7 +11448,7 @@
                     "text": "beim Zahnarzt"
                 },
                 {
-                    "text": "während man einkauft"
+                    "text": "Beim Einkaufen"
                 },
                 {
                     "text": "an Weihnachten"
@@ -11457,7 +11457,7 @@
                     "text": "morgen"
                 },
                 {
-                    "text": "bei einem Hockey Spiel"
+                    "text": "Bei einem Wrestlingmatch"
                 }
             ],
             "x": false,
@@ -11465,7 +11465,7 @@
             "category": "Time",
             "twists": [],
             "prompt": {
-                "text": "Die perfekte Zeit um \u201cIch liebe dich\u201d zu sagen"
+                "text": "Die perfekte Zeit, um \u201cIch liebe dich\u201d zu sagen"
             },
             "facts": []
         },
@@ -11475,7 +11475,7 @@
                     "text": "schau mal her"
                 },
                 {
-                    "text": "aua, heiß"
+                    "text": "Ich bin brandgefährlich"
                 },
                 {
                     "text": "Bereit, Todd?"
@@ -11484,7 +11484,7 @@
                     "text": "Pass auf!"
                 },
                 {
-                    "text": "keinen Mucks!"
+                    "text": "keinen Mucks mehr!"
                 },
                 {
                     "text": "Tut mir leid"
@@ -11493,7 +11493,7 @@
                     "text": "kommt mal runter"
                 },
                 {
-                    "text": "not again"
+                    "text": "Ich pfleudere den Pfeuerball"
                 }
             ],
             "x": false,
@@ -11501,7 +11501,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Das coolste was man schreien kann, wenn man einen Feuerball Zauber wirkt"
+                "text": "Die coolste Sache, die man schreien kann, während man einen Geist heraufbeschwört"
             },
             "facts": []
         },
@@ -11511,7 +11511,7 @@
                     "text": "Man sieht sich!"
                 },
                 {
-                    "text": "Let's gooo"
+                    "text": "Vermutlich"
                 },
                 {
                     "text": "wahrscheinlich"
@@ -11523,7 +11523,7 @@
                     "text": "Schlüsselbein"
                 },
                 {
-                    "text": "Bacon"
+                    "text": "Schweinebacke"
                 },
                 {
                     "text": "Küsschen"
@@ -11537,7 +11537,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Bestes Wort um damit all deine Sätze zu beenden"
+                "text": "Das beste Wort, um damit all deine Sätze zu beenden"
             },
             "facts": []
         },
@@ -11553,10 +11553,10 @@
                     "text": "ein Pferd"
                 },
                 {
-                    "text": "Delaware"
+                    "text": "Berlin"
                 },
                 {
-                    "text": "Toyota Prius"
+                    "text": "VW Golf"
                 },
                 {
                     "text": "eine Scheibe Toast"
@@ -11573,7 +11573,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Beste Form für eine Gürtelschnalle"
+                "text": "Die beste Form für eine Gürtelschnalle"
             },
             "facts": []
         },
@@ -11589,7 +11589,7 @@
                     "text": "Gandhi"
                 },
                 {
-                    "text": "ich"
+                    "text": "Ich"
                 },
                 {
                     "text": "Elyas M'Barek"
@@ -11609,7 +11609,7 @@
             "category": "People",
             "twists": [],
             "prompt": {
-                "text": "Coolste Person oder Sache für eine Klon-Armee"
+                "text": "Die coolste Person oder Sache für eine Klon-Armee"
             },
             "facts": []
         },
@@ -11625,7 +11625,7 @@
                     "text": "Max Muhamad"
                 },
                 {
-                    "text": "Liza Minelli"
+                    "text": "Gustav Gans"
                 },
                 {
                     "text": "Sheldon Cooper"
@@ -11645,7 +11645,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Bester Name um den Türsteher davon zu überzeugen, dass du auf der Gästeliste stehst"
+                "text": "Der beste falsche Name, um den Türsteher davon zu überzeugen, dass du auf der Gästeliste stehst"
             },
             "facts": []
         },
@@ -11655,7 +11655,7 @@
                     "text": "Boss"
                 },
                 {
-                    "text": "awesome"
+                    "text": "Nicer Dicer"
                 },
                 {
                     "text": "bitte"
@@ -11667,10 +11667,10 @@
                     "text": "Haie"
                 },
                 {
-                    "text": "beastmode"
+                    "text": "Hammerhart"
                 },
                 {
-                    "text": "riesig"
+                    "text": "Der geilste"
                 },
                 {
                     "text": "stark"
@@ -11681,7 +11681,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Wort das man auf seine Visitenkarte schreiben kann um Leute zu beeindrucken"
+                "text": "Ein Wort, das man auf seine Visitenkarte schreiben kann, das jeden beeindruckt"
             },
             "facts": []
         },
@@ -11717,7 +11717,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Das beste Safe Wort beim Sex"
+                "text": "Das beste Safe-Wort beim Sex"
             },
             "facts": []
         },
@@ -11730,13 +11730,13 @@
                     "text": "digga"
                 },
                 {
-                    "text": "fidget spinner"
+                    "text": "Fidget spinner"
                 },
                 {
                     "text": "auf jeden"
                 },
                 {
-                    "text": "Jessica"
+                    "text": "Jaqueline"
                 },
                 {
                     "text": "cool"
@@ -11745,7 +11745,7 @@
                     "text": "Wahnsinn"
                 },
                 {
-                    "text": "bracketeering"
+                    "text": "Bracketeering"
                 }
             ],
             "x": false,
@@ -11753,7 +11753,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Ein Wort was aus der deutschen Sprache verbannt werden sollte"
+                "text": "Ein Wort, das aus der deutschen Sprache verbannt werden sollte"
             },
             "facts": []
         },
@@ -11763,7 +11763,7 @@
                     "text": "Hosen"
                 },
                 {
-                    "text": "home office"
+                    "text": "Homeoffice"
                 },
                 {
                     "text": "Laser"
@@ -11781,7 +11781,7 @@
                     "text": "Kindergarten"
                 },
                 {
-                    "text": "Star Wars Kram"
+                    "text": "Star-Wars-Kram"
                 }
             ],
             "x": false,
@@ -11789,7 +11789,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolste Sache die man von der Steuer absetzen kann"
+                "text": "Die coolste Sache, um sie von der Steuer abzusetzen"
             },
             "facts": []
         },
@@ -11799,13 +11799,13 @@
                     "text": "sich sonnen"
                 },
                 {
-                    "text": "Kuhpose"
+                    "text": "Die sich selbst melkende Kuh"
                 },
                 {
-                    "text": "ein bisschen stretchen"
+                    "text": "Dänen beim Stretchen"
                 },
                 {
-                    "text": "Dad pose"
+                    "text": "Dad-Pose"
                 },
                 {
                     "text": "der Dude"
@@ -11817,7 +11817,7 @@
                     "text": "Hinternkitzler"
                 },
                 {
-                    "text": "Mond Fluss"
+                    "text": "Mond-Fluss"
                 }
             ],
             "x": false,
@@ -11825,17 +11825,17 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Bester Name für eine neue Yogaübung"
+                "text": "Der beste Name für eine neue Yogaübung"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Newcastle"
+                    "text": "Frankfurter Bahnhofsviertel"
                 },
                 {
-                    "text": "Chicago"
+                    "text": "Bielefeld"
                 },
                 {
                     "text": "Berlin"
@@ -11861,7 +11861,7 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Bester Urlaubsort für Leute denen ihre Sicherheit ziemlich egal ist"
+                "text": "Der beste Urlaubsort für Leute, denen ihre Sicherheit ziemlich egal ist"
             },
             "facts": []
         },
@@ -11897,35 +11897,35 @@
             "category": "",
             "twists": [],
             "prompt": {
-                "text": "Coolste Form für einen Sarg"
+                "text": "Die coolste Form für einen Sarg"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Frosties"
+                    "text": "Wasser"
                 },
                 {
-                    "text": "Lucky Charms"
+                    "text": "Zement"
                 },
                 {
-                    "text": "Lion Cereal"
+                    "text": "Toilettenwasser"
                 },
                 {
-                    "text": "Special K"
+                    "text": "Seife"
                 },
                 {
-                    "text": "Honey Pops"
+                    "text": "Spülmittel"
                 },
                 {
-                    "text": "Müsli"
+                    "text": "Mehr Cornflakes"
                 },
                 {
-                    "text": "Froot Loops"
+                    "text": "Shampoo"
                 },
                 {
-                    "text": "Trix"
+                    "text": "Mayonnaise"
                 }
             ],
             "x": false,
@@ -11933,14 +11933,14 @@
             "category": "Food",
             "twists": [],
             "prompt": {
-                "text": "Es sollten alle Cornflake-Sorten außer diese eine verboten werden"
+                "text": "Der beste Milch-Ersatz für Cornflakes"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Baby Küchlein"
+                    "text": "Schatzi"
                 },
                 {
                     "text": "Hasi Pupsi"
@@ -11969,7 +11969,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Nervigster Spitzname für einen Partner"
+                "text": "Der nervigste Spitzname für einen Lebensgefährten"
             },
             "facts": []
         },
@@ -11991,7 +11991,7 @@
                     "text": "Holzblock"
                 },
                 {
-                    "text": "Schellen"
+                    "text": "Triangel"
                 },
                 {
                     "text": "Flöte"
@@ -12005,7 +12005,7 @@
             "category": "Song",
             "twists": [],
             "prompt": {
-                "text": "Unkonventionelles sexy Instrument"
+                "text": "Ein unkonventionelles, aber sexy Instrument"
             },
             "facts": []
         },
@@ -12041,7 +12041,7 @@
             "category": "Monster",
             "twists": [],
             "prompt": {
-                "text": "Sache, die dich als Kind am meisten verstört hat"
+                "text": "Die Sache, die dich als Kind am meisten verstört hat"
             },
             "facts": []
         },
@@ -12077,7 +12077,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Bester Ersatz für Trinkgeld"
+                "text": "Der beste Ersatz für Trinkgeld"
             },
             "facts": []
         },
@@ -12113,7 +12113,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Gruseligster Name für einen Babysitterservice"
+                "text": "Der gruseligste Name für einen Babysitterservice"
             },
             "facts": []
         },
@@ -12149,7 +12149,7 @@
             "category": "Sport",
             "twists": [],
             "prompt": {
-                "text": "Bester Name für einen Marathonlauf"
+                "text": "Der beste Name für einen Marathonlauf"
             },
             "facts": []
         },
@@ -12185,7 +12185,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolste Sache um damit zu Jonglieren"
+                "text": "Die coolste Sache, die man jonglieren kann"
             },
             "facts": []
         },
@@ -12198,7 +12198,7 @@
                     "text": "Reißverschluss"
                 },
                 {
-                    "text": "Fußnagel Clipper"
+                    "text": "Zehennagelschneider"
                 },
                 {
                     "text": "Fleischthermometer"
@@ -12228,7 +12228,7 @@
         {
             "decoys": [
                 {
-                    "text": "Stau"
+                    "text": "Im Stau"
                 },
                 {
                     "text": "Gerichtsverhandlung"
@@ -12257,7 +12257,7 @@
             "category": "Time",
             "twists": [],
             "prompt": {
-                "text": "Die beste Zeit um dir die Kleider vom Leib zu reißen und zu schreien"
+                "text": "Der beste Zeitpunkt, um dir die Kleider vom Leib zu reißen und zu schreien"
             },
             "facts": []
         },
@@ -12329,14 +12329,14 @@
             "category": "Fluid",
             "twists": [],
             "prompt": {
-                "text": "Beste Sache um einen Pool damit zu füllen und reinzuspringen"
+                "text": "Die beste Sache, um einen Pool damit zu füllen und reinzuspringen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "TV Bedienungsanleitung"
+                    "text": "TV-Bedienungsanleitung"
                 },
                 {
                     "text": "Game of Thrones"
@@ -12345,7 +12345,7 @@
                     "text": "Jeder kackt"
                 },
                 {
-                    "text": "eine Bonbonverpackung"
+                    "text": "Pilzebuch"
                 },
                 {
                     "text": "Eat, Pray, Love"
@@ -12365,7 +12365,7 @@
             "category": "Books",
             "twists": [],
             "prompt": {
-                "text": "Bestes Lesematerial auf der Toilette"
+                "text": "Das beste Lesematerial auf der Toilette"
             },
             "facts": []
         },
@@ -12401,7 +12401,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Bestes erstes Wort, was ein Baby sagen könnte"
+                "text": "Das beste erste Wort von einem Baby"
             },
             "facts": []
         },
@@ -12473,7 +12473,7 @@
             "category": "People",
             "twists": [],
             "prompt": {
-                "text": "Dieser Person würdest du am ehesten eine Umarmung geben, wenn du eine Zeitmaschine hättest"
+                "text": "Die Person, der du am ehesten eine Umarmung geben würdest, wenn du eine Zeitmaschine hättest"
             },
             "facts": []
         },
@@ -12498,7 +12498,7 @@
                     "text": "Kaugummi"
                 },
                 {
-                    "text": "Kaubonbons"
+                    "text": "Aufgebackene Brötchen"
                 },
                 {
                     "text": "eine Flasche Bier"
@@ -12509,7 +12509,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Das beste Geschenk was du einem Freund kurzfristig an der Tanke kaufen könntest"
+                "text": "Das beste Geschenk, das du einem Freund kurzfristig an der Tanke kaufen könntest"
             },
             "facts": []
         },
@@ -12537,7 +12537,7 @@
                     "text": "Skittles"
                 },
                 {
-                    "text": "Erdnusbuttercups"
+                    "text": "Toffifee"
                 }
             ],
             "x": false,
@@ -12545,7 +12545,7 @@
             "category": "Food",
             "twists": [],
             "prompt": {
-                "text": "Süßigkeit, die du einem Kind aus dem Mittelalter am ehesten geben würdest"
+                "text": "Die Süßigkeit, die du einem Kind aus dem Mittelalter am ehesten geben würdest"
             },
             "facts": []
         },
@@ -12581,7 +12581,7 @@
             "category": "People",
             "twists": [],
             "prompt": {
-                "text": "Verdient einen Bitchslap"
+                "text": "Wer verdient einen Bitchslap?"
             },
             "facts": []
         },
@@ -12600,7 +12600,7 @@
                     "text": "ein Drache"
                 },
                 {
-                    "text": "Truck"
+                    "text": "LKW"
                 },
                 {
                     "text": "Stefan Raab"
@@ -12617,14 +12617,14 @@
             "category": "",
             "twists": [],
             "prompt": {
-                "text": "Bestes Halloweenkostüm, wenn man unendlich viel Geld dafür hat"
+                "text": "Das beste Halloweenkostüm, wenn man unendlich viel Geld dafür hat"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ein Yoyo"
+                    "text": "Ein Jo-Jo"
                 },
                 {
                     "text": "ein Messer"
@@ -12653,7 +12653,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Die beste Sache die man auf seinem Tinder-Profilfoto in der Hand halten kann"
+                "text": "Die beste Sache, die man auf seinem Tinder-Profilbild in der Hand halten kann"
             },
             "facts": []
         },
@@ -12672,7 +12672,7 @@
                     "text": "Pudding"
                 },
                 {
-                    "text": "Nacho Käse"
+                    "text": "Nacho-Käse"
                 },
                 {
                     "text": "eine Gummischlange"
@@ -12681,7 +12681,7 @@
                     "text": "eine Bärenfalle"
                 },
                 {
-                    "text": "einen elektrischen Schock"
+                    "text": "Zitteraal"
                 }
             ],
             "x": false,
@@ -12689,7 +12689,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Eine Sache die du nicht in dem Loch finden willst, in das du gerade deine Hand gesteckt hast"
+                "text": "Eine Sache, die man nicht in dem Loch finden will, in die man gerade seine Hand gesteckt hat"
             },
             "facts": []
         },
@@ -12699,7 +12699,7 @@
                     "text": "einen Volleyball treffen"
                 },
                 {
-                    "text": "in die Mitte der Dartscheibe treffen"
+                    "text": "Bull\u2019s Eye treffen"
                 },
                 {
                     "text": "einen Homerun schlagen"
@@ -12714,10 +12714,10 @@
                     "text": "einen Basketball dunken"
                 },
                 {
-                    "text": "beim Hockey ein Tor schießen"
+                    "text": "Beim Hockey ein Tor schießen"
                 },
                 {
-                    "text": "den Kentucky Derby gewinnen"
+                    "text": "Ein Hole-in-One erzielen"
                 }
             ],
             "x": true,
@@ -12725,35 +12725,35 @@
             "category": "Sport",
             "twists": [],
             "prompt": {
-                "text": "Das allerschwerste was du bei einer Sportart schaffen kannst"
+                "text": "Der größte denkbare Erfolg, den du bei einer Sportart tatsächlich erreichen könntest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "K:EK"
+                    "text": "K-EK"
                 },
                 {
-                    "text": "B:RO"
+                    "text": "B-RO"
                 },
                 {
-                    "text": "NI:CE "
+                    "text": "NI-CE "
                 },
                 {
-                    "text": "SON:IC"
+                    "text": "SON-IC"
                 },
                 {
-                    "text": "HH:I"
+                    "text": "HH-I"
                 },
                 {
-                    "text": "EH:RE"
+                    "text": "EH-RE"
                 },
                 {
-                    "text": "CO:OL"
+                    "text": "CO-OL"
                 },
                 {
-                    "text": "DA:NG"
+                    "text": "DA-NG"
                 }
             ],
             "x": false,
@@ -12761,23 +12761,23 @@
             "category": "Vehicle",
             "twists": [],
             "prompt": {
-                "text": "Coolstes Nummernschild für ein Auto"
+                "text": "Das coolste Nummernschild für ein Auto"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "schlafe mehr"
+                    "text": "Mehr schlafen"
                 },
                 {
-                    "text": "mal mal Sport!"
+                    "text": "Mach mal Sport!"
                 },
                 {
-                    "text": "schau mehr TV"
+                    "text": "Mehr Fernsehen!"
                 },
                 {
-                    "text": "lass dir mehr Zeit beim Duschen"
+                    "text": "Dusche länger"
                 },
                 {
                     "text": "Tanze"
@@ -12797,7 +12797,7 @@
             "category": "Time",
             "twists": [],
             "prompt": {
-                "text": "Der beste Ratschlag für dein jüngeres Selbst"
+                "text": "Der beste Ratschlag an dein jüngeres Ich"
             },
             "facts": []
         },
@@ -12807,13 +12807,13 @@
                     "text": "iPod"
                 },
                 {
-                    "text": "Mountain Dew"
+                    "text": "Paulaner Spezi"
                 },
                 {
-                    "text": "kurze Hosen"
+                    "text": "Hotpants"
                 },
                 {
-                    "text": "Comic Buch Verfilmungen"
+                    "text": "Comic-Buch-Verfilmungen"
                 },
                 {
                     "text": "TV"
@@ -12825,7 +12825,7 @@
                     "text": "skinny Jeans"
                 },
                 {
-                    "text": "Brooklyn 99 DVDs"
+                    "text": "Brooklyn-99-DVDs"
                 }
             ],
             "x": false,
@@ -12833,7 +12833,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Beste Sache um sie in eine Zeitkapsel zu tun"
+                "text": "Die beste Sache, um sie in eine Zeitkapsel zu tun"
             },
             "facts": []
         },
@@ -12843,7 +12843,7 @@
                     "text": "das Jahr 2525"
                 },
                 {
-                    "text": "Schlatjahr"
+                    "text": "Schaltjahr"
                 },
                 {
                     "text": "Mittwoch Morgen"
@@ -12869,17 +12869,17 @@
             "category": "Time",
             "twists": [
                 {
-                    "text": "Bestes Ziel für eine Zeitmaschine"
+                    "text": "Das beste Ziel für eine Zeitmaschine"
                 },
                 {
-                    "text": "Beste Zeit um zu kacken"
+                    "text": "Die beste Zeit zu kacken"
                 },
                 {
-                    "text": "Beste Zeit um mit jemanden in die Kiste zu hüpfen"
+                    "text": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine Zeit. Egal ob Tag oder Uhrzeit."
+                "text": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
             },
             "facts": []
         },
@@ -12904,7 +12904,7 @@
                     "text": "Michael Cera"
                 },
                 {
-                    "text": "Nicolas Cage"
+                    "text": "Ralph Caspers"
                 },
                 {
                     "text": "Mario Barth"
@@ -12918,10 +12918,10 @@
                     "text": "Wer würde einen Faustkampf gewinnen?"
                 },
                 {
-                    "text": "Bestes Date für deine Mutter"
+                    "text": "Das beste Date für deine Mutter"
                 },
                 {
-                    "text": "Bestes Date für deinen Vater"
+                    "text": "Das beste Date für deinen Vater"
                 }
             ],
             "prompt": {
@@ -12947,7 +12947,7 @@
                     "text": "Streichhölzer"
                 },
                 {
-                    "text": "fidget spinner"
+                    "text": "Fidget Spinner"
                 },
                 {
                     "text": "Marker"
@@ -12961,11 +12961,11 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Beste Waffe in einem Duell um Leben und Tod"
+                    "text": "Die beste Waffe in einem Duell um Leben und Tod"
                 }
             ],
             "prompt": {
-                "text": "Ein kleines Objekt"
+                "text": "Nenne ein kleines Objekt"
             },
             "facts": []
         },
@@ -13001,11 +13001,11 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Welcher Cartooncharakter hat das meiste Sex Appeal?"
+                    "text": "Welcher Cartoon-Charakter hat am meisten Sex-Appeal?"
                 }
             ],
             "prompt": {
-                "text": "Nenne einen Cartoon Charakter"
+                "text": "Nenne einen Cartoon-Charakter"
             },
             "facts": []
         },
@@ -13041,7 +13041,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Coolste Sache um sie in einen Mixer zu tun und zu beobachten was passiert"
+                "text": "Die coolste Sache, um sie in einen Mixer zu tun, nur um zu beobachten, was passiert"
             },
             "facts": []
         },
@@ -13077,7 +13077,7 @@
             "category": "Names",
             "twists": [],
             "prompt": {
-                "text": "Krassester Name für ein Baby"
+                "text": "Der krasseste Name für ein Baby"
             },
             "facts": []
         },
@@ -13087,7 +13087,7 @@
                     "text": "Steppschuhe"
                 },
                 {
-                    "text": "Baby Pool"
+                    "text": "Baby-Pool"
                 },
                 {
                     "text": "Zylinder"
@@ -13113,7 +13113,7 @@
             "category": "Animal",
             "twists": [],
             "prompt": {
-                "text": "Beste Requisite für ein teures Hunde-Fotoshooting"
+                "text": "Die beste Requisite für ein teures Hunde-Fotoshooting"
             },
             "facts": []
         },
@@ -13149,13 +13149,13 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Film der am meisten von Arnold Schwarzenegger profitieren würde"
+                    "text": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
                 },
                 {
-                    "text": "Bester Film um ihn mit deinen Großeltern zu schauen"
+                    "text": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
                 },
                 {
-                    "text": "Bester Film um jemanden rumzubekommen"
+                    "text": "Der beste Film, um jemanden rumzubekommen"
                 }
             ],
             "prompt": {
