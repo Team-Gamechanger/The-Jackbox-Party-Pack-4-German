@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "679019_0f",
+      "n": "Win0Audio",
+      "v": "Ich weiß nicht mal ob das Kunst ist, aber es ist genial!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "679020_0f",
+      "n": "Win1Audio",
+      "v": "Nahrhaft!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win2Audio",
+      "v": "Vielleicht pinkle ich mich in die Hose!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Du bringst mich zum kreischen!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Was ein Grusel-Fest!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "679008_0f",
+      "n": "Twist0Audio",
+      "v": "Bestes Gemüse um es für ein Kunstprojekt an die Wand zu nageln"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "679004_0f",
+      "n": "PromptAudio",
+      "v": "Nenne ein Gemüse"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "679011_0f",
+      "n": "PromptReactionAudio",
+      "v": "It’s going to get profound up in here!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "679018_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DAS beste Gemüse um es für ein Kunstprojekt an die Wand zu nageln?!!"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win0Audio",
+      "v": "Igitt!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win1Audio",
+      "v": "Das ist ja ekelhaft!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win2Audio",
+      "v": "Mir gefällt das gar nicht!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Gut möglich, dass ich gleich kotze!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Das Ist ja das reinste Ekelfernsehen!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "688748_1",
+      "n": "Twist0Audio",
+      "v": "Bester Zeitpunkt um einen Film in Kino zu sehen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "688749_1",
+      "n": "Twist1Audio",
+      "v": "Bester Zeitpunkt für ein Duell"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "688750_1",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit um sie wieder und wieder und wieder zu erleben"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "688744_1",
+      "n": "PromptAudio",
+      "v": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "PromptReactionAudio",
+      "v": "Hat noch wer Lust auf 'Ne runde Blackjack!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "FinalReactionAudio",
+      "v": "Was wäre DIE coolste fünfte Farbe in einem Kartenspiel?!"
+    }
+  ]
+}

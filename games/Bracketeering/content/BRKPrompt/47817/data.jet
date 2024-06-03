@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "668706_0f",
+      "n": "Win0Audio",
+      "v": "Sexy Cartoonsieg!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "668707_0f",
+      "n": "Win1Audio",
+      "v": "Das ist definitiv nichts für Kinder!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "668708_0f",
+      "n": "Win2Audio",
+      "v": "Uh lá lá (in dieser sexy stimme, die man sich dabei vorstellt)"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "668709_0f",
+      "n": "Win3Audio",
+      "v": "Jemand wird ausradiert!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Püriert!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "668695_0f",
+      "n": "Twist0Audio",
+      "v": "Welcher Cartoon-Charakter hat am meisten Sex-Appeal?"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Der beste Film, um jemanden rumzubekommen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "668691_2f",
+      "n": "PromptAudio",
+      "v": "Nenne einen Cartoon-Charakter"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "668698_1f",
+      "n": "PromptReactionAudio",
+      "v": "Ich hab' echt ein ungutes Gefühl!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "668705_0f",
+      "n": "FinalReactionAudio",
+      "v": "Welcher Cartoon-Charakter ist der attraktivste?!"
+    }
+  ]
+}

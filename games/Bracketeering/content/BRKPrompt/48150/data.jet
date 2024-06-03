@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "678787_0f",
+      "n": "Win0Audio",
+      "v": "Wer hat Angst vorm Sensenmann!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win1Audio",
+      "v": "Alleine das zu sehen, macht mich wütend!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win2Audio",
+      "v": "Spüre die Wut!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Bemerk mich, Daddy!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Da harmonisieren meine Chakren!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "678776_0f",
+      "n": "Twist0Audio",
+      "v": "Bestes Spiel um damit mit dem Teufel um dein Leben zu spielen"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "678772_0f",
+      "n": "PromptAudio",
+      "v": "Nenne ein Brett- oder Kartenspiel"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678779_0f",
+      "n": "PromptReactionAudio",
+      "v": "Ich habe den Sensenmann mal im Anstarr-Wettbewerb besiegt und das war NICHT einfach!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678786_0f",
+      "n": "FinalReactionAudio",
+      "v": "In welchem Spiel würdest du den Sensenmann herausfordern, um dein Leben zu retten?!!"
+    }
+  ]
+}

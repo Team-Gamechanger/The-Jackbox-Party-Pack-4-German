@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "674164_0f",
+      "n": "Win0Audio",
+      "v": "Lecker!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "674165_0f",
+      "n": "Win1Audio",
+      "v": "Kind getestet, Mutter erlaubt!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "674166_0f",
+      "n": "Win2Audio",
+      "v": "Nahrhaft!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "674167_0f",
+      "n": "Win3Audio",
+      "v": "Frühstücks Zerstückelung!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Klingt geil!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Das beste Ziel für eine Zeitmaschine"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "674149_0f",
+      "n": "PromptAudio",
+      "v": "Der beste Milch-Ersatz für Cornflakes"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "674156_0f",
+      "n": "PromptReactionAudio",
+      "v": "Jeder war schon einmal an diesem Punkt, Zeit es ein für alle Mal zu klären!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "674163_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DAS beste und einzige Frühstücksmüsli, dass jeder Mensch ab jetzt nur noch essen darf?!"
+    }
+  ]
+}

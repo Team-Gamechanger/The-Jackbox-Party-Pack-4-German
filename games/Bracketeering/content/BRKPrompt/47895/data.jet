@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "671553_0f",
+      "n": "Win0Audio",
+      "v": "Voll heftig!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "671554_0f",
+      "n": "Win1Audio",
+      "v": "Krank!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "671555_0f",
+      "n": "Win2Audio",
+      "v": "Yo... das ist heftig, digga!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "671556_0f",
+      "n": "Win3Audio",
+      "v": "Krasser Sieg!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "671557_0f",
+      "n": "Win4Audio",
+      "v": "Die Nummer eins!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Das beste Ziel für eine Zeitmaschine"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "671538_0f",
+      "n": "PromptAudio",
+      "v": "Das krasseste Nummernschild für ein Auto"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "671545_0f",
+      "n": "PromptReactionAudio",
+      "v": "Und wer sich nicht auskennt... Krass ist was Gutes!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "671552_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DAS krasseste Nummernschild für ein Auto?!!"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "671793_1f",
+      "n": "Win0Audio",
+      "v": "Sport!!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "671794_0f",
+      "n": "Win1Audio",
+      "v": "Knallhart!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "671795_0f",
+      "n": "Win2Audio",
+      "v": "Unglaublicher Erfolg!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Krasser Sieg!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Die Nummer eins!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Das beste Ziel für eine Zeitmaschine"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "671778_0f",
+      "n": "PromptAudio",
+      "v": "Der größte denkbare Erfolg, den du bei einer Sportart tatsächlich erreichen könntest"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "671785_0f",
+      "n": "PromptReactionAudio",
+      "v": "Ich gehe einfach mal davon aus, dass ihr sportlicher seid, als ihr ausseht."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "671792_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist der größte denkbare Erfolg, den auch ihr Normalos im Sport erbringen könnt?!!"
+    }
+  ]
+}

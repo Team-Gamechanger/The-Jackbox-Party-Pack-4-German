@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win0Audio",
+      "v": "Igitt!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win1Audio",
+      "v": "Das ist ja ekelhaft!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win2Audio",
+      "v": "Mir gefällt das gar nicht!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Gut möglich, dass ich gleich kotze!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Das Ist ja das reinste Ekelfernsehen!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "704321_1f",
+      "n": "Twist0Audio",
+      "v": "Wenn deine Kacke diese Farbe hat, musst du dir ernsthafte Sorgen machen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "704322_0f",
+      "n": "Twist1Audio",
+      "v": "Die beste Haarfarbe für rebellische Teenager"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "704323_0f",
+      "n": "Twist2Audio",
+      "v": "Die beste Farbe für ein Hochzeitskleid"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "704317_0f",
+      "n": "PromptAudio",
+      "v": "Nenne irgendeine Farbe"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "PromptReactionAudio",
+      "v": "Dieses Spiel ist ein verbindlicher Vertrag!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DER beste Name für eine Band von Toggo?!"
+    }
+  ]
+}

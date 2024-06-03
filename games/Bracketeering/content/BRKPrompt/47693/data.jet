@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "665932_1f",
+      "n": "Win0Audio",
+      "v": "Licht, Kamera, Sieger!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "665933_1f",
+      "n": "Win1Audio",
+      "v": "Ein richtiger Kassenschlager!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "665934_1f",
+      "n": "Win2Audio",
+      "v": "Ich hätte mir Popcorn holen sollen, was für 'ne Show!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "665935_1f",
+      "n": "Win3Audio",
+      "v": "Der Sieger ist FSK-12. Fantastischer Super Knüller... 12!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "665936_1f",
+      "n": "Win4Audio",
+      "v": "Filmtastisch!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "665921_1f",
+      "n": "Twist0Audio",
+      "v": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "665922_1f",
+      "n": "Twist1Audio",
+      "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "665923_1f",
+      "n": "Twist2Audio",
+      "v": "Der beste Film, um jemanden rumzubekommen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "665917_1f",
+      "n": "PromptAudio",
+      "v": "Nenne einen Filmtitel"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "665924_0f",
+      "n": "PromptReactionAudio",
+      "v": "Einige Kämpfer dürfen gleich Asta la Vista sagen!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "FinalReactionAudio"
+    }
+  ]
+}

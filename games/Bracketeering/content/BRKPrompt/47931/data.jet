@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "672639_0f",
+      "n": "Win0Audio",
+      "v": "Arschbombe!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "672640_0f",
+      "n": "Win1Audio",
+      "v": "Plitsch Platsch!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "672641_0f",
+      "n": "Win2Audio",
+      "v": "Hey, kein Springen vom Beckenrand!! ...Ohne mich!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "672642_0f",
+      "n": "Win3Audio",
+      "v": "Los, rein da!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Die Nummer eins!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Das beste Ziel für eine Zeitmaschine"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "672624_0f",
+      "n": "PromptAudio",
+      "v": "Die beste Sache, um einen Pool damit zu füllen und reinzuspringen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "672631_0f",
+      "n": "PromptReactionAudio",
+      "v": "Muss auch kein Hauspool sein, das Freibad reicht auch."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "672638_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist die beste Sache, die man in ein Pool füllen kann um reinzuspringen!??"
+    }
+  ]
+}

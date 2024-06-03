@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "676302_0f",
+      "n": "Win0Audio",
+      "v": "Diese Antwort erhellt mich, da muss ich AUCH meine Sonnenbrille aufsetzen!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "676303_0f",
+      "n": "Win1Audio",
+      "v": "Underdog aus den Schatten!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "676304_0f",
+      "n": "Win2Audio",
+      "v": "Vergesst nicht, die Gläser zu reinigen!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Bemerk mich, Daddy!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Da harmonisieren meine Chakren!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Das beste Ziel für eine Zeitmaschine"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "676287_0f",
+      "n": "PromptAudio",
+      "v": "Eine Sache, die mit Sonnenbrille lustig aussehen würde"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "676294_0f",
+      "n": "PromptReactionAudio",
+      "v": "Abgesehen von deinem lustigen Gesicht natürlich..."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "676301_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DIE Sache, die mit Sonnenbrille am lustigsten aussehen würde?!"
+    }
+  ]
+}

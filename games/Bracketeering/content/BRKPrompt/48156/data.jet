@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "678959_1f",
+      "n": "Win0Audio",
+      "v": "Ahhhhhhh!!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "678960_0f",
+      "n": "Win1Audio",
+      "v": "Schockschwerenot!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "678961_0f",
+      "n": "Win2Audio",
+      "v": "Vielleicht pinkle ich mich in die Hose!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "678962_0f",
+      "n": "Win3Audio",
+      "v": "Du bringst mich zum kreischen!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "678963_0f",
+      "n": "Win4Audio",
+      "v": "Was ein Grusel-Fest!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "678948_0f",
+      "n": "Twist0Audio",
+      "v": "Bester Titel für einen billigen Horrorfilm"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "678944_0f",
+      "n": "PromptAudio",
+      "v": "Nenne einen Feiertag der nicht wirklich gefeiert wird"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678951_0f",
+      "n": "PromptReactionAudio",
+      "v": "Es wird gruuuuselig!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678958_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was wäre DER beste Titel für einen billigen Horrorfilm?!!"
+    }
+  ]
+}

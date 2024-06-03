@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win0Audio",
+      "v": "2 cute 2 be 4 gotten!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "678870_0f",
+      "n": "Win1Audio",
+      "v": "Hast du das gehört?! Hast du das GEHÖRT?!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "678871_0f",
+      "n": "Win2Audio",
+      "v": "Ich werd diese Nacht schlecht schlafen!!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "678872_0f",
+      "n": "Win3Audio",
+      "v": "Das spielt doch mit dem Kopf!!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "678873_0f",
+      "n": "Win4Audio",
+      "v": "Dort kannst du nicht weghören!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "678858_0f",
+      "n": "Twist0Audio",
+      "v": "Gruseligste Sache, die eine Kinderstimme mitten in der Nacht flüstern könnte"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Die beste Zeit zum Kacken"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "678854_0f",
+      "n": "PromptAudio",
+      "v": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678861_0f",
+      "n": "PromptReactionAudio",
+      "v": "Endlich wird diese Diskussion beendet!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "678868_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist DIE gruseligste Sache,  die eine Kinderstimme mitten in der Nacht flüstern könnte?!! "
+    }
+  ]
+}

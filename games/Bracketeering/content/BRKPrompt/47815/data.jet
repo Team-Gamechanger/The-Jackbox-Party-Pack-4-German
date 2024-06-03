@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "668646_0f",
+      "n": "Win0Audio",
+      "v": "Mix-tastisch!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "668647_0f",
+      "n": "Win1Audio",
+      "v": "Ein heißer Kandidat für die Mix- und Rührmaschine!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "668648_0f",
+      "n": "Win2Audio",
+      "v": "Ab in den Mixer damit!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "So heißen nur Gewinner!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "668650_0f",
+      "n": "Win4Audio",
+      "v": "Püriert!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist0Audio",
+      "v": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist1Audio",
+      "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Twist2Audio",
+      "v": "Der beste Film, um jemanden rumzubekommen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "668631_0f",
+      "n": "PromptAudio",
+      "v": "Die coolste Sache, um sie in einen Mixer zu tun, nur um zu beobachten, was passiert"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "668638_0f",
+      "n": "PromptReactionAudio",
+      "v": "Genauso ist mein Vater gestorben!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "668645_0f",
+      "n": "FinalReactionAudio",
+      "v": "Was ist die coolste Sache, um sie aus Jux und Tollerei in einen Mixer zu stecken, einfach nur um zu beobachten, was passiert?"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win0Audio",
+      "v": "Igitt!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win1Audio",
+      "v": "Das ist ja ekelhaft!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win2Audio",
+      "v": "Mir gefällt das gar nicht!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win3Audio",
+      "v": "Gut möglich, dass ich gleich kotze!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "Win4Audio",
+      "v": "Das Ist ja das reinste Ekelfernsehen!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "s": "688688_0",
+      "n": "Twist0Audio",
+      "v": "Bestes Tier um damit Kinder zu erschrecken"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "s": "688689_0",
+      "n": "Twist1Audio",
+      "v": "Coolstes Tier um darauf in eine Schlacht zu reiten"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "s": "688690_0",
+      "n": "Twist2Audio",
+      "v": "Bester Hauptcharakter für einen Animationsfilm?"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "s": "688684_0",
+      "n": "PromptAudio",
+      "v": "Nenne ein Tier, das größer ist als du"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "PromptReactionAudio",
+      "v": "Hat noch wer Lust auf 'Ne runde Blackjack!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "",
+      "n": "FinalReactionAudio",
+      "v": "Was wäre DIE coolste fünfte Farbe in einem Kartenspiel?!"
+    }
+  ]
+}
