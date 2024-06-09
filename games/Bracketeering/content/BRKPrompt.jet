@@ -9000,28 +9000,28 @@
         {
             "decoys": [
                 {
-                    "text": "fantastisch"
+                    "text": "Fantastisch"
                 },
                 {
-                    "text": "cool"
+                    "text": "Cool"
                 },
                 {
-                    "text": "spektakulär"
+                    "text": "Spektakulär"
                 },
                 {
-                    "text": "abgebrüht"
+                    "text": "Abgebrüht"
                 },
                 {
-                    "text": "attraktiv"
+                    "text": "Attraktiv"
                 },
                 {
-                    "text": "sexuell"
+                    "text": "Sexuell"
                 },
                 {
-                    "text": "egoistisch"
+                    "text": "Egoistisch"
                 },
                 {
-                    "text": "dramatisch"
+                    "text": "Dramatisch"
                 }
             ],
             "x": false,
@@ -9717,7 +9717,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Welche Sache könnte mir am ehesten\u2026 bitte\u2026 unbedingt\u2026 ein wenig Lebensfreude bescheren?"
+                    "text": "Was könnte mir am ehesten\u2026 bitte\u2026 irgendwie\u2026 ein wenig Lebensfreude bescheren?"
                 }
             ],
             "prompt": {
@@ -10169,7 +10169,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Die beste Waffe um einen bösen Gartenzwerg zu töten"
+                    "text": "Die beste Waffe, um einen bösen Gartenzwerg zu töten"
                 }
             ],
             "prompt": {
@@ -10293,7 +10293,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Tätigkeit"
+                "text": "Nenne irgendein Verb"
             },
             "facts": []
         },
@@ -10329,7 +10329,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Was wäre der beste Gefängnis-Spitzname?"
+                    "text": "Der beste Spitzname für einen Gefängnisinsassen"
                 }
             ],
             "prompt": {
@@ -10373,14 +10373,14 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Tätigkeit"
+                "text": "Nenne irgendein Verb"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Rechenwissenschaften"
+                    "text": "Jura"
                 },
                 {
                     "text": "Kunstgeschichte"
@@ -10449,7 +10449,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Das Gemüse, das Benedict Cumberbatch am ehesten in seinem nächsten Film spielen sollte"
+                    "text": "Das Gemüse, das Benedict Cumberbatch in seinem nächsten Film spielen sollte"
                 }
             ],
             "prompt": {
@@ -10493,7 +10493,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Gemüse"
+                "text": "Nenne ein Gemüse"
             },
             "facts": []
         },
@@ -10649,7 +10649,7 @@
             "category": "Body",
             "twists": [
                 {
-                    "text": "Das Körperteil, das man am besten gleich neun Mal am Körper hat"
+                    "text": "Das beste Körperteil, um genau neun Stück davon zu haben"
                 }
             ],
             "prompt": {
@@ -10900,28 +10900,28 @@
         {
             "decoys": [
                 {
-                    "text": "blau"
+                    "text": "Blau"
                 },
                 {
-                    "text": "rot"
+                    "text": "Rot"
                 },
                 {
-                    "text": "gelb"
+                    "text": "Gelb"
                 },
                 {
-                    "text": "grün"
+                    "text": "Grün"
                 },
                 {
-                    "text": "orange"
+                    "text": "Orange"
                 },
                 {
-                    "text": "lila"
+                    "text": "Lila"
                 },
                 {
-                    "text": "schwarz"
+                    "text": "Schwarz"
                 },
                 {
-                    "text": "weiß"
+                    "text": "Weiß"
                 }
             ],
             "x": false,
@@ -10980,7 +10980,7 @@
         {
             "decoys": [
                 {
-                    "text": "Reh"
+                    "text": "Hirsch"
                 },
                 {
                     "text": "Kuh"
@@ -11093,7 +11093,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne deine liebste Comicfigur"
+                "text": "Nenne deinen liebsten Superhelden oder Bösewicht"
             },
             "facts": []
         },
@@ -11112,10 +11112,10 @@
                     "text": "McDonald\u2019s"
                 },
                 {
-                    "text": "Rewe"
+                    "text": "REWE"
                 },
                 {
-                    "text": "Roller"
+                    "text": "Vapiano"
                 },
                 {
                     "text": "Taco Bell"
@@ -11155,7 +11155,7 @@
                     "text": "Scream"
                 },
                 {
-                    "text": "Garfield Comics"
+                    "text": "Garfield-Comics"
                 },
                 {
                     "text": "Star Wars"
@@ -11185,7 +11185,7 @@
                     "text": "Pudding!"
                 },
                 {
-                    "text": "Pyjama Zeit"
+                    "text": "Pyjama-Zeit"
                 },
                 {
                     "text": "Laserstrahl!"
@@ -11197,7 +11197,7 @@
                     "text": "Ziege"
                 },
                 {
-                    "text": "Das ist ein Überfall!"
+                    "text": "Hände hoch!"
                 }
             ],
             "x": false,
@@ -11233,7 +11233,7 @@
                     "text": "Rüstiger Rentner"
                 },
                 {
-                    "text": "liebster Vater"
+                    "text": "Liebster Vater"
                 }
             ],
             "x": false,
@@ -11248,25 +11248,25 @@
         {
             "decoys": [
                 {
-                    "text": "die Hinkrieger"
+                    "text": "Die Hinkrieger"
                 },
                 {
-                    "text": "die Mitmacher"
+                    "text": "Die Mitmacher"
                 },
                 {
-                    "text": "die, die es irgendwie schaffen"
+                    "text": "Die, die es irgendwie schaffen"
                 },
                 {
-                    "text": "die Wolverines"
+                    "text": "Die Wolverines"
                 },
                 {
-                    "text": "die stinkigen Kiddos"
+                    "text": "Die stinkigen Kiddos"
                 },
                 {
-                    "text": "die kleinen Scheißer"
+                    "text": "Die kleinen Scheißer"
                 },
                 {
-                    "text": "die Nachtlichter"
+                    "text": "Die Nachtlichter"
                 },
                 {
                     "text": "Die coolen Kids"
@@ -11277,7 +11277,7 @@
             "category": "Sport",
             "twists": [],
             "prompt": {
-                "text": "Der beste Name für ein Fußballteam, das echt schlecht ist"
+                "text": "Der beste Name für ein richtig schlechtes Fußballteam"
             },
             "facts": []
         },
@@ -11299,10 +11299,10 @@
                     "text": "TV"
                 },
                 {
-                    "text": "eine Dose Mais"
+                    "text": "Eine Dose Mais"
                 },
                 {
-                    "text": "deine Autoschlüssel"
+                    "text": "Meine Autoschlüssel"
                 },
                 {
                     "text": "Schatzkarte"
@@ -11400,7 +11400,7 @@
         {
             "decoys": [
                 {
-                    "text": "ein Erwachsener"
+                    "text": "Ein Erwachsener"
                 },
                 {
                     "text": "Pizza"
@@ -11409,19 +11409,19 @@
                     "text": "Hydrant"
                 },
                 {
-                    "text": "ein kleines Auto"
+                    "text": "Ein Kleinwagen"
                 },
                 {
-                    "text": "die Sonne"
+                    "text": "Die Sonne"
                 },
                 {
-                    "text": "eine Tasse Kaffee"
+                    "text": "Eine Tasse Kaffee"
                 },
                 {
-                    "text": "ein Hund der bereits eine Sonnenbrille trägt"
+                    "text": "Ein Hund, der bereits eine Sonnenbrille trägt"
                 },
                 {
-                    "text": "deine Hand"
+                    "text": "Deine Hand"
                 }
             ],
             "x": false,
@@ -11442,19 +11442,19 @@
                     "text": "Während man ein Sandwich isst"
                 },
                 {
-                    "text": "an deinem Geburtstag"
+                    "text": "An deinem Geburtstag"
                 },
                 {
-                    "text": "beim Zahnarzt"
+                    "text": "Beim Zahnarzt"
                 },
                 {
                     "text": "Beim Einkaufen"
                 },
                 {
-                    "text": "an Weihnachten"
+                    "text": "An Weihnachten"
                 },
                 {
-                    "text": "morgen"
+                    "text": "Morgen"
                 },
                 {
                     "text": "Bei einem Wrestlingmatch"
@@ -11465,14 +11465,14 @@
             "category": "Time",
             "twists": [],
             "prompt": {
-                "text": "Die perfekte Zeit, um \u201cIch liebe dich\u201d zu sagen"
+                "text": "Der perfekte Zeitpunkt, um \u201cIch liebe dich\u201d zu sagen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "schau mal her"
+                    "text": "Schau mal her"
                 },
                 {
                     "text": "Ich bin brandgefährlich"
@@ -11484,13 +11484,13 @@
                     "text": "Pass auf!"
                 },
                 {
-                    "text": "keinen Mucks mehr!"
+                    "text": "Keinen Mucks mehr!"
                 },
                 {
                     "text": "Tut mir leid"
                 },
                 {
-                    "text": "kommt mal runter"
+                    "text": "Kommt mal runter"
                 },
                 {
                     "text": "Ich pfleudere den Pfeuerball"
@@ -11501,20 +11501,20 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Die coolste Sache, die man schreien kann, während man einen Geist heraufbeschwört"
+                "text": "Die coolste Sache, die man schreien kann, während man einen Feuerzauber einsetzt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Man sieht sich!"
+                    "text": "Tschö!"
                 },
                 {
                     "text": "Vermutlich"
                 },
                 {
-                    "text": "wahrscheinlich"
+                    "text": "Wahrscheinlich"
                 },
                 {
                     "text": "Bohnen"
@@ -11537,7 +11537,7 @@
             "category": "Word",
             "twists": [],
             "prompt": {
-                "text": "Das beste Wort, um damit all deine Sätze zu beenden"
+                "text": "Das beste Wort, um damit jeden deiner Sätze zu beenden"
             },
             "facts": []
         },
@@ -11547,25 +11547,25 @@
                     "text": "Smiley"
                 },
                 {
-                    "text": "ein Kaktus"
+                    "text": "Ein Kaktus"
                 },
                 {
-                    "text": "ein Pferd"
+                    "text": "Ein Pferd"
                 },
                 {
                     "text": "Berlin"
                 },
                 {
-                    "text": "VW Golf"
+                    "text": "VW-Golf"
                 },
                 {
-                    "text": "eine Scheibe Toast"
+                    "text": "Scheibe Toast"
                 },
                 {
                     "text": "Regenbogen"
                 },
                 {
-                    "text": "ein Daumen"
+                    "text": "Ein Daumen"
                 }
             ],
             "x": false,
@@ -11658,22 +11658,22 @@
                     "text": "Nicer Dicer"
                 },
                 {
-                    "text": "bitte"
+                    "text": "Bitte"
                 },
                 {
-                    "text": "funky"
+                    "text": "Funky"
                 },
                 {
-                    "text": "Haie"
+                    "text": "Hai"
                 },
                 {
                     "text": "Hammerhart"
                 },
                 {
-                    "text": "Der geilste"
+                    "text": "Der Geilste"
                 },
                 {
-                    "text": "stark"
+                    "text": "Stark"
                 }
             ],
             "x": false,
@@ -11700,7 +11700,7 @@
                     "text": "Pizza"
                 },
                 {
-                    "text": "Cleveland"
+                    "text": "Sachsen-Anhalt"
                 },
                 {
                     "text": "Kacke"
@@ -11727,19 +11727,19 @@
                     "text": "nh"
                 },
                 {
-                    "text": "digga"
+                    "text": "Digga"
                 },
                 {
-                    "text": "Fidget spinner"
+                    "text": "Fidget Spinner"
                 },
                 {
-                    "text": "auf jeden"
+                    "text": "Auf jeden"
                 },
                 {
                     "text": "Jaqueline"
                 },
                 {
-                    "text": "cool"
+                    "text": "Cool"
                 },
                 {
                     "text": "Wahnsinn"
@@ -11769,7 +11769,7 @@
                     "text": "Laser"
                 },
                 {
-                    "text": "Party machen"
+                    "text": "Malle-Urlaub"
                 },
                 {
                     "text": "Klimaanlage"
@@ -11796,7 +11796,7 @@
         {
             "decoys": [
                 {
-                    "text": "sich sonnen"
+                    "text": "Sich sonnen"
                 },
                 {
                     "text": "Die sich selbst melkende Kuh"
@@ -11808,7 +11808,7 @@
                     "text": "Dad-Pose"
                 },
                 {
-                    "text": "der Dude"
+                    "text": "Der Dude"
                 },
                 {
                     "text": "Sonnentanz"
@@ -11844,7 +11844,7 @@
                     "text": "Island"
                 },
                 {
-                    "text": "der Mond"
+                    "text": "Der Mond"
                 },
                 {
                     "text": "Meeresgrund"
@@ -11861,7 +11861,7 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Der beste Urlaubsort für Leute, denen ihre Sicherheit ziemlich egal ist"
+                "text": "Der beste Urlaubsort für Leute, denen ihre Sicherheit komplett egal ist"
             },
             "facts": []
         },
@@ -11877,7 +11877,7 @@
                     "text": "Sandwich"
                 },
                 {
-                    "text": "großer Hund"
+                    "text": "Großer Hund"
                 },
                 {
                     "text": "Zombie"
@@ -12027,7 +12027,7 @@
                     "text": "Schlangen"
                 },
                 {
-                    "text": "eklige Käfer"
+                    "text": "Eklige Käfer"
                 },
                 {
                     "text": "Schule"
