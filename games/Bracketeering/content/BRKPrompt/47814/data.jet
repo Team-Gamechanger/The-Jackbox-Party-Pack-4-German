@@ -3,142 +3,7 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasRoundBreak0Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "RoundBreak0Audio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasRoundBreak1Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "RoundBreak1Audio"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasRoundBreak2Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "RoundBreak2Audio"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasWin0Audio"
-    },
-    {
-      "t": "A",
-      "s": "win0",
-      "n": "Win0Audio",
-      "v": "Das ist goo-goo-gut!"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasWin1Audio"
-    },
-    {
-      "t": "A",
-      "s": "win1",
-      "n": "Win1Audio",
-      "v": "Baby mag's! Baby mag's!"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasWin2Audio"
-    },
-    {
-      "t": "A",
-      "s": "win2",
-      "n": "Win2Audio",
-      "v": "Ja! Ich glaube, dass Kinder unsere Zukunft sind!!"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasWin3Audio"
-    },
-    {
-      "t": "A",
-      "s": "win3",
-      "n": "Win3Audio",
-      "v": "So heißen nur Gewinner!"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasWin4Audio"
-    },
-    {
-      "t": "A",
-      "s": "win4",
-      "n": "Win4Audio",
-      "v": "Ich glaube, ich muss meinen eigenen Namen ändern!"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasTwist0Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "Twist0Audio",
-      "v": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasTwist1Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "Twist1Audio",
-      "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasTwist2Audio"
-    },
-    {
-      "t": "A",
-      "s": "",
-      "n": "Twist2Audio",
-      "v": "Der beste Film, um jemanden rumzubekommen"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasPromptAudio"
-    },
-    {
-      "t": "A",
-      "s": "prompt",
-      "n": "PromptAudio",
-      "v": "Der krasseste Name für ein Baby"
-    },
-    {
-      "t": "B",
-      "v": "true",
-      "n": "HasPromptReactionAudio"
-    },
-    {
-      "t": "A",
-      "s": "promptreaction",
-      "n": "PromptReactionAudio",
-      "v": "Ich hab' meinem Sohn immer noch keinen Namen gegeben und er ist 27.."
     },
     {
       "t": "B",
@@ -146,10 +11,117 @@
       "n": "HasFinalReactionAudio"
     },
     {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
       "t": "A",
-      "s": "finalreaction",
-      "n": "FinalReactionAudio",
-      "v": "Welcher dieser Babynamen ist der unschlagbar krasseste?!"
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Baby likes! Baby likes!",
+      "t": "A",
+      "v": "win1",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Baby name domination!!",
+      "t": "A",
+      "v": "win3",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Yes! I believe that children are our future!!",
+      "t": "A",
+      "v": "win2",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Which of these baby names is indisputiably \u201ckick-ass?!\u201d",
+      "t": "A",
+      "v": "finalreaction",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "I still haven\u2019t named my son and he\u2019s 27 years old..",
+      "t": "A",
+      "v": "promptreaction",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Most kick-ass name to give a baby",
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "It\u2019s goo-goo good!",
+      "t": "A",
+      "v": "win0",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "I might have to change my own name to one of these!!",
+      "t": "A",
+      "v": "win4",
+      "n": "Win4Audio"
     }
   ]
 }
