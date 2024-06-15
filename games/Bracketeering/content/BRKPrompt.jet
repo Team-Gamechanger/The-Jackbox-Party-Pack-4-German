@@ -9508,22 +9508,22 @@
         {
             "decoys": [
                 {
-                    "text": "bei einen Tankstellenkampf"
+                    "text": "Bei einer Tankstellenprügelei"
                 },
                 {
-                    "text": "über einen Schrottplatzzaun klettern"
+                    "text": "Über einen Schrottplatzzaun klettern"
                 },
                 {
                     "text": "Skydiving"
                 },
                 {
-                    "text": "super hart niesen"
+                    "text": "Super hart niesen"
                 },
                 {
-                    "text": "beim Kanufahren"
+                    "text": "Beim Kanufahren"
                 },
                 {
-                    "text": "beim Marathonlauf"
+                    "text": "Beim Marathonlauf"
                 },
                 {
                     "text": "Beim Paarungstanz"
@@ -9537,7 +9537,7 @@
             "category": "Body",
             "twists": [],
             "prompt": {
-                "text": "Der coolste Weg sich Knochen zu brechen"
+                "text": "Der coolste Weg, sich Knochen zu brechen"
             },
             "facts": []
         },
@@ -9562,7 +9562,7 @@
                     "text": "Thunfisch"
                 },
                 {
-                    "text": "Krabben Ragout"
+                    "text": "Krabbenragout"
                 },
                 {
                     "text": "Krabbenbeine"
@@ -9580,7 +9580,7 @@
         {
             "decoys": [
                 {
-                    "text": "eine Dose Thunfisch"
+                    "text": "Eine Dose Thunfisch"
                 },
                 {
                     "text": "Flaschenöffner"
@@ -9598,7 +9598,7 @@
                     "text": "Notfallhammer"
                 },
                 {
-                    "text": "Schokoladenmilch"
+                    "text": "Kakao-Drink"
                 },
                 {
                     "text": "Ladekabel"
@@ -9625,19 +9625,19 @@
                     "text": "Bessere Grammatik"
                 },
                 {
-                    "text": "dunkle Gedanken"
+                    "text": "Finstere Gedanken"
                 },
                 {
-                    "text": "großes Hirn"
+                    "text": "Großes Hirn"
                 },
                 {
-                    "text": "größere Hände"
+                    "text": "Größere Hände"
                 },
                 {
-                    "text": "nette Stimmen im Kopf"
+                    "text": "Nette Stimmen im Kopf"
                 },
                 {
-                    "text": "alles schmeckt nach Kuchen"
+                    "text": "Alles schmeckt nach Kuchen"
                 }
             ],
             "x": true,
@@ -9645,20 +9645,20 @@
             "category": "",
             "twists": [],
             "prompt": {
-                "text": "Die bestmöglichste Nebenwirkung, die ein Medikament haben könnte"
+                "text": "Die bestmögliche Nebenwirkung, die ein Medikament haben könnte"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "deine Hand"
+                    "text": "Deine Hand"
                 },
                 {
                     "text": "Badeschwamm"
                 },
                 {
-                    "text": "reife Bananen"
+                    "text": "Reife Bananen"
                 },
                 {
                     "text": "Wasserbomben"
@@ -9737,7 +9737,7 @@
                     "text": "Pudding"
                 },
                 {
-                    "text": "frisch gemähtes Gras"
+                    "text": "Frisch gemähtes Gras"
                 },
                 {
                     "text": "Haare"
@@ -9746,10 +9746,10 @@
                     "text": "Wolken"
                 },
                 {
-                    "text": "frisch gewachstes Auto"
+                    "text": "Frisch gewachstes Auto"
                 },
                 {
-                    "text": "Ellenbogenhaut"
+                    "text": "Katzenfell"
                 }
             ],
             "x": true,
@@ -9773,10 +9773,10 @@
                     "text": "Geister"
                 },
                 {
-                    "text": "falsche Zähne"
+                    "text": "Falsche Zähne"
                 },
                 {
-                    "text": "benutzte Zahnbürste"
+                    "text": "Benutzte Zahnbürste"
                 },
                 {
                     "text": "Socken"
@@ -9803,16 +9803,16 @@
                     "text": "Springseil"
                 },
                 {
-                    "text": "Hula-Hoop-Fitness"
+                    "text": "Hula-Hoop-Ring"
                 },
                 {
-                    "text": "Mondschuhe"
+                    "text": "Rollerblades"
                 },
                 {
                     "text": "Rubik\u2019s Cube"
                 },
                 {
-                    "text": "Nerf-Pistole"
+                    "text": "Nerf-Blaster"
                 },
                 {
                     "text": "Jo-Jo"
@@ -9829,35 +9829,35 @@
             "category": "",
             "twists": [],
             "prompt": {
-                "text": "Das Kinderspielzeug, mit dem es am meisten Spaß macht, als Erwachsener zu spielen"
+                "text": "Das Kinderspielzeug, bei dem es am meisten Spaß macht, damit als Erwachsener zu spielen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "aus einem Eimer"
+                    "text": "Aus einem Eimer"
                 },
                 {
-                    "text": "vom Boden"
+                    "text": "Vom Boden"
                 },
                 {
-                    "text": "einfach gar nicht"
+                    "text": "Einfach gar nicht"
                 },
                 {
-                    "text": "aus einem Fingerhut"
+                    "text": "Aus einem Fingerhut"
                 },
                 {
-                    "text": "aus einem Stiefel"
+                    "text": "Aus einem Stiefel"
                 },
                 {
-                    "text": "aus seinen Händen"
+                    "text": "Aus seinen Händen"
                 },
                 {
-                    "text": "aus einer Suppenkelle"
+                    "text": "Aus einer Suppenkelle"
                 },
                 {
-                    "text": "durch Telekinese"
+                    "text": "Durch Telekinese"
                 }
             ],
             "x": false,
@@ -9865,7 +9865,7 @@
             "category": "Food",
             "twists": [],
             "prompt": {
-                "text": "Der beste Weg, Kaffee zu trinken, wenn man keine Tasse finden kann"
+                "text": "Die beste Art, Kaffee zu trinken, wenn man keine Tasse finden kann"
             },
             "facts": []
         },
@@ -9901,7 +9901,7 @@
             "category": "Quote",
             "twists": [],
             "prompt": {
-                "text": "Die lustigste Art, jemand Fremden auf der Straße zu begrüßen"
+                "text": "Die lustigste Art, eine fremde Person auf der Straße zu begrüßen"
             },
             "facts": []
         },
@@ -9973,7 +9973,7 @@
             "category": "Book",
             "twists": [],
             "prompt": {
-                "text": "Das Buch, das deinem Kind als Gutenachtgeschichte am ehesten Albträume geben wird"
+                "text": "Das Buch, das einem Kind als Gutenachtgeschichte am ehesten Albträume bescheren wird"
             },
             "facts": []
         },
@@ -10089,7 +10089,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Das beste Emoji, um deinen heimlichen Schwarm heiß zu machen"
+                    "text": "Das beste Emoji, um deinen Schwarm heiß zu machen"
                 }
             ],
             "prompt": {
@@ -12048,7 +12048,7 @@
         {
             "decoys": [
                 {
-                    "text": "eine Goldmünze"
+                    "text": "Eine Goldmünze"
                 },
                 {
                     "text": "Umarmungen"
@@ -12063,10 +12063,10 @@
                     "text": "Lächeln"
                 },
                 {
-                    "text": "ein Song"
+                    "text": "Ein Lied"
                 },
                 {
-                    "text": "feuchter Händedruck"
+                    "text": "Feuchter Händedruck"
                 },
                 {
                     "text": "Welpen"
@@ -12093,10 +12093,10 @@
                     "text": "Die Babyesser"
                 },
                 {
-                    "text": "Definitiv kein Kult"
+                    "text": "Definitiv keine Sekte"
                 },
                 {
-                    "text": "Der Babysitter Club"
+                    "text": "Der Babysitter-Club"
                 },
                 {
                     "text": "Die Trolle"
@@ -12135,13 +12135,13 @@
                     "text": "Tofußweg"
                 },
                 {
-                    "text": "Ein großer Fehler"
+                    "text": "Großer Fehler"
                 },
                 {
                     "text": "Rennen bis zum bitteren Ende"
                 },
                 {
-                    "text": "der lange Marsch"
+                    "text": "Reise nach Jerusalem"
                 }
             ],
             "x": false,
@@ -12149,7 +12149,7 @@
             "category": "Sport",
             "twists": [],
             "prompt": {
-                "text": "Der beste Name für einen Marathonlauf"
+                "text": "Der beste Name für einen Marathon"
             },
             "facts": []
         },
@@ -12174,10 +12174,10 @@
                     "text": "Handgranaten"
                 },
                 {
-                    "text": "heiße Steine"
+                    "text": "Heiße Kartoffeln"
                 },
                 {
-                    "text": "Glühbirnen"
+                    "text": "Jongleure"
                 }
             ],
             "x": false,
@@ -12282,7 +12282,7 @@
                     "text": "Widerling"
                 },
                 {
-                    "text": "Futt"
+                    "text": "Doofie"
                 },
                 {
                     "text": "Schnuss"
@@ -12315,7 +12315,7 @@
                     "text": "Limonade"
                 },
                 {
-                    "text": "Dr. Pepper"
+                    "text": "Nutella"
                 },
                 {
                     "text": "Schnodder"
@@ -12354,7 +12354,7 @@
                     "text": "Herr der Ringe"
                 },
                 {
-                    "text": "eine Zeitung"
+                    "text": "Eine Zeitung"
                 },
                 {
                     "text": "Comics"
@@ -12501,7 +12501,7 @@
                     "text": "Aufgebackene Brötchen"
                 },
                 {
-                    "text": "eine Flasche Bier"
+                    "text": "Eine Flasche Bier"
                 }
             ],
             "x": false,
@@ -12509,7 +12509,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Das beste Geschenk, das du einem Freund kurzfristig an der Tanke kaufen könntest"
+                "text": "Das beste Geschenk, das du einem Freund kurzfristig an der Tanke kaufen kannst"
             },
             "facts": []
         },
@@ -12519,13 +12519,13 @@
                     "text": "Snickers"
                 },
                 {
-                    "text": "gesalzene Erdnüsse"
+                    "text": "Gesalzene Erdnüsse"
                 },
                 {
                     "text": "Twix"
                 },
                 {
-                    "text": "dunkle Schokolade"
+                    "text": "Dunkle Schokolade"
                 },
                 {
                     "text": "Kaugummi"
@@ -12552,10 +12552,10 @@
         {
             "decoys": [
                 {
-                    "text": "niemand"
+                    "text": "Niemand"
                 },
                 {
-                    "text": "ich"
+                    "text": "Ich"
                 },
                 {
                     "text": "Skeletor"
@@ -12570,7 +12570,7 @@
                     "text": "Mörder"
                 },
                 {
-                    "text": "ein böser Mensch"
+                    "text": "Ein böser Mensch"
                 },
                 {
                     "text": "Ivan Drago"
@@ -12581,7 +12581,7 @@
             "category": "People",
             "twists": [],
             "prompt": {
-                "text": "Wer verdient einen Bitchslap?"
+                "text": "Wer verdient eine Backpfeife?"
             },
             "facts": []
         },
@@ -12597,7 +12597,7 @@
                     "text": "Transformer"
                 },
                 {
-                    "text": "ein Drache"
+                    "text": "Ein Drache"
                 },
                 {
                     "text": "LKW"
@@ -12609,7 +12609,7 @@
                     "text": "Diamanten"
                 },
                 {
-                    "text": "reiche Vampire"
+                    "text": "Reiche Vampire"
                 }
             ],
             "x": false,
@@ -12627,22 +12627,22 @@
                     "text": "Ein Jo-Jo"
                 },
                 {
-                    "text": "ein Messer"
+                    "text": "Ein Messer"
                 },
                 {
-                    "text": "ein 35€ Gutschein"
+                    "text": "Ein 35€ Gutschein"
                 },
                 {
-                    "text": "der heilige Gral"
+                    "text": "Der heilige Gral"
                 },
                 {
-                    "text": "das kommunistische Manifest"
+                    "text": "Das kommunistische Manifest"
                 },
                 {
                     "text": "Schleim"
                 },
                 {
-                    "text": "zwei Eier"
+                    "text": "Zwei Eier"
                 },
                 {
                     "text": "Mittagessen"
@@ -12660,13 +12660,13 @@
         {
             "decoys": [
                 {
-                    "text": "ein tollwütiger Hase"
+                    "text": "Ein tollwütiger Hase"
                 },
                 {
                     "text": "Schleim"
                 },
                 {
-                    "text": "eine Krabbe"
+                    "text": "Eine Krabbe"
                 },
                 {
                     "text": "Pudding"
@@ -12675,10 +12675,10 @@
                     "text": "Nacho-Käse"
                 },
                 {
-                    "text": "eine Gummischlange"
+                    "text": "Eine Gummischlange"
                 },
                 {
-                    "text": "eine Bärenfalle"
+                    "text": "Eine Bärenfalle"
                 },
                 {
                     "text": "Zitteraal"
@@ -12696,22 +12696,22 @@
         {
             "decoys": [
                 {
-                    "text": "einen Volleyball treffen"
+                    "text": "Einen Volleyball treffen"
                 },
                 {
                     "text": "Bull\u2019s Eye treffen"
                 },
                 {
-                    "text": "einen Homerun schlagen"
+                    "text": "Einen Homerun schlagen"
                 },
                 {
-                    "text": "einen Marathon gewinnen"
+                    "text": "Einen Marathon gewinnen"
                 },
                 {
-                    "text": "ein Tor schießen"
+                    "text": "Ein Tor schießen"
                 },
                 {
-                    "text": "einen Basketball dunken"
+                    "text": "Einen Basketball dunken"
                 },
                 {
                     "text": "Beim Hockey ein Tor schießen"
@@ -12761,7 +12761,7 @@
             "category": "Vehicle",
             "twists": [],
             "prompt": {
-                "text": "Das coolste Nummernschild für ein Auto"
+                "text": "Das krasseste Nummernschild für ein Auto"
             },
             "facts": []
         },
@@ -12783,13 +12783,13 @@
                     "text": "Tanze"
                 },
                 {
-                    "text": "vertraue keinen Robotern"
+                    "text": "Vertraue keinen Robotern"
                 },
                 {
-                    "text": "iss mehr Papaya"
+                    "text": "Iss mehr Papaya"
                 },
                 {
-                    "text": "don\u2019t stop believin\u2019"
+                    "text": "Don\u2019t stop believin\u2019"
                 }
             ],
             "x": false,
@@ -12819,10 +12819,10 @@
                     "text": "TV"
                 },
                 {
-                    "text": "frittiertes Essen"
+                    "text": "Frittiertes Essen"
                 },
                 {
-                    "text": "skinny Jeans"
+                    "text": "Skinny Jeans"
                 },
                 {
                     "text": "Brooklyn-99-DVDs"
@@ -12855,7 +12855,7 @@
                     "text": "1976"
                 },
                 {
-                    "text": "letzte Woche"
+                    "text": "Letzte Woche"
                 },
                 {
                     "text": "3:35 Uhr"
@@ -12872,7 +12872,7 @@
                     "text": "Das beste Ziel für eine Zeitmaschine"
                 },
                 {
-                    "text": "Die beste Zeit zu kacken"
+                    "text": "Die beste Zeit zum Kacken"
                 },
                 {
                     "text": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
@@ -12972,7 +12972,7 @@
         {
             "decoys": [
                 {
-                    "text": "Applejack"
+                    "text": "Timmy Turner"
                 },
                 {
                     "text": "Eiskönig"
