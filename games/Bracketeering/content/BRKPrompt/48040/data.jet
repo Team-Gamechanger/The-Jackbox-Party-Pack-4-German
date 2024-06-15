@@ -39,7 +39,7 @@
       "t": "A",
       "s": "675578_0f",
       "n": "Win0Audio",
-      "v": "Klonchampion!!!"
+      "v": "Klon-Champion!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "675580_0f",
       "n": "Win2Audio",
-      "v": "Die Idee ist so gut, dass ich sogar die moralischen Schwierigkeiten ignorieren würde!!"
+      "v": "Schmeißt die Moral über Bord!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "675563_0f",
       "n": "PromptAudio",
-      "v": "Coolste Person oder Sache für eine Klon-Armee"
+      "v": "Die coolste Person oder Sache für eine Klon-Armee"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "675570_0f",
       "n": "PromptReactionAudio",
-      "v": "Es wird mal Zeit, dass die Wissenschaft für uns arbeitet!"
+      "v": "Wird aber auch Zeit, dass die Wissenschaft endlich mal sinnvolles schafft."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "675577_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE coolste Sache oder Person für eine Klonarmee?!!"
+      "v": "Was ist die COOLSTE Sache oder Person für eine Klon-Armee?!!"
     }
   ]
 }

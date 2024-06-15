@@ -39,7 +39,7 @@
       "t": "A",
       "s": "678667_0f",
       "n": "Win0Audio",
-      "v": "Endlich langes Wochenende!!!"
+      "v": "Badehose nicht vergessen!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "678668_0f",
       "n": "Win1Audio",
-      "v": "Sie sollten den Flieger buchen!!"
+      "v": "Ab in den Flieger mit dir!"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678659_0f",
       "n": "PromptReactionAudio",
-      "v": "Dieses Thema gefällt mir!"
+      "v": "Endlich mal ein Thema nach meinem Geschmack!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678666_0f",
       "n": "FinalReactionAudio",
-      "v": "WELCHER Videospielcharakter verdient am ehesten Urlaub?!"
+      "v": "Welcher Videospielcharakter verdient den Urlaub am meisten?!"
     }
   ]
 }

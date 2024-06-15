@@ -50,7 +50,7 @@
       "t": "A",
       "s": "674375_0f",
       "n": "Win1Audio",
-      "v": "Kartentragender Sieger!!"
+      "v": "Die Visiten gelesen!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "674376_0f",
       "n": "Win2Audio",
-      "v": "Wir sehen uns Montag!!!"
+      "v": "Fax mich an!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "674359_0f",
       "n": "PromptAudio",
-      "v": "Wort das man auf seine Visitenkarte schreiben kann um Leute zu beeindrucken"
+      "v": "Ein Wort, das man auf seine Visitenkarte schreiben kann, das jeden beeindruckt"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "674366_0f",
       "n": "PromptReactionAudio",
-      "v": "Bei mir ist es mein Name..."
+      "v": "Bei mir ist es mein Name und bei euch?"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "674373_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS beeindruckendste Wort, dass auf einer Visitenkarte stehen kann?!!"
+      "v": "Was ist das beeindruckendste Wort, dass man auf seine Visitenkarte schreiben kann?!!"
     }
   ]
 }

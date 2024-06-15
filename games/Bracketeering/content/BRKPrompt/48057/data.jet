@@ -61,7 +61,7 @@
       "t": "A",
       "s": "676094_0f",
       "n": "Win2Audio",
-      "v": "Wenn Liebe falsch ist, möchte ich nicht richtig sein!!"
+      "v": "Wenn Liebe falsch ist, möchte ich nie mehr recht haben!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "676077_0f",
       "n": "PromptAudio",
-      "v": "Die perfekte Zeit um “Ich liebe dich” zu sagen"
+      "v": "Der perfekte Zeitpunkt, um \"Ich liebe dich\" zu sagen"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "676084_0f",
       "n": "PromptReactionAudio",
-      "v": "Eigentlich ist immer der richtige Zeitpunkt, aber vielleicht überzeugt ihr mich ja"
+      "v": "Gut aufpassen, Singles!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676091_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE perfekte Zeit, um die Wörter \"Ich liebe dich\" zu hören?!!"
+      "v": "Was ist DER PERFEKTE Zeitpunkt, um die Wörter \"Ich liebe dich\" zu sagen?!!"
     }
   ]
 }

@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Entschuldigung Sie, wissen Sie, wie schnell Sie eigentlich GEWINNEN!?"
+      "v": "Guten Tag, allgemeine Siegerkontrolle!"
     },
     {
       "t": "B",
@@ -71,8 +71,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",

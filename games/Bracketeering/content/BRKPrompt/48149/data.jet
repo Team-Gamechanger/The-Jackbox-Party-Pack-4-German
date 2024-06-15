@@ -39,7 +39,7 @@
       "t": "A",
       "s": "678757_0f",
       "n": "Win0Audio",
-      "v": "Fight!!!!"
+      "v": "Tausende Prügeleien zeugen davon!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "678758_0f",
       "n": "Win1Audio",
-      "v": "Alleine das zu sehen, macht mich wütend!!!"
+      "v": "Ich werde jetzt schon wütend!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "678759_0f",
       "n": "Win2Audio",
-      "v": "Spüre die Wut!!"
+      "v": "Dadurch verlor ich 10 Freunde!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678756_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS Spiel, das am ehesten Freundschaften riskiert?!!"
+      "v": "Welches ist das RISIKOREICHSTE Spiel für Freundschaften??!"
     }
   ]
 }

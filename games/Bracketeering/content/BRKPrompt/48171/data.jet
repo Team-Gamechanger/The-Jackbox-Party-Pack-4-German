@@ -38,8 +38,7 @@
     {
       "t": "A",
       "s": "679409_0f",
-      "n": "Win0Audio",
-      "v": "Nachrichtenkosten könnten aufkommen!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "s": "679410_0f",
-      "n": "Win1Audio",
-      "v": "Gutes Emoji!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -61,7 +59,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Entschuldigung Sie, wissen Sie, wie schnell Sie eigentlich GEWINNEN!?"
+      "v": "Guten Tag, allgemeine Siegerkontrolle!"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -127,7 +124,7 @@
       "t": "A",
       "s": "679394_0f",
       "n": "PromptAudio",
-      "v": "Nenne etwas, was man essen kann"
+      "v": "Nenne irgendein Lebensmittel"
     },
     {
       "t": "B",
@@ -149,7 +146,7 @@
       "t": "A",
       "s": "679408_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER beste Emoji um deinen heimlichen Schwarm heiß zu machen?!"
+      "v": "Was ist das BESTE Emoji, um deinen heimlichen Schwarm heiß zu machen?!"
     }
   ]
 }

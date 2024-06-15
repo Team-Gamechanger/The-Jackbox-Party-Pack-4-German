@@ -38,8 +38,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win0Audio",
-      "v": "Cumber-gebatched!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win1Audio",
-      "v": "Welch Cumberbatchen!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +58,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win2Audio",
-      "v": "Cumberbatch Attackte!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +68,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -94,7 +90,7 @@
       "t": "A",
       "s": "679128_0f",
       "n": "Twist0Audio",
-      "v": "Coolste Sache um darin Weltrekordhalter zu sein"
+      "v": "Die coolste Aktivität, in der man Weltrekordhalter sein kann"
     },
     {
       "t": "B",
@@ -127,7 +123,7 @@
       "t": "A",
       "s": "679124_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine Tätigkeit"
+      "v": "Nenne irgendein Verb"
     },
     {
       "t": "B",
@@ -137,8 +133,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "PromptReactionAudio",
-      "v": "Schreibt einfach nur das Fach, alles andere ist egal! (vielleicht im \"derpy / lässigem\" ton)"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -149,7 +144,7 @@
       "t": "A",
       "s": "679138_0f",
       "n": "FinalReactionAudio",
-      "v": "Was wäre DIE coolste Sache um darin Weltrekordhalter zu sein?!!"
+      "v": "Was ist die coolste Aktivität, in der man Weltrekordhalter sein kann??!"
     }
   ]
 }

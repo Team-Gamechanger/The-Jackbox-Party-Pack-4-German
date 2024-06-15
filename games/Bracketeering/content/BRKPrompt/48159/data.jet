@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Vielleicht pinkle ich mich in die Hose!!!"
+      "v": "Pfützen-Alarm, Pfützen-Alarm!!!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "",
       "n": "Win3Audio",
-      "v": "Du bringst mich zum kreischen!!"
+      "v": "So billig, so gruselig!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "679038_0f",
       "n": "Twist0Audio",
-      "v": "Erotischstes Gemüse"
+      "v": "Das erotischste Gemüse"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "679034_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine Gemüse"
+      "v": "Nenne ein Gemüse"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "679041_0f",
       "n": "PromptReactionAudio",
-      "v": "Tut nicht so, als würdet ihr noch nie über diese Frage nachgedacht haben"
+      "v": "Tut nicht so, als hättet ihr noch nie darüber nachgedacht!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "679048_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS erotischte Gemüse?!!"
+      "v": "Welches ist das erotischste Gemüse??!"
     }
   ]
 }

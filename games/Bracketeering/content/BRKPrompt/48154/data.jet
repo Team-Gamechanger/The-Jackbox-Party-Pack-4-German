@@ -39,7 +39,7 @@
       "t": "A",
       "s": "678899_0f",
       "n": "Win0Audio",
-      "v": "Los, packs an mein Körper!!!"
+      "v": "Sofort dranschrauben, bitte!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "678901_0f",
       "n": "Win2Audio",
-      "v": "Die Zukunft ist Jetzt!!!"
+      "v": "Die Zukunft schon heute!!!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "",
       "n": "Win3Audio",
-      "v": "Das spielt doch mit dem Kopf!!"
+      "v": "Ich bin verstört!"
     },
     {
       "t": "B",
@@ -83,7 +83,7 @@
       "t": "A",
       "s": "",
       "n": "Win4Audio",
-      "v": "Dort kannst du nicht weghören!"
+      "v": "Ich brauch' ne neue Unterhose!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678888_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Körperteil um es durch eine Roboterversion zu ersetzen"
+      "v": "Das beste Körperteil, um es durch eine Roboterversion zu ersetzen"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678891_0f",
       "n": "PromptReactionAudio",
-      "v": "An alle Cyborgs, die mitspielen!!"
+      "v": "Werdet zum neuen Terminator!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678898_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS optimalste Körperteil um es durch eine Roboterversion zu ersetzen?!"
+      "v": "Welches ist das BESTE Körperteil, um es durch eine Roboterversion zu ersetzen?!"
     }
   ]
 }

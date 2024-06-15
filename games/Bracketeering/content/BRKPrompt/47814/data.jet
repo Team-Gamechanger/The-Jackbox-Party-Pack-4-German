@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "s": "668616_0f",
+      "s": "win0",
       "n": "Win0Audio",
       "v": "Das ist goo-goo-gut!"
     },
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "668617_0f",
+      "s": "win1",
       "n": "Win1Audio",
-      "v": "Das Baby liebts!"
+      "v": "Baby mag's! Baby mag's!"
     },
     {
       "t": "B",
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "s": "668618_0f",
+      "s": "win2",
       "n": "Win2Audio",
       "v": "Ja! Ich glaube, dass Kinder unsere Zukunft sind!!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "668619_0f",
+      "s": "win3",
       "n": "Win3Audio",
       "v": "So heißen nur Gewinner!"
     },
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "668620_0f",
+      "s": "win4",
       "n": "Win4Audio",
-      "v": "Ich glaube, ich muss meinen Namen ändern!"
+      "v": "Ich glaube, ich muss meinen eigenen Namen ändern!"
     },
     {
       "t": "B",
@@ -125,7 +125,7 @@
     },
     {
       "t": "A",
-      "s": "668601_0f",
+      "s": "prompt",
       "n": "PromptAudio",
       "v": "Der krasseste Name für ein Baby"
     },
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "668608_0f",
+      "s": "promptreaction",
       "n": "PromptReactionAudio",
-      "v": "Ich hab' meinen Sohn immer noch nicht benannt und er ist 27.."
+      "v": "Ich hab' meinem Sohn immer noch keinen Namen gegeben und er ist 27.."
     },
     {
       "t": "B",
@@ -147,7 +147,7 @@
     },
     {
       "t": "A",
-      "s": "668615_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
       "v": "Welcher dieser Babynamen ist der unschlagbar krasseste?!"
     }

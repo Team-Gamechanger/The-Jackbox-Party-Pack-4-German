@@ -39,7 +39,7 @@
       "t": "A",
       "s": "",
       "n": "Win0Audio",
-      "v": "Endlich langes Wochenende!!!"
+      "v": "Badehose nicht vergessen!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Sie sollten den Flieger buchen!!"
+      "v": "Ab in den Flieger mit dir!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678686_0f",
       "n": "Twist0Audio",
-      "v": "Die beste Farbwahl, wenn du ab heute nur noch Gerichte mit dieser Färbung essen dürftest"
+      "v": "Die beste Wahl, wenn du ab heute nur noch Gerichte mit dieser Farbe essen dürftest"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "",
       "n": "PromptReactionAudio",
-      "v": "Dieses Thema gefällt mir!"
+      "v": "Endlich mal ein Thema nach meinem Geschmack!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678696_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Farbe, wenn du ab heute nur noch Gerichte mit dieser Färbung essen dürftest?!!"
+      "v": "Was ist die BESTE Farbe, wenn du ab heute nur noch Gerichte mit dieser Farbe essen dürftest?!!"
     }
   ]
 }

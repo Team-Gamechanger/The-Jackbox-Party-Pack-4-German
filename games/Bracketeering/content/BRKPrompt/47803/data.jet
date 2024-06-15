@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "s": "668350_0f",
+      "s": "win0",
       "n": "Win0Audio",
       "v": "Wer ist 'ne brave Antwort? Ja du, du bis eine brave Antwort!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "s": "668351_0f",
+      "s": "win1",
       "n": "Win1Audio",
       "v": "Der Verlierer kommt an die Leine!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "s": "668352_0f",
+      "s": "win2",
       "n": "Win2Audio",
       "v": "Hundsgemein, was?"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "668353_0f",
+      "s": "win3",
       "n": "Win3Audio",
       "v": "Diese Antwort ist bereit fürs Foto!"
     },
@@ -81,7 +81,7 @@
     },
     {
       "t": "A",
-      "s": "668354_0f",
+      "s": "win4",
       "n": "Win4Audio",
       "v": "Jeder Hund liebt es!"
     },
@@ -125,7 +125,7 @@
     },
     {
       "t": "A",
-      "s": "668335_0f",
+      "s": "prompt",
       "n": "PromptAudio",
       "v": "Die beste Requisite für ein teures Hunde-Fotoshooting"
     },
@@ -136,7 +136,7 @@
     },
     {
       "t": "A",
-      "s": "668342_0f",
+      "s": "promptreaction",
       "n": "PromptReactionAudio",
       "v": "Fotoshootings sind echt teuer, aber hier kommt ihr GARANTIERT auf eure Kosten!"
     },
@@ -147,7 +147,7 @@
     },
     {
       "t": "A",
-      "s": "668349_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
       "v": "Welches ist die WICHTIGSTE REQUISITE, die man zu einem Fotoshooting mit einem Hund mitnimmt?!"
     }

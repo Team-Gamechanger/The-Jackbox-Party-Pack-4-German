@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676784_0f",
       "n": "Win0Audio",
-      "v": "Was ein komisches Wort!!"
+      "v": "Partyalarm!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Richtiger Dad-Joke."
+      "v": "Richtiger Dad-Joke!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "",
       "n": "Twist0Audio",
-      "v": "Beste Person um mit ihr auf einer verlassenen Insel zu stranden"
+      "v": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "676769_0f",
       "n": "PromptAudio",
-      "v": "Bestes Wort um es bei einer Überraschungsparty zu schreien"
+      "v": "Das beste Wort, mit dem man eine Überraschungsparty einleiten könnte"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "676776_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich lösche es jetzt aus meinem System. Überraschung, überraschung, überraschung, überraschung..."
+      "v": "Denn sind wir mal ehrlich, \"Überraschung!\" ist echt ausgelutscht."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676783_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS beste Wort, um es bei einer Überraschungsparty zu schreien?!!"
+      "v": "Was ist das BESTE Wort, das man schreien kann, um eine Überraschungsparty einzuleiten??!"
     }
   ]
 }

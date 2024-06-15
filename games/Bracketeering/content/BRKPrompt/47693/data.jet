@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "s": "665932_1f",
+      "s": "win0",
       "n": "Win0Audio",
       "v": "Licht, Kamera, Sieger!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "s": "665933_1f",
+      "s": "win1",
       "n": "Win1Audio",
       "v": "Ein richtiger Kassenschlager!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "s": "665934_1f",
+      "s": "win2",
       "n": "Win2Audio",
       "v": "Ich hätte mir Popcorn holen sollen, was für 'ne Show!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "665935_1f",
+      "s": "win3",
       "n": "Win3Audio",
       "v": "Der Sieger ist FSK-12. Fantastischer Super Knüller... 12!"
     },
@@ -81,7 +81,7 @@
     },
     {
       "t": "A",
-      "s": "665936_1f",
+      "s": "win4",
       "n": "Win4Audio",
       "v": "Filmtastisch!!!"
     },
@@ -92,7 +92,7 @@
     },
     {
       "t": "A",
-      "s": "665921_1f",
+      "s": "twist0",
       "n": "Twist0Audio",
       "v": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
     },
@@ -103,7 +103,7 @@
     },
     {
       "t": "A",
-      "s": "665922_1f",
+      "s": "twist1",
       "n": "Twist1Audio",
       "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
     },
@@ -114,7 +114,7 @@
     },
     {
       "t": "A",
-      "s": "665923_1f",
+      "s": "twist2",
       "n": "Twist2Audio",
       "v": "Der beste Film, um jemanden rumzubekommen"
     },
@@ -125,20 +125,19 @@
     },
     {
       "t": "A",
-      "s": "665917_1f",
+      "s": "prompt",
       "n": "PromptAudio",
       "v": "Nenne einen Filmtitel"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "s": "665924_0f",
-      "n": "PromptReactionAudio",
-      "v": "Einige Kämpfer dürfen gleich Asta la Vista sagen!"
+      "s": "",
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",

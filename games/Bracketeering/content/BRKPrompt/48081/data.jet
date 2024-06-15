@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676814_0f",
       "n": "Win0Audio",
-      "v": "Schrecklich!!!"
+      "v": "Gruuuselig!!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "676815_0f",
       "n": "Win1Audio",
-      "v": "Ekelt mich schon beim Gedanken!!"
+      "v": "Da krieg' selbst ich Albträume!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "",
       "n": "Twist0Audio",
-      "v": "Beste Person um mit ihr auf einer verlassenen Insel zu stranden"
+      "v": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "676799_0f",
       "n": "PromptAudio",
-      "v": "Diese Gute-Nacht-Geschichte wird deinem Kind am ehesten Albträume geben"
+      "v": "Diese Gute-Nacht-Geschichte wird deinem Kind am ehesten Albträume bescheren"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676813_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Gute-Nacht-Geschichte, die deinem Kind am ehesten Albträume geben wird?!!"
+      "v": "Was ist DIE Gute-Nacht-Geschichte, die deinem Kind am ehesten Albträume bescheren wird??!"
     }
   ]
 }

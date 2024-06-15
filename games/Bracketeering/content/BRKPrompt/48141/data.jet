@@ -39,7 +39,7 @@
       "t": "A",
       "s": "678517_0f",
       "n": "Win0Audio",
-      "v": "Die Nacht der Lebenden gewiiiiint!!!"
+      "v": "Sicher genug?"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "678518_0f",
       "n": "Win1Audio",
-      "v": "Ich will Menschenfleisch!!!"
+      "v": "Lecker, Meeeenschenfleisch!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678506_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Versteck während einer Zombieapokalypse"
+      "v": "Das beste Versteck während einer Zombieapokalypse"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678509_0f",
       "n": "PromptReactionAudio",
-      "v": "Bereit eure Gehiiiiirne anzustrengen?!"
+      "v": "Bereit, eure Hiiiirne anzustrengen?!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678516_0f",
       "n": "FinalReactionAudio",
-      "v": "Wenn die Zombieapokalypse kommt, SIE KOMMT, was ist der beste Laden oder Restaurant, indem man sich verschanzt!?"
+      "v": "Wenn die Zombieapokalype kommt, was wäre dann das BESTE Versteck??!"
     }
   ]
 }

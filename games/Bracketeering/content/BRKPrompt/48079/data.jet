@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676754_0f",
       "n": "Win0Audio",
-      "v": "Papi gefällts!!"
+      "v": "Also ich mag's!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "676755_0f",
       "n": "Win1Audio",
-      "v": "Richtiger Dad-Joke."
+      "v": "Richtiger Dad-Joke!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "",
       "n": "Twist0Audio",
-      "v": "Beste Person um mit ihr auf einer verlassenen Insel zu stranden"
+      "v": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "676739_0f",
       "n": "PromptAudio",
-      "v": "Bester Ersatz für das Wort Papa"
+      "v": "Der beste Ersatz für das Wort \"Papa\""
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "676746_0f",
       "n": "PromptReactionAudio",
-      "v": "Und das, was gewinnt, muss jeder seinen Vater so nennen."
+      "v": "Und mit dem Gewinner muss jeder hier seinen Vater von nun an ansprechen."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676753_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER beste Name, den wir ab jetzt für immer unsere Väter nennen werden?!"
+      "v": "Was ist der beste Ersatz für das Wort \"Papa\", den wir ab jetzt für immer für unsere Väter benutzen??!"
     }
   ]
 }

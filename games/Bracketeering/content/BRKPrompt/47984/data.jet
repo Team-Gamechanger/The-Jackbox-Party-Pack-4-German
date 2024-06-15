@@ -39,7 +39,7 @@
       "t": "A",
       "s": "674314_0f",
       "n": "Win0Audio",
-      "v": "Hört auf es zu nutzen!!!"
+      "v": "Hört auf es zu benutzen!!!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "674315_0f",
       "n": "Win1Audio",
-      "v": "Sollte verbannt sein!!!"
+      "v": "Verbannt es!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "674316_0f",
       "n": "Win2Audio",
-      "v": "Wiederholen wir mal den Duden!!!"
+      "v": "Überarbeitet den Duden!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "674299_0f",
       "n": "PromptAudio",
-      "v": "Ein Wort was aus der deutschen Sprache verbannt werden sollte"
+      "v": "Ein Wort, das aus der deutschen Sprache verbannt werden sollte"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "674306_0f",
       "n": "PromptReactionAudio",
-      "v": "Hey, nicht gemein sein, okay?"
+      "v": "Klären wir das ein für alle mal!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "674313_0f",
       "n": "FinalReactionAudio",
-      "v": "Welches Wort oder Pharse verdienst es am MEISTEN verbannt zu werden?!!"
+      "v": "Welches Wort oder welche Phrase verdient es,  für immer aus der deutschen Sprache verbannt zu werden??!"
     }
   ]
 }

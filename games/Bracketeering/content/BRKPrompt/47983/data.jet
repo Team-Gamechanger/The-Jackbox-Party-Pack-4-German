@@ -39,7 +39,7 @@
       "t": "A",
       "s": "674284_0f",
       "n": "Win0Audio",
-      "v": "Die deutsche Behörde kann mi-... Gut gekämpft!!!"
+      "v": "Das Finanzamt wird mich niemals... Ähhh... Tolle Antwort?"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "674285_0f",
       "n": "Win1Audio",
-      "v": "Behalte die Kassenbons!!!!"
+      "v": "Immer Kassenbons aufheben!!!!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "674269_0f",
       "n": "PromptAudio",
-      "v": "Coolste Sache die man von der Steuer absetzen kann"
+      "v": "Die coolste Sache, um sie von der Steuer abzusetzen"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "674276_0f",
       "n": "PromptReactionAudio",
-      "v": "Mein Steuerberater empfiehlt mir diesen Prompt"
+      "v": "Steuerberater lieben diesen Prompt!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "674283_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER coolste Steuerabzug?!!"
+      "v": "Was ist die COOLSTE Sache, die man von der Steuer absetzen kann??!"
     }
   ]
 }

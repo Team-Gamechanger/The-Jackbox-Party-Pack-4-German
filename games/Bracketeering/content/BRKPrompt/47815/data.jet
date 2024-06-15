@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "s": "668646_0f",
+      "s": "win0",
       "n": "Win0Audio",
       "v": "Mix-tastisch!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "s": "668647_0f",
+      "s": "win1",
       "n": "Win1Audio",
       "v": "Ein heißer Kandidat für die Mix- und Rührmaschine!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "s": "668648_0f",
+      "s": "win2",
       "n": "Win2Audio",
       "v": "Ab in den Mixer damit!"
     },
@@ -81,7 +81,7 @@
     },
     {
       "t": "A",
-      "s": "668650_0f",
+      "s": "win4",
       "n": "Win4Audio",
       "v": "Püriert!"
     },
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "668631_0f",
+      "s": "prompt",
       "n": "PromptAudio",
-      "v": "Die coolste Sache, um sie in einen Mixer zu tun, nur um zu beobachten, was passiert"
+      "v": "Die coolste Sache, die man in einen Mixer tun kann, nur um zu schauen, was passiert"
     },
     {
       "t": "B",
@@ -136,7 +136,7 @@
     },
     {
       "t": "A",
-      "s": "668638_0f",
+      "s": "promptreaction",
       "n": "PromptReactionAudio",
       "v": "Genauso ist mein Vater gestorben!"
     },
@@ -147,9 +147,9 @@
     },
     {
       "t": "A",
-      "s": "668645_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Was ist die coolste Sache, um sie aus Jux und Tollerei in einen Mixer zu stecken, einfach nur um zu beobachten, was passiert?"
+      "v": "Was ist DIE COOLSTE Sache, die man aus Jux und Tollerei in einen Mixer stecken kann, nur um zu schauen, was passiert?"
     }
   ]
 }

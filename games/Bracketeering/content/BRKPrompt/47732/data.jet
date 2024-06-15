@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "666907_0f",
+      "s": "win0",
       "n": "Win0Audio",
-      "v": "Ein verdammter Sieg!"
+      "v": "Ein tierischer Sieg!"
     },
     {
       "t": "B",
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "s": "666908_0f",
+      "s": "win1",
       "n": "Win1Audio",
       "v": "Das ging ja tierisch ab!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "s": "666909_0f",
+      "s": "win2",
       "n": "Win2Audio",
       "v": "Tierischer Tierwettkampf!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "666910_0f",
+      "s": "win3",
       "n": "Win3Audio",
       "v": "Süße Tieraction!"
     },
@@ -125,7 +125,7 @@
     },
     {
       "t": "A",
-      "s": "666892_0f",
+      "s": "prompt",
       "n": "PromptAudio",
       "v": "Ein verdammt cooles Tier"
     },
@@ -136,7 +136,7 @@
     },
     {
       "t": "A",
-      "s": "666899_0f",
+      "s": "promptreaction",
       "n": "PromptReactionAudio",
       "v": "Ich kann's kaum erwarten, welches Tier das \"verdammt Coolste\" sein wird."
     },
@@ -147,7 +147,7 @@
     },
     {
       "t": "A",
-      "s": "666906_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
       "v": "Welches ist das verdammt coolste Tier?"
     }

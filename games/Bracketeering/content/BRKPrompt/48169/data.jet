@@ -38,8 +38,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win0Audio",
-      "v": "Bei uns hier in der Psychatrie gibt es leider nur stumpfe Messer!!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -50,7 +49,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Verhafte mich ist DER gut!!!"
+      "v": "Verhafte mich, ist DER gut!!!"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -94,7 +92,7 @@
       "t": "A",
       "s": "679338_0f",
       "n": "Twist0Audio",
-      "v": "Könnte mir am ehesten… bitte… unbedingt… ein wenig Lebensfreude bescheren"
+      "v": "Was könnte mir am ehesten... bitte... irgendwie... ein wenig Lebensfreude bescheren?"
     },
     {
       "t": "B",
@@ -127,7 +125,7 @@
       "t": "A",
       "s": "679334_1f",
       "n": "PromptAudio",
-      "v": "Nenne irgendetwas was man in der Küche gut gebrauchen kann"
+      "v": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
     {
       "t": "B",
@@ -137,8 +135,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "PromptReactionAudio",
-      "v": "Vielleicht sollte ich mit den Mitternachtssnacks aufhören. (traurigere Stimmlage)"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -149,7 +146,7 @@
       "t": "A",
       "s": "679348_0f",
       "n": "FinalReactionAudio",
-      "v": "Was könnte mir am ehesten… bitte… unbedingt… ein wenig Lebensfreude bescheren?!!"
+      "v": "Was könnte mir am ehesten... bitte... unbedingt... ein wenig Lebensfreude bescheren??! "
     }
   ]
 }

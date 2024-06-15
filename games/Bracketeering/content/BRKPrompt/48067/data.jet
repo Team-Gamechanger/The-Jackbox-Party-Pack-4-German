@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676394_0f",
       "n": "Win0Audio",
-      "v": "Ich pack das sofort über's Bett!!"
+      "v": "Ich hol den Rahmen!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "676396_0f",
       "n": "Win2Audio",
-      "v": "Für's Samt gemacht!!"
+      "v": "Nie waren die Träume süßer!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "676383_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Tier um davon ein riesiges Bild über deinem Bett zu haben"
+      "v": "Das beste Tier, um davon ein riesiges Bild über dem Bett hängen zu haben"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "676379_0f",
       "n": "PromptAudio",
-      "v": "Nenne ein Tier das größer ist als du"
+      "v": "Nenne ein Tier, das größer ist als du"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "676386_0f",
       "n": "PromptReactionAudio",
-      "v": "Endlich eine Klammer die meinen Interessen komplett entspricht"
+      "v": "Jetzt wirds tierisch!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676393_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS beste Tiergemälde aus Samt, dass ihr euch über's Bett hängen würdet?!!"
+      "v": "Was ist das BESTE Tier, um sich davon ein riesiges Bild über das Bett zu hängen??!"
     }
   ]
 }

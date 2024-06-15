@@ -38,8 +38,7 @@
     {
       "t": "A",
       "s": "679319_0f",
-      "n": "Win0Audio",
-      "v": "Bei uns hier in der Psychatrie gibt es leider nur stumpfe Messer!!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -50,7 +49,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Verhafte mich ist DER gut!!!"
+      "v": "Verhafte mich, ist DER gut!!!"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -94,7 +92,7 @@
       "t": "A",
       "s": "679308_0f",
       "n": "Twist0Audio",
-      "v": "Beste Waffe um einen Gremlin zu töten"
+      "v": "Die beste Waffe, um einen bösen Gartenzwerg zu töten"
     },
     {
       "t": "B",
@@ -127,7 +125,7 @@
       "t": "A",
       "s": "679304_0f",
       "n": "PromptAudio",
-      "v": "Nenne etwas, was du in der Küche gut gebrauchen kannst"
+      "v": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
     {
       "t": "B",
@@ -137,8 +135,7 @@
     {
       "t": "A",
       "s": "679311_0f",
-      "n": "PromptReactionAudio",
-      "v": "Vielleicht sollte ich mit den Mitternachtssnacks aufhören. (traurigere Stimmlage)"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -149,7 +146,7 @@
       "t": "A",
       "s": "679318_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Waffe um einen Gremlin zu töten!!"
+      "v": "Was ist die BESTE Waffe, um einen bösen Gartenzwerg zu töten??!"
     }
   ]
 }

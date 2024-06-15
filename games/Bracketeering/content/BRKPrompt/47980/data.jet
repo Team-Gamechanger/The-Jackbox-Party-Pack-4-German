@@ -39,7 +39,7 @@
       "t": "A",
       "s": "674194_0f",
       "n": "Win0Audio",
-      "v": "Ruhe am Schmieden!"
+      "v": "Das ist mal ein Statement!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "",
       "n": "Win3Audio",
-      "v": "Frühstücks Zerstückelung!!!"
+      "v": "Ein unvergessliches Frühstück!!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "674179_0f",
       "n": "PromptAudio",
-      "v": "Coolste Form für einen Sarg"
+      "v": "Die coolste Form für einen Sarg"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "674186_0f",
       "n": "PromptReactionAudio",
-      "v": "Irgendwie traurig...."
+      "v": "Wer sagt, dass Särge nicht auch cool sein können?"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "674193_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE coolste Form für einen Beerdigungssarg?!"
+      "v": "Was ist die COOLSTE Form für einen Sarg?!"
     }
   ]
 }

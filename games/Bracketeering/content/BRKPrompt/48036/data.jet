@@ -39,7 +39,7 @@
       "t": "A",
       "s": "675482_0f",
       "n": "Win0Audio",
-      "v": "Wir sehen uns in der VIP Lounge!!"
+      "v": "Man sieht sich in der VIP-Lounge!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Wir sehen uns Montag!!!"
+      "v": "Fax mich an!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "675467_0f",
       "n": "PromptAudio",
-      "v": "Bester Name um den Türsteher davon zu überzeugen, dass du auf der Gästeliste stehst"
+      "v": "Der beste falsche Name, um den Türsteher davon zu überzeugen, dass du auf der Gästeliste stehst"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "675474_0f",
       "n": "PromptReactionAudio",
-      "v": "Meiner ist immer Plus Eins. Mister Plus Eins."
+      "v": "Meiner ist immer Plus Eins. Herr Schmitty Plus Eins."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "675481_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER beste ausgedachte Name, falls man nicht wirklich eingeladen ist?!"
+      "v": "Was ist der BESTE falsche Name, falls man nicht wirklich eingeladen ist?!"
     }
   ]
 }

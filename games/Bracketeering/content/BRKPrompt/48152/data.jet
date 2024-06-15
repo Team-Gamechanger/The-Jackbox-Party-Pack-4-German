@@ -50,7 +50,7 @@
       "t": "A",
       "s": "678840_0f",
       "n": "Win1Audio",
-      "v": "Hoffe, du hast einen schönen Sommer!!!"
+      "v": "Der perfekte Spruch!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "678842_0f",
       "n": "Win3Audio",
-      "v": "Bestanden, aber jetzt bin ich arbeitslos!!!"
+      "v": "Bestanden und von jetzt an Arbeitslos!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678828_0f",
       "n": "Twist0Audio",
-      "v": "Beste Unterschrift für dein Foto in der Abizeitung"
+      "v": "Der beste Spruch für deine Seite in der Abizeitung"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "678824_0f",
       "n": "PromptAudio",
-      "v": "Zitiere eine berühmte Catchphrase aus Film und Fernsehen"
+      "v": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678831_0f",
       "n": "PromptReactionAudio",
-      "v": "Diese Erinnerung bleiben für immer!"
+      "v": "Eine Erinnerung, die für immer bleibt!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678838_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Unterschrift für dein Foto in der Abizeitung?!!"
+      "v": "Was ist der BESTE Spruch für die eigene Seite in der Abizeitung??!"
     }
   ]
 }

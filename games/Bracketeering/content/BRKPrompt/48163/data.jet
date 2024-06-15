@@ -39,7 +39,7 @@
       "t": "A",
       "s": "679169_0f",
       "n": "Win0Audio",
-      "v": "Ich glaube ich sollte mit absoluter Stille reagieren!!"
+      "v": "Ich glaube, ich sollte mit absoluter Stille reagieren!!"
     },
     {
       "t": "B",
@@ -49,8 +49,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win1Audio",
-      "v": "Welch Cumberbatchen!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +59,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win2Audio",
-      "v": "Cumberbatch Attackte!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -94,7 +91,7 @@
       "t": "A",
       "s": "679158_0f",
       "n": "Twist0Audio",
-      "v": "Beste Aktivität um sie pantomimisch darzustellen"
+      "v": "Die beste Aktivität, um sie pantomimisch darzustellen"
     },
     {
       "t": "B",
@@ -127,7 +124,7 @@
       "t": "A",
       "s": "679154_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine Tätigkeit"
+      "v": "Nenne irgendein Verb"
     },
     {
       "t": "B",
@@ -149,7 +146,7 @@
       "t": "A",
       "s": "679168_1f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Aktivität um sie pantomimisch darzustellen?!"
+      "v": "Was ist die BESTE Aktivität, um sie pantomimisch darzustellen?!"
     }
   ]
 }

@@ -39,7 +39,7 @@
       "t": "A",
       "s": "",
       "n": "Win0Audio",
-      "v": "Los, packs an mein Körper!!!"
+      "v": "Sofort dranschrauben, bitte!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Die Zukunft ist Jetzt!!!"
+      "v": "Die Zukunft schon heute!!!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "",
       "n": "Win3Audio",
-      "v": "Das spielt doch mit dem Kopf!!"
+      "v": "Ich bin verstört!"
     },
     {
       "t": "B",
@@ -83,7 +83,7 @@
       "t": "A",
       "s": "",
       "n": "Win4Audio",
-      "v": "Dort kannst du nicht weghören!"
+      "v": "Ich brauch' ne neue Unterhose!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678918_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Körperteil um genau neun Stück davon zu haben"
+      "v": "Das beste Körperteil, um genau neun Stück davon zu haben"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678921_0f",
       "n": "PromptReactionAudio",
-      "v": "Darüber muss man nachdenken!!!"
+      "v": "Schwierige Entscheidung, das will gut überlegt sein!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678928_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS bste Körperteil um genau neun Stück davon zu haben?!!"
+      "v": "Welches ist das BESTE Körperteil. um genau neun Stück davon zu haben?!!"
     }
   ]
 }

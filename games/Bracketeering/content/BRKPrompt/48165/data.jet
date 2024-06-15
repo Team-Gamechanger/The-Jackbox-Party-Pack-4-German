@@ -50,7 +50,7 @@
       "t": "A",
       "s": "679230_0f",
       "n": "Win1Audio",
-      "v": "Die nächtlichen Kreature lieben diese Antwort!!"
+      "v": "Die Monster der Nacht lieben diese Antwort!"
     },
     {
       "t": "B",
@@ -60,8 +60,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win2Audio",
-      "v": "Cumberbatch Attackte!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "s": "",
-      "n": "Win3Audio",
-      "v": "Cumberbatch-lich!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -94,7 +92,7 @@
       "t": "A",
       "s": "679218_0f",
       "n": "Twist0Audio",
-      "v": "Buch das am meisten von ein paar Vampiren profitieren würde"
+      "v": "Das Buch, dessen Handlung am meisten von ein paar Vampiren profitieren würde"
     },
     {
       "t": "B",
@@ -138,7 +136,7 @@
       "t": "A",
       "s": "679221_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich denke ja, dass jedes Buch von ein paar Vampiren profitieren würde, selbst wenn es schon Vampire gibt."
+      "v": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
     },
     {
       "t": "B",

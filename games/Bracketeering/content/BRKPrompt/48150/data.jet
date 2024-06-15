@@ -50,7 +50,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Alleine das zu sehen, macht mich wütend!!!"
+      "v": "Ich werde jetzt schon wütend!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Spüre die Wut!!"
+      "v": "Dadurch verlor ich 10 Freunde!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678776_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Spiel um damit mit dem Teufel um dein Leben zu spielen"
+      "v": "Das beste Spiel, um darin mit dem Teufel um dein Leben zu spielen"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678779_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich habe den Sensenmann mal im Anstarr-Wettbewerb besiegt und das war NICHT einfach!"
+      "v": "Ich habe den Tod mal im Anstarr-Wettbewerb besiegt und das war NICHT einfach!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678786_0f",
       "n": "FinalReactionAudio",
-      "v": "In welchem Spiel würdest du den Sensenmann herausfordern, um dein Leben zu retten?!!"
+      "v": "Welches ist das BESTE Spiel, um darin mit dem Teufel um dein Leben zu spielen??!"
     }
   ]
 }

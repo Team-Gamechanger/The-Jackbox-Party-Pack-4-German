@@ -39,7 +39,7 @@
       "t": "A",
       "s": "678547_0f",
       "n": "Win0Audio",
-      "v": "Das war... ein guter... Sieg..."
+      "v": "Zack, Pow, Kabaam!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Ich will Menschenfleisch!!!"
+      "v": "Lecker, Meeeenschenfleisch!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "678536_0f",
       "n": "Twist0Audio",
-      "v": "Sollte am ehesten von Elyas M'Barek gespielt werden"
+      "v": "Wer sollte am ehesten von Elyas M'Barek gespielt werden?"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "678532_0f",
       "n": "PromptAudio",
-      "v": "Nenne deine liebste Comicfigur"
+      "v": "Nenne deinen liebsten Superhelden oder Bösewicht"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "678539_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich hab 'ne ziemlich gute Elyas M'Barek Imitation, aber ich lass es hier lieber!"
+      "v": "Ich hab 'ne ziemlich gute Elyas M'Barek-Imitation, aber nicht jetzt."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "678546_0f",
       "n": "FinalReactionAudio",
-      "v": "Welcher Superheld oder Bösewicht braucht es sehr dringend von schrulligem Schauspieler, Elyas M'Barek geschauspielert zu werden?!"
+      "v": "Welche Figur sollte am ehesten von Elyas M'Barek gespielt werden??!"
     }
   ]
 }

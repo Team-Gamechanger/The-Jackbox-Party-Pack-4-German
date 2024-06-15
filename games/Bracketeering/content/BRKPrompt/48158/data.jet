@@ -39,7 +39,7 @@
       "t": "A",
       "s": "679019_0f",
       "n": "Win0Audio",
-      "v": "Ich weiß nicht mal ob das Kunst ist, aber es ist genial!!!"
+      "v": "Kunst oder Krempel?! Warum nicht beides!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Vielleicht pinkle ich mich in die Hose!!!"
+      "v": "Pfützen-Alarm, Pfützen-Alarm!!!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "s": "",
       "n": "Win3Audio",
-      "v": "Du bringst mich zum kreischen!!"
+      "v": "So billig, so gruselig!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "679008_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Gemüse um es für ein Kunstprojekt an die Wand zu nageln"
+      "v": "Das beste Gemüse, um es für ein Kunstprojekt an die Wand zu nageln"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "679011_0f",
       "n": "PromptReactionAudio",
-      "v": "It’s going to get profound up in here!!"
+      "v": "Jetzt wird es hier richtig tiefgründig!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "679018_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS beste Gemüse um es für ein Kunstprojekt an die Wand zu nageln?!!"
+      "v": "Was ist DAS beste Gemüse, um es für ein Kunstprojekt an die Wand zu nageln?!!"
     }
   ]
 }

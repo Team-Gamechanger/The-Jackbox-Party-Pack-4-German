@@ -50,7 +50,7 @@
       "t": "A",
       "s": "",
       "n": "Win1Audio",
-      "v": "Ich SCHNALL hier gar nix mehr!!  ok, das reicht..."
+      "v": "Ich SCHNALL hier gar nix mehr!! "
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Die Idee ist so gut, dass ich sogar die moralischen Schwierigkeiten ignorieren würde!!"
+      "v": "Schmeißt die Moral über Bord!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "675687_0f",
       "n": "PromptAudio",
-      "v": "Bestes Wort um damit all deine Sätze zu beenden"
+      "v": "Das beste Wort, um damit jeden deiner Sätze zu beenden"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "675694_0f",
       "n": "PromptReactionAudio",
-      "v": "Und mit allen Sätzen meine ich jeden Satz. Für immer."
+      "v": "Und mit jeden Satz meinen wir JEDEN Satz! Für immer. Ohne Ausnahmen."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "675701_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS coolste Wort, um all deine Sätze zu beenden?!!"
+      "v": "Was ist das COOLSTE Wort, um damit für immer und ewig jeden deiner Sätze zu beenden?!!"
     }
   ]
 }

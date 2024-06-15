@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676424_0f",
       "n": "Win0Audio",
-      "v": "Irgendwie vermisse ich es VERMISST zu sein!!"
+      "v": "Irgendwie vermisse ich VERMISST zu sein!!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "676425_0f",
       "n": "Win1Audio",
-      "v": "Gute Wahl für die trostlose Wüste!!"
+      "v": "Ich spür' schon die Insel-Vibes!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "",
       "n": "Win2Audio",
-      "v": "Für's Samt gemacht!!"
+      "v": "Nie waren die Träume süßer!"
     },
     {
       "t": "B",
@@ -94,7 +94,7 @@
       "t": "A",
       "s": "676413_0f",
       "n": "Twist0Audio",
-      "v": "Beste Person um mit ihr auf einer verlassenen Insel zu stranden"
+      "v": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "676416_0f",
       "n": "PromptReactionAudio",
-      "v": "Alles schon getan..."
+      "v": "Jeder hat das schon erlebt!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676423_0f",
       "n": "FinalReactionAudio",
-      "v": "Wer ist DIE beste Person, mit der man gestrandet in der Wüste ist?!!"
+      "v": "Mit wem überlebt man gestrandet auf einer einsamen Insel??!"
     }
   ]
 }

@@ -39,7 +39,7 @@
       "t": "A",
       "s": "676002_0f",
       "n": "Win0Audio",
-      "v": "Feuer krasse Wörter!!"
+      "v": "Du brennst förmlich!"
     },
     {
       "t": "B",
@@ -50,7 +50,7 @@
       "t": "A",
       "s": "676003_0f",
       "n": "Win1Audio",
-      "v": "Ich spüre schon die Hitze!!!"
+      "v": "An dir verbrennt man sich die Pfoten!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "s": "676004_0f",
       "n": "Win2Audio",
-      "v": "Feuer mich an!!!"
+      "v": "Wir feuern dich an!"
     },
     {
       "t": "B",
@@ -127,7 +127,7 @@
       "t": "A",
       "s": "675987_0f",
       "n": "PromptAudio",
-      "v": "Das coolste was man schreien kann, wenn man einen Feuerball Zauber wirkt"
+      "v": "Die coolste Sache, die man schreien kann, während man einen Feuerzauber einsetzt"
     },
     {
       "t": "B",
@@ -138,7 +138,7 @@
       "t": "A",
       "s": "675994_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich schreie immer nur \"Feuerball\", aber ich bin noch kein guter Zauberer"
+      "v": "Ich schreie immer nur \"Feuerball\", aber ich bin noch kein guter Zauberer."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "676001_0f",
       "n": "FinalReactionAudio",
-      "v": "Was sind DIE bestesten zwei Wörter, die man beim Feuerballzauber schreien kann?!!"
+      "v": "Was ist die COOLSTE Sache, die man schreien kann, während man einen Feuerzauber einsetzt?!!"
     }
   ]
 }
