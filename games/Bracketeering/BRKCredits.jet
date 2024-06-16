@@ -1,8 +1,20 @@
 ﻿{
     "credits":[
         {
+            "Title": "TEAM GAMECHANGER",
+            "Name": ""
+        },
+        {
             "Title": "PROJEKTLEITUNG",
             "Name": "ERIZZLE"
+        },
+        {
+            "Title": "ÜBERSETZUNG",
+            "Name": "MAXIMILIAN FRANK"
+        },
+        {
+            "Title": "ÜBERSETZUNG",
+            "Name": "HENRYK FAST"
         },
         {
             "Title": "ÜBERSETZUNG",
@@ -13,8 +25,32 @@
             "Name": "ERIZZLE"
         },
         {
+            "Title": "DEUTSCHE STIMME",
+            "Name": "PILZPASSI"
+        },
+        {
+            "Title": "SYNCHRONREGIE",
+            "Name": "ERIZZLE"
+        },
+        {
+            "Title": "DIALOGBUCH",
+            "Name": "MAXIMILIAN FRANK"
+        },
+        {
+            "Title": "DIALOGBUCH",
+            "Name": "MARVIN (MARVJ13)"
+        },
+        {
+            "Title": "QUALITÄTSSICHERUNG",
+            "Name": "MAXIMILIAN FRANK"
+        },
+        {
+            "Title": "QUALITÄTSSICHERUNG",
+            "Name": "VALERIA GERGERT"
+        },
+        {
             "Title": "WEB-ENTWICKLUNG",
-            "Name": "THEDARKSID3R"
+            "Name": "UNRULYJULI3"
         },
         {
             "Title": "WEB-ENTWICKLUNG",
@@ -31,6 +67,18 @@
         {
             "Title": "BESONDERER DANK AN",
             "Name": "UNSERE PATREON-UNTERSTÜTZER"
+        },
+        {
+            "Title": "",
+            "Name": "JACKBOXPATCH.DE"
+        },
+        {
+            "Title": "",
+            "Name": ""
+        },
+        {
+            "Title": "JACKBOX GAMES",
+            "Name": ""
         },
         {
             "Title": "LEITUNG",
@@ -219,6 +267,10 @@
         {
             "Title": "GRÜNDER VON JACKBOX GAMES",
             "Name": "HARRY GOTTLIEB"
-        }         
+        },
+        {
+            "Title": "",
+            "Name": ""
+        }      
     ]
 }
