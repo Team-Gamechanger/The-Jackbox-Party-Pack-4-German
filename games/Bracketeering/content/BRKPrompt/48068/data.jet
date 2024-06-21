@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "676424_0f",
+      "v": "676424_0f",
       "n": "Win0Audio",
-      "v": "Irgendwie vermisse ich VERMISST zu sein!!"
+      "s": "Irgendwie vermisse ich VERMISST zu sein!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "676425_0f",
+      "v": "676425_0f",
       "n": "Win1Audio",
-      "v": "Ich spür' schon die Insel-Vibes!"
+      "s": "Ich spür' schon die Insel-Vibes!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Nie waren die Träume süßer!"
+      "s": "Nie waren die Träume süßer!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Bemerk mich, Daddy!!!"
+      "s": "Bemerk mich, Daddy!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Da harmonisieren meine Chakren!!!"
+      "s": "Da harmonisieren meine Chakren!!!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "676413_0f",
+      "v": "676413_0f",
       "n": "Twist0Audio",
-      "v": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
+      "s": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "676409_1f",
+      "v": "676409_1f",
       "n": "PromptAudio",
-      "v": "Nenne eine berühmte Person"
+      "s": "Nenne eine berühmte Person"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "676416_0f",
+      "v": "676416_0f",
       "n": "PromptReactionAudio",
-      "v": "Jeder hat das schon erlebt!"
+      "s": "Jeder hat das schon erlebt!"
     },
     {
       "t": "B",

@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "672669_0f",
+      "v": "672669_0f",
       "n": "Win0Audio",
-      "v": "Aufschreiben, Kinder!"
+      "s": "Aufschreiben, Kinder!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "672670_0f",
+      "v": "672670_0f",
       "n": "Win1Audio",
-      "v": "Uiuiui, das lese ich besser nicht vor!"
+      "s": "Uiuiui, das lese ich besser nicht vor!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "672671_1f",
+      "v": "672671_1f",
       "n": "Win2Audio",
-      "v": "Ach du Sch- Scheibenkleister!!!"
+      "s": "Ach du Sch- Scheibenkleister!!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Los, rein da!"
+      "s": "Los, rein da!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Die Nummer eins!"
+      "s": "Die Nummer eins!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "672654_0f",
+      "v": "672654_0f",
       "n": "PromptAudio",
-      "v": "Die beste Beleidigung, die auch Kinder benutzen dürfen"
+      "s": "Die beste Beleidigung, die auch Kinder benutzen dürfen"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "672661_0f",
+      "v": "672661_0f",
       "n": "PromptReactionAudio",
-      "v": "Denn auch die Kleinsten müssen mal Dampf ablassen."
+      "s": "Denn auch die Kleinsten müssen mal Dampf ablassen."
     },
     {
       "t": "B",

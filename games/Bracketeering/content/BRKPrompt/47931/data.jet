@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "672639_0f",
+      "v": "672639_0f",
       "n": "Win0Audio",
-      "v": "Arschbombe!!"
+      "s": "Arschbombe!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "672640_0f",
+      "v": "672640_0f",
       "n": "Win1Audio",
-      "v": "Plitsch Platsch!!!"
+      "s": "Plitsch Platsch!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "672641_0f",
+      "v": "672641_0f",
       "n": "Win2Audio",
-      "v": "Hey, kein Springen vom Beckenrand!! ...Ohne mich!"
+      "s": "Hey, kein Springen vom Beckenrand!! ...Ohne mich!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "672642_0f",
+      "v": "672642_0f",
       "n": "Win3Audio",
-      "v": "Los, rein da!"
+      "s": "Los, rein da!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Die Nummer eins!"
+      "s": "Die Nummer eins!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "672624_0f",
+      "v": "672624_0f",
       "n": "PromptAudio",
-      "v": "Die beste Sache, um einen Pool damit zu füllen und reinzuspringen"
+      "s": "Die beste Sache, um einen Pool damit zu füllen und reinzuspringen"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "672631_0f",
+      "v": "672631_0f",
       "n": "PromptReactionAudio",
-      "v": "Muss auch kein Hauspool sein, das Freibad reicht auch."
+      "s": "Muss auch kein Hauspool sein, das Freibad reicht auch."
     },
     {
       "t": "B",

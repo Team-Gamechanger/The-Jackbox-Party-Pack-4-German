@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Igitt!!!"
+      "s": "Igitt!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja ekelhaft!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Mir gefällt das gar nicht!!"
+      "s": "Mir gefällt das gar nicht!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Gut möglich, dass ich gleich kotze!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,8 @@
     },
     {
       "t": "A",
-      "s": "",
-      "n": "Win4Audio",
-      "v": "Das Ist ja das reinste Ekelfernsehen!"
+      "v": "",
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -92,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "696589_0f",
+      "v": "696589_0f",
       "n": "Twist0Audio",
-      "v": "Beste Sache um die “Schere” bei Schere Stein Papier zu ersetzen"
+      "s": "Beste Sache um die “Schere” bei Schere Stein Papier zu ersetzen"
     },
     {
       "t": "B",
@@ -103,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "696590_0f",
+      "v": "696590_0f",
       "n": "Twist1Audio",
-      "v": "Bester Hinweis in einem Escape Room "
+      "s": "Bester Hinweis in einem Escape Room "
     },
     {
       "t": "B",
@@ -114,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "696591_0f",
+      "v": "696591_0f",
       "n": "Twist2Audio",
-      "v": "Du würdest dich am ehesten in diese Sache verlieben"
+      "s": "Du würdest dich am ehesten in diese Sache verlieben"
     },
     {
       "t": "B",
@@ -125,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "696585_0",
+      "v": "696585_0",
       "n": "PromptAudio",
-      "v": "Nenne eine kleine Sache"
+      "s": "Nenne eine kleine Sache"
     },
     {
       "t": "B",
@@ -136,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
     },
     {
       "t": "B",

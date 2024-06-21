@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Igitt!!!"
+      "s": "Igitt!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja ekelhaft!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Mir gefällt das gar nicht!!"
+      "s": "Mir gefällt das gar nicht!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Gut möglich, dass ich gleich kotze!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,8 @@
     },
     {
       "t": "A",
-      "s": "",
-      "n": "Win4Audio",
-      "v": "Das Ist ja das reinste Ekelfernsehen!"
+      "v": "",
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -92,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "696619_0f",
+      "v": "696619_0f",
       "n": "Twist0Audio",
-      "v": "Lustigste neue Mörderwaffe für CLUEDO"
+      "s": "Lustigste neue Mörderwaffe für CLUEDO"
     },
     {
       "t": "B",
@@ -103,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "696620_0f",
+      "v": "696620_0f",
       "n": "Twist1Audio",
-      "v": "Beste Grabbeigabe"
+      "s": "Beste Grabbeigabe"
     },
     {
       "t": "B",
@@ -114,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "696621_0f",
+      "v": "696621_0f",
       "n": "Twist2Audio",
-      "v": "Beste Sache um sie in eine Pinata zu tun"
+      "s": "Beste Sache um sie in eine Pinata zu tun"
     },
     {
       "t": "B",
@@ -125,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "696615_0f",
+      "v": "696615_0f",
       "n": "PromptAudio",
-      "v": "Nenne ein kleines Objekt"
+      "s": "Nenne ein kleines Objekt"
     },
     {
       "t": "B",
@@ -136,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
     },
     {
       "t": "B",

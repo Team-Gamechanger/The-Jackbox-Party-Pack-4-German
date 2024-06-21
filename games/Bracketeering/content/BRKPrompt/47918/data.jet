@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "672243_0f",
+      "v": "672243_0f",
       "n": "Win0Audio",
-      "v": "Zuckersüßer Sieg!"
+      "s": "Zuckersüßer Sieg!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "672244_0f",
+      "v": "672244_0f",
       "n": "Win1Audio",
-      "v": "Der Drops ist gelutscht!"
+      "s": "Der Drops ist gelutscht!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "672245_0f",
+      "v": "672245_0f",
       "n": "Win2Audio",
-      "v": "Zuckerschockiert!!!"
+      "s": "Zuckerschockiert!!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Krasser Sieg!!!"
+      "s": "Krasser Sieg!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Die Nummer eins!"
+      "s": "Die Nummer eins!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "672228_0f",
+      "v": "672228_0f",
       "n": "PromptAudio",
-      "v": "Die Süßigkeit, die du einem Kind aus dem Mittelalter am ehesten geben würdest"
+      "s": "Die Süßigkeit, die du einem Kind aus dem Mittelalter am ehesten geben würdest"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "672235_0f",
+      "v": "672235_0f",
       "n": "PromptReactionAudio",
-      "v": "Hoffen wir für dieses Kind einmal, dass ihr Geschmack habt!"
+      "s": "Hoffen wir für dieses Kind einmal, dass ihr Geschmack habt!"
     },
     {
       "t": "B",

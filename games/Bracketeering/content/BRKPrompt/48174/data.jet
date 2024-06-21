@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "679499_0f",
+      "v": "679499_0f",
       "n": "Win0Audio",
-      "v": "Mmmmmmm!!!"
+      "s": "Mmmmmmm!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "679500_0f",
+      "v": "679500_0f",
       "n": "Win1Audio",
-      "v": "Das könnte mir richtig gefallen!!!"
+      "s": "Ohh, ich rieche es förmlich!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Guten Tag, allgemeine Siegerkontrolle!"
+      "s": "Guten Tag, allgemeine Siegerkontrolle!"
     },
     {
       "t": "B",
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -91,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "679488_0f",
+      "v": "679488_0f",
       "n": "Twist0Audio",
-      "v": "Bestes Essen um dauerhaft danach zu riechen"
+      "s": "Das beste Essen, um für immer danach zu riechen"
     },
     {
       "t": "B",
@@ -102,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -113,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -124,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "679484_0f",
+      "v": "679484_0f",
       "n": "PromptAudio",
-      "v": "Nenne irgendeine Speise"
+      "s": "Nenne irgendeine Speise"
     },
     {
       "t": "B",
@@ -135,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "679491_0f",
+      "v": "679491_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich hoffe schlechte Milch gewinnt, denn mein Arzt hat gesagt, dass der Geruch NICHT mehr weggeht!"
+      "s": "Sagt lebewohl zu Parfüm, das brauchen wir bald nicht mehr!"
     },
     {
       "t": "B",
@@ -148,7 +148,7 @@
       "t": "A",
       "s": "679498_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS beste Essen um dauerhaft danach zu riechen?!!"
+      "v": "Was ist das BESTE Essen, um ab jetzt für immer und ewig danach zu riechen?!!"
     }
   ]
 }

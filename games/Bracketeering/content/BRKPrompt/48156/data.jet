@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "678959_1f",
+      "v": "678959_1f",
       "n": "Win0Audio",
-      "v": "Ahhhhhhh!!!!"
+      "s": "Ahhhhhhh!!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "678960_0f",
+      "v": "678960_0f",
       "n": "Win1Audio",
-      "v": "Schockschwerenot!!!"
+      "s": "Schockschwerenot!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "678961_0f",
+      "v": "678961_0f",
       "n": "Win2Audio",
-      "v": "Pfützen-Alarm, Pfützen-Alarm!!!"
+      "s": "Pfützen-Alarm, Pfützen-Alarm!!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "678962_0f",
+      "v": "678962_0f",
       "n": "Win3Audio",
-      "v": "So billig, so gruselig!"
+      "s": "So billig, so gruselig!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "678963_0f",
+      "v": "678963_0f",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "678948_0f",
+      "v": "678948_0f",
       "n": "Twist0Audio",
-      "v": "Der beste Titel für einen billigen Horrorfilm"
+      "s": "Der beste Titel für einen billigen Horrorfilm"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "678944_0f",
+      "v": "678944_0f",
       "n": "PromptAudio",
-      "v": "Nenne einen Feiertag, der nicht wirklich gefeiert wird"
+      "s": "Nenne einen Feiertag, der nicht wirklich gefeiert wird"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "678951_0f",
+      "v": "678951_0f",
       "n": "PromptReactionAudio",
-      "v": "Es wird gruuuuselig!"
+      "s": "Es wird gruuuuselig!"
     },
     {
       "t": "B",

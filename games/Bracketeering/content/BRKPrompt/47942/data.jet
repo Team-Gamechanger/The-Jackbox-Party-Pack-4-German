@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "672973_0f",
+      "v": "672973_0f",
       "n": "Win0Audio",
-      "v": "Okay, das klingt schon ganz nett!"
+      "s": "Okay, das klingt schon ganz nett!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "672974_0f",
+      "v": "672974_0f",
       "n": "Win1Audio",
-      "v": "Vielleicht ist jonglieren ja doch cool?!"
+      "s": "Vielleicht ist jonglieren ja doch cool?!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "672975_0f",
+      "v": "672975_0f",
       "n": "Win2Audio",
-      "v": "Wow, ich muss das sehen!"
+      "s": "Wow, ich muss das sehen!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Los, rein da!"
+      "s": "Los, rein da!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Die Nummer eins!"
+      "s": "Die Nummer eins!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "672958_0f",
+      "v": "672958_0f",
       "n": "PromptAudio",
-      "v": "Die coolste Sache, die man jonglieren kann"
+      "s": "Die coolste Sache, die man jonglieren kann"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "672965_0f",
+      "v": "672965_0f",
       "n": "PromptReactionAudio",
-      "v": "Das ist vielleicht ein bisschen hart aber... passen die Wörter \"Cool\" und \"Jonglieren\" überhaupt in den selben Satz?"
+      "s": "Das ist vielleicht ein bisschen hart aber... passen die Wörter \"Cool\" und \"Jonglieren\" überhaupt in den selben Satz?"
     },
     {
       "t": "B",

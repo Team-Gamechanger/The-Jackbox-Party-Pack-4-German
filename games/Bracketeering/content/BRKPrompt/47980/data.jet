@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "674194_0f",
+      "v": "674194_0f",
       "n": "Win0Audio",
-      "v": "Das ist mal ein Statement!"
+      "s": "Das ist mal ein Statement!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "674195_0f",
+      "v": "674195_0f",
       "n": "Win1Audio",
-      "v": "Gruselig, aber gut!!!"
+      "s": "Gruselig, aber gut!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Nahrhaft!!!"
+      "s": "Nahrhaft!!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Ein unvergessliches Frühstück!!"
+      "s": "Ein unvergessliches Frühstück!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Klingt geil!"
+      "s": "Klingt geil!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "674179_0f",
+      "v": "674179_0f",
       "n": "PromptAudio",
-      "v": "Die coolste Form für einen Sarg"
+      "s": "Die coolste Form für einen Sarg"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "674186_0f",
+      "v": "674186_0f",
       "n": "PromptReactionAudio",
-      "v": "Wer sagt, dass Särge nicht auch cool sein können?"
+      "s": "Wer sagt, dass Särge nicht auch cool sein können?"
     },
     {
       "t": "B",

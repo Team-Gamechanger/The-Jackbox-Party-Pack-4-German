@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Fataler Schlag!"
+      "s": "Kritischer Treffer!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Kleines Objekt, großer Sieg!"
+      "s": "Kleines Objekt, großer Sieg!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Das könnte etwas dauern!!"
+      "s": "Das könnte etwas dauern!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch was für Schlag den Star!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Klein aber fein!"
+      "s": "Klein aber fein!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "668785_3f",
+      "v": "668785_3f",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "668786_2f",
+      "v": "668786_2f",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "668787_1f",
+      "v": "668787_1f",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "668781_0f",
+      "v": "668781_0f",
       "n": "PromptAudio",
-      "v": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
+      "s": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "668788_0f",
+      "v": "668788_0f",
       "n": "PromptReactionAudio",
-      "v": "Ja... Ich hab's gesagt..."
+      "s": "Ja... Ich hab's gesagt..."
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "",
       "n": "FinalReactionAudio",
-      "v": "Welche ist die beste Waffe in diesem verrückten Duell um Leben und Tod?!"
+      "v": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
     }
   ]
 }

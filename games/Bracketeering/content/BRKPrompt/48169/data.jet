@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio"
     },
     {
@@ -47,9 +47,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Verhafte mich, ist DER gut!!!"
+      "s": "Verhafte mich, ist DER gut!!!"
     },
     {
       "t": "B",
@@ -58,9 +58,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Einzelhaft, dafür aber einziger Sieger!"
+      "s": "Einzelhaft, dafür aber einziger Sieger!"
     },
     {
       "t": "B",
@@ -69,7 +69,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -79,9 +79,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -90,9 +90,9 @@
     },
     {
       "t": "A",
-      "s": "679338_0f",
+      "v": "679338_0f",
       "n": "Twist0Audio",
-      "v": "Was könnte mir am ehesten... bitte... irgendwie... ein wenig Lebensfreude bescheren?"
+      "s": "Was könnte mir am ehesten... bitte... irgendwie... ein wenig Lebensfreude bescheren?"
     },
     {
       "t": "B",
@@ -101,9 +101,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -112,9 +112,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -123,9 +123,9 @@
     },
     {
       "t": "A",
-      "s": "679334_1f",
+      "v": "679334_1f",
       "n": "PromptAudio",
-      "v": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
+      "s": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
     {
       "t": "B",
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio"
     },
     {

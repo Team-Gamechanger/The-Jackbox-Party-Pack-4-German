@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Igitt!!!"
+      "s": "Igitt!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja ekelhaft!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Mir gefällt das gar nicht!!"
+      "s": "Mir gefällt das gar nicht!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Gut möglich, dass ich gleich kotze!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,8 @@
     },
     {
       "t": "A",
-      "s": "",
-      "n": "Win4Audio",
-      "v": "Das Ist ja das reinste Ekelfernsehen!"
+      "v": "",
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -92,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Live wahrscheinlich am besten"
+      "s": "Live wahrscheinlich am besten"
     },
     {
       "t": "B",
@@ -103,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "687466_0f",
+      "v": "687466_0f",
       "n": "PromptAudio",
-      "v": "Nenne den männlichsten Ort zum picknicken"
+      "s": "Nenne den männlichsten Ort zum picknicken"
     },
     {
       "t": "B",
@@ -136,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "687473_0f",
+      "v": "687473_0f",
       "n": "PromptReactionAudio",
-      "v": "(Hyper-macho) Vergesst bloß die Apfelschorle nicht!"
+      "s": "(Hyper-macho) Vergesst bloß die Apfelschorle nicht!"
     },
     {
       "t": "B",

@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Igitt!!!"
+      "s": "Igitt!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja ekelhaft!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Mir gefällt das gar nicht!!"
+      "s": "Mir gefällt das gar nicht!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Gut möglich, dass ich gleich kotze!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,8 @@
     },
     {
       "t": "A",
-      "s": "",
-      "n": "Win4Audio",
-      "v": "Das Ist ja das reinste Ekelfernsehen!"
+      "v": "",
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -92,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "704861_0",
+      "v": "704861_0",
       "n": "Twist0Audio",
-      "v": "In wessen Haus würdest du am liebsten eine Nacht verbringen?"
+      "s": "In wessen Haus würdest du am liebsten eine Nacht verbringen?"
     },
     {
       "t": "B",
@@ -103,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "704862_0f",
+      "v": "704862_0f",
       "n": "Twist1Audio",
-      "v": "Verdient einen Popoklatscher"
+      "s": "Verdient einen Popoklatscher"
     },
     {
       "t": "B",
@@ -114,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "704863_0f",
+      "v": "704863_0f",
       "n": "Twist2Audio",
-      "v": "Nach dieser Person sollte eine Grundschule benannt werden"
+      "s": "Nach dieser Person sollte eine Grundschule benannt werden"
     },
     {
       "t": "B",
@@ -125,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "704857_0f",
+      "v": "704857_0f",
       "n": "PromptAudio",
-      "v": "Nenne irgendeine prominente Person"
+      "s": "Nenne irgendeine prominente Person"
     },
     {
       "t": "B",
@@ -136,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
     },
     {
       "t": "B",

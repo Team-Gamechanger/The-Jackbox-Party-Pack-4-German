@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "670540_0f",
+      "v": "670540_0f",
       "n": "Win0Audio",
-      "v": "Das muss für die Ewigkeit konserviert werden!"
+      "s": "Das muss für die Ewigkeit konserviert werden!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "670541_0f",
+      "v": "670541_0f",
       "n": "Win1Audio",
-      "v": "Rein damit!"
+      "s": "Rein damit!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "670542_0f",
+      "v": "670542_0f",
       "n": "Win2Audio",
-      "v": "Archäologen werden sich daran den Kopf zerbrechen!!"
+      "s": "Archäologen werden sich daran den Kopf zerbrechen!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch was für Schlag den Star!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Klein aber fein!"
+      "s": "Klein aber fein!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "670525_0f",
+      "v": "670525_0f",
       "n": "PromptAudio",
-      "v": "Die beste Sache, um sie in eine Zeitkapsel zu tun"
+      "s": "Die beste Sache, um sie in eine Zeitkapsel zu tun"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "670532_0f",
+      "v": "670532_0f",
       "n": "PromptReactionAudio",
-      "v": "Und ganz ehrlich, ich wurde schon von viel zu vielen Zeitkapseln angelogen."
+      "s": "Und ganz ehrlich, ich wurde schon von viel zu vielen Zeitkapseln angelogen."
     },
     {
       "t": "B",

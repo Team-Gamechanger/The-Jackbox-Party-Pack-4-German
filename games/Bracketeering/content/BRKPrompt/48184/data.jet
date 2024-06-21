@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "679805_0f",
+      "v": "679805_0f",
       "n": "Win0Audio",
-      "v": "Her mit der 3D-Brille!!"
+      "s": "Her mit dem Kinoticket!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "679806_0f",
+      "v": "679806_0f",
       "n": "Win1Audio",
-      "v": "Wo kann ich das Popcorn kaufen?!"
+      "s": "Wo kann ich das Popcorn kaufen?!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Guten Tag, allgemeine Siegerkontrolle!"
+      "s": "Guten Tag, allgemeine Siegerkontrolle!"
     },
     {
       "t": "B",
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -91,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Bestes Essen um dauerhaft danach zu riechen"
+      "s": "Das beste Essen, um für immer danach zu riechen"
     },
     {
       "t": "B",
@@ -102,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -113,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -124,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "679790_0f",
+      "v": "679790_0f",
       "n": "PromptAudio",
-      "v": "Ein Film der am ehesten eine Fortsetzung verdient"
+      "s": "Der Film, der am ehesten eine Fortsetzung verdient"
     },
     {
       "t": "B",
@@ -135,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "679797_0f",
+      "v": "679797_0f",
       "n": "PromptReactionAudio",
-      "v": "Versteht jeder, was ich mit dem Prompt mein'? Also es VERDIENT eine Fortsetzung, hat aber noch keine. Ist das klar? Ihr checkts schon."
+      "s": "Versteht jeder, was ich mit dem Prompt mein'? Ein Film, der eine Fortsetzung VERDIENT, weil er noch keine hat! Klar? Klar!"
     },
     {
       "t": "B",
@@ -148,7 +148,7 @@
       "t": "A",
       "s": "679804_0f",
       "n": "FinalReactionAudio",
-      "v": "WELCHER Film verdient am ehesten eine süße Fortsetzung?!!"
+      "v": "Welcher Film verdient am meisten die Fortsetzung?!!"
     }
   ]
 }

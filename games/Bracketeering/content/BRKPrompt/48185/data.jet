@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,8 @@
     },
     {
       "t": "A",
-      "s": "679835_0f",
-      "n": "Win0Audio",
-      "v": "Steigt nicht bei Fremden ins Auto!!!"
+      "v": "679835_0f",
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -48,9 +47,9 @@
     },
     {
       "t": "A",
-      "s": "679836_0f",
+      "v": "679836_0f",
       "n": "Win1Audio",
-      "v": "Das ruf ich jetzt jedem hinterher!!!"
+      "s": "Das ruf ich jetzt jedem hinterher!!!"
     },
     {
       "t": "B",
@@ -59,9 +58,9 @@
     },
     {
       "t": "A",
-      "s": "679837_0f",
+      "v": "679837_0f",
       "n": "Win2Audio",
-      "v": "Die Begrüßung ist GUUUUUUT!!!"
+      "s": "Die Begrüßung ist GUUUUUUT!!!"
     },
     {
       "t": "B",
@@ -70,7 +69,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -80,9 +79,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -91,9 +90,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Bestes Essen um dauerhaft danach zu riechen"
+      "s": "Das beste Essen, um für immer danach zu riechen"
     },
     {
       "t": "B",
@@ -102,9 +101,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -113,9 +112,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -124,9 +123,9 @@
     },
     {
       "t": "A",
-      "s": "679820_0f",
+      "v": "679820_0f",
       "n": "PromptAudio",
-      "v": "Lustigste Art jemand Fremden auf der Straße zu begrüßen"
+      "s": "Die lustigste Art, eine fremde Person auf der Straße zu begrüßen"
     },
     {
       "t": "B",
@@ -135,9 +134,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Versteht jeder, was ich mit dem Prompt mein'? Also es VERDIENT eine Fortsetzung, hat aber noch keine. Ist das klar? Ihr checkts schon."
+      "s": "Versteht jeder, was ich mit dem Prompt mein'? Ein Film, der eine Fortsetzung VERDIENT, weil er noch keine hat! Klar? Klar!"
     },
     {
       "t": "B",
@@ -148,7 +147,7 @@
       "t": "A",
       "s": "679834_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Art einen Fremden auf der Straße zu begrüßen?!!"
+      "v": "Was ist die LUSTIGSTE Art, einen Wildfremden auf der Straße zu begrüßen?!!"
     }
   ]
 }

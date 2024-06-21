@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Fataler Schlag!"
+      "s": "Kritischer Treffer!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Kleines Objekt, großer Sieg!"
+      "s": "Kleines Objekt, großer Sieg!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Das könnte etwas dauern!!"
+      "s": "Das könnte etwas dauern!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch was für Schlag den Star!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Klein aber fein!"
+      "s": "Klein aber fein!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "668755_1f",
+      "v": "668755_1f",
       "n": "Twist0Audio",
-      "v": "Wer würde einen Faustkampf gewinnen?"
+      "s": "Wer würde einen Faustkampf gewinnen?"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "668756_1f",
+      "v": "668756_1f",
       "n": "Twist1Audio",
-      "v": "Das beste Date für deine Mutter"
+      "s": "Das beste Date für deine Mutter"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "668757_1f",
+      "v": "668757_1f",
       "n": "Twist2Audio",
-      "v": "Das beste Date für deinen Vater"
+      "s": "Das beste Date für deinen Vater"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "668751_0f",
+      "v": "668751_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine berühmte Person"
+      "s": "Nenne eine berühmte Person"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "668758_1f",
+      "v": "668758_1f",
       "n": "PromptReactionAudio",
-      "v": "Nicht, dass ich betrügen unterstützen würde!"
+      "s": "Nicht, dass ich betrügen unterstützen würde!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "",
       "n": "FinalReactionAudio",
-      "v": "Welche ist die beste Waffe in diesem verrückten Duell um Leben und Tod?!"
+      "v": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
     }
   ]
 }

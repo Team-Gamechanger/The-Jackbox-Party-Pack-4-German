@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win0Audio",
-      "v": "Igitt!!!"
+      "s": "Igitt!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win1Audio",
-      "v": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja ekelhaft!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win2Audio",
-      "v": "Mir gefällt das gar nicht!!"
+      "s": "Mir gefällt das gar nicht!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Gut möglich, dass ich gleich kotze!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,8 @@
     },
     {
       "t": "A",
-      "s": "",
-      "n": "Win4Audio",
-      "v": "Das Ist ja das reinste Ekelfernsehen!"
+      "v": "",
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -92,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "704591_0f",
+      "v": "704591_0f",
       "n": "Twist0Audio",
-      "v": "Beste Zeit um eine Pizza komplett alleine zu verdrücken"
+      "s": "Beste Zeit um eine Pizza komplett alleine zu verdrücken"
     },
     {
       "t": "B",
@@ -103,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "704592_0",
+      "v": "704592_0",
       "n": "Twist1Audio",
-      "v": "Beste Zeit um nach einem ersten Date nochmal anzurufen"
+      "s": "Beste Zeit um nach einem ersten Date nochmal anzurufen"
     },
     {
       "t": "B",
@@ -114,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "704593_1f",
+      "v": "704593_1f",
       "n": "Twist2Audio",
-      "v": "Beste Zeit für den Weltuntergang"
+      "s": "Beste Zeit für den Weltuntergang"
     },
     {
       "t": "B",
@@ -125,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "704587_1f",
+      "v": "704587_1f",
       "n": "PromptAudio",
-      "v": "Nenne irgendeine Uhrzeit. Egal ob Tag oder Uhrzeit."
+      "s": "Nenne irgendeine Uhrzeit. Egal ob Tag oder Uhrzeit."
     },
     {
       "t": "B",
@@ -136,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
     },
     {
       "t": "B",

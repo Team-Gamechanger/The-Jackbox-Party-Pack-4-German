@@ -1,126 +1,155 @@
 {
-    "fields": [
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasRoundBreak2Audio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasFinalReactionAudio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasWin0Audio"
-        },
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasRoundBreak0Audio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasWin2Audio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasPromptReactionAudio"
-        },
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasTwist"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasWin1Audio"
-        },
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasWin4Audio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasPromptAudio"
-        },
-        {
-            "t": "B",
-            "v": "false",
-            "n": "HasRoundBreak1Audio"
-        },
-        {
-            "t": "B",
-            "v": "true",
-            "n": "HasWin3Audio"
-        },
-        {
-            "s": "",
-            "t": "A",
-            "n": "RoundBreak0Audio"
-        },
-        {
-            "s": "I\u2019m just excited we\u2019re talking about animals!!",
-            "t": "A",
-            "v": "win1",
-            "n": "Win1Audio"
-        },
-        {
-            "s": "Some sweet animal action!",
-            "t": "A",
-            "v": "win3",
-            "n": "Win3Audio"
-        },
-        {
-            "s": "Fierce animalistic competition!",
-            "t": "A",
-            "v": "win2",
-            "n": "Win2Audio"
-        },
-        {
-            "s": "Which animal deserves the title \u201cfreaking coolest\u201d?!",
-            "t": "A",
-            "v": "finalreaction",
-            "n": "FinalReactionAudio"
-        },
-        {
-            "s": "Can\u2019t wait to find out which animals attain \u201cfreaking coolest\u201d status.",
-            "t": "A",
-            "v": "promptreaction",
-            "n": "PromptReactionAudio"
-        },
-        {
-            "s": "",
-            "t": "A",
-            "n": "RoundBreak2Audio"
-        },
-        {
-            "s": "Freaking coolest animal",
-            "t": "A",
-            "v": "prompt",
-            "n": "PromptAudio"
-        },
-        {
-            "s": "",
-            "t": "A",
-            "n": "RoundBreak1Audio"
-        },
-        {
-            "s": "It\u2019s a freaking win!",
-            "t": "A",
-            "v": "win0",
-            "n": "Win0Audio"
-        },
-        {
-            "s": "",
-            "t": "A",
-            "n": "Win4Audio"
-        }
-    ]
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "A",
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ein tierischer Sieg!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "A",
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Das ging ja tierisch ab!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "A",
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "Tierischer Tierwettkampf!"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "t": "A",
+      "v": "win3",
+      "n": "Win3Audio",
+      "s": "Süße Tieraction!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "Win4Audio",
+      "s": "Filmtastisch!!!"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "Twist0Audio",
+      "s": "Der Film, der am meisten von Arnold Schwarzenegger profitieren würde"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "Twist1Audio",
+      "s": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "A",
+      "v": "",
+      "n": "Twist2Audio",
+      "s": "Der beste Film, um jemanden rumzubekommen"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "A",
+      "v": "prompt",
+      "n": "PromptAudio",
+      "s": "Ein verdammt cooles Tier"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "A",
+      "v": "promptreaction",
+      "n": "PromptReactionAudio",
+      "s": "Ich kann's kaum erwarten, welches Tier das \"verdammt Coolste\" sein wird."
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "A",
+      "s": "finalreaction",
+      "n": "FinalReactionAudio",
+      "v": "Welches ist das verdammt coolste Tier?"
+    }
+  ]
 }

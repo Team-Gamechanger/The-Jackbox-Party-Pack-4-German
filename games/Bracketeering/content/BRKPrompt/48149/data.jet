@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "678757_0f",
+      "v": "678757_0f",
       "n": "Win0Audio",
-      "v": "Tausende Prügeleien zeugen davon!"
+      "s": "Tausende Prügeleien zeugen davon!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "678758_0f",
+      "v": "678758_0f",
       "n": "Win1Audio",
-      "v": "Ich werde jetzt schon wütend!"
+      "s": "Ich werde jetzt schon wütend!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "678759_0f",
+      "v": "678759_0f",
       "n": "Win2Audio",
-      "v": "Dadurch verlor ich 10 Freunde!"
+      "s": "Dadurch verlor ich 10 Freunde!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Bemerk mich, Daddy!!!"
+      "s": "Bemerk mich, Daddy!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Da harmonisieren meine Chakren!!!"
+      "s": "Da harmonisieren meine Chakren!!!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "678746_0f",
+      "v": "678746_0f",
       "n": "Twist0Audio",
-      "v": "Das Spiel, das am ehesten Freundschaften riskiert"
+      "s": "Das Spiel, das am ehesten Freundschaften riskiert"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "678742_0f",
+      "v": "678742_0f",
       "n": "PromptAudio",
-      "v": "Nenne ein Brett- oder Kartenspiel"
+      "s": "Nenne ein Brett- oder Kartenspiel"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "678749_0f",
+      "v": "678749_0f",
       "n": "PromptReactionAudio",
-      "v": "Ich weiß ja nicht, wie's dir geht, aber ich bin kampfbereit!!"
+      "s": "Ich weiß ja nicht, wie's dir geht, aber ich bin kampfbereit!!"
     },
     {
       "t": "B",

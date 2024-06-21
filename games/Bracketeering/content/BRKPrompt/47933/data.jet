@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "672699_0f",
+      "v": "672699_0f",
       "n": "Win0Audio",
-      "v": "AHHHHH!!!!"
+      "s": "AHHHHH!!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "672700_0f",
+      "v": "672700_0f",
       "n": "Win1Audio",
-      "v": "JAAAAAAAAAAAAAA!!!!"
+      "s": "JAAAAAAAAAAAAAA!!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "672701_0f",
+      "v": "672701_0f",
       "n": "Win2Audio",
-      "v": "ARRRRGGGGHHHH!!!!"
+      "s": "ARRRRGGGGHHHH!!!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Los, rein da!"
+      "s": "Los, rein da!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Die Nummer eins!"
+      "s": "Die Nummer eins!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "672684_0f",
+      "v": "672684_0f",
       "n": "PromptAudio",
-      "v": "Der beste Zeitpunkt, um dir die Kleider vom Leib zu reißen und zu schreien"
+      "s": "Der beste Zeitpunkt, um dir die Kleider vom Leib zu reißen und zu schreien"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "672691_0f",
+      "v": "672691_0f",
       "n": "PromptReactionAudio",
-      "v": "Also vorausgesetzt, man trägt Kleidung zum vom Leib reißen - ich zieh mir 'ne Hose an, während ihr schreibt."
+      "s": "Also vorausgesetzt, man trägt Kleidung zum vom Leib reißen - ich zieh mir 'ne Hose an, während ihr schreibt."
     },
     {
       "t": "B",

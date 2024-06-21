@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "676302_0f",
+      "v": "676302_0f",
       "n": "Win0Audio",
-      "v": "Sonnencreme nicht vergessen!"
+      "s": "Sonnencreme nicht vergessen!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "676303_0f",
+      "v": "676303_0f",
       "n": "Win1Audio",
-      "v": "Underdog aus den Schatten!!!"
+      "s": "Underdog aus den Schatten!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "676304_0f",
+      "v": "676304_0f",
       "n": "Win2Audio",
-      "v": "Da strahlt wer heller als die Sonne!"
+      "s": "Da strahlt wer heller als die Sonne!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Bemerk mich, Daddy!!!"
+      "s": "Bemerk mich, Daddy!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Da harmonisieren meine Chakren!!!"
+      "s": "Da harmonisieren meine Chakren!!!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist0Audio",
-      "v": "Das beste Ziel für eine Zeitmaschine"
+      "s": "Das beste Ziel für eine Zeitmaschine"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "676287_0f",
+      "v": "676287_0f",
       "n": "PromptAudio",
-      "v": "Eine Sache, die mit Sonnenbrille lustig aussehen würde"
+      "s": "Eine Sache, die mit Sonnenbrille lustig aussehen würde"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "676294_0f",
+      "v": "676294_0f",
       "n": "PromptReactionAudio",
-      "v": "Abgesehen von euren lustigen Gesichtern natürlich..."
+      "s": "Abgesehen von euren lustigen Gesichtern natürlich..."
     },
     {
       "t": "B",

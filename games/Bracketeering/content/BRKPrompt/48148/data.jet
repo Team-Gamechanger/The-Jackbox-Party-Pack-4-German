@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "678727_0f",
+      "v": "678727_0f",
       "n": "Win0Audio",
-      "v": "Leckerschmecker!!!"
+      "s": "Leckerschmecker!!!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "678728_0f",
+      "v": "678728_0f",
       "n": "Win1Audio",
-      "v": "Da kriegt man ja Heißhunger!"
+      "s": "Da kriegt man ja Heißhunger!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "678729_0f",
+      "v": "678729_0f",
       "n": "Win2Audio",
-      "v": "Das hatte ich zum Frühstück!!"
+      "s": "Das hatte ich zum Frühstück!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio",
-      "v": "Bemerk mich, Daddy!!!"
+      "s": "Bemerk mich, Daddy!!!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Da harmonisieren meine Chakren!!!"
+      "s": "Da harmonisieren meine Chakren!!!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "678716_0f",
+      "v": "678716_0f",
       "n": "Twist0Audio",
-      "v": "Was schmeckt frittiert am besten?"
+      "s": "Was schmeckt frittiert am besten?"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "678712_0f",
+      "v": "678712_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine Süßigkeit"
+      "s": "Nenne eine Süßigkeit"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "678719_0f",
+      "v": "678719_0f",
       "n": "PromptReactionAudio",
-      "v": "Zuckerrausch garantiert!"
+      "s": "Zuckerrausch garantiert!"
     },
     {
       "t": "B",

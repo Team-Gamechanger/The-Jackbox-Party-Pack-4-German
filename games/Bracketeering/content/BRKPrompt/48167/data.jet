@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "679289_0f",
+      "v": "679289_0f",
       "n": "Win0Audio",
-      "v": "Ab ins Kittchen mit dir!"
+      "s": "Ab ins Kittchen mit dir!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "679290_0f",
+      "v": "679290_0f",
       "n": "Win1Audio",
-      "v": "Verhafte mich, ist DER gut!!!"
+      "s": "Verhafte mich, ist DER gut!!!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "679291_0f",
+      "v": "679291_0f",
       "n": "Win2Audio",
-      "v": "Einzelhaft, dafür aber einziger Sieger!"
+      "s": "Einzelhaft, dafür aber einziger Sieger!"
     },
     {
       "t": "B",
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -80,9 +80,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Win4Audio",
-      "v": "Was ein Grusel-Fest!"
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -91,9 +91,9 @@
     },
     {
       "t": "A",
-      "s": "679278_0f",
+      "v": "679278_0f",
       "n": "Twist0Audio",
-      "v": "Der beste Spitzname für einen Gefängnisinsassen"
+      "s": "Der beste Spitzname für einen Gefängnisinsassen"
     },
     {
       "t": "B",
@@ -102,9 +102,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Die beste Zeit zum Kacken"
+      "s": "Die beste Zeit zum Kacken"
     },
     {
       "t": "B",
@@ -113,9 +113,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
     },
     {
       "t": "B",
@@ -124,9 +124,9 @@
     },
     {
       "t": "A",
-      "s": "679274_0f",
+      "v": "679274_0f",
       "n": "PromptAudio",
-      "v": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
+      "s": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
     {
       "t": "B",
@@ -135,9 +135,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "PromptReactionAudio",
-      "v": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
+      "s": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
     },
     {
       "t": "B",

@@ -7,7 +7,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak0Audio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak1Audio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "RoundBreak2Audio"
     },
     {
@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "s": "668736_0f",
+      "v": "668736_0f",
       "n": "Win0Audio",
-      "v": "Fataler Schlag!"
+      "s": "Kritischer Treffer!"
     },
     {
       "t": "B",
@@ -48,9 +48,9 @@
     },
     {
       "t": "A",
-      "s": "668737_0f",
+      "v": "668737_0f",
       "n": "Win1Audio",
-      "v": "Kleines Objekt, großer Sieg!"
+      "s": "Kleines Objekt, großer Sieg!"
     },
     {
       "t": "B",
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "s": "668738_0f",
+      "v": "668738_0f",
       "n": "Win2Audio",
-      "v": "Das könnte etwas dauern!!"
+      "s": "Das könnte etwas dauern!!"
     },
     {
       "t": "B",
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "s": "668739_0f",
+      "v": "668739_0f",
       "n": "Win3Audio",
-      "v": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch was für Schlag den Star!"
     },
     {
       "t": "B",
@@ -81,9 +81,9 @@
     },
     {
       "t": "A",
-      "s": "668740_0f",
+      "v": "668740_0f",
       "n": "Win4Audio",
-      "v": "Klein aber fein!"
+      "s": "Klein aber fein!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "s": "668725_0f",
+      "v": "668725_0f",
       "n": "Twist0Audio",
-      "v": "Die beste Waffe in einem Duell um Leben und Tod"
+      "s": "Die beste Waffe in einem Duell um Leben und Tod"
     },
     {
       "t": "B",
@@ -103,9 +103,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist1Audio",
-      "v": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
+      "s": "Der beste Film, um ihn mit deinen Großeltern zu schauen"
     },
     {
       "t": "B",
@@ -114,9 +114,9 @@
     },
     {
       "t": "A",
-      "s": "",
+      "v": "",
       "n": "Twist2Audio",
-      "v": "Der beste Film, um jemanden rumzubekommen"
+      "s": "Der beste Film, um jemanden rumzubekommen"
     },
     {
       "t": "B",
@@ -125,9 +125,9 @@
     },
     {
       "t": "A",
-      "s": "668721_0f",
+      "v": "668721_0f",
       "n": "PromptAudio",
-      "v": "Nenne ein kleines Objekt"
+      "s": "Nenne ein kleines Objekt"
     },
     {
       "t": "B",
@@ -136,9 +136,9 @@
     },
     {
       "t": "A",
-      "s": "668728_0f",
+      "v": "668728_0f",
       "n": "PromptReactionAudio",
-      "v": "Das könnten unangenehme Kämpfe werden!"
+      "s": "Das könnten unangenehme Kämpfe werden!"
     },
     {
       "t": "B",
@@ -149,7 +149,7 @@
       "t": "A",
       "s": "668735_0f",
       "n": "FinalReactionAudio",
-      "v": "Welche ist die beste Waffe in diesem verrückten Duell um Leben und Tod?!"
+      "v": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
     }
   ]
 }
