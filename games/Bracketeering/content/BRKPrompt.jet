@@ -1,3 +1,4 @@
+
 {
     "episodeid": 1325,
     "content": [
@@ -1972,7 +1973,7 @@
                     "text": "Cornflakes"
                 },
                 {
-                    "text": "Jogurt"
+                    "text": "Joghurt"
                 },
                 {
                     "text": "Bananen"
@@ -6769,7 +6770,7 @@
                     "text": "Knorzstraße"
                 },
                 {
-                    "text": "Bigfoot Boulevard"
+                    "text": "Gehen Sie auf Los"
                 },
                 {
                     "text": "Knickerbocker Parkplatz"
@@ -6923,7 +6924,7 @@
                     "text": "Der beste Zeitpunkt für ein Duell auf Leben und Tod"
                 },
                 {
-                    "text": "Die beste Zeit, um sie wieder und wieder und wieder zu erleben"
+                    "text": "Der beste Zeitpunkt, um ihn wieder und wieder und wieder zu erleben"
                 }
             ],
             "prompt": {
@@ -7044,10 +7045,10 @@
                     "text": "Ein Knopf"
                 },
                 {
-                    "text": "ein Stein"
+                    "text": "Ein Stein"
                 },
                 {
-                    "text": "eine Murmel"
+                    "text": "Eine Murmel"
                 }
             ],
             "x": false,
@@ -7130,10 +7131,10 @@
                     "text": "Fisch"
                 },
                 {
-                    "text": "ein Chicken Wing"
+                    "text": "Ein Chicken Wing"
                 },
                 {
-                    "text": "eine Kaffeetasse"
+                    "text": "Eine Kaffeetasse"
                 },
                 {
                     "text": "Aufgespritzte Lippen"
@@ -7142,7 +7143,7 @@
                     "text": "Ein Achteck"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48439,
             "category": "Game",
             "twists": [],
@@ -7154,7 +7155,7 @@
         {
             "decoys": [
                 {
-                    "text": "ziehende Vögel"
+                    "text": "Ziehende Vögel"
                 },
                 {
                     "text": "Bienen bei der Arbeit"
@@ -7340,7 +7341,7 @@
                     "text": "Ein Erpressungsbrief"
                 },
                 {
-                    "text": "dein Horoskop"
+                    "text": "Dein Horoskop"
                 },
                 {
                     "text": "Ein Buch über den Zweiten Weltkrieg"
@@ -7413,7 +7414,7 @@
                     "text": "Holzarbeit"
                 },
                 {
-                    "text": "ins Museum gehen"
+                    "text": "Ins Museum gehen"
                 },
                 {
                     "text": "Angeln"
@@ -7483,7 +7484,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
+                "text": "Nenne eine Aktivität, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
             },
             "facts": []
         },
@@ -7523,7 +7524,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die eine verdammt reiche Person wahrscheinlich besitzt"
+                "text": "Nenne eine Sache, die eine verdammt reiche Person vermutlich besitzt"
             },
             "facts": []
         },
@@ -7548,7 +7549,7 @@
                     "text": "Frankensteins Labor"
                 },
                 {
-                    "text": "Die Mad Max Wüste"
+                    "text": "Die Mad-Max-Wüste"
                 },
                 {
                     "text": "Sesamstraße"
@@ -7603,7 +7604,7 @@
                 }
             ],
             "prompt": {
-                "text": "Ein Vorname, den du gern hättest"
+                "text": "Ein Vorname, den du gerne hättest"
             },
             "facts": []
         },
@@ -7699,10 +7700,10 @@
                     "text": "In der Nase bohren"
                 },
                 {
-                    "text": "auf den Weg spucken"
+                    "text": "Auf den Weg spucken"
                 },
                 {
-                    "text": "Im Kino tratschen"
+                    "text": "Im Kino labern"
                 },
                 {
                     "text": "Laut kauen"
@@ -7730,28 +7731,28 @@
         {
             "decoys": [
                 {
-                    "text": "dreckig"
+                    "text": "Dreckig"
                 },
                 {
-                    "text": "stinkig"
+                    "text": "Stinkig"
                 },
                 {
-                    "text": "anhänglich"
+                    "text": "Anhänglich"
                 },
                 {
-                    "text": "ungewaschen"
+                    "text": "Ungewaschen"
                 },
                 {
-                    "text": "aufdringlich"
+                    "text": "Aufdringlich"
                 },
                 {
-                    "text": "schleimig"
+                    "text": "Schleimig"
                 },
                 {
-                    "text": "wütend"
+                    "text": "Wütend"
                 },
                 {
-                    "text": "verrückt"
+                    "text": "Verrückt"
                 }
             ],
             "x": false,
@@ -7759,7 +7760,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Wie würde dein Ex dich am ehesten beschreiben?"
+                    "text": "Wie würde dich dein Ex-Partner oder deine Ex-Partnerin am ehesten beschreiben?"
                 }
             ],
             "prompt": {
@@ -7879,7 +7880,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Was würde dir in einem Antiquitätenladen am ehesten 100€ einbringen?"
+                    "text": "Was würde dir in einem Antiquitätenladen am ehesten 100 Euro einbringen?"
                 }
             ],
             "prompt": {
@@ -7919,11 +7920,11 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Die beste Sache, um sie in deine Unterhose zu tun und ein wenig darin rumzusitzen"
+                    "text": "Die beste Sache, um sie in die eigene Unterhose zu tun und ein wenig darin rumzusitzen"
                 }
             ],
             "prompt": {
-                "text": "Nenne ein Gewürz oder ein Topping, das du auf Essen tun kannst"
+                "text": "Nenne ein Gewürz oder ein Topping, das man auf Essen tun kann"
             },
             "facts": []
         },
@@ -7973,7 +7974,7 @@
                     "text": "Wut"
                 },
                 {
-                    "text": "erbost"
+                    "text": "Erbost"
                 },
                 {
                     "text": "Eifersucht"
@@ -8079,11 +8080,11 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Diese nützlichste Sache in einer postapokalyptischen Zukunft"
+                    "text": "Die nützlichste Sache in einer postapokalyptischen Zukunft"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die Leute im Mittelalter wahrscheinlich gemacht haben"
+                "text": "Nenne eine Aktivität, die Leute im Mittelalter wahrscheinlich gemacht haben"
             },
             "facts": []
         },
@@ -8123,7 +8124,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Aktivität, die Leute früher wahrscheinlich gemacht haben"
+                "text": "Nenne eine Aktivität, die Leute vor 150 Jahren wahrscheinlich gemacht haben"
             },
             "facts": []
         },
@@ -8159,7 +8160,7 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Die erträglichste Tätigkeit, wenn du sie bis ans Ende aller Tage machen müsstest"
+                    "text": "Die erträglichste Tätigkeit, wenn man sie bis ans Ende aller Tage machen müsste"
                 }
             ],
             "prompt": {
@@ -8225,10 +8226,10 @@
                     "text": "Klein"
                 },
                 {
-                    "text": "Nein"
+                    "text": "Das ist mein Rhein."
                 },
                 {
-                    "text": "Rhein"
+                    "text": "Klare Antwort: Nein."
                 },
                 {
                     "text": "Verzeihn"
@@ -8319,7 +8320,7 @@
             "category": "Job",
             "twists": [
                 {
-                    "text": "Der beste Job für ein sexy Kostüm"
+                    "text": "Der beste Job für ein erotisches Kostüm"
                 }
             ],
             "prompt": {
@@ -8428,7 +8429,7 @@
                     "text": "Cheeseburger"
                 },
                 {
-                    "text": "Jogurt"
+                    "text": "Joghurt"
                 },
                 {
                     "text": "Hotdog"
@@ -8449,7 +8450,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine Frühstücksspeise"
+                "text": "Nenne irgendein Frühstücksessen"
             },
             "facts": []
         },
@@ -8485,7 +8486,7 @@
             "category": "Sentence",
             "twists": [],
             "prompt": {
-                "text": "Die komischste Nachricht, die du einer Brieftaube ans Bein binden könntest"
+                "text": "Die komischste Nachricht, die man einer Brieftaube ans Bein binden könnte"
             },
             "facts": []
         },
@@ -8495,10 +8496,10 @@
                     "text": "Ein Flughafen"
                 },
                 {
-                    "text": "die Decke"
+                    "text": "Die Decke"
                 },
                 {
-                    "text": "in einem Löwenkäfig"
+                    "text": "In einem Löwenkäfig"
                 },
                 {
                     "text": "Im Pentagon"
@@ -8510,7 +8511,7 @@
                     "text": "Weltraum"
                 },
                 {
-                    "text": "in einer Vase"
+                    "text": "In einer Vase"
                 },
                 {
                     "text": "In einem Netto"
@@ -8521,29 +8522,29 @@
             "category": "Place",
             "twists": [],
             "prompt": {
-                "text": "Das Versteck, mit dem du auf jeden Fall beim Versteckenspielen gewinnst"
+                "text": "Das Versteck, mit dem man auf jeden Fall beim Versteckenspielen gewinnt"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "ein totes Eichhörnchen"
+                    "text": "Ein totes Eichhörnchen"
                 },
                 {
-                    "text": "ein halbes Sandwich"
+                    "text": "Ein halbes Sandwich"
                 },
                 {
-                    "text": "einen angebissenen Donut"
+                    "text": "Einen angebissenen Donut"
                 },
                 {
-                    "text": "die Magna Carta"
+                    "text": "Die Magna Carta"
                 },
                 {
-                    "text": "eine alte Gebrauchsanweisung"
+                    "text": "Eine alte Gebrauchsanweisung"
                 },
                 {
-                    "text": "ein Glasauge"
+                    "text": "Ein Glasauge"
                 },
                 {
                     "text": "Tickets für ein Fußballspiel"
@@ -8597,23 +8598,23 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Band"
+                "text": "Nenne irgendeine Band"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "mehr Schluckauf"
+                    "text": "Mehr Schluckauf"
                 },
                 {
-                    "text": "schreckliche, schreckliche Albträume"
+                    "text": "Schreckliche, schreckliche Albträume"
                 },
                 {
-                    "text": "die Nachrichten schauen"
+                    "text": "Die Nachrichten schauen"
                 },
                 {
-                    "text": "eine Musicalnummer singen"
+                    "text": "Eine Musicalnummer singen"
                 },
                 {
                     "text": "Milch exen"
@@ -8622,10 +8623,10 @@
                     "text": "Mord"
                 },
                 {
-                    "text": "eine fettige Pizza"
+                    "text": "Eine fettige Pizza"
                 },
                 {
-                    "text": "eine überirdische Begegnung"
+                    "text": "Eine überirdische Begegnung"
                 }
             ],
             "x": false,
@@ -8934,10 +8935,10 @@
                     "text": "Finger"
                 },
                 {
-                    "text": "fusselig"
+                    "text": "Fusselig"
                 },
                 {
-                    "text": "lecker"
+                    "text": "Lecker"
                 },
                 {
                     "text": "Gandalf"
@@ -8946,7 +8947,7 @@
                     "text": "Bananenbrot"
                 },
                 {
-                    "text": "zensiert"
+                    "text": "Zensiert"
                 },
                 {
                     "text": "Vergebung"
@@ -8964,28 +8965,28 @@
         {
             "decoys": [
                 {
-                    "text": "im Kanal"
+                    "text": "Im Kanal"
                 },
                 {
-                    "text": "in einer Bibliothek"
+                    "text": "In einer Bibliothek"
                 },
                 {
-                    "text": "am FKK-Strand"
+                    "text": "Am FKK-Strand"
                 },
                 {
-                    "text": "auf einem Golfplatz"
+                    "text": "Auf einem Golfplatz"
                 },
                 {
-                    "text": "im Gefängnis"
+                    "text": "Im Gefängnis"
                 },
                 {
-                    "text": "beim Scheidungstermin"
+                    "text": "Beim Scheidungstermin"
                 },
                 {
                     "text": "Modern-Talking-Konzert"
                 },
                 {
-                    "text": "New Orleans"
+                    "text": "Leipzig"
                 }
             ],
             "x": true,
@@ -9043,7 +9044,7 @@
                     "text": "Toiletten"
                 },
                 {
-                    "text": "eine Bowlingbahn"
+                    "text": "Eine Bowlingbahn"
                 },
                 {
                     "text": "24-Stunden-Tankstelle"
@@ -9052,13 +9053,13 @@
                     "text": "Yoga-Studio"
                 },
                 {
-                    "text": "eine Wüste"
+                    "text": "Eine Wüste"
                 },
                 {
                     "text": "Inmitten eines Sees"
                 },
                 {
-                    "text": "ein Versicherungsbüro"
+                    "text": "Ein Versicherungsbüro"
                 },
                 {
                     "text": "Ein Fiat 500"
@@ -9076,25 +9077,25 @@
         {
             "decoys": [
                 {
-                    "text": "ein gutes Mittagessen"
+                    "text": "Ein gutes Mittagessen"
                 },
                 {
-                    "text": "dein Team wird dritter Platz"
+                    "text": "Dein Team wird dritter Platz"
                 },
                 {
                     "text": "Raketenrucksack"
                 },
                 {
-                    "text": "eine Menge Haare und das immer"
+                    "text": "Eine Menge Haare und das überall"
                 },
                 {
                     "text": "Du findest nächste Woche einen Cent"
                 },
                 {
-                    "text": "Du lebst fürimmer"
+                    "text": "Du lebst für immer"
                 },
                 {
-                    "text": "deine E-Roller-Fahrt ist umsonst"
+                    "text": "1 kostenlose E-Roller-Fahrt"
                 },
                 {
                     "text": "Welpen!!"
@@ -9157,7 +9158,7 @@
                     "text": "Elch und Eichhörnchen"
                 },
                 {
-                    "text": "Eichhörnchen und Maulwurf"
+                    "text": "Hamster und Maulwurf"
                 },
                 {
                     "text": "Hase und Falke"
@@ -9205,7 +9206,7 @@
                     "text": "Ich bin ein Model"
                 },
                 {
-                    "text": "Willkommen bei McDonalds"
+                    "text": "Willkommen bei McDonald\u2019s"
                 }
             ],
             "x": true,
@@ -9232,7 +9233,7 @@
                     "text": "Sprühschiss"
                 },
                 {
-                    "text": "Kuscheln"
+                    "text": "Schlagzeug"
                 },
                 {
                     "text": "Hosen"
@@ -9295,25 +9296,25 @@
                     "text": "Werwolf"
                 },
                 {
-                    "text": "Ghoul"
+                    "text": "Ein zweites Bett"
                 },
                 {
-                    "text": "ein verfluchtes Amulett"
+                    "text": "Ein verfluchtes Amulett"
                 },
                 {
-                    "text": "jemand der genauso aussieht wie du"
+                    "text": "Jemand, der genauso aussieht wie du"
                 },
                 {
-                    "text": "abgelaufene Milch"
+                    "text": "Abgelaufene Milch"
                 },
                 {
-                    "text": "gruseliger Notizzettel"
+                    "text": "Gruseliger Notizzettel"
                 },
                 {
-                    "text": "eine geheime Tür"
+                    "text": "Eine geheime Tür"
                 },
                 {
-                    "text": "ein Zauberbuch"
+                    "text": "Ein Zauberbuch"
                 }
             ],
             "x": false,
@@ -9334,7 +9335,7 @@
                     "text": "Algebra"
                 },
                 {
-                    "text": "saubere Socken"
+                    "text": "Saubere Socken"
                 },
                 {
                     "text": "Eigene Hosengröße"
@@ -9343,7 +9344,7 @@
                     "text": "Wie man Hummus macht"
                 },
                 {
-                    "text": "das Ende von Avatar"
+                    "text": "Das Ende von Avatar"
                 },
                 {
                     "text": "Gesetze"
@@ -9367,13 +9368,13 @@
                     "text": "Cowabunga!"
                 },
                 {
-                    "text": "Lösche meinen Browserverlauf!"
+                    "text": "Lösch meinen Browserverlauf!"
                 },
                 {
                     "text": "Nicht so nice"
                 },
                 {
-                    "text": "Ich seh euch in euren Träumen"
+                    "text": "Man sieht sich in euren Träumen"
                 },
                 {
                     "text": "Und was gibts zum Mittag?"
@@ -9385,7 +9386,7 @@
                     "text": "Ha, ich wusste es!"
                 },
                 {
-                    "text": "Na dann mal los!"
+                    "text": "Augen zu und durch!"
                 }
             ],
             "x": true,
@@ -9400,7 +9401,7 @@
         {
             "decoys": [
                 {
-                    "text": "jonglieren"
+                    "text": "Jonglieren"
                 },
                 {
                     "text": "Podcasten"
@@ -9409,13 +9410,13 @@
                     "text": "Partyspiele spielen"
                 },
                 {
-                    "text": "Wasserfarben"
+                    "text": "Atmen??"
                 },
                 {
                     "text": "Italienische Rezepte nachkochen"
                 },
                 {
-                    "text": "überleben"
+                    "text": "Überleben"
                 },
                 {
                     "text": "Teppiche sticken"
@@ -9436,28 +9437,28 @@
         {
             "decoys": [
                 {
-                    "text": "deine Villa"
+                    "text": "Eigene Villa"
                 },
                 {
-                    "text": "die Lottozahlen"
+                    "text": "Die morgigen Lottozahlen"
                 },
                 {
                     "text": "Knochen"
                 },
                 {
-                    "text": "ein magischer Zug"
+                    "text": "Ein magischer Zug"
                 },
                 {
-                    "text": "guter Rat"
+                    "text": "Guter Rat"
                 },
                 {
-                    "text": "deine Zeit"
+                    "text": "Deine Zeit"
                 },
                 {
                     "text": "Ewiges Wissen"
                 },
                 {
-                    "text": "deine Videospielhacks"
+                    "text": "Videospielskills"
                 }
             ],
             "x": false,
@@ -12378,7 +12379,7 @@
                     "text": "Nebraska"
                 },
                 {
-                    "text": "Jogurt"
+                    "text": "Joghurt"
                 },
                 {
                     "text": "Kalkstein"
