@@ -8659,7 +8659,7 @@
                     "text": "Verschließe deine Tür gut"
                 },
                 {
-                    "text": "Tüdelü (in einer gruseligen Stimme)"
+                    "text": "Tüdelü (aber gruselig)"
                 },
                 {
                     "text": "Wir sehen uns auf der anderen Seite"
@@ -8713,25 +8713,25 @@
         {
             "decoys": [
                 {
-                    "text": "definitiv"
+                    "text": "Kaputt"
                 },
                 {
                     "text": "Arachnophobie"
                 },
                 {
-                    "text": "aggressiv"
+                    "text": "Aggressiv"
                 },
                 {
                     "text": "Karosserie"
                 },
                 {
-                    "text": "dilettantisch"
+                    "text": "Dilettantisch"
                 },
                 {
                     "text": "Jackett"
                 },
                 {
-                    "text": "annullieren"
+                    "text": "Annullieren"
                 },
                 {
                     "text": "Appell"
@@ -8752,7 +8752,7 @@
                     "text": "Narnia Portal"
                 },
                 {
-                    "text": "alte Sandalen"
+                    "text": "Alte Sandalen"
                 },
                 {
                     "text": "Motten"
@@ -8788,10 +8788,10 @@
                     "text": "Baden-Württemberg"
                 },
                 {
-                    "text": "ein Vulkan"
+                    "text": "Ein Vulkan"
                 },
                 {
-                    "text": "der Mond"
+                    "text": "Der Mond"
                 },
                 {
                     "text": "Irgendeine Tür"
@@ -8806,7 +8806,7 @@
                     "text": "Highway to Hell"
                 },
                 {
-                    "text": "in einem Albtraum"
+                    "text": "In einem Albtraum"
                 }
             ],
             "x": true,
@@ -8821,19 +8821,19 @@
         {
             "decoys": [
                 {
-                    "text": "die Zukunft"
+                    "text": "Die Zukunft"
                 },
                 {
-                    "text": "ein bisschen weniger als eine Million"
+                    "text": "Ein bisschen weniger als eine Million"
                 },
                 {
-                    "text": "ein verfluchtes Amulett"
+                    "text": "Ein verfluchtes Amulett"
                 },
                 {
-                    "text": "seltene Entenspezies"
+                    "text": "Seltene Entenspezies"
                 },
                 {
-                    "text": "die Mona Lisa"
+                    "text": "Die Mona Lisa"
                 },
                 {
                     "text": "Jackbox Party Pack 5"
@@ -8857,28 +8857,28 @@
         {
             "decoys": [
                 {
-                    "text": "in der Schule"
+                    "text": "In der Schule"
                 },
                 {
-                    "text": "im Museum"
+                    "text": "Im Museum"
                 },
                 {
-                    "text": "im Krankenhaus"
+                    "text": "Im Krankenhaus"
                 },
                 {
-                    "text": "beim Zahnarzt"
+                    "text": "Beim Zahnarzt"
                 },
                 {
-                    "text": "im Zirkus"
+                    "text": "Im Zirkus"
                 },
                 {
-                    "text": "in der Bibliothek"
+                    "text": "In der Bibliothek"
                 },
                 {
                     "text": "Bayerischer Biergarten"
                 },
                 {
-                    "text": "in einer Rakete"
+                    "text": "In einer Rakete"
                 }
             ],
             "x": true,
@@ -8893,7 +8893,7 @@
         {
             "decoys": [
                 {
-                    "text": "ein Haufen nasses Zeitungspapier"
+                    "text": "Ein Haufen nasses Zeitungspapier"
                 },
                 {
                     "text": "Schlamm"
@@ -8905,10 +8905,10 @@
                     "text": "Hundekacke"
                 },
                 {
-                    "text": "nasse Farbe"
+                    "text": "Nasse Farbe"
                 },
                 {
-                    "text": "alte Lasagne"
+                    "text": "Alte Lasagne"
                 },
                 {
                     "text": "Sumpfwasser"
@@ -12762,7 +12762,7 @@
             "category": "Vehicle",
             "twists": [],
             "prompt": {
-                "text": "Das krasseste Nummernschild für ein Auto"
+                "text": "Das krankeste Nummernschild für ein Auto"
             },
             "facts": []
         },
@@ -12841,7 +12841,7 @@
         {
             "decoys": [
                 {
-                    "text": "das Jahr 2525"
+                    "text": "Das Jahr 2525"
                 },
                 {
                     "text": "Schaltjahr"
@@ -12876,7 +12876,7 @@
                     "text": "Die beste Zeit zum Kacken"
                 },
                 {
-                    "text": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+                    "text": "Die beste Zeit, um mit jemandem zu vögeln"
                 }
             ],
             "prompt": {
@@ -12916,7 +12916,7 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Wer würde einen Faustkampf gewinnen?"
+                    "text": "Wer würde einen Faustkampf ohne Regeln gewinnen?"
                 },
                 {
                     "text": "Das beste Date für deine Mutter"
