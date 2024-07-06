@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "686882_0",
       "n": "Twist0Audio",
-      "s": "Ist am wahrscheinlichsten schrecklich verflucht"
+      "s": "Was ist am wahrscheinlichsten schrecklich verflucht?"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem zu vögeln"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "686878_0",
       "n": "PromptAudio",
-      "s": "Nenne etwas, was eine verdammt reiche Person wahrscheinlich besitzt"
+      "s": "Nenne eine Sache, die eine verdammt reiche Person vermutlich besitzt"
     },
     {
       "t": "B",
@@ -137,7 +138,7 @@
       "t": "A",
       "v": "686885_0f",
       "n": "PromptReactionAudio",
-      "s": "Verfluchte Gegenstände erinnern mich an die Halskette, die mich in dieses Spiel gefangen hat!"
+      "s": "Das erinnert mich an diese furchtbare Halskette, die mich in dieses Spiel gefangen hat! Aber schön war sie trotzdem."
     },
     {
       "t": "B",
@@ -148,7 +149,7 @@
       "t": "A",
       "s": "686892_0f",
       "n": "FinalReactionAudio",
-      "v": "Welcher Gegenstand IST wahrscheinlich schrecklich verflucht?!"
+      "v": "Was beherbergt am wahrscheinlichsten einen schrecklichen Fluch??!"
     }
   ]
 }

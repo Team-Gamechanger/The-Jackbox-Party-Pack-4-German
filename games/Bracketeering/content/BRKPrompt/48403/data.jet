@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "686402_0",
       "n": "Twist0Audio",
-      "s": "Diese Aktivität hat am wahrscheinlichsten ein großes Hipster Comeback"
+      "s": "Die Aktivität, die am wahrscheinlichsten ein großes Hipster-Comeback bekommt"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem zu vögeln"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "686398_0",
       "n": "PromptAudio",
-      "s": "Nenne etwas, was Leute früher wahrscheinlich gemacht haben"
+      "s": "Nenne eine Aktivität, die Leute vor 150 Jahren wahrscheinlich gemacht haben"
     },
     {
       "t": "B",
@@ -136,8 +137,7 @@
     {
       "t": "A",
       "v": "686405_0f",
-      "n": "PromptReactionAudio",
-      "s": "Diese Prompts können noch mit in die originale Bibel mit vorkommen!!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -148,7 +148,7 @@
       "t": "A",
       "s": "686412_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist am WAHRSCHEINLICHSTEN ein großes Hipster Comeback zu machen?"
+      "v": "Was wird am wahrscheinlichsten bald ein großes Hipster-Comeback haben??!"
     }
   ]
 }

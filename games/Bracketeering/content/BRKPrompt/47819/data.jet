@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch etwas für Schlag den Star!"
     },
     {
       "t": "B",
@@ -92,9 +92,9 @@
     },
     {
       "t": "A",
-      "v": "668755_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Wer würde einen Faustkampf gewinnen?"
+      "s": "Wer würde einen Faustkampf ohne Regeln gewinnen?"
     },
     {
       "t": "B",
@@ -103,7 +103,7 @@
     },
     {
       "t": "A",
-      "v": "668756_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Date für deine Mutter"
     },
@@ -114,7 +114,7 @@
     },
     {
       "t": "A",
-      "v": "668757_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Date für deinen Vater"
     },
@@ -125,7 +125,7 @@
     },
     {
       "t": "A",
-      "v": "668751_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -136,7 +136,7 @@
     },
     {
       "t": "A",
-      "v": "668758_1f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Nicht, dass ich betrügen unterstützen würde!"
     },

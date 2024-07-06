@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "668736_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Kritischer Treffer!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "668737_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Kleines Objekt, großer Sieg!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "668738_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Das könnte etwas dauern!!"
     },
@@ -70,9 +70,9 @@
     },
     {
       "t": "A",
-      "v": "668739_0f",
+      "v": "win3",
       "n": "Win3Audio",
-      "s": "Das ist doch was für Schlag den Star!"
+      "s": "Das ist doch etwas für Schlag den Star!"
     },
     {
       "t": "B",
@@ -81,7 +81,7 @@
     },
     {
       "t": "A",
-      "v": "668740_0f",
+      "v": "win4",
       "n": "Win4Audio",
       "s": "Klein aber fein!"
     },
@@ -92,7 +92,7 @@
     },
     {
       "t": "A",
-      "v": "668725_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Waffe in einem Duell um Leben und Tod"
     },
@@ -125,7 +125,7 @@
     },
     {
       "t": "A",
-      "v": "668721_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein kleines Objekt"
     },
@@ -136,7 +136,7 @@
     },
     {
       "t": "A",
-      "v": "668728_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das könnten unangenehme Kämpfe werden!"
     },
@@ -147,7 +147,7 @@
     },
     {
       "t": "A",
-      "s": "668735_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
       "v": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
     }

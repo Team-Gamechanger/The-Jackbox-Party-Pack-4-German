@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "668706_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Sexy Cartoonsieg!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "668707_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Definitiv nichts für Kinder!"
     },
@@ -59,19 +59,20 @@
     },
     {
       "t": "A",
-      "v": "668708_0f",
+      "v": "win2",
       "n": "Win2Audio",
-      "s": "Uh lá lá (in dieser sexy stimme, die man sich dabei vorstellt)"
+      "s": "Ahuuuuga, hamalamala, Lippen schütteln, aiahiaiahiai, bäoweähähowhoop (Cartoon-Geräusche)"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin3Audio"
     },
     {
       "t": "A",
-      "v": "668709_0f",
-      "n": "Win3Audio"
+      "v": "",
+      "n": "Win3Audio",
+      "s": "So heißen nur Gewinner!"
     },
     {
       "t": "B",
@@ -91,7 +92,7 @@
     },
     {
       "t": "A",
-      "v": "668695_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welcher Cartoon-Charakter hat am meisten Sex-Appeal?"
     },
@@ -124,7 +125,7 @@
     },
     {
       "t": "A",
-      "v": "668691_2f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Cartoon-Charakter"
     },
@@ -135,7 +136,7 @@
     },
     {
       "t": "A",
-      "v": "668698_1f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich hab' da ein ganz mieses Gefühl."
     },
@@ -146,7 +147,7 @@
     },
     {
       "t": "A",
-      "s": "668705_0f",
+      "s": "finalreaction",
       "n": "FinalReactionAudio",
       "v": "Welcher Cartoon-Charakter hat am meisten Sex-Appeal??!"
     }

@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "",
       "n": "Twist0Audio",
-      "s": "Bester Charakter um ihn auf einen LKW zu drucken"
+      "s": "Der beste Charakter, um ihn auf einen Lkw zu drucken"
     },
     {
       "t": "B",
@@ -104,7 +105,7 @@
       "t": "A",
       "v": "",
       "n": "Twist1Audio",
-      "s": "Bester Charakter um ihn auf seiner Untwerwäsche zu haben"
+      "s": "Der beste Charakter, um ihn auf seiner Unterwäsche zu haben"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Dieser Charakter sollte am ehesten Bundeskanzler werden"
+      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "691033_1f",
       "n": "PromptAudio",
-      "s": "Ein Geschenkgutschein dieses Unternehmens wäre sehr enttäuschend"
+      "s": "Ein Geschenkgutschein von diesem Unternehmen wäre sehr enttäuschend"
     },
     {
       "t": "B",
@@ -137,7 +138,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Hat noch wer Lust auf 'Ne runde Blackjack!"
+      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
     },
     {
       "t": "B",
@@ -148,7 +149,7 @@
       "t": "A",
       "s": "691047_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER enttäuschendste Geschenkgutschein eines Unternehmen nur für dich?!"
+      "v": "Der Geschenkgutschein von welchem Unternehmen wäre am enttäuschensten??!"
     }
   ]
 }

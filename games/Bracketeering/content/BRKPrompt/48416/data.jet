@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "686792_0",
       "n": "Twist0Audio",
-      "s": "Bester letzter Satz für ein romantisches Buch"
+      "s": "Der beste letzte Satz vor dem Tod"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem zu vögeln"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "686788_0",
       "n": "PromptAudio",
-      "s": "Gib einen guten Ratschlag"
+      "s": "Gebe einen guten Ratschlag"
     },
     {
       "t": "B",
@@ -137,7 +138,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Würde Mario Barth eine Autobiografie schreiben, würde das die Komödien-Szene verändern!"
+      "s": "Ich würde sie kaufen, nur für den Fall, dass irgendwann mal das Klopapier ausgeht!"
     },
     {
       "t": "B",
@@ -148,7 +149,7 @@
       "t": "A",
       "s": "686802_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER beste letzte Satz für ein romantisches Buch?"
+      "v": "Was ist der beste letzte Satz, bevor man den Löffel abgibt??!"
     }
   ]
 }

@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "",
       "n": "Twist0Audio",
-      "s": "Live wahrscheinlich am besten"
+      "s": "Die Band, die live wahrscheinlich am besten ist"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem zu vögeln"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "687346_0f",
       "n": "PromptAudio",
-      "s": "Beste Sache um sich auf der Toilette zu beschäftigen"
+      "s": "Die beste Sache, um sich auf der Toilette zu beschäftigen"
     },
     {
       "t": "B",
@@ -137,7 +138,7 @@
       "t": "A",
       "v": "687353_0f",
       "n": "PromptReactionAudio",
-      "s": "Also ich bin persönlich ein Garfield Typ!"
+      "s": "Also ich persönlich bin ja ein Garfield-Typ!"
     },
     {
       "t": "B",
@@ -148,7 +149,7 @@
       "t": "A",
       "s": "687360_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE beste Sache mit der man sich auf der Toilette beschäftigt?!"
+      "v": "Was ist die BESTE Sache, um sich auf der Toilette zu beschäftigen??!"
     }
   ]
 }

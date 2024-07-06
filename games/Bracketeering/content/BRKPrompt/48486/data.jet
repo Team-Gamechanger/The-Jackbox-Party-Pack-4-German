@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "688778_1",
       "n": "Twist0Audio",
-      "s": "Wäre der coolste Butler"
+      "s": "Welches Tier wäre der coolste Butler?"
     },
     {
       "t": "B",
@@ -104,7 +105,7 @@
       "t": "A",
       "v": "688779_0f",
       "n": "Twist1Audio",
-      "s": "Wäre der beste CEO"
+      "s": "Welches Tier wäre der beste Geschäftsführer?"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "688780_0f",
       "n": "Twist2Audio",
-      "s": "Würde die berührendste Rede bei deiner Hochzeit geben"
+      "s": "Welches Tier würde die berührendste Rede bei deiner Hochzeit halten?"
     },
     {
       "t": "B",
@@ -137,7 +138,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Hat noch wer Lust auf 'Ne runde Blackjack!"
+      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
     },
     {
       "t": "B",
@@ -148,7 +149,7 @@
       "t": "A",
       "s": "",
       "n": "FinalReactionAudio",
-      "v": "Was wäre DIE coolste fünfte Farbe in einem Kartenspiel?!"
+      "v": "Was wäre die coolste fünfte Farbe in einem Kartenspiel?!"
     }
   ]
 }

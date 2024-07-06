@@ -50,7 +50,7 @@
       "t": "A",
       "v": "",
       "n": "Win1Audio",
-      "s": "Das ist ja ekelhaft!!!"
+      "s": "Das ist ja widerlich!!!"
     },
     {
       "t": "B",
@@ -61,7 +61,7 @@
       "t": "A",
       "v": "",
       "n": "Win2Audio",
-      "s": "Mir gefällt das gar nicht!!"
+      "s": "Pfui, widerwärtig!"
     },
     {
       "t": "B",
@@ -72,7 +72,7 @@
       "t": "A",
       "v": "",
       "n": "Win3Audio",
-      "s": "Gut möglich, dass ich gleich kotze!!!"
+      "s": "Ich glaub', mir wird schlecht!"
     },
     {
       "t": "B",
@@ -82,7 +82,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio"
+      "n": "Win4Audio",
+      "s": "Was ein Grusel-Fest!"
     },
     {
       "t": "B",
@@ -93,7 +94,7 @@
       "t": "A",
       "v": "686462_0",
       "n": "Twist0Audio",
-      "s": "Bester Name für ein Schlageralbum"
+      "s": "Der beste Name für ein Schlageralbum"
     },
     {
       "t": "B",
@@ -115,7 +116,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Die beste Zeit, um mit jemandem in die Kiste zu hüpfen"
+      "s": "Die beste Zeit, um mit jemandem zu vögeln"
     },
     {
       "t": "B",
@@ -126,7 +127,7 @@
       "t": "A",
       "v": "686458_0",
       "n": "PromptAudio",
-      "s": "Nenne etwas, was Menschen wahrscheinlich gemacht haben bevor das Fernsehen erfunden wurde"
+      "s": "Nenne eine Aktivität, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
     },
     {
       "t": "B",
@@ -136,8 +137,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Ihr müsst euch dem Emu Königreich nützlich machen !"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -148,7 +148,7 @@
       "t": "A",
       "s": "686472_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER beste Name für ein Schlageralbum?!"
+      "v": "Was ist der absolut beste Name für ein Schlageralbum??!"
     }
   ]
 }
