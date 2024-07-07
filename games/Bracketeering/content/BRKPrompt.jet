@@ -6015,16 +6015,16 @@
         {
             "decoys": [
                 {
-                    "text": "ein Stückchen Popcorn"
+                    "text": "Ein Stückchen Popcorn"
                 },
                 {
                     "text": "Nagelschere"
                 },
                 {
-                    "text": "ein cooler Stift"
+                    "text": "Ein cooler Stift"
                 },
                 {
-                    "text": "ein fancy Trinkhalm"
+                    "text": "Ein schicker Trinkhalm"
                 },
                 {
                     "text": "Autoschlüssel"
@@ -6048,7 +6048,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne ein kleines Objekt"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
@@ -6058,25 +6058,25 @@
                     "text": "Blu-ray von Iron Man 3"
                 },
                 {
-                    "text": "eine Paprika"
+                    "text": "Eine Paprika"
                 },
                 {
-                    "text": "ein Fingerhut"
+                    "text": "Ein Fingerhut"
                 },
                 {
-                    "text": "ein Knopf"
+                    "text": "Ein Knopf"
                 },
                 {
                     "text": "Ein Kassenzettel"
                 },
                 {
-                    "text": "eine Nadel"
+                    "text": "Eine Nadel"
                 },
                 {
-                    "text": "eine Angelschnur"
+                    "text": "Eine Angelschnur"
                 },
                 {
-                    "text": "ein Kanarienvogel"
+                    "text": "Ein Kanarienvogel"
                 }
             ],
             "x": false,
@@ -6084,11 +6084,11 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Der beste Gegenstand, von dem man behaupten könnte, er sei ein Familienerbstück"
+                    "text": "Der Gegenstand, von dem man am ehesten behaupten könnte, dass er ein Familienerbstück ist"
                 }
             ],
             "prompt": {
-                "text": "Nenne ein kleines Objekt"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
@@ -6101,7 +6101,7 @@
                     "text": "Klebestreifen"
                 },
                 {
-                    "text": "ein Tintenkiller"
+                    "text": "Ein Tintenkiller"
                 },
                 {
                     "text": "Kirschtomate"
@@ -6113,7 +6113,7 @@
                     "text": "Socken"
                 },
                 {
-                    "text": "eine Fliege"
+                    "text": "Eine Fliege"
                 },
                 {
                     "text": "Lego Batman"
@@ -6128,7 +6128,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne ein kleines Objekt"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
@@ -6138,13 +6138,13 @@
                     "text": "Golfball"
                 },
                 {
-                    "text": "eine Schachfigur"
+                    "text": "Eine Schachfigur"
                 },
                 {
-                    "text": "eine Zitrone"
+                    "text": "Eine Zitrone"
                 },
                 {
-                    "text": "eine Salatgabel"
+                    "text": "Eine Salatgabel"
                 },
                 {
                     "text": "Goldfisch"
@@ -6168,7 +6168,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne ein kleines Objekt"
+                "text": "Nenne eine kleine Sache"
             },
             "facts": []
         },
@@ -6184,10 +6184,10 @@
                     "text": "I\u2019m a maniac, maniac on the floor"
                 },
                 {
-                    "text": "Kennt ihr den Muffin Mann"
+                    "text": "Kennt ihr den Muffin-Mann"
                 },
                 {
-                    "text": "Ich bin zu alt für so eine Scheiße"
+                    "text": "Ich bin zu alt für so einen Mist"
                 },
                 {
                     "text": "Nach Hause telefonieren"
@@ -6220,7 +6220,7 @@
                     "text": "Kackherr"
                 },
                 {
-                    "text": "Boondoggle"
+                    "text": "Investitionsruine"
                 },
                 {
                     "text": "Arachnophobia"
@@ -6232,7 +6232,7 @@
                     "text": "Saskatchewan"
                 },
                 {
-                    "text": "Salami"
+                    "text": "Frechdachs"
                 }
             ],
             "x": false,
@@ -6305,7 +6305,7 @@
                     "text": "Vampir-Anwalt"
                 },
                 {
-                    "text": "Mein Dad hat ein Murmeltier geheiratet"
+                    "text": "Mein Paps hat ein Murmeltier geheiratet"
                 },
                 {
                     "text": "Ich habe mich in eine Mumie verliebt"
@@ -6344,13 +6344,13 @@
                     "text": "Backsteinmauer"
                 },
                 {
-                    "text": "ein alter Kühlschrank"
+                    "text": "Ein alter Kühlschrank"
                 },
                 {
-                    "text": "ein Käserad"
+                    "text": "Ein Käserad"
                 },
                 {
-                    "text": "eine Parkbank"
+                    "text": "Eine Parkbank"
                 }
             ],
             "x": false,
@@ -6358,7 +6358,7 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Diesen Gegenstand zu boxen tut am wenigsten weh"
+                "text": "Diesen Gegenstand aus Frustration zu boxen tut am wenigsten weh"
             },
             "facts": []
         },
@@ -6371,22 +6371,22 @@
                     "text": "Vogelscheuche"
                 },
                 {
-                    "text": "alter Weihnachtsbaum"
+                    "text": "Alter Weihnachtsbaum"
                 },
                 {
                     "text": "Wecker"
                 },
                 {
-                    "text": "eine Kanne Kaffee"
+                    "text": "Eine Kanne Kaffee"
                 },
                 {
-                    "text": "deine Klamotten"
+                    "text": "Deine Klamotten"
                 },
                 {
                     "text": "Bild vom Ex"
                 },
                 {
-                    "text": "ein Sack voll gestohlenem Geld"
+                    "text": "Ein Sack voll gestohlenem Geld"
                 }
             ],
             "x": false,
@@ -6394,35 +6394,35 @@
             "category": "Object",
             "twists": [],
             "prompt": {
-                "text": "Der coolste Gegenstand, den man in ein Lagerfeuer werfen kann"
+                "text": "Die coolste Sache, die man in ein Lagerfeuer werfen kann"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "eine Sonnenfinsternis"
+                    "text": "Sonnenuntergang"
                 },
                 {
-                    "text": "ein Hairiff"
+                    "text": "Ein Hairiff"
                 },
                 {
-                    "text": "in einem Fußballstadion"
+                    "text": "Fußballstadion"
                 },
                 {
-                    "text": "ein Vulkanausbruch"
+                    "text": "Ein Vulkanausbruch"
                 },
                 {
                     "text": "Ein Apple-Store"
                 },
                 {
-                    "text": "Straße in Berlin"
+                    "text": "Brandenburger Tor"
                 },
                 {
-                    "text": "in einem Gerichtssaal"
+                    "text": "Gerichtssaal"
                 },
                 {
-                    "text": "während eines Boxkampfes"
+                    "text": "Boxkampf"
                 }
             ],
             "x": false,
@@ -6430,35 +6430,35 @@
             "category": "Emoji",
             "twists": [],
             "prompt": {
-                "text": "Das beste Emoji für den Desktophintergrund"
+                "text": "Das beste Emoji, um es als Desktophintergrund zu benutzen"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "hinter deinem Ohr"
+                    "text": "Hinter deinem Ohr"
                 },
                 {
-                    "text": "hinter meinem Ohr"
+                    "text": "Hinter meinem Ohr"
                 },
                 {
-                    "text": "in einem Safe"
+                    "text": "In einem Safe"
                 },
                 {
-                    "text": "in einem Hut"
+                    "text": "In einem Hut"
                 },
                 {
-                    "text": "auf der anderen Straßenseite"
+                    "text": "Auf der anderen Straßenseite"
                 },
                 {
                     "text": "Sachsen-Anhalt"
                 },
                 {
-                    "text": "in deiner Tasche"
+                    "text": "In deiner Tasche"
                 },
                 {
-                    "text": "im Haus deiner Mutter"
+                    "text": "Im Haus deiner Mutter"
                 }
             ],
             "x": false,
@@ -6581,16 +6581,16 @@
         {
             "decoys": [
                 {
-                    "text": "Gratis Ölwechsel"
+                    "text": "Fußpilz-Freibad"
                 },
                 {
-                    "text": "Schuhreparatur"
+                    "text": "Hässliche Rentnerschuhe"
                 },
                 {
-                    "text": "gratis Brot"
+                    "text": "Trocken-Brot-Bäckerei"
                 },
                 {
-                    "text": "das Tango-Emporium"
+                    "text": "Das Tango-Emporium"
                 },
                 {
                     "text": "McDonald\u2019s"
@@ -6617,16 +6617,16 @@
         {
             "decoys": [
                 {
-                    "text": "da ist eine Menge rot drin"
+                    "text": "Da ist eine Menge rot drin"
                 },
                 {
-                    "text": "das war das letzte Zeichen"
+                    "text": "Okay, genug ist genug!"
                 },
                 {
-                    "text": "Sie haben dich gehört"
+                    "text": "Schon am abkratzen?"
                 },
                 {
-                    "text": "das ist teuflisch viel Rotze"
+                    "text": "Das ist teuflisch viel Rotze"
                 },
                 {
                     "text": "Kann ich das haben?"
@@ -6659,10 +6659,10 @@
                     "text": "Meine Steuererklärung"
                 },
                 {
-                    "text": "Til Schweiger"
+                    "text": "Schwiegermutter"
                 },
                 {
-                    "text": "Alle alten Fußballtrophäen"
+                    "text": "Alte Fußballtrophäen"
                 },
                 {
                     "text": "Liste meiner Fehler"
@@ -6674,7 +6674,7 @@
                     "text": "Feuerlöscher"
                 },
                 {
-                    "text": "alte Feuerwerksraketen"
+                    "text": "Alte Feuerwerksraketen"
                 }
             ],
             "x": false,
