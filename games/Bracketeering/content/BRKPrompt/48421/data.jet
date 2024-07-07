@@ -38,8 +38,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win0Audio",
-      "s": "Igitt!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Das ist ja widerlich!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +58,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Pfui, widerwärtig!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +68,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Ich glaub', mir wird schlecht!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +78,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +142,9 @@
     },
     {
       "t": "A",
-      "s": "686952_0f",
+      "v": "686952_0f",
       "n": "FinalReactionAudio",
-      "v": "Welche Band würde GARANTIERT das beste Album für Kinder releasen?!"
+      "s": "Welche Band würde GARANTIERT das beste Album für Kinder releasen?!"
     }
   ]
 }

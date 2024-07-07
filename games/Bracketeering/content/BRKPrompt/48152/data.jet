@@ -82,8 +82,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "678838_0f",
+      "v": "678838_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist der BESTE Spruch für die eigene Seite in der Abizeitung??!"
+      "s": "Was ist der BESTE Spruch für die eigene Seite in der Abizeitung??!"
     }
   ]
 }

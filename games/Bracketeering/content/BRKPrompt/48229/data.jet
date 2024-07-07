@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Da werd' ich ja glatt rot!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Es tut so weh und ist so cool!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "681168_0f",
+      "v": "681168_0f",
       "n": "FinalReactionAudio",
-      "v": "Welche zwei Tiere würden zusammen den coolsten Hybrid abgeben?!!"
+      "s": "Welche zwei Tiere würden zusammen den coolsten Hybrid abgeben?!!"
     }
   ]
 }

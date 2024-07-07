@@ -82,8 +82,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Klein aber fein!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "672638_0f",
+      "v": "672638_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die beste Sache, die man in ein Pool füllen kann um reinzuspringen!??"
+      "s": "Was ist die beste Sache, die man in ein Pool füllen kann um reinzuspringen!??"
     }
   ]
 }

@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Pfützen-Alarm, Pfützen-Alarm!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So billig, so gruselig!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "679228_0f",
+      "v": "679228_0f",
       "n": "FinalReactionAudio",
-      "v": "Welches Buch würde am meisten von ein paar Vampiren profitieren?!!"
+      "s": "Welches Buch würde am meisten von ein paar Vampiren profitieren?!!"
     }
   ]
 }

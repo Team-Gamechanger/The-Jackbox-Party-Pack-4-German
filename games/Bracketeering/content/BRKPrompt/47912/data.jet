@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Kranker Sieg!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +81,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Klein aber fein!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +145,9 @@
     },
     {
       "t": "A",
-      "s": "672062_0f",
+      "v": "672062_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die absolut beste Sache, die man auf seinem Tinder-Profilbild in der Hand halten kann?!!"
+      "s": "Was ist die absolut beste Sache, die man auf seinem Tinder-Profilbild in der Hand halten kann?!!"
     }
   ]
 }

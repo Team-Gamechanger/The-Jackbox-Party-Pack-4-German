@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Super mächtiger Sieg!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "678666_0f",
+      "v": "678666_0f",
       "n": "FinalReactionAudio",
-      "v": "Welcher Videospielcharakter verdient den Urlaub am meisten?!"
+      "s": "Welcher Videospielcharakter verdient den Urlaub am meisten?!"
     }
   ]
 }

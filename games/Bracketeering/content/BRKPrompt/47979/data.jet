@@ -82,8 +82,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Klingt geil!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "674163_0f",
+      "v": "674163_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist der BESTE Ersatz, wenn die Milch leer ist, aber man trotzdem Müsli essen will??!"
+      "s": "Was ist der BESTE Ersatz, wenn die Milch leer ist, aber man trotzdem Müsli essen will??!"
     }
   ]
 }

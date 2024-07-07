@@ -38,8 +38,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win0Audio",
-      "s": "Igitt!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Das ist ja widerlich!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +58,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Pfui, widerwärtig!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +68,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Ich glaub', mir wird schlecht!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +78,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -127,7 +122,7 @@
       "t": "A",
       "v": "691303_0f",
       "n": "PromptAudio",
-      "s": "Coolstes Wort um es in einem Kreuzworträtsel zu verbauen"
+      "s": "Das coolste Wort, um es in ein Kreuzworträtsel einzubauen"
     },
     {
       "t": "B",
@@ -147,9 +142,9 @@
     },
     {
       "t": "A",
-      "s": "691317_0f",
+      "v": "691317_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS coolste Wort, dass absolut jeder in ein Kreuzworträtsel einbauen kann?!"
+      "s": "Was ist DAS coolste Wort, dass unbedingt in einem Kreuzworträtsel eingebaut werden muss??!"
     }
   ]
 }

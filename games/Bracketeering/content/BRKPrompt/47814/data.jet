@@ -147,9 +147,9 @@
     },
     {
       "t": "A",
-      "s": "finalreaction",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Welcher dieser Babynamen ist der unschlagbar krasseste?!"
+      "s": "Welcher dieser Babynamen ist der unschlagbar krasseste?!"
     }
   ]
 }

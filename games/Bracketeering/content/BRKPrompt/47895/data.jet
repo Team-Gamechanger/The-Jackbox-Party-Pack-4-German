@@ -82,8 +82,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Klein aber fein!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "finalreaction",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS krankeste Nummernschild für ein Auto?!!"
+      "s": "Was ist DAS krankeste Nummernschild für ein Auto?!!"
     }
   ]
 }

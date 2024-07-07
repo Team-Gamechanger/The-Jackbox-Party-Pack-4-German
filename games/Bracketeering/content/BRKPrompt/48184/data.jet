@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Guten Tag, allgemeine Siegerkontrolle!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So billig, so gruselig!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "679804_0f",
+      "v": "679804_0f",
       "n": "FinalReactionAudio",
-      "v": "Welcher Film verdient am meisten die Fortsetzung?!!"
+      "s": "Welcher Film verdient am meisten die Fortsetzung?!!"
     }
   ]
 }

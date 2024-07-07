@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Gib her, das Spielzeug. Hörste? Her damit, los! (Klingt so, als würde er sich mit einem Kind um das Spielzeug raufen)"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -81,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -146,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "679924_0f",
+      "v": "679924_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die komischste Sache, die man auf eBay verhökern kann?!"
+      "s": "Was ist die komischste Sache, die man auf eBay verhökern kann?!"
     }
   ]
 }

@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So heißen nur Gewinner!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "finalreaction",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Was ist DIE COOLSTE Sache, die man aus Jux und Tollerei in einen Mixer stecken kann, nur um zu schauen, was passiert?"
+      "s": "Was ist DIE COOLSTE Sache, die man aus Jux und Tollerei in einen Mixer stecken kann, nur um zu schauen, was passiert?"
     }
   ]
 }

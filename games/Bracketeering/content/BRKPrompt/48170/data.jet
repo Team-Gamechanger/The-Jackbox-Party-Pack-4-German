@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So billig, so gruselig!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +81,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +145,9 @@
     },
     {
       "t": "A",
-      "s": "679378_0f",
+      "v": "679378_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist der COOLSTE Name für ein Sportauto?!!"
+      "s": "Was ist der COOLSTE Name für ein Sportauto?!!"
     }
   ]
 }

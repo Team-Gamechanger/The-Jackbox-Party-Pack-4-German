@@ -82,8 +82,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "682392_0f",
+      "v": "682392_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die absolut ekelhafteste Sache, die jemand hochwürgen könnte??!"
+      "s": "Was ist die absolut ekelhafteste Sache, die jemand hochwürgen könnte??!"
     }
   ]
 }

@@ -49,8 +49,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Ich SCHNALL hier gar nix mehr!! "
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +59,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Schmeißt die Moral über Bord!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +79,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +143,9 @@
     },
     {
       "t": "A",
-      "s": "675701_0f",
+      "v": "675701_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist das COOLSTE Wort, um damit für immer und ewig jeden deiner Sätze zu beenden?!!"
+      "s": "Was ist das COOLSTE Wort, um damit für immer und ewig jeden deiner Sätze zu beenden?!!"
     }
   ]
 }

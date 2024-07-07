@@ -38,8 +38,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win0Audio",
-      "s": "Zack, Pow, Kabaam!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Lecker, Meeeenschenfleisch!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +58,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Ich werde nie wieder schlafen gehen!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +68,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +78,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +142,9 @@
     },
     {
       "t": "A",
-      "s": "678606_0f",
+      "v": "678606_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DER Film, in dem wir alle für die nächsten zehn Jahre leben wollen?!"
+      "s": "Was ist DER Film, in dem wir alle für die nächsten zehn Jahre leben wollen?!"
     }
   ]
 }

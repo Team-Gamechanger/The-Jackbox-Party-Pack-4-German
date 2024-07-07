@@ -147,9 +147,9 @@
     },
     {
       "t": "A",
-      "s": "finalreaction",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Welches ist die WICHTIGSTE REQUISITE, die man zu einem Fotoshooting mit einem Hund mitnimmt?!"
+      "s": "Welches ist die WICHTIGSTE REQUISITE, die man zu einem Fotoshooting mit einem Hund mitnimmt?!"
     }
   ]
 }

@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +81,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +145,9 @@
     },
     {
       "t": "A",
-      "s": "674373_0f",
+      "v": "674373_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist das beeindruckendste Wort, dass man auf seine Visitenkarte schreiben kann?!!"
+      "s": "Was ist das beeindruckendste Wort, dass man auf seine Visitenkarte schreiben kann?!!"
     }
   ]
 }

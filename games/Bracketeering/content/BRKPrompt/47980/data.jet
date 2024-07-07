@@ -60,8 +60,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Nahrhaft!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Ein unvergessliches Frühstück!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Klingt geil!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "674193_0f",
+      "v": "674193_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die COOLSTE Form für einen Sarg?!"
+      "s": "Was ist die COOLSTE Form für einen Sarg?!"
     }
   ]
 }

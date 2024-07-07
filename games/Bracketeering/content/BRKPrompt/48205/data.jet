@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Es tut so weh und ist so cool!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +81,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -146,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "680436_0f",
+      "v": "680436_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist der UNUMSTRITTEN beste Anmachspruch?!!"
+      "s": "Was ist der UNUMSTRITTEN beste Anmachspruch?!!"
     }
   ]
 }

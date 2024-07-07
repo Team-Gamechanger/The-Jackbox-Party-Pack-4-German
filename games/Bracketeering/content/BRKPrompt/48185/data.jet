@@ -70,8 +70,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So billig, so gruselig!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -81,8 +80,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -146,9 +144,9 @@
     },
     {
       "t": "A",
-      "s": "679834_0f",
+      "v": "679834_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die LUSTIGSTE Art, einen Wildfremden auf der Straße zu begrüßen?!!"
+      "s": "Was ist die LUSTIGSTE Art, einen Wildfremden auf der Straße zu begrüßen?!!"
     }
   ]
 }

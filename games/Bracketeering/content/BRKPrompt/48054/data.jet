@@ -71,8 +71,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +81,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +145,9 @@
     },
     {
       "t": "A",
-      "s": "676001_0f",
+      "v": "676001_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die COOLSTE Sache, die man schreien kann, während man einen Feuerzauber einsetzt?!!"
+      "s": "Was ist die COOLSTE Sache, die man schreien kann, während man einen Feuerzauber einsetzt?!!"
     }
   ]
 }

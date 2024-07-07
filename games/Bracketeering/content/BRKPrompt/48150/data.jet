@@ -49,8 +49,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Ich werde jetzt schon wütend!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +59,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Dadurch verlor ich 10 Freunde!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Bemerk mich, Daddy!!!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +79,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Da harmonisieren meine Chakren!!!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +143,9 @@
     },
     {
       "t": "A",
-      "s": "678786_0f",
+      "v": "678786_0f",
       "n": "FinalReactionAudio",
-      "v": "Welches ist das BESTE Spiel, um darin mit dem Teufel um dein Leben zu spielen??!"
+      "s": "Welches ist das BESTE Spiel, um darin mit dem Teufel um dein Leben zu spielen??!"
     }
   ]
 }

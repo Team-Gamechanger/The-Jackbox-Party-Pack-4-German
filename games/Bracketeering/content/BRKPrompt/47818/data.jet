@@ -147,9 +147,9 @@
     },
     {
       "t": "A",
-      "s": "finalreaction",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "v": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
+      "s": "Was ist die beste Waffe in einem verrückten Duell um Leben und Tod?!"
     }
   ]
 }

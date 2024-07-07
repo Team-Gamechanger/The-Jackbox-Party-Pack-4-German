@@ -49,8 +49,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Uh lá lá!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +59,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Pfützen-Alarm, Pfützen-Alarm!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "So billig, so gruselig!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +79,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +143,9 @@
     },
     {
       "t": "A",
-      "s": "679168_1f",
+      "v": "679168_1f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die BESTE Aktivität, um sie pantomimisch darzustellen?!"
+      "s": "Was ist die BESTE Aktivität, um sie pantomimisch darzustellen?!"
     }
   ]
 }

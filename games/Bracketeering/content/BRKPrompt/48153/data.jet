@@ -38,8 +38,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win0Audio",
-      "s": "2 cute 2 be 4 gotten!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -147,9 +146,9 @@
     },
     {
       "t": "A",
-      "s": "678868_0f",
+      "v": "678868_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist die GRUSELIGSTE Sache, die einem eine Kinderstimme mitten in der Nacht zuflüstern könnte??!"
+      "s": "Was ist die GRUSELIGSTE Sache, die einem eine Kinderstimme mitten in der Nacht zuflüstern könnte??!"
     }
   ]
 }

@@ -49,8 +49,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "AGGGGGHHHHH!!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +59,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "AUTSCH!!!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +69,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Es tut so weh und ist so cool!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +79,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -147,9 +143,9 @@
     },
     {
       "t": "A",
-      "s": "680346_0f",
+      "v": "680346_0f",
       "n": "FinalReactionAudio",
-      "v": "Was ist am komischsten, wenn man es unter seinem Bett findet??!"
+      "s": "Was ist am komischsten, wenn man es unter seinem Bett findet??!"
     }
   ]
 }

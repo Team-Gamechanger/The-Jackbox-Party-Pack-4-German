@@ -38,8 +38,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win0Audio",
-      "s": "Igitt!!!"
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -49,8 +48,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win1Audio",
-      "s": "Das ist ja widerlich!!!"
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -60,8 +58,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win2Audio",
-      "s": "Pfui, widerwärtig!"
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -71,8 +68,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win3Audio",
-      "s": "Ich glaub', mir wird schlecht!"
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -82,8 +78,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "Win4Audio",
-      "s": "Was ein Grusel-Fest!"
+      "n": "Win4Audio"
     },
     {
       "t": "B",
@@ -93,8 +88,7 @@
     {
       "t": "A",
       "v": "692387_1",
-      "n": "Twist0Audio",
-      "s": "Würdest du am ehesten in deinem Hintern irgendwo hinschmuggeln"
+      "n": "Twist0Audio"
     },
     {
       "t": "B",
@@ -127,7 +121,7 @@
       "t": "A",
       "v": "692383_0",
       "n": "PromptAudio",
-      "s": "Nenne irgendein kleines Objekt"
+      "s": "Nenne eine kleine Sache"
     },
     {
       "t": "B",
@@ -147,9 +141,9 @@
     },
     {
       "t": "A",
-      "s": "692397_1f",
+      "v": "692397_1f",
       "n": "FinalReactionAudio",
-      "v": "Was ist DAS Ding, dass du am ehesten in deiner Hintern irgendwo hineinschmuggeln würdest?!"
+      "s": "Welchen Gegenstand würdet ihr am ehesten im eigenen Hintern irgendwo hineinschmuggeln??!"
     }
   ]
 }
