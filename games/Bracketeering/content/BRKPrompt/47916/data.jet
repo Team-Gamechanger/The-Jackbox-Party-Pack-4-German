@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672183_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Spuktastisch!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672184_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Da gab's saures!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672185_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Furchteinflößend!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672168_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste Halloweenkostüm, wenn man unendlich viel Geld dafür hat"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672175_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Einige Menschen können echt kreativ sein, wenn Geld kein Problem ist."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672182_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das mit Abstand beste Halloweenkostüm??!"
     }

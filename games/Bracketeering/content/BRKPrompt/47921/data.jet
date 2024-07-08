@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672333_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "So klingt der Sieg!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672334_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Lautmalerei!"
     },
@@ -122,9 +122,9 @@
     },
     {
       "t": "A",
-      "v": "672318_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Das beste Geräusch auf der Welt"
+      "s": "Das beste Geräusch der Welt"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "672325_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich erwarte lautstarke Debatten."
     },
@@ -144,9 +144,9 @@
     },
     {
       "t": "A",
-      "v": "672332_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist das BESTE Geräusch auf der Welt?"
+      "s": "Was ist das BESTE Geräusch der Welt?"
     }
   ]
 }

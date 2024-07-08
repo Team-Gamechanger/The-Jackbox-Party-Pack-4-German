@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672213_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Voll auf die Zwölf!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672214_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Die Backe pfeift noch eine Weile!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672215_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Bam! So befreiend! "
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672198_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Wer verdient eine Backpfeife?"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672205_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Also mir fällt da sofort wer ein!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672212_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wer verdient ganz dringend eine Backpfeife?"
     }

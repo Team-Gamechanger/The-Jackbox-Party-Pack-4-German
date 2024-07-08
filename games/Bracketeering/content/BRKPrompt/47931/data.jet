@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672639_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Arschbombe!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672640_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Plitsch Platsch!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672641_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Hey, kein Springen vom Beckenrand!! ...Ohne mich!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "672642_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Los, rein da!"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "672624_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die beste Sache, um einen Pool damit zu füllen und reinzuspringen"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "672631_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Muss auch kein Hauspool sein, das Freibad reicht auch."
     },
@@ -146,9 +146,9 @@
     },
     {
       "t": "A",
-      "v": "672638_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist die beste Sache, die man in ein Pool füllen kann um reinzuspringen!??"
+      "s": "Was ist die beste Sache, die man in einen Pool füllen kann um reinzuspringen!??"
     }
   ]
 }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "673643_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "So macht man den Leuten Sport schmackhaft!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "673644_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das LÄUFT gut!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "673645_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Mein Puls geht durch die Decke!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "673628_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Name für einen Marathon"
     },
@@ -134,9 +134,9 @@
     },
     {
       "t": "A",
-      "v": "673635_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Was auch immer dabei rauskommen mag, krieg' ich wenigstens ein T-Shirt fürs dabei sein?"
+      "s": "Was auch immer dabei rauskommt, krieg' ich wenigstens ein T-Shirt fürs dabei sein?"
     },
     {
       "t": "B",
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "673642_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Name für einen Marathon??!"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672699_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "AHHHHH!!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672700_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "JAAAAAAAAAAAAAA!!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672701_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "ARRRRGGGGHHHH!!!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672684_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Zeitpunkt, um dir die Kleider vom Leib zu reißen und zu schreien"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672691_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Also vorausgesetzt, man trägt Kleidung zum vom Leib reißen - ich zieh mir 'ne Hose an, während ihr schreibt."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672698_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Zeitpunkt, um sich die Kleider vom Leib zu reißen und einfach nur zu schreien??!"
     }

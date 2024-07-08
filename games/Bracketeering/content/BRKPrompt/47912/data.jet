@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "v": "672063_0f",
+      "v": "win0",
       "n": "Win0Audio",
-      "s": "Nach rechts mit dir!!!"
+      "s": "Du wirst nach rechts gewischt!!!"
     },
     {
       "t": "B",
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672064_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "1A-Datematerial!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672065_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ich kauf'n Ehering!!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672048_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die beste Sache, die man auf seinem Tinder-Profilbild in der Hand halten kann"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672055_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich frag' für'n Freund."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672062_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die absolut beste Sache, die man auf seinem Tinder-Profilbild in der Hand halten kann?!!"
     }

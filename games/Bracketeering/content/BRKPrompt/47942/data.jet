@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672973_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Okay, das klingt schon ganz nett!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672974_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Vielleicht ist jonglieren ja doch cool?!"
     },
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "v": "672975_0f",
+      "v": "win2",
       "n": "Win2Audio",
-      "s": "Wow, ich muss das sehen!"
+      "s": "Wow, das muss ich sehen!"
     },
     {
       "t": "B",
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672958_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, die man jonglieren kann"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672965_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das ist vielleicht ein bisschen hart aber... passen die Wörter \"Cool\" und \"Jonglieren\" überhaupt in den selben Satz?"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672972_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die mit Abstand COOLSTE Sache, die man jonglieren kann? "
     }

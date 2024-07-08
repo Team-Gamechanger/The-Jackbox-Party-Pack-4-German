@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672273_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Passt schon!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672274_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Besser als kein Geschenk?"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "672258_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste Geschenk, das du einem Freund kurzfristig an der Tanke kaufen kannst"
     },
@@ -133,9 +133,9 @@
     },
     {
       "t": "A",
-      "v": "672265_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Dieser Prompt beruht auf einer wahren Begebenheit aus meinem Leben!"
+      "s": "Dieses Szenario beruht auf einer wahren Begebenheit aus meinem Leben!"
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "672272_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das beste Geschenk, das man einem Freund kurzfristig an der Tanke kaufen könnte??"
     }

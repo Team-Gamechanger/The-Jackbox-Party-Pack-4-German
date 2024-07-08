@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672729_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Wer könnte ohne leben?"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672730_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das hat die Welt verändert!!!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "672714_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die beste Erfindung der letzten 100 Jahre"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "672721_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das Rad wurde vor mehr als 100 Jahren erfunden, oder?"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "672728_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Erfindung der letzten 100 Jahre?!!"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672303_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Kuschelattacke!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672304_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Erknuddelt!"
     },
@@ -59,9 +59,9 @@
     },
     {
       "t": "A",
-      "v": "672305_0f",
+      "v": "win2",
       "n": "Win2Audio",
-      "s": "So kuschelig... und TÖDLICH!"
+      "s": "So kuschelig...!"
     },
     {
       "t": "B",
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672288_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die Person, der du am ehesten eine Umarmung geben würdest, wenn du eine Zeitmaschine hättest"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672295_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das ist mal Science-Fiction nach meinem Geschmack."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672302_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Person würdet ihr mit einer Zeitmaschine am ehesten eine Umarmung geben?!"
     }

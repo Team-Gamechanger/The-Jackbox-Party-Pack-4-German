@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672669_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Aufschreiben, Kinder!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672670_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Uiuiui, das lese ich besser nicht vor!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672671_1f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ach du Sch- Scheibenkleister!!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672654_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die beste Beleidigung, die auch Kinder benutzen dürfen"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672661_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Denn auch die Kleinsten müssen mal Dampf ablassen."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672668_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Beleidigung, die auch Kinder benutzen dürfen??!"
     }

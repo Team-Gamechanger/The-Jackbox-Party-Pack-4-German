@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674044_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Da krieg' ich Durst nach Trinkgeld!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674045_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Aber nur für den besten Service!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "674029_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Ersatz für Trinkgeld"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "674036_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das heißt für die Sparfüchse und Schwaben, die gerade spielen: Lauscher auf!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "674043_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Ersatz für Trinkgeld??!"
     }

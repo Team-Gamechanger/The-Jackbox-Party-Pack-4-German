@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674014_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Uuuh Baby, das gruselt!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674015_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Die Günstigsten auf dem Markt!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "674016_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Jemand wurde Babysitter-SERVIERT!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "673999_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der gruseligste Name für einen Babysitterservice"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "674006_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ooooo...."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "674013_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der GRUSELIGSTE Name für einen Babysitterservice??!"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "672519_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Gutes Wort!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "672520_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Babys sollten sowas sagen!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "672521_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Dieses Baby wird Schriftsteller!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "672504_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste erste Wort von einem Baby"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "672511_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Mein erstes Wort war Bracketeering. Ich war 14."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "672518_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das BESTE erste Wort von einem Baby?!!"
     }
