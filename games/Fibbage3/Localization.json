@@ -104,7 +104,7 @@
         "GRANDPA_TITLE": "BESTER OPA DER WELT",
         "AWKWARD_TITLE": "KOMISCHSTER TYP VON ALLEN",
         "PHONE_TITLE": "BRAUCHT DRINGEND EIN NEUES HANDY",
-        "TRUE_FACT_TITLE": "WAHRER FAKT #",
+        "TRUE_FACT_TITLE": "WAHRER FAKT NR.",
         
         "WINNER_DESCRIPTION": "<PlayerScore> Punkte",
         "MOST_LIKES_DESCRIPTION": "<PlayerLikes> Likes",
@@ -130,7 +130,7 @@
         "PHOTO_TITLE": "SCHAUEN WIR<br />UNS DAS<br />MAL AN",
         "RUSSIAN_TITLE": "Игра лжи",
         "AUDIENCE_LABEL": "PUBLIKUM",
-        "VOTES_LABEL": "VOTES",
+        "VOTES_LABEL": "STIMMEN",
         "CENSORED": "ZENSIERT",
 
         "TMI_STANDARD_ROUND_GAME_INSTRUCTION": "Beantwortet die Frage auf eurem Gerät ehrlich.",
