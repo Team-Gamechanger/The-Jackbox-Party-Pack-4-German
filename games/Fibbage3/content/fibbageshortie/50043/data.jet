@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Gin",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Im Dezember 2022 verschwand aus dem Bodensee eine 800 Kilogramm schwere Edelstahlkugel voller <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Gin",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Im Dezember 2022 verschwand aus dem Bodensee eine 800 Kilogramm schwere Edelstahlkugel voller <BLANK>.",
       "t": "A",
       "n": "QuestionAudio"
     }

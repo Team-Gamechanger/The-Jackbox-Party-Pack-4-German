@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Waffle House",
+      "v": "Katzen",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Waffle House",
+      "s": "[category=host]Katzen",
       "t": "A",
       "n": "CorrectAudio"
     },

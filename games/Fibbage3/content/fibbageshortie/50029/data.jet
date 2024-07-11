@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Tischkickern",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Ein in den 1960er-Jahren in der Türkei erlassenes Verbot führte dazu, dass die Herstellung, der Verkauf und das öffentliche Benutzen von <BLANK> verboten wurde.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Tischkickern",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Ein in den 1960er-Jahren in der Türkei erlassenes Verbot führte dazu, dass die Herstellung, der Verkauf und das öffentliche Benutzen von <BLANK> verboten wurde.",
       "t": "A",
       "n": "QuestionAudio"
     }

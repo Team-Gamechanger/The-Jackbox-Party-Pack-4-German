@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Särge",
+      "v": "dem Bart",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Särge",
+      "s": "[category=host]dem Bart",
       "t": "A",
       "n": "CorrectAudio"
     },

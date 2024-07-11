@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Super-U-Bahnen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Um die Geburtenrate in Südkorea zu erhöhen, plant die Regierung <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Super-U-Bahnen",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Um die Geburtenrate in Südkorea zu erhöhen, plant die Regierung <BLANK>.",
       "t": "A",
       "n": "QuestionAudio"
     }

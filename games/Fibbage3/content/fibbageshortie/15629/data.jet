@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "einem Bandwurm",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]einem Bandwurm",
       "t": "A",
       "n": "CorrectAudio"
     },

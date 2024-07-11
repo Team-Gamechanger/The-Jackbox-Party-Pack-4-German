@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Pferde",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Benito Weise hat sieben Jahre lang an einer revolutionären Erfindung gearbeitet: Eine Brille, die es ermöglicht, die Welt wie <BLANK> wahrzunehmen.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Pferde",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Benito Weise hat sieben Jahre lang an einer revolutionären Erfindung gearbeitet: Eine Brille, die es ermöglicht, die Welt wie <BLANK> wahrzunehmen.",
       "t": "A",
       "n": "QuestionAudio"
     }

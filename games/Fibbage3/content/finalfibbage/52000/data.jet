@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "starts liking your photos",
+      "v": "Einer Armbrust|Tauben",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2016, a strange hoax hit several Burger King restaurants. Following instructions from a prank caller, store employees began to <BLANK> all the <BLANK>.",
+      "v": "Ein Senior aus Hamburg erhielt eine Anzeige, weil er sich mit <BLANK> gegen <BLANK> wehrte.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]starts liking your photos",
+      "s": "[category=host]Einer Armbrust|Tauben",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2016, a strange hoax hit several Burger King restaurants. Following instructions from a prank caller, store employees began to <BLANK> all the <BLANK>.",
+      "s": "[category=host]Ein Senior aus Hamburg erhielt eine Anzeige, weil er sich mit <BLANK> gegen <BLANK> wehrte.",
       "t": "A",
       "n": "QuestionAudio"
     }

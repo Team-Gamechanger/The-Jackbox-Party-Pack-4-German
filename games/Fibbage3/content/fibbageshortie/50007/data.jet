@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Yoga machte",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Im März 2024 brach eine Frau in eine Bäckerei in Melbourne ein. Als sich die Angestellten die Aufnahmen der Überwachungskamera ansahen, stellten sie fest, dass die Einbrecherin vor der Tür des Ladens <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Yoga machte",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Im März 2024 brach eine Frau in eine Bäckerei in Melbourne ein. Als sich die Angestellten die Aufnahmen der Überwachungskamera ansahen, stellten sie fest, dass die Einbrecherin vor der Tür des Ladens <BLANK>.",
       "t": "A",
       "n": "QuestionAudio"
     }

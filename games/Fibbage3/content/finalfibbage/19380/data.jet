@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "wells|porta potties,electric fences|storms,drones|grenades,hawks|crocodiles,bees|wasps,lies|video tape,cancer|AIDS,drugs|alcohol,lions|tigers,explosives|narcotics,sarcasm|apathy,ants|roaches,tanks|cheese,money|jewels,latrines|wheat,ghosts|vampires,anthrax|asbestos,ice cream|sadness",
+      "v": "Brunnen|Latrinen,Elektrozäune|Gewitter,Dronen|Granaten,Falken|Krokodile,Bienen|Wespen,Lügen|Herzschwäche,Krebs|AIDS,Drogen|Alkohol,Löwen|Tiger,Sprengstoff|Rauschgift,Sarkasmus|Arroganz,Ameisen|Kakerlaken,Panzer|Käse,Geld|Juwelen,Lateinamerikaner|Weizen,Geister|Vampire,Krätze|Asbest,Eiscreme|Trauer",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Rat Patrol",
+      "v": "Auf Streife",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "starts liking your photos",
+      "v": "Landminen|Tuberkulose",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "APOPO is an organization that trains African giant-pouched rats to detect <BLANK> and <BLANK>.",
+      "v": "APOPO ist eine Organisation, die afrikanische Riesenhamsterratten darauf trainiert, <BLANK> und <BLANK> aufzuspüren.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "tuberculosis|land mines,tuberculosis|mines,tb|land mines,tuberculoses|mines,tooburculosis|mines,tuburculosislmines,mines|tuberculosis,mines|tuberculosis",
+      "v": "Tuberkulose|Landminen,Tuberkulose|Minen,Minen|Tuberkulose,Tb|Landminen,Landminen|Tb,Tuberkulose|Tretminen,Tretminen,Tuberkulose,Tuberkulose|Bomben,Bomben|Tuberkulose",
       "n": "AlternateSpellings"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]starts liking your photos",
+      "s": "[category=host]Landminen|Tuberkulose",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]APOPO is an organization that trains African giant-pouched rats to detect <BLANK> and <BLANK>.",
+      "s": "[category=host]APOPO ist eine Organisation, die afrikanische Riesenhamsterratten darauf trainiert, <BLANK> und <BLANK> aufzuspüren.",
       "t": "A",
       "v": "384170_0",
       "n": "QuestionAudio"

@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Pferde",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Der Designer Marcus Floyd hat im Oktober 2022 einen ungewöhnlichen Schuh-Onlineshop eröffnet, in dem man ausschließlich Sneaker für <BLANK> kaufen kann. ",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Pferde",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Der Designer Marcus Floyd hat im Oktober 2022 einen ungewöhnlichen Schuh-Onlineshop eröffnet, in dem man ausschließlich Sneaker für <BLANK> kaufen kann. ",
       "t": "A",
       "n": "QuestionAudio"
     }

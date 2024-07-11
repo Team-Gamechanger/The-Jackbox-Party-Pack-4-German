@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Kokain",
+      "v": "einen Zeh",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Kokain",
+      "s": "[category=host]einen Zeh",
       "t": "A",
       "n": "CorrectAudio"
     },

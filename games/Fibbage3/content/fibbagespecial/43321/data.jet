@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasBumperType"
     },
     {
@@ -39,6 +39,11 @@
       "t": "S",
       "v": "der Krebs",
       "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
     },
     {
       "t": "S",

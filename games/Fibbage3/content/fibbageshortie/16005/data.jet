@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "boot",
+      "v": "ein meistgesuchter Krimineller",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]boot",
+      "s": "[category=host]ein meistgesuchter Krimineller",
       "t": "A",
       "n": "CorrectAudio"
     },

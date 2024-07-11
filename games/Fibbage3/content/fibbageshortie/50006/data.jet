@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "Meteoriten",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Die pariser Modemarke Coperni bietet ein ganz besonderes Produkt in ihrem Sortiment an: Eine Handtasche bestehend aus <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]Meteoriten",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Die pariser Modemarke Coperni bietet ein ganz besonderes Produkt in ihrem Sortiment an: Eine Handtasche bestehend aus <BLANK>.",
       "t": "A",
       "n": "QuestionAudio"
     }

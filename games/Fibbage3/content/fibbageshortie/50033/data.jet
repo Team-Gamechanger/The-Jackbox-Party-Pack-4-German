@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "einer toten Möwe",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "In einem Hamburger Park entblöste sich im August 2022 ein Mann und griff im Anschluss eine Passantin mit <BLANK> an.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]einer toten Möwe",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]In einem Hamburger Park entblöste sich im August 2022 ein Mann und griff im Anschluss eine Passantin mit <BLANK> an.",
       "t": "A",
       "n": "QuestionAudio"
     }

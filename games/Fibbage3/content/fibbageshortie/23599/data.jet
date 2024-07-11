@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "sein Double",
+      "v": "Pferde",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]sein Double",
+      "s": "[category=host]Pferde",
       "t": "A",
       "n": "CorrectAudio"
     },

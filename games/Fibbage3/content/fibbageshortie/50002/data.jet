@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "einem Plumpsklo",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre Apple Watch zu retten.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]einem Plumpsklo",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre Apple Watch zu retten.",
       "t": "A",
       "n": "QuestionAudio"
     }

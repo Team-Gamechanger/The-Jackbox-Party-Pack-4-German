@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Welcome to Scotland",
+      "v": "einen Porno geschaut hat",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "v": "In Berlin-Wannsee wurde ein 77-jähriger Mann wegen überhöhter Geschwindigkeit angehalten. Dabei fiel dem Polizeibeamten auf, dass er während der Fahrt <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Welcome to Scotland",
+      "s": "[category=host]einen Porno geschaut hat",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "s": "[category=host]In Berlin-Wannsee wurde ein 77-jähriger Mann wegen überhöhter Geschwindigkeit angehalten. Dabei fiel dem Polizeibeamten auf, dass er während der Fahrt <BLANK>.",
       "t": "A",
       "n": "QuestionAudio"
     }

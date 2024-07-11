@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "heroin|snot,ice cream|semen,human ashes|cheeto dust,cocoa|gold,peanut butter|pubic hair,sugar|lube,pot|lotion,saffron|a hint of thyme,flouride|msg,tears|uranium,semen|spit,dog fur|shellfish,sweat|vomit,coffee|white chocolate,blood|dog hair,wine|penicillin,tylenol|meth,bacon|Dr Pepper",
+      "v": "Heroin|Speichel,Eiscreme|Spermien,menschlicher Asche|Chipskrümeln,Kakao|Gold,Erdnussbutter|Schamhaaren,Zucker|Gleitgel,Kaffee|Shampoo,Safran|Thymian,Flourid|Quecksilber,Tränen|Uran,Mondstaub|Spucke,Hundefell|Muscheln,Schweiß|Erbrochenem,Taubendung|weißer Schokolade,Blut|Elfenbein,Wein|Schmerzmittel,Käsekuchen|Crystal Meth,Speck|Paulaner Spezi",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Trace Amounts",
+      "v": "Spurensuche",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "starts liking your photos",
+      "v": "Kokain|Herpes",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Belgian professors studied library copies of <i>Fifty Shades of Grey</i> and discovered trace amounts of <BLANK> and <BLANK> on the books.",
+      "v": "Belgische Professoren untersuchten Bibliotheksexemplare von <i>Fifty Shades of Grey</i> und fanden Spuren von <BLANK> und <BLANK> auf den Büchern.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "herpes|cocaine,herpes|coke,coke|herpes",
+      "v": "Herpes|Kokain,Herpes|Cocain,Cocain|Herpes",
       "n": "AlternateSpellings"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]starts liking your photos",
+      "s": "[category=host]Kokain|Herpes",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Belgian professors studied library copies of <i>Fifty Shades of Grey</i> and discovered trace amounts of <BLANK> and <BLANK> on the books.",
+      "s": "[category=host]Belgische Professoren untersuchten Bibliotheksexemplare von <i>Fifty Shades of Grey</i> und fanden Spuren von <BLANK> und <BLANK> auf den Büchern.",
       "t": "A",
       "v": "331631_0",
       "n": "QuestionAudio"

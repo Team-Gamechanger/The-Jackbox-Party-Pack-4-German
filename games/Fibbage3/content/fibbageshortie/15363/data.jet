@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Stepson",
+      "v": "Verführung",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Stepson",
+      "s": "[category=host]Verführung",
       "t": "A",
       "n": "CorrectAudio"
     },

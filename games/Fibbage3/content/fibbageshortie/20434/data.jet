@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "underboob",
+      "v": "Gefangene zu bestrafen",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]underboob",
+      "s": "[category=host]Gefangene zu bestrafen",
       "t": "A",
       "n": "CorrectAudio"
     },

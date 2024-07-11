@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasBumperType"
     },
     {
@@ -39,6 +39,11 @@
       "t": "S",
       "v": "Toiletten",
       "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
     },
     {
       "t": "S",
