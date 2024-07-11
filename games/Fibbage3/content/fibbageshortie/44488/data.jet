@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "write screenplays,use buzz words,like pinstripes,trade stocks,like money,like gold watches,go into bathrooms,pace,style their hair,annoy their friends,watch scary movies,claw at their faces,hear voices,solve riddles,run themselves to death,fly helicopters,scream in their sleep,hate themselves",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rat Stats",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enjoy jazz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2011, researchers at Albany Medical College discovered rats that had been given cocaine were more likely to <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "like jazz,listen to jazz,jazz,like Miles Davis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]enjoy jazz",
+      "t": "A",
+      "v": "589560_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2011, researchers at Albany Medical College discovered rats that had been given cocaine were more likely to <BLANK>.",
+      "t": "A",
+      "v": "589557_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

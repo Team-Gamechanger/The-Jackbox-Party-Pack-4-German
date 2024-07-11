@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frying chicken,water,yawning,snoring,using air quotes,haircuts,eye rolling,daydreaming,singing in falsetto,Canadians,maple syrup,napping,knock knock jokes,encyclopedias,carrots,speaking English,nose picking,pig wrestling",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bills Bills Bills",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "flirting",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 1902, New York state assemblyman Francis G. Landon introduced a bill that would criminalize <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]flirting",
+      "t": "A",
+      "v": "609698_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 1902, New York state assemblyman Francis G. Landon introduced a bill that would criminalize <BLANK>.",
+      "t": "A",
+      "v": "609695_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

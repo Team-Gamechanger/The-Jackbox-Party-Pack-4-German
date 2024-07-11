@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "murder,marry,sculpt,prank,clone,get lunch with,turn himself into,prompose to,shrink,imitate,lick,smell,rename,humiliate,take a roadtrip with,high five,eat,freeze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "George Washington",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "resurrect",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "William Thornton was a prominent U.S. physician and architect, but his strangest contribution to history was probably his detailed plan to <BLANK> George Washington.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "zombify,reanimate,bring back from the dead",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]resurrect",
+      "t": "A",
+      "v": "639840_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]William Thornton was a prominent U.S. physician and architect, but his strangest contribution to history was probably his detailed plan to <BLANK> George Washington.",
+      "t": "A",
+      "v": "639837_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rice|the toilet,broken glass|the runway,potatoes|a cockpit,sand|business class,crackers|her mouth,chicken|her vegeterian salad,a baseball|the garbage,a picture of goats|the overhead bin,hand lotion|the captain’s hair,up|her lap,up a three pointer|the basket,a small dog|her carry on luggage,a fit|her pillow,her laptop|the hand dryer,salt|the pilot’s eyes,down her mad rhymes|the microphone,napkins|seat 34E,her ticket|first class",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "superstitious passengers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "A superstitious passenger on a flight from Shanghai ended up delaying takeoff after she threw <BLANK> into <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coins|the engine,coins|the plane engine,change|the engine,loose change|the engine",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]A superstitious passenger on a flight from Shanghai ended up delaying takeoff after she threw <BLANK> into <BLANK>.",
+      "t": "A",
+      "v": "672925_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

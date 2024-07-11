@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Seinem BH,Seinem Glasauge,Seinem Bauchnabel,Seinen Handschuhen,Seinem Rucksack,Seinen Dreadlocks,Seinem Katheter,Seiner Waffe,Seiner Zahnfüllung,Seinem aufgeklebten Bart,Seinem Toupet,Seiner Lunge",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drogenverstecke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Windel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2008 wurde ein Mann aus New Orleans verhaftet, als die Polizei 200 Gramm Heroin in <BLANK> entdeckte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Windel,Windeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seiner Windel",
+      "t": "A",
+      "v": "381188_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]2008 wurde ein Mann aus New Orleans verhaftet, als die Polizei 200 Gramm Heroin in <BLANK> entdeckte.",
+      "t": "A",
+      "v": "381185_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

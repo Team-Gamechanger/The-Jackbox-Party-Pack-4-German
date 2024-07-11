@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pee,bark,lick,scratch,beg,vomit,sniff,whimper,walk upstairs,eat,roll over,wiggle its ears,look like a German Shepherd,jump over a fox,float like a balloon,hump furniture,chase its tail,dig holes",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "German Toys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poop",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Kackel Dackel is a German toy where kids use a pump to help a Dachshund <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "crap,have a bowel movement,shit,take a shit,take a poop,defecate,make a bowel movement",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]poop",
+      "t": "A",
+      "v": "318575_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kackel Dackel is a German toy where kids use a pump to help a Dachshund <BLANK>.",
+      "t": "A",
+      "v": "318572_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

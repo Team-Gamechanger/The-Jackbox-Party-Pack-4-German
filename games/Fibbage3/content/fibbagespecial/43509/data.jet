@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "single,over you,a chauvinist,into myself,sad,a belcher,begging you,a smelly butt,judging you,a Star Wars fan,so broke,not up for it,vomiting,farting up a storm,real lonely,a dance machine,all kinds of handsome,a jerk",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "no offense",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "AaronCarter",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Aaron Carter tweeted: “No offense ladies but I am <BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "7:58 PM<br />30 Aug 2012",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@AaronCarter",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Aaron Carter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "564062_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]AaronCarter",
+      "t": "A",
+      "v": "564060_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Aaron Carter tweeted: “No offense ladies but I am <BLANK>.”",
+      "t": "A",
+      "v": "564057_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

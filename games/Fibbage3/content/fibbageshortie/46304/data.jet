@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a UFC octagon,an opium den,a brothel,a statue of him,a Whole Foods,a pillow fort,his new cool loft,a barn,a cage for God,a hipster diner,a prison,long-lasting memories,a casino,a theme park,a vape shop,a film studio,a throne for him,a compelling narrative",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "The Devil",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a wine bar",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "According to legend, the Devil himself helped build St. Mary’s Church in Lübeck, Germany, because locals tricked him into thinking they were building <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "a bar,wine bar,bar",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]a wine bar",
+      "t": "A",
+      "v": "641070_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]According to legend, the Devil himself helped build St. Mary’s Church in Lübeck, Germany, because locals tricked him into thinking they were building <BLANK>.",
+      "t": "A",
+      "v": "641067_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

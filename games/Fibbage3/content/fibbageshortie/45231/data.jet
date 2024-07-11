@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gold woman,beaver,unicorn village,silver statue,money tree,door to heaven,fountain of youth,wish-granting cow,pile of money,talking tree,flying bear,elf city,spaceship,fig tree,three-headed bull,pepper mine,walking catfish,eagle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rumors",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mountain made of salt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "One of the reasons Thomas Jefferson was excited to complete the Louisiana Purchase is because there were rumors of a giant <BLANK> on the banks of the Missouri River.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mountain of salt,salt mountain",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mountain made of salt",
+      "t": "A",
+      "v": "609011_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]One of the reasons Thomas Jefferson was excited to complete the Louisiana Purchase is because there were rumors of a giant <BLANK> on the banks of the Missouri River.",
+      "t": "A",
+      "v": "609008_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

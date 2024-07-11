@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scottsmen,shoemakers,pretzel rolls,vampires,accountants,Olympians,Muppets,capitalists,jazz boys,salamanders,children named Jimmy,pork buns,Friends Reruns,Waffles,olympic runners,bars that I’m spitting,sequels,antibiotics",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lynch Tweets",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pandora",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "<i>Twin Peaks</i> director David Lynch tweeted: “Dear Twitter Friends, the <BLANK> are running fast and free.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11:09 AM<br />3 Jul 2013",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@DAVID_LYNCH",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "squirrels,happy squirrel,squirrel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "667144_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pandora",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]<i>Twin Peaks</i> director David Lynch tweeted: “Dear Twitter Friends, the <BLANK> are running fast and free.”",
+      "t": "A",
+      "v": "667139_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

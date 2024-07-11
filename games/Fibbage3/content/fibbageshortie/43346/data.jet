@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a wife,six fingers,a standup routine,a heart condition,a pet camel,a Netflix account,a twin,a credit card,dyslexia,made cookies for the whole crew,space madness,his cake and eat it too,a fear of flying,a secret family,received detention in high school,mono,a vestigial tail,a pet leopard",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "first timers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pornographic snowmen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Paul Scully-Power was not only the first Australian to launch into space; he was also the very first astronaut to have <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "facial hair,a mustache,a moustache,whiskers",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]pornographic snowmen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Paul Scully-Power was not only the first Australian to launch into space; he was also the very first astronaut to have <BLANK>.",
+      "t": "A",
+      "v": "560935_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

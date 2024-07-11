@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Go-Karts,Drohnen,Surfbrettern,Kajaks,BMX-Fahrrädern,Autodächern,Halfpipes,Treppenliften,E-Rollern,Schnellbooten,Einrädern,Hunden,Snowboards,Hängegleitern,Schlitten,Haien,LKWs,Wasserskis",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kinder-Transport",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Skateboards",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Kinderwagenhersteller Quinny stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "skateboard,skate board,Skate Boards,long boards,Longboards,Longboard,Long board,Skatebord",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Skateboards",
+      "t": "A",
+      "v": "375875_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Kinderwagenhersteller Quinny stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
+      "t": "A",
+      "v": "375872_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

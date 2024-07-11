@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Der Heirat,Sozialstunden,Einer Geburtstagsfeier,Sex,Einer Beförderung,Seinen Spielschulden,Seiner Schwiegermutter,Einem Fernsehauftritt,Aus einem Gefängnis,Einem Knöllchen,Einem Zahnarztbesuch,Einem Weihnachtsessen,Der Geburt seiner Kinder,der Kastration,Einem Fallschirmsprung,Aus einer Beziehung,Small Talk,Einem Pornodreh",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Scheintod",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Handyrechnung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Amerikaner Corey Taylor ging bis zum Äußersten und beschloss, seinen eigenen Tod vorzutäuschen, um <BLANK> zu entkommen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Seiner Handy Rechnung,Seiner Handy-Rechnung,Seiner Smartphonerechnung,Seiner Smartphone Rechnung,Seiner Smartphone-Rechnung,Seiner Mobilfunkrechnung,Seiner Mobilfunk Rechnung,Seiner Mobilfunk-Rechnung,Einer Handyrechnung,Einer Handy Rechnung,Einer Handy-Rechnung,Einer Smartphonerechnung,Einer Smartphone-Rechnung,Einer Smartphone Rechnung,Einer Mobilfunkrechnung,Einer Mobilfunk Rechnung,Einer Mobilfunk-Rechnung,Handyrechnungen,Handy Rechnungen,Handy-Rechnungen,Smartphonerechnungen,Smartphone Rechnungen,Smartphone-Rechnungen,Mobilfunkrechnungen,Mobilfunk Rechnungen,Mobilfunk-Rechnungen,Der Handyrechnung,Der Handy Rechnung,Der Handy-Rechnung,Der Smartphonerechnung,Der Smartphone Rechnung,Der Smartphone-Rechnung,Der Mobilfunkrechnung,Der Mobilfunk Rechnung,Der Mobilfunk-Rechnung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seiner Handyrechnung",
+      "t": "A",
+      "v": "385184_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Amerikaner Corey Taylor ging bis zum Äußersten und beschloss, seinen eigenen Tod vorzutäuschen, um <BLANK> zu entkommen.",
+      "t": "A",
+      "v": "385181_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

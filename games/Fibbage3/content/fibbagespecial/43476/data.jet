@@ -1,0 +1,97 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Frauen,Jim Carrey,Küchen,Ohne-Emotionen,Geburts,Taschen,Dating,Freundschafts,Schlafstörungs,Rede,Beleuchtungs,Anti-Aging,Doppelkinn,Sonnen-Reflektions,Kartoffelgesichts,Nie-wieder-Pickel,Pocken,Dämonen,Zölibats",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Toiletten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Diese Zeichnung wurde 1877 von Nanette S. Emerson-French für eine zum Patent angemeldete Erfindung eingereicht: die <BLANK>-Maske.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Klo,WC,Toileten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "563210_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570555_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Toiletten",
+      "t": "A",
+      "v": "563208_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Diese Zeichnung wurde 1877 von Nanette S. Emerson-French für eine zum Patent angemeldete Erfindung eingereicht: die <BLANK>-Maske.",
+      "t": "A",
+      "v": "563205_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

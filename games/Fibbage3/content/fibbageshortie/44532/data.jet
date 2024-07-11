@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "being a scientist,The Queen,The Fonz,Ryan Reynolds,skateboarding,line dancing,Martha Stewart,wearing your hat backwards,wearing jeggings,swing dancing,being a dad,country music,saying “cool”,birdwatching,Sesame Street,taking cooking classes,staying in school,playing an instrument",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Coolness",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steve Buscemi",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2012, two researchers conducted a quantitative investigation of coolness in order to determine if <BLANK> was cool.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Steve Buscemi",
+      "t": "A",
+      "v": "590382_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2012, two researchers conducted a quantitative investigation of coolness in order to determine if <BLANK> was cool.",
+      "t": "A",
+      "v": "590379_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

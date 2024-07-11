@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a coffee cup,a nude sculpture,a candle,the Statue of Liberty,a surreal painting,an ottoman,a litter box,a child’s sandbox,a nose ring,a stained glass window,wind chimes,a hummingbird feeder,a belt buckle,his body,a bra,an iPod Touch,an Etch-a-Sketch,an hourglass",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Asche zu Asche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Sexspielzeug",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Designer Mark Sturkenboom möchte einem helfen, sich an einen geliebten Menschen zu erinnern, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "a dildo,sex toys,dildos",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Sexspielzeug",
+      "t": "A",
+      "v": "404998_1f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Designer Mark Sturkenboom möchte einem helfen, sich an einen geliebten Menschen zu erinnern, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
+      "t": "A",
+      "v": "404995_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Let’s get crazy,My house or yours?,Like what you see?,It doesn’t matter,No dorks allowed,Eat your fill,Back off,Enough already,Kiss Rules,Sweet,You Looking At Me?,Let’s See How This Goes,Ben Was Here,Come Back Later,Too Soon to Tell,Don’t Count On It,Aye Carumba!,Get Bent",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Old Money",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mind Your Business",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "The original U.S. penny, called the Fugio cent, featured the sun shining on a short phrase which simply read “<BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mind Your Own Business",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mind Your Business",
+      "t": "A",
+      "v": "686160_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]The original U.S. penny, called the Fugio cent, featured the sun shining on a short phrase which simply read “<BLANK>.”",
+      "t": "A",
+      "v": "686157_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

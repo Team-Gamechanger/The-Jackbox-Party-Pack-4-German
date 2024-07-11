@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cooking,clown,stand-up,dance,massage therapy,ac repair,telepathy,physics,reiki healing,dressage,horse riding,sandwich artist,Lamaze,benedict cumberbatch,seminary,pasta making,computer programming,astronomy",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "baby school",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "DJ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Natalie Elizabeth Weiss wants to give your newborn an unusual skill, which is why she founded the Baby <BLANK> School.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "disc jockey",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]DJ",
+      "t": "A",
+      "v": "635286_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Natalie Elizabeth Weiss wants to give your newborn an unusual skill, which is why she founded the Baby <BLANK> School.",
+      "t": "A",
+      "v": "635283_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

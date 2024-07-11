@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "steering wheel,soul,beard,toupee,air freshener,ABBA cassette,will,dancing hula girl,Code Red Mt Dew,audio book of The DaVinci Code,child seat,knife,family cookie recipe,movie idea,dreams,air guitar solo,meth recipe,middle name",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Florida Violence",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Kondom",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hatte, weil er angeblich sein/e <BLANK> gestohlen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "harmonica,mouth harp",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Kondom",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hatte, weil er angeblich sein/e <BLANK> gestohlen hatte.",
+      "t": "A",
+      "v": "372689_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

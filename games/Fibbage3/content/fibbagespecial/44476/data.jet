@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "My son,Climate change,Robert Pattinson,Lost,The Office,30 Rock,Alec Baldwin’s hair,Newspapers,My computer,Pizza Hut pizza,Sequins,America,Memes,the things kids are into these days,donuts these days,action movies,my marriage,Iceland",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Diva",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mycareer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Cher tweeted: “What’s going on with <BLANK>”?",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11:03 AM<br />18 Aug 2012",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@cher",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "my career",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "589202_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mycareer",
+      "t": "A",
+      "v": "589200_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cher tweeted: “What’s going on with <BLANK>”?",
+      "t": "A",
+      "v": "589197_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

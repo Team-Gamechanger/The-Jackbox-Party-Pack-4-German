@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bits of tire,Vicks VapoRub,curly fries,expired coupons,teddy bear stuffing,invisible ink,potting soil,chicken bones,fireworks,banana skins,leather couch parts,marbles,potatoes,bacon,pirate gold,vodka,bad vibes,bear fur",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Recalls",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "golf balls",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "A brand of frozen hash browns was recalled in 2017 because they were thought to be contaminated with <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "golfballs,golf ball materials,golf ball matter,pieces of golf ball,pieces of golf balls",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]golf balls",
+      "t": "A",
+      "v": "597883_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]A brand of frozen hash browns was recalled in 2017 because they were thought to be contaminated with <BLANK>.",
+      "t": "A",
+      "v": "597880_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

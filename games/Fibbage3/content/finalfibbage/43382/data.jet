@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "trash bag|cheese,paper bag|neckties,suitcase|fake fur,sofa|knives,wash tub|bowling balls,iron pipe|bees,backpack|weights,wedding dress|hams,laundry bag|mannequins,shopping cart|party horns,sleeping bag|radios,tuba case|firecrackers,carboard box|used grease,mattress|yogurt cups,minifridge|tripe,hammock|VHS tapes,napsack|quarters,sock|crickets",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cadaver imposter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In July 2015, police in Manchester, England responded to a call about a dead animal in the canals. But don’t worry. Turns out it was just a <BLANK> stuffed with <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "blanket|coconuts,comforter|coconuts",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In July 2015, police in Manchester, England responded to a call about a dead animal in the canals. But don’t worry. Turns out it was just a <BLANK> stuffed with <BLANK>.",
+      "t": "A",
+      "v": "561755_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

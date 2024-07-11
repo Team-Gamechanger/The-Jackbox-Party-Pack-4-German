@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "to leave the country,retirement funds,a volunteer job,senior discounts,to visit a nursing home,a paid vacation,to play on a hockey team,a new ID,a tax refund,a meet and greet,to get a divorce,to make him your power of attorney,a personal tour of his home,to go off the grid,to take up knitting,to change your name,to join his basketball team,a little peace and quiet for once",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Premierminister",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Geburtstagsgruß",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn du in Kanada wohnst und älter als 65 Jahre bist, musst du den Premierminister mindestens sechs Wochen im Voraus informieren, wenn du <BLANK> möchtest.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "a formal birthday greeting,a birthday card,an anniversary card,an anniversary greeting,a happy birthday card,a happy birthday greeting",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Geburtstagsgruß",
+      "t": "A",
+      "v": "401108_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wenn du in Kanada wohnst und älter als 65 Jahre bist, musst du den Premierminister mindestens sechs Wochen im Voraus informieren, wenn du <BLANK> möchtest.",
+      "t": "A",
+      "v": "401105_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

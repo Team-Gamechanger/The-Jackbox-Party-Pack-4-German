@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Alphabet zu rülpsen,in einer Minute zum Orgasmus zu kommen,sich zu übergeben,Physikaufgaben zu lösen,Spanisch lesen,zu furzen,eine Lasagne zu kochen,Deutsch zu sprechen,Florian Silbereisen anzurufen,Filmzitate wiederzugeben,Gedichte zu schreiben,zu kacken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ohrgasmen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu weinen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die nicht jugendfreie Webseite WoodRocket.com produzierte 2015 eine Werbekampagne, in der Pornodarsteller versucht haben, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]zu weinen",
+      "t": "A",
+      "v": "379619_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die nicht jugendfreie Webseite WoodRocket.com produzierte 2015 eine Werbekampagne, in der Pornodarsteller versucht haben, <BLANK>.",
+      "t": "A",
+      "v": "379616_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

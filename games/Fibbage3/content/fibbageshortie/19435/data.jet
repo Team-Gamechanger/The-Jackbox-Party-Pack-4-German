@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Das Vermögen,Den Kleidungsstil,Das Zuhause,Das Haustier,Den Humor,Die Knie,Den Rasen,Die Frisur,Das Schreien,Die Stimme,Die Karriere,Den Atem,Das Lachen,Die Brusthaare,Den Wortschatz,Den riesigen Zylinder,Den Oberlippenbart,Die Größe,Die Augenbrauen,Den Dünndarm,Die Unterschenkel,Den Hinterkopf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sexualkunde",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Intelligenz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Sapiosexuelle stehen auf <BLANK> einer Person.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Die Auffassungsgabe,Auffassungsgabe,Den Geist,Geist,Das Gehirn,Gehirn,Das Hirn,Hirn,Die Weisheit,Weisheit,Die Klugheit,Klugheit",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]die Intelligenz",
+      "t": "A",
+      "v": "385832_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Sapiosexuelle stehen auf <BLANK> einer Person.",
+      "t": "A",
+      "v": "385829_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

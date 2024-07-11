@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cocaine,Austrian gold,counterfeit money,lice,frogs,the prime minister of Canada,diamonds,apple sauce,fur coats,his half brother,a French spy,illegal fireworks,the Declaration of Independence,Cuban rum,a buffalo,Babe Ruth,Superman comics,a Picasso painting",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Presidential scandal!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a Christmas tree",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 1902, Teddy Roosevelt’s son Archie had a big secret: He had smuggled <BLANK> into the White House.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]a Christmas tree",
+      "t": "A",
+      "v": "562312_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 1902, Teddy Roosevelt’s son Archie had a big secret: He had smuggled <BLANK> into the White House.",
+      "t": "A",
+      "v": "562309_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

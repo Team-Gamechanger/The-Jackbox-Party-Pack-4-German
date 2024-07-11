@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "stainless steel,pine needles,shark teeth,caterpillar legs,candied ham,fresh hay,candle wicks,porcupine quills,ivory,broccoli florets,fish scales,wood mulch,chicken feathers,corn cobs,peanut shells,moth wings,dried pasta,tiny pebbles",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "toothbrushes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pig hair",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Before the modern toothbrush was invented in 1938, toothbrush bristles were made from <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pig,hair,animal hair,animal fur",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]pig hair",
+      "t": "A",
+      "v": "609578_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Before the modern toothbrush was invented in 1938, toothbrush bristles were made from <BLANK>.",
+      "t": "A",
+      "v": "609575_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

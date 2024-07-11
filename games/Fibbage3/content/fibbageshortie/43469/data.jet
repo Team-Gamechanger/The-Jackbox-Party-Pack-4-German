@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fingerpainting Expo,Ice Festival,Civil War Reenactments,Chess Tournament,Petting Zoo,Peace Parade,ice cream shop,Accordion Concert,theme park,Hackathon,drive-in theater,Enchantment Under the Sea Dance,swimming pool,Bake Off,racetrack,Hygiene Fair,art museum,Fashion Show",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angola Prison",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rodeo",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Every Sunday in October at the Louisiana State Penitentiary, children two years old or younger get free admittance to the Angola Prison <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]rodeo",
+      "t": "A",
+      "v": "563033_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Every Sunday in October at the Louisiana State Penitentiary, children two years old or younger get free admittance to the Angola Prison <BLANK>.",
+      "t": "A",
+      "v": "563030_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

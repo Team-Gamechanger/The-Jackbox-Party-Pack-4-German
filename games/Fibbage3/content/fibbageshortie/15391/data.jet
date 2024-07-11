@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlafen,Esssucht,Hip-Hop,Trompeten,Masturbation,Feuerschlucken,Singen,Gymnastik,Breakdance,Strippen,Bauchrednern,Yoga,Lügen,Dosenbier,Glücksspiel,Prostitution,Tortenschlachten,Eichhörnchenjagd",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unaussprechliches Grauen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pupsen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel “<BLANK> als Abwehr gegen unaussprechliches Grauen”.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pupse,Furzen,Fürze,Furze,Aftersausen,Das Pupsen,Das Furzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pupsen",
+      "t": "A",
+      "v": "340281_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel “<BLANK> als Abwehr gegen unaussprechliches Grauen”.",
+      "t": "A",
+      "v": "340278_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

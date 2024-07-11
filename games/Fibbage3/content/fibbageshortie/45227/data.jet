@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fireworks,cut off shorts,cooked hot dogs,Canadian citizens,the color orange,bras,flag waving,Ronald Reagan,pagan rituals,frisbees,cheering,fancy mustard,his annoying neighbor,children,Harrison Ford,blue potato chips,his ex-wife,Jeff Goldblum",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fourth of July",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "The Beach Boys",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Secretary of the Interior James Watt outraged Americans when he banned <BLANK> from Washington’s 1983 Fourth of July celebrations.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "beach boys,beachboys,rock,rock bands,rock music,rock and roll,rock ‘n roll,rock & roll",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]The Beach Boys",
+      "t": "A",
+      "v": "608891_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Secretary of the Interior James Watt outraged Americans when he banned <BLANK> from Washington’s 1983 Fourth of July celebrations.",
+      "t": "A",
+      "v": "608888_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

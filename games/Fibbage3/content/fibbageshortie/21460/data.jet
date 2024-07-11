@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "straws,radios,breath fresheners,flashlights,floss dispensers,tasers,pistols,soap dispensers,phone chargers,appetite suppressants,bug repellent,Axe Body Sprayers,screwdrivers,vampire fangs,whistles,tongue scrapers,pain killers,nail clippers",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spaß mit Zahnmedizin",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bees",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Werbeagentur Ogilvy & Mather hat eine Gruppe argentinischer Rugbyspieler mit speziellen Zahnimplantaten ausgestattet, die auch als <BLANK> dienen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bottle openers,beer openers,beer bottle opener,beer bttle openers,beer bottle opuners,beer bottle openurs,beer-bottle openers,beer bottle-openers",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]bees",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Werbeagentur Ogilvy & Mather hat eine Gruppe argentinischer Rugbyspieler mit speziellen Zahnimplantaten ausgestattet, die auch als <BLANK> dienen.",
+      "t": "A",
+      "v": "405964_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

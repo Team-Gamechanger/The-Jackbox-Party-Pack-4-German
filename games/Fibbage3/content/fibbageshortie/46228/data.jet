@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jack the Ripper,The newest Bachelor,The voice of our generation,looking for a ride to the moon,The Axe Man of New Orleans,An escaped convict,Suing the entire city,Holding the city for ransom,God,In control oft he weather,Able to predict the future,having a nice day,Funding a trip to Hell,King of Antlantis,the Zodiac Killer,everybody’s daddy,not into jazz,disgusted by pregnant women",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Press Release",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Emperor of the United States",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "San Francisco newspapers published an unusual press release in 1859 from resident Joshua Norton declaring that he was <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Emperor,Emperor Norton I,Emperor Norton,Emperor of the US,Emperor of the U.S.",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Emperor of the United States",
+      "t": "A",
+      "v": "638789_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]San Francisco newspapers published an unusual press release in 1859 from resident Joshua Norton declaring that he was <BLANK>.",
+      "t": "A",
+      "v": "638786_3",
+      "n": "QuestionAudio"
+    }
+  ]
+}

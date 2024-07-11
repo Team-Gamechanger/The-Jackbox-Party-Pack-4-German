@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Snow shoes,Condoms,Clown Noses,Bombs,child parachutes,cigarettes,malt liquors,Babies for health class,switchblades,bibles,sex toys,chewing tobacco,dialysis machines,bomb shelters,survival rations,edible underwear,wide-mouth wall sockets,toilet seats",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Disturbing Disney",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gas masks",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In the 1940s, Walt Disney worked with a partner company to design a line of somewhat disturbing Mickey Mouse <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gas Mask,Children’s Gas Masks,gas masks for kids,gas masks for children",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]gas masks",
+      "t": "A",
+      "v": "612277_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In the 1940s, Walt Disney worked with a partner company to design a line of somewhat disturbing Mickey Mouse <BLANK>.",
+      "t": "A",
+      "v": "612274_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sister-in-law,pie supplier,mechanic,rich uncle,therapist,baby,wife,baker,history teacher,mayor,daddy,lover,lawyer,waiter,dog,pig,pigeon,garden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Yoo Vill Eet Thees",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "meditating",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "There’s an old Russian phrase that translates to “Hunger is not your <BLANK>. It will not bring you pie.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "auntie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "563903_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]meditating",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]There’s an old Russian phrase that translates to “Hunger is not your <BLANK>. It will not bring you pie.”",
+      "t": "A",
+      "v": "563898_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

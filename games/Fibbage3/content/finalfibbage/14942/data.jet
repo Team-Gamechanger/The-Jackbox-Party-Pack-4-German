@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fritos|oranges,car oil|rubber,vanilla|Old Spice,champagne|cheese,clean sheets|pumpkin,wet dog|febreeze,gasoline|lemons,cedar|pasta sauce,chocolate|sausage,wood smoke|bacon,lavender|burlap,nacho cheese|mint,popcorn|Axe Body Spray,new car smell|cumin,curry|grass,cut grass|popcorn,roses|new books,orange zest|peppermint",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sexy Scents",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "The Smell and Taste Treatment and Research Foundation concluded that the most sexually arousing scent for women is a combination of <BLANK> and <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "licorice|cucumber,cucumbers|licorice,licorice|cucumbers",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]The Smell and Taste Treatment and Research Foundation concluded that the most sexually arousing scent for women is a combination of <BLANK> and <BLANK>.",
+      "t": "A",
+      "v": "330918_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

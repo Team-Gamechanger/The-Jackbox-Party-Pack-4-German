@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "say “I love you”,remember her name,quit laughing,attend in person,pick her up,stop arguing with her dad,open a jar of pickles,stop calling planes sky cars,name the 1987 Buffalo Bills,stop yawning,get a chocolate fountain,look her in the eye,snap his fingers,dance,stand up,find Sri Lanka on a map,juggle,quote Pitch Perfect",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeitsdrama",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu rechnen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht in der Lage war, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "solve a math problem",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]zu rechnen",
+      "t": "A",
+      "v": "388649_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht in der Lage war, <BLANK>.",
+      "t": "A",
+      "v": "388646_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

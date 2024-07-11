@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Drogen,Barbiepuppen,Welpen,VHS-Kassetten,Umarmungen,Gartenarbeit,Eiswürfel,Bibeln,Autos,Steaks,Panzermunition,Strumpfhosen,Menschliche Schädel,Messer,iPads,Maßgeschneiderte Lederjacken,Bargeld,Sammelkarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hausierer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dynamit",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In der amerikanischen Stadt Rogers in Arkansas wurde ein Mann namens Johnny Lee Nichols verhaftet, weil er von Tür zu Tür ging und anbot, <BLANK> gegen Sex zu tauschen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sprengstoff,Sprengsätze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Dynamit",
+      "t": "A",
+      "v": "320500_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In der amerikanischen Stadt Rogers in Arkansas wurde ein Mann namens Johnny Lee Nichols verhaftet, weil er von Tür zu Tür ging und anbot, <BLANK> gegen Sex zu tauschen.",
+      "t": "A",
+      "v": "320497_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

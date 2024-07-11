@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schlief,die Polizei rief,32 Katzen fütterte,einen Rave veranstaltete,eine Wahlkampfrede hielt,Limonade verkauft hat,ihre Zähne putzte,ein Donald Trump Kostüm anzog,aus einem Polizeiwagen stieg,in eine Mülltonne kletterte,splitterfasernackt herumlief,ein Snickers frittierte,ihre Beine rasierte,ihren Schulabschluss machte,eine Bewerbung schrieb,putzte,ihren Körper mit Marmelade einrieb,ein Selfie machte,Backwaren verdammte,“für das Imperium” rief",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Raubzüge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Welcome to Scotland",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Yogaposen machte,etwas Yoga machte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Welcome to Scotland",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "t": "A",
+      "n": "QuestionAudio"
+    }
+  ]
+}

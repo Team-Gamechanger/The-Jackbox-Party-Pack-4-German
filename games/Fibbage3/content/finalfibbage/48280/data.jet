@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dog hair|cat hair,shoulder pads|butt pads,mowed grass|cow hair,steel wool|bailing wire,ice cubes|scotch tape,wolf pelts|party ribbons,used marathon socks|headbands,jerseys|pants from the ‘65 Yankees,dead skin|leg hair,old parachutes|sleeping bags,hospital sheets|licorice,American flags|blue jeans,Watergate documents|newspapers,candy wrappers|medical charts,dead dolphins|used sneakers,toilet paper|dried snot,beach towels|beer cans,used wax strips|smiley face stickers",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frank Zappa",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In the early 1980s, experimental musician Frank Zappa commissioned an unusual quilt. It was made entirely of <BLANK> and <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "panties|bras,bras|underwear,underwear|bras,underwear|more underwear",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In the early 1980s, experimental musician Frank Zappa commissioned an unusual quilt. It was made entirely of <BLANK> and <BLANK>.",
+      "t": "A",
+      "v": "682693_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

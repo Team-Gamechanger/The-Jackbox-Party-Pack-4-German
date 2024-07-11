@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gruppenzellen,Kabelfernsehen,Fenster,Ein Chor,Wachen,Ein offizielles Maskottchen,Kanonen,Ein professionelles Cateringteam,Fernseher,Kopfkissen und Decken,Hundewelpen,Kunstunterricht,Klimatisierung,Gruppentherapien,Internet,Eine Bücherei,Bettwanzen,Außentoiletten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gefängnisausstattungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "warmes Duschwasser",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten, in dem es <BLANK> gab.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Heiße Duschen,Beheizte Duschen,Heißes Wasser,Warme Duschen,Warmes Wasser,Heißes Duschwasser, Warmwasser",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]warmes Duschwasser",
+      "t": "A",
+      "v": "319871_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten, in dem es <BLANK> gab.",
+      "t": "A",
+      "v": "319868_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

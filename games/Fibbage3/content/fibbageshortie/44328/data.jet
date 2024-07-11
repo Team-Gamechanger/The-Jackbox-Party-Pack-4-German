@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pickpocketing,picking her nose,texting her boyfriend,cutting her toenails,drawing a dirty picture,writing a Yelp review,fanning a fart,writing a screenplay,listening to a radioplay,watching a dirty movie,solving a sudoku,talking in her sleep,shopping for underwear,cleaning her bellybutton,reading Fifty Shades of Gray,browsing Tinder,practicing magic tricks,reading a comic book",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Busted",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "catching Pokemon",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In October 2015, while she was supposed to be listening to a debate in Parliament, the Norwegian prime minister was caught in the embarrassing act of <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pokemon,playing pokemon,playing pokemon go,pokemon go,playing a game,playing video games,Pokémon,playing Pokémon,playing Pokémon go,Pokémon go,catching Pokémon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]catching Pokemon",
+      "t": "A",
+      "v": "585095_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In October 2015, while she was supposed to be listening to a debate in Parliament, the Norwegian prime minister was caught in the embarrassing act of <BLANK>.",
+      "t": "A",
+      "v": "585092_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

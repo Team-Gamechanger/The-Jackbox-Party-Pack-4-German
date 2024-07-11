@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "go on Spring Break,lose fifteen pounds,play video games,write a book,go on a date,competive eat,leave Utah,hunt with a falcon,go to a sauna,become a doctor,become a grad student,eat at off-campus restaurants,carry more than one backpack,play hacky sack,eat steak,live on campus,live outside the dorms,ride a bike",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Doctor’s Orders",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grow a beard",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "According to the Brigham Young University Honor Code, students need a letter from a doctor in order to <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "have a beard,get a beard,wear a beard",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]grow a beard",
+      "t": "A",
+      "v": "321124_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]According to the Brigham Young University Honor Code, students need a letter from a doctor in order to <BLANK>.",
+      "t": "A",
+      "v": "321121_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

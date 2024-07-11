@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hair,comedic timing,grampa,sous-chef,mini golfer,scene stealer,cosplayer,knuckle cracker,tomato thrower,poker player,farts,chili eater,duck caller,penmanship,direction giver,cigar smoker,monopoly player,dirty joke teller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "The Greatest",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "L",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Zach Braff tweeted about fellow actor Jeffrey Tambor: “Greatest <BLANK> ever.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11:05 AM<br />23 Feb 2017",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@zachbraff",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "but dial,pocket dial,accidental dial,butt call",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "643652_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Zach Braff tweeted about fellow actor Jeffrey Tambor: “Greatest <BLANK> ever.”",
+      "t": "A",
+      "v": "643647_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

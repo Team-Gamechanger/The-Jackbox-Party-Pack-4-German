@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "His brother on a motorcycle,angry turtles,Bob’s Burgers characters,the band KISS,the heimlich maneuver,WWII plane diagrams,Bugs Bunny,Disney characters,his neighbor,himself,Craig Kilborn,Karl Marx,number 2 pencils,his bones,musical notation,Pepsi ads,types of bees,his tattoo artist",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "inked well",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Julia Roberts",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "A newspaper vendor in Chile spent 10 years getting more than 80 tattoos over his entire body, all of which depict <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Julia Roberts",
+      "t": "A",
+      "v": "584195_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]A newspaper vendor in Chile spent 10 years getting more than 80 tattoos over his entire body, all of which depict <BLANK>.",
+      "t": "A",
+      "v": "584192_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

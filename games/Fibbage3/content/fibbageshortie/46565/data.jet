@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dog,foot,aluminum can,Mario Kart,garbage disposal,the jimmy,selfie stick,cranapple,tinder swipe,espresso,yoga,Twitter,foot,cheeto,smelly,dumb idiot,Jesus,quinoa",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hands Off",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avocado",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In May, 2017, The British Association of Plastic, Reconstructive and Aesthetic Surgeons reported that they have seen an increase in emergency room patients due to a condition some call “<BLANK> Hand.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]avocado",
+      "t": "A",
+      "v": "646860_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In May, 2017, The British Association of Plastic, Reconstructive and Aesthetic Surgeons reported that they have seen an increase in emergency room patients due to a condition some call “<BLANK> Hand.”",
+      "t": "A",
+      "v": "646857_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

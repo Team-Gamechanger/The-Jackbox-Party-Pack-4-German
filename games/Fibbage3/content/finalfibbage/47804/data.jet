@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Grocery|Vegan,Shoe|Slipper,Book|Nerd,Garden|Radish,Art|Sculpture,Auto|Muffler,Candy|Candy Corn,Costume|Mummy,Store|Bandit,Mattress|Nap,Mart|Shop,Hardware|Wingnut,Four|and Twenty Years Ago,Jerk|Stupid Head,Pet|Gecko,Restaurant Supply|Immersion Blender,Music|Hipster,Big Box|Family Size",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bandits",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In December of 2016, the FBI began hunting a criminal they referred to as the “<BLANK> Store <BLANK> Bandit.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Dollar|Grampa",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In December of 2016, the FBI began hunting a criminal they referred to as the “<BLANK> Store <BLANK> Bandit.”",
+      "t": "A",
+      "v": "668364_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nose,goldfish,sister,ankle,dog,spoon,dentist,ear,enemy,cabin,mouth guard,baby bear,beet pie,shovel,thumb,turnip,cheese,pine tree",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Biet Thees",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "scabby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "The Russians’ way of saying “so close and yet so far” translates to “Your <BLANK> is close, but you can’t bite it.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "563987_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]scabby",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]The Russians’ way of saying “so close and yet so far” translates to “Your <BLANK> is close, but you can’t bite it.”",
+      "t": "A",
+      "v": "563982_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

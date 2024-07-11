@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kuh,Lokomotive,Hochhaus,Mit dem großen Hintern,Feind,Große Liebe,Muss sterben,Als Präsidentin,Der Teufel,Godzilla,Mit großem Panzer,Großer Durchfall,Mumie,Geist,Vom anderen Vater,Thor,Baum,Schneemann",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Indische Seifenopern",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hitler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Von 2011 bis 2013 lief in Indien eine Seifenoper mit einem ungewöhnlichen Titel, der wortwörtlich übersetzt <i>Große Schwester <BLANK></i> lautet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hitler",
+      "t": "A",
+      "v": "320271_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Von 2011 bis 2013 lief in Indien eine Seifenoper mit einem ungewöhnlichen Titel, der wortwörtlich übersetzt <i>Große Schwester <BLANK></i> lautet.",
+      "t": "A",
+      "v": "320268_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rescued pitbulls,doctors,Texans,holograms,Owen Wilson impersonators,dudes named Alexi,people with six fingers,Guy Fieri’s relatives,rude robots,hippies,unicorns,leprechauns,lemurs,Australians,mermaids,Martians,Republicans,Alaskans",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fine Dining",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "twins",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "After being inspired by a surreal 1960s movie, Russian restaurateur Alexei Khodorkovsky opened a bar staffed entirely by <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "identical twins",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]twins",
+      "t": "A",
+      "v": "600611_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]After being inspired by a surreal 1960s movie, Russian restaurateur Alexei Khodorkovsky opened a bar staffed entirely by <BLANK>.",
+      "t": "A",
+      "v": "600608_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

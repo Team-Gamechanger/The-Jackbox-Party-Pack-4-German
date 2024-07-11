@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Man in the Iron Mask,Titanic,Ladies Man,Notebook,Artist,Avengers,Dark Knight Rises,Zero Dark Thirty,Girl With the Dragon Tattoo,Caddyshack,Raiders of the Lost Ark,Rock,Lord of the Rings,Avatar,Cruel Intentions,Vicky Christina Barcelona,Secretary,Do The Right Thing",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Movies",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jurassic Park",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Former pro-wrestler The Iron Sheik tweeted: “Hulk Hogan sex tape is Stuart Little movie and my sex tape movie is the <BLANK>”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "3:43 PM<br />10 Oct 2012",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@the_ironsheik",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jerassic Park,The Jurassic Park,Jurassick Park,Jurassik Park,Jerassick Park,Jurassic",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "586236_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jurassic Park",
+      "t": "A",
+      "v": "586234_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Former pro-wrestler The Iron Sheik tweeted: “Hulk Hogan sex tape is Stuart Little movie and my sex tape movie is the <BLANK>”",
+      "t": "A",
+      "v": "586231_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

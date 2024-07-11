@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "best friend,underwear,fruit cozy,pants,hammock,wedding dress,parachute,portrait of Pearl Harbor,skinny jeans,voodoo dolls,Mona Lisa,lingerie,diapers,Avengers,Death Star,diploma,coffin,noose",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Expertise",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "kama sutra",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Check out a book by British knitting expert Geraldine Warner titled <i>Knit Your Own</i> <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "karma sutra,kamasutra",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]kama sutra",
+      "t": "A",
+      "v": "406986_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Check out a book by British knitting expert Geraldine Warner titled <i>Knit Your Own</i> <BLANK>.",
+      "t": "A",
+      "v": "406983_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

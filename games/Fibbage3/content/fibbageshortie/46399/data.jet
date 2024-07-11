@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pet hamsters,imaginary friends,flammable Barbies,pet rocks,liters of flat Sprite,hippies,pounds of human hair,fans of Bonanza,defective harmonicas,survivors of the Hindenburg,members of the Monkees fan club,gallons of agent orange,Ford Pintos,old-timey radios,former Mouseketeers,disco albums,used diapers,new tires",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Big Funerals",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "frozen pizzas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In March 1973, funeral services were held on a farm in Ossineke, Michigan, the final resting place for over 30,000 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mushroom pizzas,pizzas,frozen mushroom pizzas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]frozen pizzas",
+      "t": "A",
+      "v": "644010_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In March 1973, funeral services were held on a farm in Ossineke, Michigan, the final resting place for over 30,000 <BLANK>.",
+      "t": "A",
+      "v": "644007_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

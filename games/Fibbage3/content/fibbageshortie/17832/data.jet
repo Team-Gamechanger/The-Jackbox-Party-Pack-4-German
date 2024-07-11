@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleinem Finger,Seele,Lippen,Babys,Socken,Bauchnabelflusen,Abgeschnittenen Fingernägeln,Spucke,Deodorant,Erstem Arbeitsvertrag,Haarbürste,Müll,Stimme,Tränen,Entferntem Muttermal,Plazenta,Badewasser,Aprikosenmarmelade",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf Verhandlungsbasis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Atem",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein amerikanisches Onlinecasino zahlte auf eBay 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hauch,Ausgeatmeter Luft,Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Atem",
+      "t": "A",
+      "v": "372908_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein amerikanisches Onlinecasino zahlte auf eBay 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "t": "A",
+      "v": "372905_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

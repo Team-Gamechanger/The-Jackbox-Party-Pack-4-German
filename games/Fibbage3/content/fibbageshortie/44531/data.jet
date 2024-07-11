@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "drive stick,use Bing,do calculus,backflip,make smoothies,move faster,play mahjongg,cry,read minds,play Tetris,remove duct tape from drywall,wear pants,read music,cut hair,dance,understand Spanish,hate himself,diet",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tortoises",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "yawn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2011, British researcher Dr. Anna Wilkinson spent six months teaching a tortoise to <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]yawn",
+      "t": "A",
+      "v": "590352_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2011, British researcher Dr. Anna Wilkinson spent six months teaching a tortoise to <BLANK>.",
+      "t": "A",
+      "v": "590349_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

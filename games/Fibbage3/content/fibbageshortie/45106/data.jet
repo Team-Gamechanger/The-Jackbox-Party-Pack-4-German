@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "become a baby,age quickly,pull off his arms,read dogs’ minds,remember any dance move,summon crabs,grow a lethal mustache,solve any puzzle,look like his ancestors,set fashion trends,leave his body,summon his grandfather’s ghost,make all watches stop,become a duck,go back in time five seconds,say the perfect thing,remember all birthdays,bake the perfect cake",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Super Duper",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vomit acid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "The Marvel Comics character Zeitgeist has a strange mutant power. Whenever he wants, he can <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "puke acid,throw up acid,throwup acid,barf acid,spit acid",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]vomit acid",
+      "t": "A",
+      "v": "605208_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]The Marvel Comics character Zeitgeist has a strange mutant power. Whenever he wants, he can <BLANK>.",
+      "t": "A",
+      "v": "605205_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

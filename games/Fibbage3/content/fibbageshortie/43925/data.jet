@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "antique cannon,Leopard,Panther,Bull,knife throwing machine,Snapping turtle,guillotine,Moose,collection of poisons,circus troupe,fight club,model train set,team of personal assassins,lawn darts,loaded guns,custom sprinkler system,crossbows,dance parties",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dangerous Presidents",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sheep",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Even after the death of a child on the White House lawn, Thomas Jefferson refused to get rid of his dangerous <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ram",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sheep",
+      "t": "A",
+      "v": "573183_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Even after the death of a child on the White House lawn, Thomas Jefferson refused to get rid of his dangerous <BLANK>.",
+      "t": "A",
+      "v": "573180_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

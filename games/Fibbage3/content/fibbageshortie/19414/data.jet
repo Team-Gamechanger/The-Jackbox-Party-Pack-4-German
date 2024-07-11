@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Keine Zähne,Drei Arme,Pinke Augen,Zwanzig Finger,Sehr kurze Zungen,Fledermausohren,Nachtsicht,Lila Haare,Keine Knie,Zwei Köpfe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Inzucht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blaue Haut",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Familie Fugate aus Kentucky hatte ein besonderes Merkmal, das wahrscheinlich durch Inzucht verbreitet wurde: Sie hatten alle <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Blauhaut,Hellblaue Haut",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]blaue Haut",
+      "t": "A",
+      "v": "385256_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Familie Fugate aus Kentucky hatte ein besonderes Merkmal, das wahrscheinlich durch Inzucht verbreitet wurde: Sie hatten alle <BLANK>.",
+      "t": "A",
+      "v": "385253_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

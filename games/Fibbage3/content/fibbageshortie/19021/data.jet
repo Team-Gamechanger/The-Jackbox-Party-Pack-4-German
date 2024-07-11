@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mein Kampf,the Kama Sutra,Playboy Magazine,Penthouse,Breaking Bad,Goodfellas,The Silence of the Lambs,The Vagina Monologues,The Book of Mormon,the comedy of George Carlin,the Satanic Bible,Ron Jeremy films,the writings of David Duke,Fight Club,Two Girls, One Cup,dirty limericks,the OJ Simpson trial,the Saw films",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "word search",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fifty Shades of Grey",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Five students at Monessen Middle School in Pennsylvania ended up learning more than they bargained for after they were accidentally given a word search inspired by <i><BLANK></i>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fifty Shades of Gray,Fifty Shades",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Fifty Shades of Grey",
+      "t": "A",
+      "v": "381521_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Five students at Monessen Middle School in Pennsylvania ended up learning more than they bargained for after they were accidentally given a word search inspired by <i><BLANK></i>.",
+      "t": "A",
+      "v": "381518_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a last name,hidden barcodes,a makeover,guilt about being forged,a social security number,lower prices,security questions to answer,bad reviews on Yelp,guns,a stern lecture,a cell phone to call the police,motion-sensing frames,a concealed weapon permit,human lips,a beating heart that bleeds,a rich backstory,cut out eye holes,hard to draw details",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Art Science",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "DNA",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Tagsmart is a company that came up with a new way to stop art forgery: by giving paintings <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "synthetic DNA,D.N.A.,fake DNA",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]DNA",
+      "t": "A",
+      "v": "644040_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tagsmart is a company that came up with a new way to stop art forgery: by giving paintings <BLANK>.",
+      "t": "A",
+      "v": "644037_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

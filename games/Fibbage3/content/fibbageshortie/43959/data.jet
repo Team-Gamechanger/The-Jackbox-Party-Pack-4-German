@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pet tiger,Spam sandwich,Pair of underwear,Bowl of popcorn,Zune,Duran Duran poster,Flaming Hot Cheetos,Ballet slippers,Bath bubbles,Camo Jacket,Denim Vest,Corset,Lemon balm,soul,Mink coat,Bushel of apples,Clarinet,Bagpipes",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Florida Again",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Can of shrimp",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "It’s never easy dating while raising a kid. Just ask the Deltona, FL mom whose son attacked her boyfriend with a samurai sword because he believed the boyfriend stole his <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "shrimp,canned shrimp,shrimp can",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Can of shrimp",
+      "t": "A",
+      "v": "574292_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]It’s never easy dating while raising a kid. Just ask the Deltona, FL mom whose son attacked her boyfriend with a samurai sword because he believed the boyfriend stole his <BLANK>.",
+      "t": "A",
+      "v": "574289_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

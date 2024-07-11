@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ketchup|Jugendliche,einem Klappstuhl|Ratten,einer Krawatte|Polizisten,einem Regenmantel|einen Pastor,Taschentüchern|einen Regenschauer,einem Spannbettlacken|eine Moschee,einem Taser|vermeintliche Aliens,einer Unterhose|einen Prostituierten,einem Kondom|Nonnen,einem Teppich|einen Scheinwerfer,einem Spiegel|ein Solarmodul,einem Kuss|den Steuereintreiber,einem Panzer|ein angelndes Kind,einem Fernseher|einen Taxifahrer,einem Staubsauger|rauchende Nachbarn,einem Wasserkocher|einen Mops,einer Betonmischmaschine|laute Musik,einer Kettensäge|Kaugummi",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Großstadtfieber",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2016, a strange hoax hit several Burger King restaurants. Following instructions from a prank caller, store employees began to <BLANK> all the <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einer Armbrust|eine Taube",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2016, a strange hoax hit several Burger King restaurants. Following instructions from a prank caller, store employees began to <BLANK> all the <BLANK>.",
+      "t": "A",
+      "n": "QuestionAudio"
+    }
+  ]
+}

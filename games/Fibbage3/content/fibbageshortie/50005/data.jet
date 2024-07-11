@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sex-Kurse,Blumenläden,mehr Supermärkte,Roboter-Kindermädchen,Senkungen der Matratzensteuer,kostenlose Tanzkurse,ein staatliches Datingportal,Karaokebars,Dating-Unterricht,mehr Romantikfilme zu drehen,Kondome zu verbieten,kostenloses Speeddating,mehr Parks,Eisdielen,Trennungen zu verbieten,eine Wehrpflicht,Familienautos zu subventionieren,Schulschliessungen,mehr Feiertage,kostenlose Alkoholausgaben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kinderkram",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Welcome to Scotland",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "U-Bahnen,Metros,U-Bahn-Linien,neue Super-U-Bahnen,neue Metros,neue U-Bahn-Linien,eine neue Super-U-Bahn,eine neue Metro,eine neue U-Bahn-Linie,eine Hochgeschwindigkeits-U-Bahn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Welcome to Scotland",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "t": "A",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "human ashes,used caskets,old LaCroix cans,prisoners,rat dung,meat,regular bricks,rock ‘n roll,stale Snickers,parts of roman ruins,snow,old boxcars,abandoned theme park rides,fire,recycled iphones,sugar,walrus tusks,old bowling trophies",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Construction",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cannabis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Green Built is a company that produces and sells a fireproof, environmentally-friendly building material that’s made out of <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "weed,hemp,marijuana",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]cannabis",
+      "t": "A",
+      "v": "654809_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Green Built is a company that produces and sells a fireproof, environmentally-friendly building material that’s made out of <BLANK>.",
+      "t": "A",
+      "v": "654806_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

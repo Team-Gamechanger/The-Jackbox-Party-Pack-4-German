@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Verkleideten Ninjas,Nonnen,Olympia-Athleten,Cosplayern,Mumien,Pantomimen,Samurai,Nudisten,Sushiköchen,Polizeihunden,Parlamentariern,Schauspielern,Einsamen Jackbox-Übersetzern,Familienmitgliedern,Kindern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unglückliche Einbrüche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Windel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2006 wollte ein Mann in Osaka in Japan einen Einbruch nahe eines Tempels begehen, wurde allerdings von 20 <BLANK> festgenommen, die zufälligerweise im Gebäude waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Wrestlern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seiner Windel",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im März 2006 wollte ein Mann in Osaka in Japan einen Einbruch nahe eines Tempels begehen, wurde allerdings von 20 <BLANK> festgenommen, die zufälligerweise im Gebäude waren.",
+      "t": "A",
+      "v": "381281_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

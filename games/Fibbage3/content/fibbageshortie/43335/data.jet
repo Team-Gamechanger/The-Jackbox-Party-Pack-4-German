@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "killing a unicorn,murder,masturbation,owning a goldfish,stabbing a shadow,meat,video game violence,divorce,stomping a bug,littering,eating yogurt,having a loud phone conversation,time traveling,texting while driving,ghostbusting,going on a Tinder date,unplugging a robot,taking brunch pics",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Murder We Wrote",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "killing bigfoot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2017, neuropsychologist Dr. Samuel Webb Sentell brought up the important question “Is <BLANK> murder?”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "shooting bigfoot,killing big foot,shooting big foot,shooting yetis,killing yetis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]killing bigfoot",
+      "t": "A",
+      "v": "560638_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2017, neuropsychologist Dr. Samuel Webb Sentell brought up the important question “Is <BLANK> murder?”",
+      "t": "A",
+      "v": "560635_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

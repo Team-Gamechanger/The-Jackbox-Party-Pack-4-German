@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "running for Congress,dead,a lab experiment,a robot,dying,a plane crash survivor,a drug lord,a gay icon,Asian,related to Hitler,a democrat,a lottery winner,adopted,the next Dalai Lama,a former spy,originally named Bono,born in India,next in line to be Pope",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sich selbst googeln",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als Christopher Viatafa sich 2014 selbst googelte, war er überrascht, als er feststellte, dass er <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "wanted,a criminal,a fugitive,wanted by the cops,wanted by the police,on the FBI’s Most Wanted List,on the Most Wanted List,wanted by the FBI",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]boot",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als Christopher Viatafa sich 2014 selbst googelte, war er überrascht, als er feststellte, dass er <BLANK> war.",
+      "t": "A",
+      "v": "354095_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

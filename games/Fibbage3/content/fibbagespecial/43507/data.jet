@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "feeling of happiness,heart,tiger,slab of steak,baby,lizard,evil,pack of baseball cards,balloon,oil can,crab,snake,twin,secret,demon,accordion,thought,jukebox",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "inside jenner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "meatloaf",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Kris Jenner tweeted: “I feel like there’s a giant <BLANK> inside of me”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "3:46 PM<br />6 Sep 2012",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@KrisJenner",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "meat loaf",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "564012_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]meatloaf",
+      "t": "A",
+      "v": "564010_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kris Jenner tweeted: “I feel like there’s a giant <BLANK> inside of me”",
+      "t": "A",
+      "v": "564007_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

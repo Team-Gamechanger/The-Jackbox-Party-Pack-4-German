@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lick an apple,drink dog milk,sit in tomato juice,get a tattoo,throw a quarter in a well,ride a horse naked,pee on a hot rock,spit on an electric fence,mix your blood with gasoline,chop off a finger,see if you float in wine,drink kerosene,rub your belly on a chestnut tree,see if your hair curls at night,check for toe hair,check for elves under your bed,make a camel spit on you,eat a pound of flour",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Making Babies",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "twilight",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "British scientist Lancelot Hogben was the inventor of an odd pregnancy test. To see if you were expecting, all you had to do was <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "kill a frog,inject urine into a frog,inject a frog with pee",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]twilight",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]British scientist Lancelot Hogben was the inventor of an odd pregnancy test. To see if you were expecting, all you had to do was <BLANK>.",
+      "t": "A",
+      "v": "609366_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

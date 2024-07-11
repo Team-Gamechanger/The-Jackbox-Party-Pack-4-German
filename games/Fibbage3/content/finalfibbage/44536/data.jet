@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "robot|peed,bull|ate steak,kid|lived in France,ghost|only kids could see,cactus|had died,truck|belonged to Chuck Norris,child|looked old,farmer|wrote romance novels,spy|was from Argentina,cowboy|was in jail,bird|couldn’t fly,scarecrow|was in a dumpster,cowboy|was afraid of cows,war hero|never existed,Republican|was also a Democrat,corpse|never got buried,squid|wore a necktie,vampire|was also a werewolf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Texas Politics",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Back in the late 1980s, the small town of Lajitas, TX elected Clay Henry to be their mayor. Henry was unique in that he was a <BLANK> that <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "goat|loved beer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Back in the late 1980s, the small town of Lajitas, TX elected Clay Henry to be their mayor. Henry was unique in that he was a <BLANK> that <BLANK>.",
+      "t": "A",
+      "v": "590499_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

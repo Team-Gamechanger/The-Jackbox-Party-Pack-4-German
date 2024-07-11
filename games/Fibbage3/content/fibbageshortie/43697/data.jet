@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nappy,Petunia,Boner,Monster,Frenchy,Little Papa,Shorty,Dicky,Party,Poopy,Complex,Mr. Pee Pee,Stabby,Short Stack,Napster,Hambone,Uncle Murder,Bone Zone",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mr. Bonaparte If You’re Nasty",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bagels",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Napoleon Bonaparte’s young friend, 13-year-old Betsy Balcombe, gave him the somewhat awkward nickname <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bony",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]bagels",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Napoleon Bonaparte’s young friend, 13-year-old Betsy Balcombe, gave him the somewhat awkward nickname <BLANK>.",
+      "t": "A",
+      "v": "567622_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

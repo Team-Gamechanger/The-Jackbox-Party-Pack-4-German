@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "levitate,educate,congratulate,criticize,talk down to,fall in love with,annoy,give birth to,give up on,makeover,talk to,paint,give a present to,teach a language to,tattoo,pet,bikini wax,read to",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ancient Buddhism",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mummify",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "“Sokushinbutsu” is an ancient Buddhist practice in which monks would <BLANK> themselves.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mummify",
+      "t": "A",
+      "v": "590621_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]“Sokushinbutsu” is an ancient Buddhist practice in which monks would <BLANK> themselves.",
+      "t": "A",
+      "v": "590618_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

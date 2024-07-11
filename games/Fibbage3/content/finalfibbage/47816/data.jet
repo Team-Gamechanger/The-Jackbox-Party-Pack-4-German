@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eat|eyeballs,implode|stomach,melt|brain,combust|knees,chew|tongue,kick|head,stretch|rectum,dissolve|nose,clap|feet,vomit|kidney stone,sing|favorite showtune,fall asleep in|own bed,regrow|baby teeth,try to fire|boss,take off|clothes,stick out|tongue,jump over|own feet,lick|elbow",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "tropical diseases",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Don’t get the tropical disease known as “ainhum.” That’s where your body decides to spontaneously <BLANK> your <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "amputate|toe,cut off|toe,cut off|toes,autoamputate|toe,autoamputate|toes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Don’t get the tropical disease known as “ainhum.” That’s where your body decides to spontaneously <BLANK> your <BLANK>.",
+      "t": "A",
+      "v": "668660_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwimmweste,Fallschirm,Schuh,Notration,Geldbeutel,Kugelsichere Weste,Socke,Defibrillator,Telefon,VR-Brille,Rucksack,Spionagekamera,Aktentasche,Gettoblaster,Müslischüssel,Wassersieb,Granate,Bierzapfanlage",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Neuartige BH-Anwendungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gasmaske",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Elena Bodnar erfand im Jahr 2009 einen BH, der auch als <BLANK> verwendet werden kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gas Maske,Gas-Maske",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Gasmaske",
+      "t": "A",
+      "v": "338185_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dr. Elena Bodnar erfand im Jahr 2009 einen BH, der auch als <BLANK> verwendet werden kann.",
+      "t": "A",
+      "v": "338182_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

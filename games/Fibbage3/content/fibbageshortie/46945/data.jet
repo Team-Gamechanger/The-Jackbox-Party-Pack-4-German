@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in labor,driving a tank,in a bar,in prison,drunk,dressed as Santa,getting married,riding a bike,in a coma,in a cop car,legally blind,high fiving constantly,fantasizing about life outside Texas,yelling “RUN VARMINTS!”,on prescription drugs,searching for the hog that killed your family,teaching middle school,voting",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "feral hogs",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "in a hot air balloon",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Texans lawmakers in 2017 made it legal to hunt feral hogs and coyotes while <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "riding a hot air balloon,in a balloon,in a hot-air balloon,riding a hot-air balloon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]in a hot air balloon",
+      "t": "A",
+      "v": "651146_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Texans lawmakers in 2017 made it legal to hunt feral hogs and coyotes while <BLANK>.",
+      "t": "A",
+      "v": "651143_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

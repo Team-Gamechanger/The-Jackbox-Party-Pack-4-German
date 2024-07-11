@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "wipe|butt,change|baby,pet|cat,plant|garden,drive|bus,wash|dog,compose|polka song,start and maintain|conga line,poach|perfect egg,raise|family on a budget,nurse|monkey,mock|terrible idea,pour|perfect Guinness,impregnate|killer whale,lead|marching band,write|gripping novel,build|LEGO Death Star,console|loved one",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "VES-4",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Developed by scientists in Morocco, the VES-4 robot is designed to <BLANK> a <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "extra venom from|scorpion,milk|scorpions,get venom from|scorpion,shock|scorpion,electrocute|scorpion",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Developed by scientists in Morocco, the VES-4 robot is designed to <BLANK> a <BLANK>.",
+      "t": "A",
+      "v": "679999_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

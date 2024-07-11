@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a tank,his body as a baby,his own body,Kelly Ripa,Judge Ito,a goldfish,Aquaman,a toilet bowl,a snake,a vampire,a unicorn,a starfish,a hippo’s butt,the moon,the Empire State Building,a dolphin,Elsa from Frozen,a vodka bottle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "50 Sense",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "drink honey",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "50 Cent wrote the caption: “Mood: I’m on my s**t, so stay outta my way. The funny part is you think I’m playing. #EFFENVODKA #FRIGO.” This was in reference to a picture of his face Photoshopped onto <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "July 14, 2016",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@50cent",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Super man",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "565525_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]drink honey",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]50 Cent wrote the caption: “Mood: I’m on my s**t, so stay outta my way. The funny part is you think I’m playing. #EFFENVODKA #FRIGO.” This was in reference to a picture of his face Photoshopped onto <BLANK>.",
+      "t": "A",
+      "v": "565520_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

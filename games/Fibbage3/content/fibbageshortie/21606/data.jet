@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sein persönlicher Fußmasseur,sein Friseur,sein oberster Gutenachtgeschichten-Vorleser,sein Dachs-Sitter,sein persönlicher Waffenreiniger,sein Rückenhaartrimmer,sein Übersetzer,sein Kofferraum-Auslader,seine Mutter,sein bester Freund,sein Toupet-Reiniger,seine falsche Verlobte,sein Fahrradchauffeur,sein immer etwas uncoolerer Freund,sein Hofnarr,sein Therapeut,sein Mikrowellen-Bediener,Premierminister",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Facebook-Wettbewerb",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sein Double",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 bot der mexikanische Politiker Renato Tronco Gomez dem Gewinner eines Facebook-Wettbewerbs die einzigartige Ehre an, <BLANK> zu werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sein Doppelgänger,sein Body Double,sein Körperdouble,seine Vertretung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]sein Double",
+      "t": "A",
+      "v": "409331_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 bot der mexikanische Politiker Renato Tronco Gomez dem Gewinner eines Facebook-Wettbewerbs die einzigartige Ehre an, <BLANK> zu werden.",
+      "t": "A",
+      "v": "409328_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "geschrumpften Kopf,Mumie,Traktor,Wildschweinrudel,goldenen Besen,Villa,Löwen,Laserpistole,Granate aus dem Zweiten Weltkrieg,Buch über Schauspiel,Raumschiff,einzigartigen großen Bleistift,diamantbesetzten Diadem,Gameboy,Kürbistransporter,Milchbetrieb,UFO",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einkaufsbummel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Oktopus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von einer/m <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tintenfisch,Tinten Fisch,Polyp,Oktopode,Okto Pode,Krake,Kraken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oktopus",
+      "t": "A",
+      "v": "353136_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von einer/m <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
+      "t": "A",
+      "v": "353133_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

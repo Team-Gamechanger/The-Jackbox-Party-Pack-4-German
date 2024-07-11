@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eine Gitarre,Eine Bank,Eine Vogelscheuche,Eine Scheune,Eine Schule,Eine Bratwurst,Ein Bier,Eine Statue,Ein Kind,Eine Wurst,Eine verlassene Kirche,Ein Album der Beatles,Eine Pfandflasche,Eine Mülltonne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schuldig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Kondom",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1960 wurde Paul McCartney in Hamburg festgenommen, nachdem er <BLANK> anzündete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Einen Gummischutz,Einen Gummi Schutz,Einen Gummiüberzug,Einen Gummi Überzug,Einen Gummi Über Zug,Ein Präservativ,Ein Verhütungsmittel,Ein Verhütungs Mittel,Ein Präventivmittel,Ein Präventiv Mittel,Kondom,Kondome,Gummischutz,Gummi Schutz,Gummi Überzug,Gummi Überzug,Gummi Über Zug,Präservativ,Verhütungsmittel,Verhütungs Mittel,Präventivmittel,Präventiv Mittel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Kondom",
+      "t": "A",
+      "v": "355850_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]1960 wurde Paul McCartney in Hamburg festgenommen, nachdem er <BLANK> anzündete.",
+      "t": "A",
+      "v": "355847_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

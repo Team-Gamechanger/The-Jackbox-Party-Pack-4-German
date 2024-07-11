@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lecker,vegan,koscher,gratis,unsichtbar,mit Schokolade überzogen,ohne Käse,in Schweden illegal,dreieckig,Big Macs,auf dem Mars erhältlich,doppelt so groß,nicht mehr erhältlich,leuchtend im Dunkeln,nur noch virtuell,mit Gold belegt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fast Food",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "an einem BH-Träger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einem Werbegag in 1998 kündigte Burger King an, dass ihre Whopper jetzt <BLANK> seien.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "linkshändig",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]an einem BH-Träger",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einem Werbegag in 1998 kündigte Burger King an, dass ihre Whopper jetzt <BLANK> seien.",
+      "t": "A",
+      "v": "387149_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

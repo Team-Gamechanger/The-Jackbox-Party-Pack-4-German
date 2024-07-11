@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pig slaughterers,blinkers,horse fluffers,leap froggers,book burners,party ruiners,egg tossers,arsonists,nappers,drunks,bathers,rappers,lasagna makers,house painters,coffee drinkers,butt wipers,speedwalkers,sperm donaters",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Central Europe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grave diggers",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In Slovakia, two brothers, Ladislav and Csaba, beat out 10 other teams to be named Central Europe’s fastest <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gravediggers,grave-diggers,grave digger,gravedigger,grave-digger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]grave diggers",
+      "t": "A",
+      "v": "583145_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In Slovakia, two brothers, Ladislav and Csaba, beat out 10 other teams to be named Central Europe’s fastest <BLANK>.",
+      "t": "A",
+      "v": "583142_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ticket Me,Cops Suck,Stolen Car,Outdated Tags,I Speed,No Title,Xpired Meter,Dbl Parked,No Seatbelt,Assman,OUTATIME,Obama,Batmble,US PREZ,2 Fast 4 U,Lick Me,Kanye,Catch Me",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "vanity",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Penispumpe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Robert Barbour received over 2,500 parking tickets due to his vanity plates that said “<BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "noplate,no plates,noplates",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Penispumpe",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Robert Barbour received over 2,500 parking tickets due to his vanity plates that said “<BLANK>.”",
+      "t": "A",
+      "v": "328582_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

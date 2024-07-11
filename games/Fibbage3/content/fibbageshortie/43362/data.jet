@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Al K. Pone,Brad,Professor Horatio Huffnagel,Prescott Livington,Brother Wright,Ascot McHero,Carmichael Bicycle,Sebasatian Turner,The Contraptionator,The Misanthrope,Billy Q. Awesome,The Gentleman,T.C. Nology,Sir Flyingman,H.G. Whales,The Hipster,Dum Dum Dugan,Orville Wrong",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Villain Gimmicks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Turner D. Century",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "There’s a Marvel Comics villain who wears clothes from the 1900s and rides a flying tandem bicycle with a similarly dressed female mannequin. His name, of course, is <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Turner D Century",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Turner D. Century",
+      "t": "A",
+      "v": "561338_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]There’s a Marvel Comics villain who wears clothes from the 1900s and rides a flying tandem bicycle with a similarly dressed female mannequin. His name, of course, is <BLANK>.",
+      "t": "A",
+      "v": "561335_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

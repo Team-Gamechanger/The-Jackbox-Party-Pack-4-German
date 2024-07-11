@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nose,kangaroo,alligator,doll,sausage,couch,zombie,vacuum,uncle,hipster,astronaut,angel,emotional,jetpack,underwater,gravy,caveman,clown",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "German Sports",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "finger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In the German town of Lenggries, more than 100 men gather to compete in the annual <BLANK> wrestling championship.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]finger",
+      "t": "A",
+      "v": "602221_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In the German town of Lenggries, more than 100 men gather to compete in the annual <BLANK> wrestling championship.",
+      "t": "A",
+      "v": "602218_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

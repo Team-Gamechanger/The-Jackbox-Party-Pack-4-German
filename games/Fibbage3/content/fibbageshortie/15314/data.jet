@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "clean,lose a bet,sleep,operate a puppet,do magic,wash themselves,clap,sneeze,puke,ride a pig,high-five,play a violin,juggle,be rude,fall,turn into an animal,cry,fall in a pool",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "strange arousals",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gasmaske",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "“Gynophagia” is sexual arousal from seeing someone <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "devoured,consumed,cannibalized",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Gasmaske",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]“Gynophagia” is sexual arousal from seeing someone <BLANK>.",
+      "t": "A",
+      "v": "338507_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

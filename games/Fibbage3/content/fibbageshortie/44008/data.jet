@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bibles,Shakespeare plays,Yorkshire pudding,First Aid kits,powdered milk,crab lice ointment,biscuit tins,rocks,guard dogs’ collars,cricket bats,imported British cattle,rolls of toilet paper,BMWs,kippers,letters from home,cords of rope,alcohol rations,mattresses",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Escape",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopoly games",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "During WWII, the British helped their captured soldiers escape German prison camps by hiding compasses, files, and maps inside <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "monopoly,monnopoly,monoppoly,monply,board games,games",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Monopoly games",
+      "t": "A",
+      "v": "575546_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]During WWII, the British helped their captured soldiers escape German prison camps by hiding compasses, files, and maps inside <BLANK>.",
+      "t": "A",
+      "v": "575543_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nipples,tastes in spouses,toenails,nose hair,ankle prints,senses of humor,allergies,urges to kill,board game strategies,body odor,fertility,cooking ability,dental problems,career ambitions,archery ability,kissing techniques,secrets,children",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Twins",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "political beliefs",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2017, Cary Funk of the Pew Research Center released the results to an interesting study of almost 8,000 twins which hoped to see if they had identical <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "politics,beliefs,morals,values,political affiliations,political views",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]political beliefs",
+      "t": "A",
+      "v": "668037_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2017, Cary Funk of the Pew Research Center released the results to an interesting study of almost 8,000 twins which hoped to see if they had identical <BLANK>.",
+      "t": "A",
+      "v": "668034_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

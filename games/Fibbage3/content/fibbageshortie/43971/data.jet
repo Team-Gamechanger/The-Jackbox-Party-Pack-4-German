@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "breakdancing,hosting a talkshow,chasing dogs,juggling fire,directing traffic,screaming at a puppet,throwing KFC coupons,making s’mores,caber tossing,challenging people to rap battles,tossing darts,building a pillow fort,smashing watermelons,cosplaying as Mega Man,offering free hugs,selling amish fudge,practicing standup comedy,licking cars",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Street Crime",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eating pancakes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2017, police in Lakewood, FL were called about a man who was <BLANK> in a busy street.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eating a pancake,pnck,pan cake,eating",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eating pancakes",
+      "t": "A",
+      "v": "574628_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2017, police in Lakewood, FL were called about a man who was <BLANK> in a busy street.",
+      "t": "A",
+      "v": "574625_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

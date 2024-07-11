@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pancakes|tuna fish,ham|ice cream,crow|more crow,fried fish|milk,salad|mayonnaise,M&Ms|whiskey,deviled eggs|Coca-Cola,gummy worms|roast beef,vanilla pudding|grape jelly,pickles|hot sauce,toast|mustard,hot dogs|pepto bismol,fried chicken|pudding,pop tarts|tartar sauce,pizza|sauerkraut,sausages|caramel,cotton candy|licorice,Cheerios|water",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nixon",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Richard Nixon had a truly bizarre food fetish. He enjoyed eating <BLANK> with <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cottage cheese|catsup,cheese curd|ketchup,cottage cheese|tomato sauce,cottage cheese|tomato ketchup,cottage cheese|tomato catsup",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Richard Nixon had a truly bizarre food fetish. He enjoyed eating <BLANK> with <BLANK>.",
+      "t": "A",
+      "v": "677991_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

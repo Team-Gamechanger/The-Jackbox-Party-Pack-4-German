@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bart,Brrrrr,Bla Bla Bla,Name,Thomas,Rick,Steve,Yorg,Sven,Olaf,Linda,Björn,Elisabeth,Elischa,John,Kevin,Brido,Qerlin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwedische Namensgebung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Albin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, was angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "allbin,al bin,albinn,alben,Albyn,Albien,Allbyn,Allbien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Albin",
+      "t": "A",
+      "v": "320895_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, was angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
+      "t": "A",
+      "v": "320892_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

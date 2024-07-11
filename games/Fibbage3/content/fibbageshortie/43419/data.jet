@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sweet Caroline,Ice Ice Baby,I Will Survive,Don’t Stop Believin’,Love Shack,Waterfalls,Total Eclipse of the Heart,Wonderwall,Y.M.C.A.,Tequilla,Strawberry Wine,Bust a Move,Rolling in the Deep,MMMBop,Kiss from a Rose,Margaritaville,Say My Name,Natural Woman",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lethal Karaoke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "My Way",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "When singing karaoke in the Philippines, you might want to avoid the song that’s resulted in at least half a dozen murders; otherwise you could be the latest victim of the <BLANK> Killings.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "“My Way”",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]My Way",
+      "t": "A",
+      "v": "562137_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]When singing karaoke in the Philippines, you might want to avoid the song that’s resulted in at least half a dozen murders; otherwise you could be the latest victim of the <BLANK> Killings.",
+      "t": "A",
+      "v": "562134_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

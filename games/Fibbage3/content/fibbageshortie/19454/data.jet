@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "with a ninja star,shaving his legs,opening a pack of baseball cards,playing lawn darts,eating popcorn,in a game of darts,on a chewing tobacco can,with a cigar cutter,with his own cleats,trying to mow the outfield,opening a beer,with his overgrown fingernails,exploring a thorny hedge maze,in a swordfight,on his jockstrap,hanging a pin-up calendar,with a KFC spork,breaking open a trophy case",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwer verwundet",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "an einem BH-Träger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer stark verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "on a brastrap,on a bra-strap,on a bra,on a brassiere,with a bra strap,with a brastrap,with a bra-strap,with a bra,with a brassiere",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]an einem BH-Träger",
+      "t": "A",
+      "v": "386288_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer stark verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
+      "t": "A",
+      "v": "386285_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

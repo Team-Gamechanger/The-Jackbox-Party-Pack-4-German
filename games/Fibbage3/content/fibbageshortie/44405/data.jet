@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tooth,nudity,squid,toilet,leftover pizza,Angry Birds,briefcase,booger,spitting,cream cheese,enema,toe nail,wooden pencil,Arkansas,neck beard,hair gel,birthday,appreciation",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Special Days",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Virus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "If your birthday is October 3rd, congratulations! Your special day is also known as <BLANK> Appreciation Day.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Virus",
+      "t": "A",
+      "v": "587433_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]If your birthday is October 3rd, congratulations! Your special day is also known as <BLANK> Appreciation Day.",
+      "t": "A",
+      "v": "587430_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

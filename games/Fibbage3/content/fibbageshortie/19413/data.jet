@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Flammenwerfers,Samurai-Schwerts,Zauberstabs,Gameboy Color,Bumerangs,Hasenkostüms,“Umarme mich”-Schilds,Heißluftfritteuse,Nagelschere,Laser Pointers,Machete,Magischen Amuletts,Boden-Luft-Rakete,Ente,Süßigkeitenbox,Kettensäge,Dosenöffners,Rosa Handgranate,Einhornkostüms,Pride-Flagge,Heißklebepistole",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vom Freund und Helfer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bauchrednerpuppe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen eines/r <BLANK> im Dienst zu erhalten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bauchredner Puppe,Bauchredner-Puppe,Puppe,Handpuppe,Hand-Puppe,Hand Puppe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bauchrednerpuppe",
+      "t": "A",
+      "v": "385232_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen eines/r <BLANK> im Dienst zu erhalten.",
+      "t": "A",
+      "v": "385229_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

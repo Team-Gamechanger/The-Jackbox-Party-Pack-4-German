@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "plotting revenge,planning a robbery,learning to love,comparing sizes,who became giants,torturing insects,shooting marbles,debating politics,vomitting,training rats,challenging society,keeping it real,waiting for the shower,dancing,posing,afraid of death,who are tired of being Danish,begging for money",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "two dudes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a fish",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "The title of this piece of Danish art is <i>Two Nude Men <BLANK></i>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "with dice",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566169_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571350_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]a fish",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]The title of this piece of Danish art is <i>Two Nude Men <BLANK></i>.",
+      "t": "A",
+      "v": "566164_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

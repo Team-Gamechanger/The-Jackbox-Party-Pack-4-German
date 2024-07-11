@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zwinkern,Spache,Erotischen Berührungen,Sarkasmus,Gebärdensprache,Farbänderungen,Schreien,Lippen lecken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heringe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fürzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Weil Heringe in großen Schwärmen schwimmen, wird angenommen, dass sie mit <BLANK> kommunizieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Furzen,Gasen,Darmblähungen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Fürzen",
+      "t": "A",
+      "v": "385112_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Weil Heringe in großen Schwärmen schwimmen, wird angenommen, dass sie mit <BLANK> kommunizieren.",
+      "t": "A",
+      "v": "385109_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

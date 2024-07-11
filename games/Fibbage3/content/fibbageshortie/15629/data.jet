@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Einem Goldfisch,Magneten,Fitness-Ratgebern aus 1911,Kaugummi,Einem Blutegel,Ihrem Staubsauger,Einem Roboter,Katzen,Einem Gymnastikball,Zuckerfreiem Hustensaft,Röntgenstrahler,Proteinshakes",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Öffentliche Gesundheit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Reptiloid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Abteilung für öffentliche Gesundheit in Iowa sprach eine amtliche Warnung aus, nachdem eine Frau mittels <BLANK> versuchte, an Gewicht zu verlieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Band Wurm,Zestode,Band-Wurm,Cestode,Bandwürmer,Band Würmer,Band-Würmer,Zestoden,Cestoden,Bandwürmern,Einem Band-Wurm,Einem Band Wurm,Einen Bandwurm,Einen Band-Wurm,Einen Band Wurm,Bandwurm,Mehreren Bandwürmern,Band-Würmern,Band Würmern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Reptiloid",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Abteilung für öffentliche Gesundheit in Iowa sprach eine amtliche Warnung aus, nachdem eine Frau mittels <BLANK> versuchte, an Gewicht zu verlieren.",
+      "t": "A",
+      "v": "345783_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

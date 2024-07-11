@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "god|the devil,his imaginary friend|Betty White,his mom|his stepmom,Selena Gomez|Hot Pockets,his coach|his coach’s ex,trees|rocks,his trainer|his wife’s killer,George Bush|George W. Bush,his dog|his cat,chocolate|vanilla,his brain|his butt,the wind|the rain,his dad|Thor,McDonald’s|Burger King,Superman|Batman,butter|margarine,Abbott|Costello,Smith|Wesson",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "giving thanks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In a post-game interview, Ghanaian football star Mohammed Anas turned some heads by thanking both <BLANK> and <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "wife|girlfriend,girlfriend|wife,his girlfriend|his wife",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In a post-game interview, Ghanaian football star Mohammed Anas turned some heads by thanking both <BLANK> and <BLANK>.",
+      "t": "A",
+      "v": "573631_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

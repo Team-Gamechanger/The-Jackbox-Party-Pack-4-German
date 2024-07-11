@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a The Purge scenario,time machines,a vision quest,access to Area 51,to get laid,cash money,a million more wishes,to go to space,Brad and Jen to get back together,their own rap albums,trips to North Korea,Adam Sandler movie appearances,NASCAR lessons,deep sea voyages,juggling lessons,smoking marijuana,to commit cannibalism,French lessons",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Make Another Wish",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bug collection",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 1999, the Make-A-Wish foundation put a new restriction on wishes. The organization officially banned kids from requesting <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "to hunt,hunting,hunting animals,to hunt animals",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]bug collection",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 1999, the Make-A-Wish foundation put a new restriction on wishes. The organization officially banned kids from requesting <BLANK>.",
+      "t": "A",
+      "v": "652091_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

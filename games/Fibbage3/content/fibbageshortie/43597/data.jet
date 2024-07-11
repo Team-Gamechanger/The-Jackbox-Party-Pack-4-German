@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "self,scabs,dog,tonsils,butt,power outlets,dad,belly button,toilet,nostril,uncle,ears,hotel staff,snake,nanny,401k,boyfriend,baseball cards",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bad Touch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eyebrows",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Among the advice given to <i>Game of Thrones</i> actor Emilia Clarke by her mother was “Don’t do drugs, have sex, or touch your <BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eyebrow,eye brows,eye brow",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eyebrows",
+      "t": "A",
+      "v": "565808_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Among the advice given to <i>Game of Thrones</i> actor Emilia Clarke by her mother was “Don’t do drugs, have sex, or touch your <BLANK>.”",
+      "t": "A",
+      "v": "565805_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

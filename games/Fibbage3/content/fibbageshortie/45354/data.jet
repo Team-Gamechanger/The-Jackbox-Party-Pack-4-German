@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scissors,Sticky tack,Tic-Tacs,Hair nets,Blenders,Video tape,Etch-A-Sketch,Monopoly,Scattergories,The Rocking Horse,The Rubix Cube,Snickerdoodles,Wishbone the dog,Boomboxes,Kool-Aid,Fire hydrants,the Easter Bunny,Mensa",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tainted Inventions",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "use swear words",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Harold Von Braunhut was a white supremacist who loaned thousands of dollars to hate groups. But weirdly, he also invented <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sea monkies,See monkeys,sea-monkeys",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]use swear words",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Harold Von Braunhut was a white supremacist who loaned thousands of dollars to hate groups. But weirdly, he also invented <BLANK>.",
+      "t": "A",
+      "v": "612482_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

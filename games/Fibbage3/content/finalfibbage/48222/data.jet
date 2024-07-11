@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "yell|his dog,sing|the top of his lungs,get angry|the weatherman,buy clothes|The Gap,throw beer bottles|the fire department,eat pizza|the gas station,sleep|the local greenhouse,hurl insults|Girl Scouts,ask for forgiveness|a Taco Bell,shave his head|a vet’s office,throw his pants|a passing ice cream truck,admit his crimes|the post office,get his ears pierced|the mall,get his burns treated|KFC,rub butter on himself|the local preschool,get cornbread|his mom’s house,go to the bathroom|a Chucky Cheese,roll around on the ground|the rodeo",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "First Instincts",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In July, 2017, a man in Shelby Township, MI set himself on fire in a meth lab explosion. Naturally, his reaction was to <BLANK> at <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "shower|the gym,shower|a gym,shower|PlatnetFitness",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In July, 2017, a man in Shelby Township, MI set himself on fire in a meth lab explosion. Naturally, his reaction was to <BLANK> at <BLANK>.",
+      "t": "A",
+      "v": "680937_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eine Bong,Eine Pistole,Eine Machete,Eine Crackpfeife,Ein Theremin,Ein Furzkissen,Ein Handy,Ein ferngesteuertes Spielzeugauto,Seine Playstation 3,Einen MP3-Player,Eine Espressomaschine,Eine Datingseite,Einen Gameboy,Eine Mikrowelle,Eine Röntgenbrille,Einen Rückenkratzer,Pornoseiten,Einen Handstaubsauger",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einspruch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Penispumpe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein amerikanischer Richter wurde im Jahr 2006 zu einer vierjährigen Haftstrafe verurteilt, nachdem herausgefunden wurde, dass er während mehrerer Prozesse heimlich <BLANK> verwendet hat.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Eine Penis Pumpe,Eine Penis-Pumpe,Seine Penispumpe,Seine Penis Pumpe,Seine Penis-Pumpe,Penispumpen,Penis Pumpen,Penis-Pumpen,Penispumpe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Penispumpe",
+      "t": "A",
+      "v": "326636_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein amerikanischer Richter wurde im Jahr 2006 zu einer vierjährigen Haftstrafe verurteilt, nachdem herausgefunden wurde, dass er während mehrerer Prozesse heimlich <BLANK> verwendet hat.",
+      "t": "A",
+      "v": "326633_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

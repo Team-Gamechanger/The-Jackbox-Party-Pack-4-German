@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "monkeys,Tom Cruise and Brad Pitt,Eddie Murphy,Mike Myers,Ben Stiller and Owen WIlson,a British circus troupe,finger puppets,Peter Jackson,rugby players,the Jonas Bros.,Mark and Donny Wahlberg,pigs,penguins,snowmen,the Muppets,the Smurfs,the Simpsons,the Peanuts gang",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Herr der Ringe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Beatles",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Laut Regisseur Peter Jackson wurde vor der Produktion seiner <i>Herr der Ringe</i>-Trilogie eine andere Version in Erwägung gezogen, in der die Hauptfiguren von <BLANK> gespielt worden wären.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon,Paul McCartney,Ringo Starr,George Harrison,The Beetles,Beatles,Beetles,The Fab Four",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]den Beatles",
+      "t": "A",
+      "v": "397523_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Laut Regisseur Peter Jackson wurde vor der Produktion seiner <i>Herr der Ringe</i>-Trilogie eine andere Version in Erwägung gezogen, in der die Hauptfiguren von <BLANK> gespielt worden wären.",
+      "t": "A",
+      "v": "397520_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

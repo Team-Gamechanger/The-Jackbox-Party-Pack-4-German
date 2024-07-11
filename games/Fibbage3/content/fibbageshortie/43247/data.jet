@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "children,pay-per-view channels,refrigerators,bags of chips at one time,plants,names,chairs,classic cars,chairs,pairs of pants,cell phones,pear trees,parties per year,boxes of cereal,beds,sports jerseys,microwaves,friends",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Too Much",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cats",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "If you live in Washoe County, NV, you may need a special permit to have more than seven <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "felines,kittens,pets,dogs",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]cats",
+      "t": "A",
+      "v": "559223_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]If you live in Washoe County, NV, you may need a special permit to have more than seven <BLANK>.",
+      "t": "A",
+      "v": "559220_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Den Verkehr,Ihre Gefühle,Süßkartoffeln,Eidechsen,Die Ergebnisse von Footballspielen,Franzosen,Das Wetter in Paris,Enten,Wahlergebnisse,Gras,Die Luftfeuchtigkeit,Schnürsenkel,Bahnverspätungen,Die Lottozahlen,Sudokus,Kreuzworträtsel,Suppe,Goldfische,Straßenbahnen,Oliven,Die Nudelkochzeit",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heldenhaft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eichhörnchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Doreen Green ist eines der seltsamsten Mitglieder der Avengers. Ihre Superkraft ist die Fähigkeit, <BLANK> zu kontrollieren. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Eichhoernchen,Wilde Eichhörnchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Eichhörnchen",
+      "t": "A",
+      "v": "386264_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Doreen Green ist eines der seltsamsten Mitglieder der Avengers. Ihre Superkraft ist die Fähigkeit, <BLANK> zu kontrollieren. ",
+      "t": "A",
+      "v": "386261_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

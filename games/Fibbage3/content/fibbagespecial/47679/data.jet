@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Joe Biden,Angela Merkel,Ringo Starr,David Bowie,James Taylor,Barack Obama,Dick Cheney,Tim Allen,Vin Diesel,Abraham Lincoln,Bad Songs Podcast,Kylo Ren,Homeland Security,Kevin Spacey,Kidz Bop,Weird Al,Otis Elevator,Phony McFakename",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Whoever You Are",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pandora",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Actor/musician Tyrese Gibson tweeted: “<BLANK>.. Whoever you are!! Thank you! I get tweets about you playing my music all the time!!”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "4:31 AM<br />11 Aug 2011",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@Tyrese",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "665573_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pandora",
+      "t": "A",
+      "v": "665571_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Actor/musician Tyrese Gibson tweeted: “<BLANK>.. Whoever you are!! Thank you! I get tweets about you playing my music all the time!!”",
+      "t": "A",
+      "v": "665568_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

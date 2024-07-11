@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lame,Cruel,Impotent,Flatulent,Goof,Drunk,Stutterer,Clumsy,Jerk,Shy Guy,Doofus,Belcher,Ignorant,Nauseous,Jester,Dancer,Sassy,Non-King",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "King Names",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Slobberer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In the late 12th and early 13th centuries, the ancient kingdom of Galicia was ruled by a monarch comically known as Alfonso the <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "slobber,slobbering,foamer,spitter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Slobberer",
+      "t": "A",
+      "v": "607237_2",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In the late 12th and early 13th centuries, the ancient kingdom of Galicia was ruled by a monarch comically known as Alfonso the <BLANK>.",
+      "t": "A",
+      "v": "607234_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

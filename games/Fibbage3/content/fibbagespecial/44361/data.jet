@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Persian rugs,Leather,chairs,Cherubs,Picasso,My music,Myself,Sunglasses,Designer jackets,Will Ferrell,Hoarders,Chicken Nuggets,Will Smith,The Ninja Turtles,gummy worms,Big Bang Theory,baby dolphins,fish sticks",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Emotions",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fonts",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Kanye West Tweeted, “Sometimes I get emotional over <BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11:55 AM<br />17 Aug 2010",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@kanyewest",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "586115_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Fonts",
+      "t": "A",
+      "v": "586113_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kanye West Tweeted, “Sometimes I get emotional over <BLANK>.”",
+      "t": "A",
+      "v": "586110_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

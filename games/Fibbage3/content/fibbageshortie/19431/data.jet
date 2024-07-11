@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cereal being poured,donkeys braying,her neighbors having sex,a snail crawling,bubblewrap being popped,eggs hatching,a lawnmower,pimples being popped,fingernail clipping,childbirth,high fives,slurping soup,sneezes,hummingbirds,doves crying,a candle melting,perfume being poured into a hat,sniffling",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Yoko Ono",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a dead rat",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "During the making of her album <i>Approximately Infinite Universe</i>, Yoko Ono surprised her sound engineer by making him record 20 seconds of <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "a rat,rats,a dead animal",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]a dead rat",
+      "t": "A",
+      "v": "385688_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]During the making of her album <i>Approximately Infinite Universe</i>, Yoko Ono surprised her sound engineer by making him record 20 seconds of <BLANK>.",
+      "t": "A",
+      "v": "385685_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

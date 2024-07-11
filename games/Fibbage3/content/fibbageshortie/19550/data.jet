@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tattoos,Narben,Monobraue,Bauchnabelpiercing,Armbrust,rausgestreckter Zunge,Zahnspange,Badeanzug,Sonnenbrille,Krawatte,Kuhmaske,Kaffeetasse,Mistgabel,Irokesenfrisur,Zylinder,Maschinenpistole,Topfschnitt,Goldkettchen,Sonnenschirm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kreuzzug in Prag",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bart",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bei einem Städtetrip nach Prag solltet ihr unbedingt der Kapelle zur Schmerzhaften Muttergottes einen Besuch abstatten, in der eine gekreuzigte Frau mit <BLANK> zu sehen ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pornobalken,Oberlippenbart,Schnurrbart,Schnauzer,Vollbart",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bart",
+      "t": "A",
+      "v": "388601_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei einem Städtetrip nach Prag solltet ihr unbedingt der Kapelle zur Schmerzhaften Muttergottes einen Besuch abstatten, in der eine gekreuzigte Frau mit <BLANK> zu sehen ist.",
+      "t": "A",
+      "v": "388598_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

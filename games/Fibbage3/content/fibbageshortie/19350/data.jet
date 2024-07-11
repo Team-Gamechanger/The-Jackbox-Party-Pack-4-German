@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pornography,masturbation,pregnancy,anal sex,thongs,public nudity,alcohol,sexting,Viagra,v-neck shirts,skinny jeans,perfume,whip cream,butt implants,high heels,bikini waxes,the wonderbra,boxer briefs",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verhütungsmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehebruch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre altes Verbot von <BLANK> aufgehoben hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cheating on your spouse,adultary,cheating",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ehebruch",
+      "t": "A",
+      "v": "383684_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre altes Verbot von <BLANK> aufgehoben hatte.",
+      "t": "A",
+      "v": "383681_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

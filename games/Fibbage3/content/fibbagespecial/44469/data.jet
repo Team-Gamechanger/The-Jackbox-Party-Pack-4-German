@@ -1,0 +1,96 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Music,Selena,Potato,Moon,Everyone LOL JK,Me,Justin,My Monkey,Willy Shakespeare,Usher,my abs,One Direction,Justin Timberlake <3,Voldemort,Being popular,Fame,Smelling,Jealousy",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bieber",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Arm",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Justin Bieber tweeted: “I love <BLANK>”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "1:26 PM<br />1 Jan 2012",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@justinbieber",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "588992_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Arm",
+      "t": "A",
+      "v": "588990_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Justin Bieber tweeted: “I love <BLANK>”",
+      "t": "A",
+      "v": "588987_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

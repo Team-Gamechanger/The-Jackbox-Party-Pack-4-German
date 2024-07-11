@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eat|deep dish pizza,win|hot dog eating contest,sculpt|statue,remove|splinter,write|screenplay,play|one man band,Jump on|trampoline,bake|cake,win|spelling bee,fake|magic trick,improvise|one woman show,finish|sudoku puzzle,type|paper on bees,grill|brat,perfectly wrap|bean burrito,drink|gallon of milk,list|mattress on craigslist,change|tire",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Space Space Space",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "starts liking your photos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "On April 16, 2007, astronaut Sunita Williams became the first person to <BLANK> a <BLANK> in space.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "finish|marathon,complete|marathon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]starts liking your photos",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]On April 16, 2007, astronaut Sunita Williams became the first person to <BLANK> a <BLANK> in space.",
+      "t": "A",
+      "v": "673892_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

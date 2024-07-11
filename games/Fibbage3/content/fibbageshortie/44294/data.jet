@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "four halfpence,a ghost,a pound of meat,an orphan,a bowtie,a sandwich,an opera mask,a brightly colored wig,a trombone,a bicycle,penicillin,a dead body,a turnip,an equally exotic animal,a gun,a rare diamond,your A-game,a funny hat",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Exotic",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a dog",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "During the 18th century, admission to see the exotic animals at London’s Royal Menagerie was three halfpence. But you could avoid the charge if you simply brought <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "dog,dogs,a cat,cats,cat",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]a dog",
+      "t": "A",
+      "v": "584075_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]During the 18th century, admission to see the exotic animals at London’s Royal Menagerie was three halfpence. But you could avoid the charge if you simply brought <BLANK>.",
+      "t": "A",
+      "v": "584072_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

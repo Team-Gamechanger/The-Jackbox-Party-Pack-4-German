@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Hut,königlichen Roben,Vorhängen,Handtüchern,einem Buch,einem Wandteppich,Armeeumhängen,tschechischen Flaggen,einer Decke,Hosenträgern,Gummibändern,einem Stiefelpaar,einer Leinwand,einer Tischdecke,einem Schal,Geigensaiten,Kaugummi,einer Schatzkarte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Trommeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der tschechische General Jan Zizka gab seinen Truppen vor seinem Tod den Befehl, dass seine Haut entfernt und zur Herstellung von <BLANK> verwendet werden soll.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Kriegstrommeln,einer Trommel,einer Kriegstrommel,der Trommel,der Kriegstrommel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Trommeln",
+      "t": "A",
+      "v": "415090_3",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der tschechische General Jan Zizka gab seinen Truppen vor seinem Tod den Befehl, dass seine Haut entfernt und zur Herstellung von <BLANK> verwendet werden soll.",
+      "t": "A",
+      "v": "415087_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

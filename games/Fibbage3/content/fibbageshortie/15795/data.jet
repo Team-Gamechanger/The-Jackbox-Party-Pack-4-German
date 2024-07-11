@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Menschen,Giraffen,Elefanten,Bären,Rehe,Tiger,Schimpansen,Deutsche,Büffel,Faultiere,Pandas,Affen,Kühe,Roboter,Schweine,Golfspieler,Katzen,Löwen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleine Helferlein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 wurde in den USA die Definition eines \"Assistenztieres\" im Gesetz für Amerikaner mit Behinderungen aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ponys,Ponies,Fohlen,Pferd,Pony,Ponie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pferde",
+      "t": "A",
+      "v": "349497_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2011 wurde in den USA die Definition eines \"Assistenztieres\" im Gesetz für Amerikaner mit Behinderungen aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
+      "t": "A",
+      "v": "349494_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

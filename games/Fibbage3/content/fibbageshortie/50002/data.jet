@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Matratzenlager,einem Flugzeugtank,einem Automotor,einem Wasserfall,einer Achterbahn,einem Schweinestall,ihrer Spülmaschine,ihrem Keller,einem Wasserturm,einer Kläranlage,einem Windrad,einem Maislabyrinth,einer alten Kupfermine,einem Koffer,einem Kopfkissenbezug,einer Baumkrone,einem See,einem Tornado,einem U-Boot,einem Standmixer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rettungaktionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Welcome to Scotland",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einer Toilette,nem Plumpsklo,ner Toilette,einem Klo,nem Klo,einem WC,nem WC",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Welcome to Scotland",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2007, Scotland spent £125,000 on a new tourism campaign. The result was the enticing slogan: “<BLANK>.”",
+      "t": "A",
+      "n": "QuestionAudio"
+    }
+  ]
+}

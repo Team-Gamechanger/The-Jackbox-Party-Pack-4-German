@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mother-in-laws,angry squirrels,werewolves,video game death,ghosts,mermaids,terrorists,chupacabra,animators,mind control,comets,smelly socks,ex-lovers,yo-yo injuries,sadness,The Joker,Zeus,time travelers",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "cover yourself",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aliens",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Grip, a London-based insurance company, made a cool £4 mil in the early 2000s by selling an odd policy that protected customers from <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "extra-terrestrials,space creatures,UFOs,U.F.O.s,X-Files,space aliens,alien abduction,alien abductions,UFO abdctions,U.F.O. abductions,UFO abdction,U.F.O. abduction",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]aliens",
+      "t": "A",
+      "v": "560688_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Grip, a London-based insurance company, made a cool £4 mil in the early 2000s by selling an odd policy that protected customers from <BLANK>.",
+      "t": "A",
+      "v": "560685_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dinosaur bones,expired lunch meat,New York subway spit,Jurassic mold,his toe fungus,pop tarts,better whiskey,bubble gum,locker room towels,mastodon tusks,old popcorn,hurricane water,dead whales,polar bear pee,meteorites,sewage water,old comic books,ghost peppers",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drink up",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diabetics’ urine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In 2010, British biomedical researcher James Gilpin bottled and distilled his own brand of single malt whiskey that’s fermented using <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pee,urine,pee from diabetics,urine from diabetics",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]diabetics’ urine",
+      "t": "A",
+      "v": "584105_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In 2010, British biomedical researcher James Gilpin bottled and distilled his own brand of single malt whiskey that’s fermented using <BLANK>.",
+      "t": "A",
+      "v": "584102_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

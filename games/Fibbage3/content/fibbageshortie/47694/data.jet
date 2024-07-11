@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hair brush,spaceship cockpit,yellowtail sushi,box of high end toothpicks,jar of applesauce,cardboard box,pencil,beach ball,dog food bowl,deck of cards,lollipop,robot dog,cat tree,porcupine leash,piece of gum,$100 bill,Batman mask,set of vampire fangs",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Too Much Money",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ice cream sundae",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Consider patronizing Serendipity 3 in New York, where you can buy a $1,000 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sundae,ice cream,ice cream sunday",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ice cream sundae",
+      "t": "A",
+      "v": "665949_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Consider patronizing Serendipity 3 in New York, where you can buy a $1,000 <BLANK>.",
+      "t": "A",
+      "v": "665946_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}
