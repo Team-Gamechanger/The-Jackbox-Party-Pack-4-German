@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678727_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Leckerschmecker!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678728_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Da kriegt man ja Heißhunger!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "678729_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Das hatte ich zum Frühstück!!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "678716_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Was schmeckt frittiert am besten?"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "678712_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Süßigkeit"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "678719_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Zuckerrausch garantiert!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "678726_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche Süßigkeit schmeckt frittiert am BESTEN??!"
     }

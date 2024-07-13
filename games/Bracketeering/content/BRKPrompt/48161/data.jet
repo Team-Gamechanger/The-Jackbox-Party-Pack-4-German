@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Hier wird gefragt und gejagt!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Hier kommt der Millionär!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "679098_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die einfachste Kategorie für Quizfragen"
     },
@@ -120,19 +122,20 @@
     },
     {
       "t": "A",
-      "v": "679094_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Studienfach"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "679101_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Was auch immer dieser Film ist... ich würd's mir reinziehen."
     },
     {
       "t": "B",
@@ -141,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679108_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die EINFACHSTE Kategorie für Quizfragen??!"
     }

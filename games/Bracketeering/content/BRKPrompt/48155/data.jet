@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "678918_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Körperteil, um genau neun Stück davon zu haben"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "678914_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Körperteil"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "678921_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Schwierige Entscheidung, das will gut überlegt sein!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "678928_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Körperteil. um genau neun Stück davon zu haben?!!"
     }

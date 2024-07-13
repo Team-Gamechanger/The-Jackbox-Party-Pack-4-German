@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "679068_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Gemüse, das Benedict Cumberbatch in seinem nächsten Film spielen sollte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "679064_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gemüse"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "679071_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Was auch immer dieser Film ist... ich würd's mir reinziehen."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "679078_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das Gemüse, das Benedict Cumberbatch in seinem nächsten Film spielen sollte??!"
     }

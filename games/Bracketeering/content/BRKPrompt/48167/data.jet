@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679289_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ab ins Kittchen mit dir!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679290_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Verhafte mich, ist DER gut!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "679291_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Einzelhaft, dafür aber einziger Sieger!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "679278_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Spitzname für einen Gefängnisinsassen"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679274_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679288_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Spitzname für einen Gefängnisinsassen??!"
     }

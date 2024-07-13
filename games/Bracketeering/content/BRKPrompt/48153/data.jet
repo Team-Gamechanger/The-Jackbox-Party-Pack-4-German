@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ich flippe aus!!!"
     },
     {
       "t": "B",
@@ -47,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678870_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "(Ängstlich) Hast du das gehört?! Was war das?"
     },
@@ -58,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "678871_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ich will nie wieder schlafen!"
     },
@@ -69,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "678872_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Ich bin verstört!"
     },
@@ -80,7 +81,7 @@
     },
     {
       "t": "A",
-      "v": "678873_0f",
+      "v": "win4",
       "n": "Win4Audio",
       "s": "Ich brauch' ne neue Unterhose!"
     },
@@ -91,7 +92,7 @@
     },
     {
       "t": "A",
-      "v": "678858_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die gruseligste Sache, die eine Kinderstimme mitten in der Nacht flüstern könnte"
     },
@@ -124,7 +125,7 @@
     },
     {
       "t": "A",
-      "v": "678854_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
@@ -135,7 +136,7 @@
     },
     {
       "t": "A",
-      "v": "678861_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Albtraum-Material garantiert!"
     },
@@ -146,7 +147,7 @@
     },
     {
       "t": "A",
-      "v": "678868_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die GRUSELIGSTE Sache, die einem eine Kinderstimme mitten in der Nacht zuflüstern könnte??!"
     }

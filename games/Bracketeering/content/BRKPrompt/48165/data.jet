@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679229_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Diese Antwort hat Reißzähne!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679230_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Die Monster der Nacht lieben diese Antwort!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "679218_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Buch, dessen Handlung am meisten von ein paar Vampiren profitieren würde"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679214_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Buch"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "679221_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679228_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches Buch würde am meisten von ein paar Vampiren profitieren?!!"
     }

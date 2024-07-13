@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679019_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Kunst oder Krempel?! Warum nicht beides!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679020_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Nahrhaft!!!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "679008_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Gemüse, um es für ein Kunstprojekt an die Wand zu nageln"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679004_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gemüse"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "679011_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Jetzt wird es hier richtig tiefgründig!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679018_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DAS beste Gemüse, um es für ein Kunstprojekt an die Wand zu nageln?!!"
     }

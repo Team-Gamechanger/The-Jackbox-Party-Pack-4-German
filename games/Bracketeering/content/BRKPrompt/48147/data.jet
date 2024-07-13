@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "678686_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Wahl, wenn du ab heute nur noch Gerichte mit dieser Farbe essen dürftest"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "678682_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Farbe"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "678696_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Farbe, wenn du ab heute nur noch Gerichte mit dieser Farbe essen dürftest?!!"
     }

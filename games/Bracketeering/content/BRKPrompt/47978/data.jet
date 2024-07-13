@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674134_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Widerlich!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674135_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ihhh cringe!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "674136_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "So heißt mein Hund!!!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "674137_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Den schreib ich mir glatt für später auf!!"
     },
@@ -124,9 +124,9 @@
     },
     {
       "t": "A",
-      "v": "674119_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Der nervigste Spitzname für einen Lebensgefährten"
+      "s": "Der nervigste Kosename für deinen Partner"
     },
     {
       "t": "B",
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "674126_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Haltet eure Schnuckelchen bereit!!"
     },
@@ -146,9 +146,9 @@
     },
     {
       "t": "A",
-      "v": "674133_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER nervigste Kosename für einen Partner oder Lebensgefährten?!"
+      "s": "Was ist DER nervigste Kosename für deinen Partner?!"
     }
   ]
 }

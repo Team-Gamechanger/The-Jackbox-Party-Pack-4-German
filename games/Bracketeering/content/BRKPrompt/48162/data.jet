@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "679128_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die coolste Aktivität, in der man Weltrekordhalter sein kann"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "679124_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Verb"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Was auch immer dieser Film ist... ich würd's mir reinziehen."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "679138_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die coolste Aktivität, in der man Weltrekordhalter sein kann??!"
     }

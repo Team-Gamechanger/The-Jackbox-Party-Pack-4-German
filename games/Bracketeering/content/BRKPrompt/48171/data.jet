@@ -32,22 +32,22 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "679409_0f",
+      "v": "",
       "n": "Win0Audio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "679410_0f",
+      "v": "",
       "n": "Win1Audio"
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "679398_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Emoji, um deinen Schwarm heiß zu machen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "679394_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Lebensmittel"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "679401_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Inspiriert von meinem echten Leben!"
     },
@@ -142,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "679408_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welches ist das BESTE Emoji, um den Schwarm heiß zu machen?!"
+      "s": "Welches ist das BESTE Emoji, um deinen Schwarm heiß zu machen?!"
     }
   ]
 }

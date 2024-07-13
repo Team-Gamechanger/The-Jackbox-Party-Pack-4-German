@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679049_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Finde nur ich, dass es hier heiß wird?!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679050_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Uh lá lá!!!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "679038_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das erotischste Gemüse"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679034_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gemüse"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "679041_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Tut nicht so, als hättet ihr noch nie darüber nachgedacht!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679048_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das erotischste Gemüse??!"
     }

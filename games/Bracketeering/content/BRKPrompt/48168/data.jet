@@ -32,12 +32,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "679319_0f",
+      "v": "",
       "n": "Win0Audio"
     },
     {
@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "679308_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Waffe, um einen bösen Gartenzwerg zu töten"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "679304_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "679311_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "679318_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Waffe, um einen bösen Gartenzwerg zu töten??!"
     }

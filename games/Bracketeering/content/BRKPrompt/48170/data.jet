@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679379_1f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Brumm Brumm Brumm!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679380_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "So elegant!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "679381_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Guten Tag, allgemeine Siegerkontrolle!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "679368_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der coolste Name für ein Sportauto"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679364_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine mythologische Figur oder Kreatur"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "679371_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Was auch immer jetzt kommen mag, es liegt weit außerhalb meiner Gehaltsstufe!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679378_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der COOLSTE Name für ein Sportauto?!!"
     }

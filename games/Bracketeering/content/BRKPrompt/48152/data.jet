@@ -37,9 +37,9 @@
     },
     {
       "t": "A",
-      "v": "678839_0f",
+      "v": "win0",
       "n": "Win0Audio",
-      "s": "2 cute 2 be 4 gotten!!!"
+      "s": "Klasse Spruch!"
     },
     {
       "t": "B",
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678840_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Der perfekte Spruch!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "678841_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ab jetzt geht's nur noch bergab!!!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "678842_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Bestanden und von jetzt an Arbeitslos!"
     },
@@ -91,7 +91,7 @@
     },
     {
       "t": "A",
-      "v": "678828_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Spruch für deine Seite in der Abizeitung"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "678824_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "678831_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Eine Erinnerung, die für immer bleibt!"
     },
@@ -146,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "678838_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Spruch für die eigene Seite in der Abizeitung??!"
     }

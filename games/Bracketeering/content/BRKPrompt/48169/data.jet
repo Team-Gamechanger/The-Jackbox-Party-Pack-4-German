@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ich brauch' das!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "679338_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Was könnte mir am ehesten... bitte... irgendwie... ein wenig Lebensfreude bescheren?"
     },
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "679334_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die man in der Küche gut gebrauchen kann"
     },
@@ -132,7 +133,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Sind wir mal ganz ehrlich, jedes Buch würde von Vampiren profitieren. Ohne Ausnahmen."
     },
     {
       "t": "B",
@@ -141,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "679348_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was könnte mir am ehesten... bitte... unbedingt... ein wenig Lebensfreude bescheren??! "
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678667_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Badehose nicht vergessen!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678668_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ab in den Flieger mit dir!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "678656_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welcher Charakter hat sich am ehesten Urlaub verdient?"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "678652_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Videospielcharakter"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "678659_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Endlich mal ein Thema nach meinem Geschmack!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "678666_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Videospielcharakter verdient den Urlaub am meisten?!"
     }

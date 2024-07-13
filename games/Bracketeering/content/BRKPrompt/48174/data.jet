@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679499_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Mmmmmmm!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679500_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ohh, ich rieche es förmlich!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "679488_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Essen, um für immer danach zu riechen"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679484_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Speise"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "679491_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Sagt lebewohl zu Parfüm, das brauchen wir bald nicht mehr!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679498_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das BESTE Essen, um ab jetzt für immer und ewig danach zu riechen?!!"
     }

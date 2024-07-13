@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679259_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Pow!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679260_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "In die Fresse!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "679261_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "T.K.O.!!!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "679248_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name, den ein Boxer seiner Faust geben kann"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679244_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen fiktionalen Charakter"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679258_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Spitzname, den ein Boxer seiner Faust geben kann??!"
     }

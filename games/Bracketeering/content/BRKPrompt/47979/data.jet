@@ -37,9 +37,8 @@
     },
     {
       "t": "A",
-      "v": "674164_0f",
-      "n": "Win0Audio",
-      "s": "Lecker!!!"
+      "v": "win0",
+      "n": "Win0Audio"
     },
     {
       "t": "B",
@@ -48,9 +47,8 @@
     },
     {
       "t": "A",
-      "v": "674165_0f",
-      "n": "Win1Audio",
-      "s": "Rein damit in die Schüssel!"
+      "v": "win1",
+      "n": "Win1Audio"
     },
     {
       "t": "B",
@@ -59,9 +57,8 @@
     },
     {
       "t": "A",
-      "v": "674166_0f",
-      "n": "Win2Audio",
-      "s": "Nahrhaft!!!"
+      "v": "win2",
+      "n": "Win2Audio"
     },
     {
       "t": "B",
@@ -70,9 +67,8 @@
     },
     {
       "t": "A",
-      "v": "674167_0f",
-      "n": "Win3Audio",
-      "s": "Ein unvergessliches Frühstück!!"
+      "v": "win3",
+      "n": "Win3Audio"
     },
     {
       "t": "B",
@@ -124,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "674149_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Der beste Milch-Ersatz für Cornflakes"
+      "s": "Das beste ungewöhnliche Haustier"
     },
     {
       "t": "B",
@@ -135,9 +131,8 @@
     },
     {
       "t": "A",
-      "v": "674156_0f",
-      "n": "PromptReactionAudio",
-      "s": "Jeder war schon einmal an diesem Punkt, Zeit es ein für alle Mal zu klären!"
+      "v": "promptreaction",
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -146,9 +141,9 @@
     },
     {
       "t": "A",
-      "v": "674163_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist der BESTE Ersatz, wenn die Milch leer ist, aber man trotzdem Müsli essen will??!"
+      "s": "Welches ist das beste Haustier??!"
     }
   ]
 }

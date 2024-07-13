@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678757_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Tausende Prügeleien zeugen davon!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678758_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ich werde jetzt schon wütend!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "678759_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Dadurch verlor ich 10 Freunde!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "678746_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Spiel, das am ehesten Freundschaften riskiert"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "678742_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Brett- oder Kartenspiel"
     },
@@ -134,9 +134,9 @@
     },
     {
       "t": "A",
-      "v": "678749_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Ich weiß ja nicht, wie's dir geht, aber ich bin kampfbereit!!"
+      "s": "Ich weiß ja nicht, wie's euch geht, aber ich bin kampfbereit!!"
     },
     {
       "t": "B",
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "678756_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das RISIKOREICHSTE Spiel für Freundschaften??!"
     }

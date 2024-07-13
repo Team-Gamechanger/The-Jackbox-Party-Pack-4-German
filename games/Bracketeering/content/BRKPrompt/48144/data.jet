@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "678596_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Filmwelt, um zehn Jahre lang darin leben zu müssen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "678592_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Filmtitel"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "678606_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER Film, in dem wir alle für die nächsten zehn Jahre leben wollen?!"
     }

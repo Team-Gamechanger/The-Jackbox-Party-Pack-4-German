@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678517_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Sicher genug?"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678518_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Lecker, Meeeenschenfleisch!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "678506_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Versteck während einer Zombieapokalypse"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "678502_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Laden oder ein Restaurant"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "678509_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Bereit, eure Hiiiirne anzustrengen?!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "678516_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wenn die Zombieapokalype kommt, was wäre dann das BESTE Versteck??!"
     }

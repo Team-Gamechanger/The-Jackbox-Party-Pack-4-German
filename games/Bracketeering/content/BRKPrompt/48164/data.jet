@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "679188_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die mutigste Sache, die man in seinen Lebenslauf schreiben kann"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "679184_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Adjektiv"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "679198_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist mutigste Sache, die man in seinen Lebenslauf schreiben kann?!!"
     }

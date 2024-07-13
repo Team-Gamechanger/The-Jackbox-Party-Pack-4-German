@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678787_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Wer hat Angst vorm Sensenmann!!"
     },
@@ -88,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "678776_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Spiel, um darin mit dem Teufel um dein Leben zu spielen"
     },
@@ -121,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "678772_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Brett- oder Kartenspiel"
     },
@@ -132,7 +132,7 @@
     },
     {
       "t": "A",
-      "v": "678779_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich habe den Tod mal im Anstarr-Wettbewerb besiegt und das war NICHT einfach!"
     },
@@ -143,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "678786_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Spiel, um darin mit dem Teufel um dein Leben zu spielen??!"
     }

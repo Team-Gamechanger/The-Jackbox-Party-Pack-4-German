@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674194_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Das ist mal ein Statement!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674195_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Gruselig, aber gut!!!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "674179_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Form für einen Sarg"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "674186_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Wer sagt, dass Särge nicht auch cool sein können?"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "674193_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Form für einen Sarg?!"
     }

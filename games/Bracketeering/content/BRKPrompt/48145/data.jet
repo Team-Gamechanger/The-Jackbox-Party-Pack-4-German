@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "678637_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Welche Kraft!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "678638_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Unser Retter!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "678639_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Super mächtiger Sieg!!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "678626_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Tier, das den besten Superhelden abgeben würde"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "678622_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "678629_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Cape drummachen, etwas Radioaktivität und der Spaß beginnt!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "678636_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches Tier hat das Potenzial, den besten Superhelden abzugeben?!"
     }
