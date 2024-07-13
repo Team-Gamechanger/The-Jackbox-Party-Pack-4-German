@@ -11905,36 +11905,36 @@
         {
             "decoys": [
                 {
-                    "text": "Wasser"
+                    "text": "Tiger"
                 },
                 {
-                    "text": "Zement"
+                    "text": "Antilope"
                 },
                 {
-                    "text": "Toilettenwasser"
+                    "text": "Kamäleon"
                 },
                 {
-                    "text": "Seife"
+                    "text": "Adler"
                 },
                 {
-                    "text": "Spülmittel"
+                    "text": "Orang-Utan"
                 },
                 {
-                    "text": "Mehr Cornflakes"
+                    "text": "Schimmelpilz"
                 },
                 {
-                    "text": "Shampoo"
+                    "text": "Ente"
                 },
                 {
-                    "text": "Mayonnaise"
+                    "text": "Schaf"
                 }
             ],
             "x": false,
             "id": 47979,
-            "category": "Food",
+            "category": "Animal",
             "twists": [],
             "prompt": {
-                "text": "Der beste Milch-Ersatz für Cornflakes"
+                "text": "Das beste ungewöhnliche Haustier"
             },
             "facts": []
         },
