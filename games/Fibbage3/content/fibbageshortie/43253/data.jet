@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Nonnen,Piraten,den rauchenden Piloten,Pferdeäpfel,eine streunende Katze,ein explodierendes Handy,einen Koala mit Durchfall,einen schmelzenden Nintendo DS,weinende Babys,einen betrunkenen blinden Passagier,einen angeschalteten Toaster,einen Blindgänger,das Eiersandwich des Kopiloten,einen Sodastream,einen Kiffer,eine Heißluftfritteuse,Arnold Schwarzenegger,Mundharmonika-Musik",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Notlandung",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "furzende Schafe",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Im Jahr 2015 musste ein Frachtflug von Australien nach Kuala Lumpur unerwartet landen, nachdem der Feueralarm durch <BLANK> ausgelöst worden war.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "pupsende Schafe,Schaffürze,Schafpupse,Pupsen,Furzen,Flatulenzen,ein furzendes Schaf,ein pupsendes Schaf",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]furzende Schafe",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Im Jahr 2015 musste ein Frachtflug von Australien nach Kuala Lumpur unerwartet landen, nachdem der Feueralarm durch <BLANK> ausgelöst worden war.",
       "t": "A",
-      "v": "345699_0",
+      "v": "559370_0",
       "n": "QuestionAudio"
     }
   ]

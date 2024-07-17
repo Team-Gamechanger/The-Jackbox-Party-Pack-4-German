@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasKeywordAudio"
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "pupsen,zu tanzen anfangen,explodieren,weinen,verschwinden,schmelzen,wachsen,schreien,zittern,sich erbrechen,schrumpfen,gelb werden,flüstern,sich ausziehen,wegrennen,ein Lied singen,Gänsehaut bekommen,diesen anstarren",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Aberglaube",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "bluten",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Im Mittelalter wurde die \"Bahrprobe\" bei Mordermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
       "n": "QuestionText"
     },
     {
@@ -62,12 +62,13 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "mit dem bluten anfangen,zu bluten anfangen,das bluten beginnen,zu bluten beginnen,das bluten anfangen,blutet",
       "n": "AlternateSpellings"
     },
     {
       "s": "[category=host]",
       "t": "A",
+      "v": "567833_0f",
       "n": "KeywordResponseAudio"
     },
     {
@@ -80,15 +81,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]bluten",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Im Mittelalter wurde die \"Bahrprobe\" bei Mordermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
       "t": "A",
-      "v": "345699_0",
+      "v": "431846_1",
       "n": "QuestionAudio"
     }
   ]

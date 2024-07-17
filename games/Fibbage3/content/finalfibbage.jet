@@ -1,32 +1,4 @@
 {
   "episodeid": 1313,
-  "content": [
-    {
-      "x": true,
-      "personal": "",
-      "id": 14973,
-      "portrait": false,
-      "category": "Spurensuche",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 19380,
-      "portrait": false,
-      "category": "Auf Streife",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 52000,
-      "portrait": false,
-      "category": "Großstadtfieber",
-      "bumper": "",
-      "us": false
-    }
-  ]
+  "content": []
 }

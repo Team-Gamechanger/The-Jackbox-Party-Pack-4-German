@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "eine Tasse Kaffee,eine Marmorstatue,eine Kerze,einen Flugzeugsitz,die Farbe eines Gemäldes,eine Ottomane,ein Katzenklo,einen Sandkasten,ein Nasenpiercing,ein Kirchenfenster,eine Windmühle,ein Vogelhäuschen,eine Gürtelschnalle,seinen Körper,einen Bh,einen Smartphone-Akku,ein Plüschtier,eine Sanduhr",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Asche zu Asche",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "ein Sexspielzeug",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Der Designer Mark Sturkenboom möchte einem beim Gedenken an einen geliebten Menschen helfen, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "einen Dildo,ein Dildo,Dildos,Sexspielzeuge,einen Vibrator,Vibratoren",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]ein Sexspielzeug",
       "t": "A",
-      "v": "345702_0",
+      "v": "404998_1f",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Der Designer Mark Sturkenboom möchte einem beim Gedenken an einen geliebten Menschen helfen, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
       "t": "A",
-      "v": "345699_0",
+      "v": "404995_0",
       "n": "QuestionAudio"
     }
   ]

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die sich dem Naturschutz verschriebene kanadische <i>Soil Conversation Council</i> hat im April 2017 eine seltsame Kampagne gestartet, in der behauptet wurde, dass man die Qualität seines Bodens einfach durch <BLANK> testen könne.",
+      "v": "Die kanadische <i>Soil Conversation Council</i> hat im April 2017 eine seltsame Kampagne gestartet, in der behauptet wurde, dass man die Qualität seines Bodens einfach durch <BLANK> testen könne.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die sich dem Naturschutz verschriebene kanadische <i>Soil Conversation Council</i> hat im April 2017 eine seltsame Kampagne gestartet, in der behauptet wurde, dass man die Qualität seines Bodens einfach durch <BLANK> testen könne.",
+      "s": "[category=host]Die kanadische <i>Soil Conversation Council</i> hat im April 2017 eine seltsame Kampagne gestartet, in der behauptet wurde, dass man die Qualität seines Bodens einfach durch <BLANK> testen könne.",
       "t": "A",
       "v": "670896_0",
       "n": "QuestionAudio"

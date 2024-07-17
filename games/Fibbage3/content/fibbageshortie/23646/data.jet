@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Babyurin getrunken,verdorbenen Thunfisch gegessen,Schlangengift gegurgelt,mit Tigermilch geduscht,in Batteriesäure geschwommen,Giraffenurin inhaliert,Benzin auf seine Haut geschmiert,Vodka auf seine Kopfhaut aufgetragen,Giftsumach gegessen,Weichspüler geschnupft,Eiweiss in seine Augen getropft,Coca-Cola in seine Muskeln gespritzt,Hanfdecken gestrickt,Diesel in seinen Kaffee geschüttet,Elefantendung geleckt,seinen Penis in Bleiche getaucht,nackt Fallschirmsprünge gemacht,Cartoons geschaut",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Diktator-Schönheitsroutine",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "in Delfinblut gebadet",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Aus dem Glauben heraus, dass er dadurch jung bleiben würde, hat der burmesische Diktator Ne Win manchmal <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "in Delfinblut geschwommen,in Delfinblut getaucht,in Delfin Blut gebadet,in Delfin Blut geschwommen,in Delfin Blut getaucht,Delfinblutbäder gemacht,Delfin Blut Bäder gemacht,Delfinblut-Bäder gemacht",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]in Delfinblut gebadet",
       "t": "A",
-      "v": "345702_0",
+      "v": "415915_0f",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Aus dem Glauben heraus, dass er dadurch jung bleiben würde, hat der burmesische Diktator Ne Win manchmal <BLANK>.",
       "t": "A",
-      "v": "345699_0",
+      "v": "415912_0",
       "n": "QuestionAudio"
     }
   ]

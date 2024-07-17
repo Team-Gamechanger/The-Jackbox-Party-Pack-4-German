@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "frischgepressten Orangensaft,Cannabis,Vollwaschmittel,Seife,Lavendel,verbrannten Reifen,Füßen,Knoblauch,frischgebackenen Keksen,Deodorant,Neuwagen,nassem Hund,Ammoniak,Zitrone,Essig,verbranntem Plastik,Thunfisch,Benzin",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Kanadische Gerüche",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "Ahornsirup",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Im Jahr 2013 gab es eine Kontroverse um Kanadas neuen 100$-Schein. Viele behaupteten, er rieche nach <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "Ahorn,Sirup,Ahorn Sirup, Ahornholzsirup,Ahorn Holz Sirup",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]Ahornsirup",
       "t": "A",
-      "v": "345702_0",
+      "v": "564996_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Im Jahr 2013 gab es eine Kontroverse um Kanadas neuen 100$-Schein. Viele behaupteten, er rieche nach <BLANK>.",
       "t": "A",
-      "v": "345699_0",
+      "v": "564993_0",
       "n": "QuestionAudio"
     }
   ]

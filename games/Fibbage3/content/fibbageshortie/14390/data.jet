@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Gruppenzellen,Kabelfernsehen,Fenster,Ein Chor,Wachen,Ein offizielles Maskottchen,Kanonen,Ein professionelles Cateringteam,Fernseher,Kopfkissen und Decken,Hundewelpen,Kunstunterricht,Klimatisierung,Gruppentherapien,Internet,Eine Bücherei,Bettwanzen,Außentoiletten",
+      "v": "Gruppenzellen,Kabelfernsehen,Fenstern,Chor,Wachen,offiziellem Maskottchen,Kanonen,professionellem Cateringteam,Fernseher,Kopfkissen und Decken,Hundewelpen,Kunstunterricht,Klimatisierung,Gruppentherapien,Internet,Bücherei,Bettwanzen,Außentoiletten",
       "n": "Suggestions"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "warmes Duschwasser",
+      "v": "warmem Duschwasser",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten, in dem es <BLANK> gab.",
+      "v": "In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten mit <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Heiße Duschen,Beheizte Duschen,Heißes Wasser,Warme Duschen,Warmes Wasser,Heißes Duschwasser, Warmwasser",
+      "v": "Heißen Duschen,Beheizten Duschen,Heißem Wasser,Warmen Duschen,Warmem Wasser,Heißem Duschwasser,Warmwasser,heißer Dusche,warmer Dusche,beheizter Dusche",
       "n": "AlternateSpellings"
     },
     {
@@ -80,13 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]warmes Duschwasser",
+      "s": "[category=host]warmem Duschwasser",
       "t": "A",
       "v": "319871_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten, in dem es <BLANK> gab.",
+      "s": "[category=host]In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten mit <BLANK>.",
       "t": "A",
       "v": "319868_1",
       "n": "QuestionAudio"

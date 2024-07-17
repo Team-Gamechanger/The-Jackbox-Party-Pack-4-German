@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "steering wheel,soul,beard,toupee,air freshener,ABBA cassette,will,dancing hula girl,Code Red Mt Dew,audio book of The DaVinci Code,child seat,knife,family cookie recipe,movie idea,dreams,air guitar solo,meth recipe,middle name",
+      "v": "sein Lenkrad,die Seele,den Bart,sein Toupet,den Lufterfrischer,eine ABBA-Kassette,dasTestament,seinen Willen zu Leben,die Colaflasche,einen Audioguide für das Louvre,zwei Kindersitze,ein Taschenmesser,das Familien-Keksrezept,die Filmidee,27 Träume,das Luftgitarrensolo,das Rezept für Crystal Meth,den Nachnamen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Florida Violence",
+      "v": "Immer diese Amis",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Mundharmonikas",
+      "v": "seine Mundharmonikas",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hatte, weil er angeblich sein/e <BLANK> gestohlen hatte.",
+      "v": "Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hat, weil er ihm angeblich <BLANK> gestohlen hatte.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "harmonica,mouth harp",
+      "v": "eine Mundharmonika,die Mundharmonika,Mundharmonikas,mehrere Mundharmonikas,Harmonikas",
       "n": "AlternateSpellings"
     },
     {
@@ -80,12 +80,12 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Mundharmonikas",
+      "s": "[category=host]seine Mundharmonikas",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hatte, weil er angeblich sein/e <BLANK> gestohlen hatte.",
+      "s": "[category=host]Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hat, weil er ihm angeblich <BLANK> gestohlen hatte.",
       "t": "A",
       "v": "372689_0",
       "n": "QuestionAudio"

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, was angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
+      "v": "Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, der angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, was angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
+      "s": "[category=host]Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, der angeblich einfach nur “<BLANK>” ausgesprochen werden würde.",
       "t": "A",
       "v": "320892_0",
       "n": "QuestionAudio"

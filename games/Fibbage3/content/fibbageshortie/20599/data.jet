@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "das Land verlassen,Rente,ein Ehrenamt,Seniorenrabatte,in ein Altersheim umziehen,bezahlten Urlaub,in einem Hockeyteam spielen,einen neuen Ausweis,eine Steuerrückzahlung,ein persönliches Treffen,sich scheiden lassen,ihn als Anwalt,ihn zu einem Volksfest einladen,das Rezept für sein Leibgericht,mit dem Häkeln anfangen,den Namen ändern,eine kostenlose kanadische Flagge,einmal etwas Ruhe und Frieden",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Premierminister",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "einen Geburtstagsgruß",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Wer in Kanada wohnt und älter als 65 Jahre ist, muss den Premierminister mindestens sechs Wochen im Voraus informieren, wenn man <BLANK> möchte.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "Geburtstagsgrüße,eine Geburtstagskarte,einen Gruß zum Geburtstag,Grüße zum Geburtstag,Geburtstagsglückwünsche,einen Geburtstagsglückwunsch,Glückwünsche zum Geburtstag,einen Glückwunsch zum Geburtstag",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]einen Geburtstagsgruß",
       "t": "A",
-      "v": "345702_0",
+      "v": "401108_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Wer in Kanada wohnt und älter als 65 Jahre ist, muss den Premierminister mindestens sechs Wochen im Voraus informieren, wenn man <BLANK> möchte.",
       "t": "A",
-      "v": "345699_0",
+      "v": "401105_0",
       "n": "QuestionAudio"
     }
   ]

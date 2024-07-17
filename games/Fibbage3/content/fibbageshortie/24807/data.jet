@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Menschen in Finnland und den USA,Senfsorten,Länder,Krankheiten,Bücher,Fernsehsendungen,Videospiele,Kuchen,Flugzeuge,Boote,Menschen mit deutschen Nachnamen,McDonalds,Uhren,Fußballfans,Professoren,Musiker,Wolkenkratzer,Ratten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Feststellungen",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "Studien",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Eine im Jahr 2015 von finnischen und US-amerikanischen Professoren durchgeführte Studie kam zu dem Schluss, dass es zu viele <BLANK> gibt.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]Studien",
       "t": "A",
-      "v": "345702_0",
+      "v": "425544_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Eine im Jahr 2015 von finnischen und US-amerikanischen Professoren durchgeführte Studie kam zu dem Schluss, dass es zu viele <BLANK> gibt.",
       "t": "A",
-      "v": "345699_0",
+      "v": "425541_0",
       "n": "QuestionAudio"
     }
   ]

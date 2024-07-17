@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Fremden aus dem Internet,Postboten,Sich selbst,Werwölfen,Fans von Justin Bieber,Geburtstagsclowns,Roboter,Tollwütigen Waschbären,Den eigenen Kindern,Wütenden Ziegen,Sekten,Finanzhaien,Drohnen,Bigfoot,Abhörung,Flyerverteilern,Ninjas,Radiomoderatoren",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Selbstverteidigung",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "Einem Händedruck von Donald Trump",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Die <i>Relson Gracie Jiu-Jitsu Academy</i> veröffentlichte ein Lehrvideo, in dem gezeigt wird, wie man sich vor <BLANK> schützen kann.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "Einen Handschlag von Donald Trump,Donald Trump,Einen Händedruck von Donald Trump,Einem Handschlag von Donald Trump,Einem Händedruck von Trump,Einem Handschlag von Trump,Trump",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]Einem Händedruck von Donald Trump",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Die <i>Relson Gracie Jiu-Jitsu Academy</i> veröffentlichte ein Lehrvideo, in dem gezeigt wird, wie man sich vor <BLANK> schützen kann.",
       "t": "A",
-      "v": "345699_0",
+      "v": "564743_0",
       "n": "QuestionAudio"
     }
   ]

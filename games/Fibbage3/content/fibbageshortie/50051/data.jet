@@ -17,32 +17,32 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Reiseübelkeit,Schlafmangel,Koffeinsucht,Schlechtes Wlan,Fischgestank,Uringeruch in der U-Bahn,Blähungen,Fettiges Haar,Ohrwürmer,Sodbrennen,die Farbe von Vogelkot,Laktoseintoleranz,graues Haar nicht,die Farbe von Katzen-Erbrochenem,den Geruch von Skittles,den Geschmack von Periodenblut,die Produktion von Ohrenschmalz,die Farbe von Rückenhaaren",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Japanische Studien",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "Fußgeruch",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie \"<i>Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind</i>\".",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "Schweißfüße,Schweißfuß,Schweissfüsse,Schweissfuss,den Fußgeruch,Fussgeruch,den Fussgeruch,Fussgerüche,Fußgerüche,Käsefüße,den Käsefuß,Käsefüsse,den Käsefuss,stinkende Füße,stinkende Füsse",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]Fußgeruch",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie \"<i>Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind</i>\".",
       "t": "A",
-      "v": "345699_0",
       "n": "QuestionAudio"
     }
   ]

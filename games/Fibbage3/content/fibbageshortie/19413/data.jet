@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Flammenwerfers,Samurai-Schwerts,Zauberstabs,Gameboy Color,Bumerangs,Hasenkostüms,“Umarme mich”-Schilds,Heißluftfritteuse,Nagelschere,Laser Pointers,Machete,Magischen Amuletts,Boden-Luft-Rakete,Ente,Süßigkeitenbox,Kettensäge,Dosenöffners,Rosa Handgranate,Einhornkostüms,Pride-Flagge,Heißklebepistole",
+      "v": "einem Flammenwerfer,Samurai-Schwertern,einem Zauberstab,einem Gameboy Color,Bumerängen,einem Hasenkostüm,einem “Umarme mich”-Schild,einer Heißluftfritteuse,einer Nagelschere,Laser Pointern,einer Machete,einem magischen Amulett,Boden-Luft-Raketen,einer Ente,einer Süßigkeitenbox,einer Kettensäge,einem Dosenöffner,einer rosa Handgranate,einem Einhornkostüm,einer Pride-Flagge,einer Heißklebepistole",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Vom Freund und Helfer",
+      "v": "Freund und Helfer",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Bauchrednerpuppe",
+      "v": "einer Bauchrednerpuppe",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen eines/r <BLANK> im Dienst zu erhalten.",
+      "v": "Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen von <BLANK> im Dienst zu erhalten.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Bauchredner Puppe,Bauchredner-Puppe,Puppe,Handpuppe,Hand-Puppe,Hand Puppe",
+      "v": "einer Bauchredner Puppe,einer Bauchredner-Puppe,einer Puppe,Handpuppe,einer Hand-Puppe,einer Hand Puppe,Handpuppen,Bauchrednerpuppen,Puppen",
       "n": "AlternateSpellings"
     },
     {
@@ -80,13 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Bauchrednerpuppe",
+      "s": "[category=host]einer Bauchrednerpuppe",
       "t": "A",
       "v": "385232_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen eines/r <BLANK> im Dienst zu erhalten.",
+      "s": "[category=host]Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen von <BLANK> im Dienst zu erhalten.",
       "t": "A",
       "v": "385229_0",
       "n": "QuestionAudio"

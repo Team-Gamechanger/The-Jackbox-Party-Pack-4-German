@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "pornography,masturbation,pregnancy,anal sex,thongs,public nudity,alcohol,sexting,Viagra,v-neck shirts,skinny jeans,perfume,whip cream,butt implants,high heels,bikini waxes,the wonderbra,boxer briefs",
+      "v": "Pornografie,Masturbation,Schwangerschaft,Analsex,Tangas,öffentlicher Nacktheit,Alkohol,Sexting,Viagra,Hig Heels,Skinnyjeans,Parfüm,Schlagsahne,Brustimplantaten,Küssen in der Öffentlichkeit,Maskenbällen,Bordellen,Sonnenstudios",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre altes Verbot von <BLANK> aufgehoben hatte.",
+      "v": "Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre langes Verbot von <BLANK> aufgehoben hatte.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "cheating on your spouse,adultary,cheating",
+      "v": "Fremdgehen,Ehe Bruch",
       "n": "AlternateSpellings"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre altes Verbot von <BLANK> aufgehoben hatte.",
+      "s": "[category=host]Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre langes Verbot von <BLANK> aufgehoben hatte.",
       "t": "A",
       "v": "383681_0",
       "n": "QuestionAudio"

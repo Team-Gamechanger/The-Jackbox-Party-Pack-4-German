@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "geschrumpften Kopf,Mumie,Traktor,Wildschweinrudel,goldenen Besen,Villa,Löwen,Laserpistole,Granate aus dem Zweiten Weltkrieg,Buch über Schauspiel,Raumschiff,einzigartigen großen Bleistift,diamantbesetzten Diadem,Gameboy,Kürbistransporter,Milchbetrieb,UFO",
+      "v": "einer Modelleisenbahn,einer Mumie,einem Traktor,einem Wildschweinrudel,einem goldenen Besen,einer Villa,Löwen,einer Laserpistole,einer Granate aus dem Zweiten Weltkrieg,einem Buch über Schauspiel,einem Raumschiff,einem zwei Meter Bleistift,einem diamantbesetzten Diadem,einem Gameboy,einem Kürbistransporter,einem Milchbetrieb,einem UFO",
       "n": "Suggestions"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "Oktopus",
+      "v": "einem Oktopus",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von einer/m <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
+      "v": "Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
       "n": "QuestionText"
     },
     {
@@ -80,13 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Oktopus",
+      "s": "[category=host]einem Oktopus",
       "t": "A",
       "v": "353136_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von einer/m <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
+      "s": "[category=host]Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
       "t": "A",
       "v": "353133_0",
       "n": "QuestionAudio"

@@ -20,7 +20,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "",
       "id": 14379,
       "portrait": false,
@@ -97,15 +97,6 @@
       "id": 15300,
       "portrait": false,
       "category": "Neuartige BH-Anwendungen",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 15363,
-      "portrait": false,
-      "category": "Promis auf Abwegen",
       "bumper": "",
       "us": false
     },
@@ -204,9 +195,9 @@
       "personal": "",
       "id": 17824,
       "portrait": false,
-      "category": "Florida Violence",
+      "category": "Immer diese Amis",
       "bumper": "",
-      "us": true
+      "us": false
     },
     {
       "x": true,
@@ -215,7 +206,7 @@
       "portrait": false,
       "category": "Auf Verhandlungsbasis",
       "bumper": "",
-      "us": false
+      "us": true
     },
     {
       "x": false,
@@ -254,7 +245,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "",
       "id": 18991,
       "portrait": false,
@@ -283,11 +274,11 @@
     {
       "x": true,
       "personal": "",
-      "id": 19408,
+      "id": 19399,
       "portrait": false,
-      "category": "Heringe",
+      "category": "Lebensmittel",
       "bumper": "",
-      "us": true
+      "us": false
     },
     {
       "x": true,
@@ -303,7 +294,7 @@
       "personal": "",
       "id": 19413,
       "portrait": false,
-      "category": "Vom Freund und Helfer",
+      "category": "Freund und Helfer",
       "bumper": "",
       "us": false
     },
@@ -314,7 +305,7 @@
       "portrait": false,
       "category": "Inzucht",
       "bumper": "",
-      "us": true
+      "us": false
     },
     {
       "x": true,
@@ -335,15 +326,6 @@
       "us": false
     },
     {
-      "x": true,
-      "personal": "",
-      "id": 19454,
-      "portrait": false,
-      "category": "Schwer verwundet",
-      "bumper": "",
-      "us": true
-    },
-    {
       "x": false,
       "personal": "",
       "id": 19488,
@@ -353,65 +335,11 @@
       "us": false
     },
     {
-      "x": true,
-      "personal": "",
-      "id": 19514,
-      "portrait": false,
-      "category": "Superman-Trance",
-      "bumper": "",
-      "us": true
-    },
-    {
-      "x": true,
+      "x": false,
       "personal": "",
       "id": 19550,
       "portrait": false,
       "category": "Kreuzzug in Prag",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": false,
-      "personal": "",
-      "id": 19552,
-      "portrait": false,
-      "category": "Hochzeitsdrama",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 19616,
-      "portrait": false,
-      "category": "Geheimes Gold",
-      "bumper": "",
-      "us": true
-    },
-    {
-      "x": false,
-      "personal": "",
-      "id": 20371,
-      "portrait": false,
-      "category": "Bewusstsein",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 20434,
-      "portrait": false,
-      "category": "Laufband",
-      "bumper": "",
-      "us": false
-    },
-    {
-      "x": false,
-      "personal": "",
-      "id": 20437,
-      "portrait": false,
-      "category": "Herr der Ringe",
       "bumper": "",
       "us": false
     },
@@ -425,11 +353,20 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 20599,
+      "portrait": false,
+      "category": "Premierminister",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
-      "id": 21460,
+      "id": 21419,
       "portrait": false,
-      "category": "Spaß mit Zahnmedizin",
+      "category": "Asche zu Asche",
       "bumper": "",
       "us": false
     },
@@ -479,6 +416,69 @@
       "us": false
     },
     {
+      "x": true,
+      "personal": "",
+      "id": 23646,
+      "portrait": false,
+      "category": "Diktator-Schönheitsroutine",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 24807,
+      "portrait": false,
+      "category": "Feststellungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 25740,
+      "portrait": false,
+      "category": "Aberglaube",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43231,
+      "portrait": false,
+      "category": "Nebenwirkungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43232,
+      "portrait": false,
+      "category": "Kleintiere",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43239,
+      "portrait": false,
+      "category": "Stoßgebete",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43253,
+      "portrait": false,
+      "category": "Notlandung",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": false,
       "personal": "",
       "id": 43520,
@@ -517,6 +517,15 @@
     {
       "x": false,
       "personal": "",
+      "id": 43539,
+      "portrait": false,
+      "category": "Selbstverteidigung",
+      "bumper": "",
+      "us": true
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 43543,
       "portrait": false,
       "category": "Internetrezensionen",
@@ -529,6 +538,42 @@
       "id": 43545,
       "portrait": false,
       "category": "Carepakete",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43548,
+      "portrait": false,
+      "category": "Staatsmänner",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43549,
+      "portrait": false,
+      "category": "Kanadische Gerüche",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43561,
+      "portrait": false,
+      "category": "Befriedigung",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43567,
+      "portrait": false,
+      "category": "Isländische Kontroversen",
       "bumper": "",
       "us": false
     },
@@ -664,6 +709,24 @@
       "id": 50047,
       "portrait": false,
       "category": "Onlineshops",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50050,
+      "portrait": false,
+      "category": "Um die Wette",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50051,
+      "portrait": false,
+      "category": "Japanische Studien",
       "bumper": "",
       "us": false
     }

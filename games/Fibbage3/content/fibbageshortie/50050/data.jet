@@ -17,32 +17,32 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "Autositzen,einem Löffel,Go-Karts,Schlitten,einem einzigen Sprung,einem Fallschirm,einem Ipad,selbstgebauten Tretbooten,Koffern,Boxspringbetten,Waschmaschinen,einer Russlandfahne,einem Handtuch um die Hüften,zwei Holzstämmen,einem Blatt Papier,einem Aasgeier,einem Bilderrahmen,einer Sahnetorte in der linken Hand",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Um die Wette",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "aufblasbaren Sexpuppen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Bei der jährlich in Russland stattfindenden \"Bubble Baba-Challenge\" versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "Sexpuppen",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]aufblasbaren Sexpuppen",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Bei der jährlich in Russland stattfindenden \"Bubble Baba-Challenge\" versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
       "t": "A",
-      "v": "345699_0",
       "n": "QuestionAudio"
     }
   ]

@@ -1,23 +1,4 @@
 {
   "episodeid": 1317,
-  "content": [
-    {
-      "x": false,
-      "personal": "",
-      "id": 43321,
-      "portrait": false,
-      "category": "Ohlways Sey Nevrl",
-      "bumper": "Russian",
-      "us": false
-    },
-    {
-      "x": true,
-      "personal": "",
-      "id": 43476,
-      "portrait": false,
-      "category": "Verrückte Erfindungen",
-      "bumper": "Photo",
-      "us": false
-    }
-  ]
+  "content": []
 }

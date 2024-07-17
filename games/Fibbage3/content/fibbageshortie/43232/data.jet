@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "unter Fingernägeln,an Dienstagen,in Pandaaugen,bei Vollmond,in der Nähe von Schaffarmen,von Spinnen,auf dem Mars,von Spargel,auf dem Mount Everest,unter Fahrradsitzen,in Wäschetrocknern,auf geklonten Ratten,auf Eisbergen,auf Schweinezungen,auf Flöhen,auf Yogamatten,in Straßenlaternen,in Fernsehern",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Kleintiere",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "auf Hummerlippen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Die winzige Tierart <i>Symbion pandora</i> ist einzigartig, da sie nur <BLANK> lebt.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "den Lippen von Hummern,auf dem Mundwerkzeug von Hummern,auf Mundwerkzeugen von Hummern,auf Hummermündern,auf dem Mund von Hummern",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]auf Hummerlippen",
       "t": "A",
-      "v": "345702_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Die winzige Tierart <i>Symbion pandora</i> ist einzigartig, da sie nur <BLANK> lebt.",
       "t": "A",
-      "v": "345699_0",
+      "v": "558845_0",
       "n": "QuestionAudio"
     }
   ]

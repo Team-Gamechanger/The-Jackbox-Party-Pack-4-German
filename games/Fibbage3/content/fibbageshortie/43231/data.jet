@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "v": "den Sinn für Humor,die Fähigkeit zu sprechen,ihre Zähne,ihr Kurzzeitgedächtnis,das Sehvermögen,den Gefallen an Musik,ihren Geruchssinn,die Schlüssel,ihr Gehör,die Liebe zu ihrer Familie,das Gleichgewicht,das Modebewusstsein,die Fingernägel,ihr Rhythmusgefühl,die Fähigkeit zu schnarchen,ihren moralischen Kompass,ihre Haarfarbe,die Kreativität",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Offizielle Statements",
+      "v": "Nebenwirkungen",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Reptiloid",
+      "v": "ihren Fingerabdruck",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "v": "Medizinischen Studien nach kann die Einnahme des Medikaments Capecitabin dazu führen, dass Patienten vorübergehend <BLANK> verlieren.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "v": "den Fingerabdruck,die Fingerabdrücke",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Reptiloid",
+      "s": "[category=host]ihren Fingerabdruck",
       "t": "A",
-      "v": "345702_0",
+      "v": "558823_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "s": "[category=host]Medizinischen Studien nach kann die Einnahme des Medikaments Capecitabin dazu führen, dass Patienten vorübergehend <BLANK> verlieren.",
       "t": "A",
-      "v": "345699_0",
+      "v": "558820_0",
       "n": "QuestionAudio"
     }
   ]
