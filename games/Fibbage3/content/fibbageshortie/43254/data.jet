@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Limonade,Parfüm,Filzstifte,ein Auto,Müsli,Katzenstreu,einen Lufterfrischer,ein T-Shirt,Salat,einen Sportbeutel,Schuhe,Bettwäsche,Haargel,ein Spülmittel,einen Geldbeutel,Taschentücher,eine Zahnpasta,Kopfkissen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brathähnchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sonnencreme",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Firma KFC gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt haben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sonnenschutz,Sonnenmilch,Sonnenschutzmittel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sonnencreme",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Firma KFC gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt haben.",
+      "t": "A",
+      "v": "559395_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

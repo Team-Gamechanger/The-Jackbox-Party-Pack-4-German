@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwiegermüttern,wütenden Eichhörnchen,Werwölfen,Toden in Videospielen,Geistern,Meerjungfrauen,Terroristen,Verkehrsunfällen mit dem Weihnachtsmann,Animatoren,Gedankenkontrolle,Kometen,stinkenden Socken,Ex-Liebhabern,Jo-Jo-Unfällen,Einsamkeit,Superbösewichten,Zeus,Zeitreisenden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sicherheit geht vor",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Londoner Versicherungsunternehmen Grip verdiente Anfang der 2000er stattliche 4 Millionen Pfund mit dem Verkauf einer bizarren Police, die Kunden vor <BLANK> schützte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Außerirdischen,Weltraumkreaturen,UFOs,U.F.O.s,Weltraumaliens,Alienentführungen,Alien Entführungen,UFO Entführungen,U.F.O. Entführungen,Weltraumentführungen,Weltraum Entführungen,Entführungen von Aliens,einer Entführung durch Aliens,einer Alienentführung,einer Alien Entführung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Aliens",
+      "t": "A",
+      "v": "560688_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Londoner Versicherungsunternehmen Grip verdiente Anfang der 2000er stattliche 4 Millionen Pfund mit dem Verkauf einer bizarren Police, die Kunden vor <BLANK> schützte.",
+      "t": "A",
+      "v": "560685_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

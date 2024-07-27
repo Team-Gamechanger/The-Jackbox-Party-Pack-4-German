@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchill,Albert Einstein,Marilyn Monroe,Karl Marx,einem Papageien,Thunfischen,einem Clownfisch,Füchsen,der Mona Lisa,Stieren,Pippi Langstrumpf,einer Maggi-Flasche,einem Segelboot,einem Schaf,dem Sonnenuntergang,einem Hund,einer Tomate,Napoleon Bonaparte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schweinereien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der dänischen Flagge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Rotbunte Husumer Schwein ist eine seltene Schweinerasse, die bewusst so gezüchtet wurde, dass sie <BLANK> ähnelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "der Flagge von Dänemark,der Flagge Dänemarks,einer dänischen Flagge,einer Flagge von Dänemark,einer Flagge Dänemarks,dänischen Flaggen,der dänischen Nationalflagge,der Nationalflagge Dänemark,einer dänischen Nationalflagge,einer Nationalflagge Dänemarks",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]der dänischen Flagge",
+      "t": "A",
+      "v": "559448_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Rotbunte Husumer Schwein ist eine seltene Schweinerasse, die bewusst so gezüchtet wurde, dass sie <BLANK> ähnelt.",
+      "t": "A",
+      "v": "559445_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -481,6 +481,51 @@
     {
       "x": false,
       "personal": "",
+      "id": 43254,
+      "portrait": false,
+      "category": "Brathähnchen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43256,
+      "portrait": false,
+      "category": "Schweinereien",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43265,
+      "portrait": false,
+      "category": "“Wichtige” Forschung",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43329,
+      "portrait": false,
+      "category": "Unterbekleidung",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43337,
+      "portrait": false,
+      "category": "Sicherheit geht vor",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 43520,
       "portrait": false,
       "category": "Zeitlose Partys",

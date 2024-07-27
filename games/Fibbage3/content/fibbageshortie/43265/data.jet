@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine kleine Katze,eine Kreidetafel,einen Regenschirm,Kaffeepulver,einen Funkmast,eine Lampe,einen Korkenzieher,ein Vakuum,eine Zeitbombe,einen Plattenspieler,einen Hund,eine Uhr,einen Computer,eintausend Einzelteile,einen Dosenöffner,einen Anwalt,ein Genie,eine Ente",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "“Wichtige” Forschung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Telefon",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einem bizarren Experiment aus dem Jahr 1929 gelang es zwei Forschern aus Princeton, eine Katze in <BLANK> zu verwandeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Telefone,das Telefon,ein Festnetztelefon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Telefon",
+      "t": "A",
+      "v": "559673_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einem bizarren Experiment aus dem Jahr 1929 gelang es zwei Forschern aus Princeton, eine Katze in <BLANK> zu verwandeln.",
+      "t": "A",
+      "v": "559670_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}
