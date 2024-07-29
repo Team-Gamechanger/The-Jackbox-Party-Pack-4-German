@@ -5078,7 +5078,7 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Das Maskottchen, das dir am ehesten ein erotisches Hörbuch einsprechen sollte"
+                    "text": "Das Maskottchen, das am ehesten ein erotisches Hörbuch einsprechen sollte"
                 }
             ],
             "prompt": {
@@ -5158,7 +5158,7 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Dieser Charakter sollte am ehesten von Elyas M\u2019Barek gespielt werden"
+                    "text": "Der Charakter, der am ehesten von Elyas M\u2019Barek gespielt werden sollte"
                 }
             ],
             "prompt": {
@@ -5184,7 +5184,7 @@
                     "text": "Philosophie"
                 },
                 {
-                    "text": "Hauswirtschaftswissenschaften"
+                    "text": "Mathe"
                 },
                 {
                     "text": "Psychologie"
@@ -5198,7 +5198,7 @@
             "category": "College",
             "twists": [
                 {
-                    "text": "Die Studierenden von diesem Fach überleben am ehesten die Zombieapokalypse"
+                    "text": "Die Studierenden von welchem Fach überleben am ehesten die Zombieapokalypse?"
                 }
             ],
             "prompt": {
@@ -5358,7 +5358,7 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Wer wäre als Teilnehmer bei Takeshi\u2019s Castle am erfolgreichsten?"
+                    "text": "Wer wäre als Kandidat bei Takeshi\u2019s Castle am erfolgreichsten?"
                 }
             ],
             "prompt": {
@@ -5378,7 +5378,7 @@
                     "text": "Adam Sandler"
                 },
                 {
-                    "text": "Andy Samberg"
+                    "text": "Claus Kleber"
                 },
                 {
                     "text": "Bruno Mars"
@@ -5398,7 +5398,7 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Die beste Stimme für deine inneren Gedanken"
+                    "text": "Die beste Stimme für deine innere Stimme"
                 }
             ],
             "prompt": {
@@ -5415,13 +5415,13 @@
                     "text": "Snickers"
                 },
                 {
-                    "text": "KitKats"
+                    "text": "Kitkats"
                 },
                 {
                     "text": "Grünohrhasen"
                 },
                 {
-                    "text": "Lakritzstangen"
+                    "text": "Lakritz"
                 },
                 {
                     "text": "Nerds"
