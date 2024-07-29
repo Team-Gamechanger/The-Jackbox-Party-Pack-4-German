@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kinder|knallrot,ihren Vätern|Anzüge,an den Füßen|Steinschuhe,den Hühnchen|Hüte,statt Schuhe|Blumentöpfe,den Katzen|Hausschuhe,den Lehrkräften|Schals,als Hüte|Schildkrötenpanzer,den Großeltern|Babykleidung,den Pferden|Tutus,ihren Hunden|Smokings,ihren Seefahrern|Röcke,den Straßenlaternen|Schuhe,ihren Müttern|Hochzeitskleidung,ihren Polizisten|Clownsschuhe,Schlangen|Krawatten,ihren Briefträgern|Strahlenschutzanzüge,anstelle von Socken|Schlangenhaut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Morgenroutine",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihren Eseln|Hosen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Einwohner der Île de Ré, einer Insel vor der Küste Frankreichs, haben einen ausgefallenen Brauch: Sie ziehen <BLANK> jeden Morgen <BLANK> an.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "den Eseln|Unterhosen,den Eseln|Hosen,ihren Eseln|Unterhosen,Eseln|Hosen,Eseln|Unterhosen,ihren Eseln|Schlafanzugshosen,ihren Eseln|Schlafanzüge,den Eseln|Schlafanzugshosen,den Eseln|Schlafanzüge,Eseln|Schlafanzugshosen,Eseln|Schlafanzüge,ihren Maultieren|Hosen,den Maultieren|Hosen,Maultieren|Hosen,ihren Maultieren|Unterhosen,den Maultieren|Unterhosen,Maultieren|Unterhosen,ihren Maultieren|Schlafanzugshosen,ihren Maultieren|Schlafanzüge,den Maultieren|Schlafanzugshosen,den Maultieren|Schlafanzüge,Maultieren|Schlafanzugshosen,Maultieren|Schlafanzüge,ihren Mulis|Hosen,den Mulis|Hosen,Mulis|Hosen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ihren Eseln|Hosen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Einwohner der Île de Ré, einer Insel vor der Küste Frankreichs, haben einen ausgefallenen Brauch: Sie ziehen <BLANK> jeden Morgen <BLANK> an.",
+      "t": "A",
+      "v": "559595_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

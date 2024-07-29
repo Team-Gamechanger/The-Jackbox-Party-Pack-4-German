@@ -1,4 +1,176 @@
 {
   "episodeid": 1317,
-  "content": []
+  "content": [
+    {
+      "x": false,
+      "personal": "",
+      "id": 43321,
+      "portrait": false,
+      "category": "Ohlways Sey Nevrl",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43476,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43479,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43493,
+      "portrait": false,
+      "category": "Bewerbungsschreiben",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43494,
+      "portrait": false,
+      "category": "Was macht sie?",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43502,
+      "portrait": false,
+      "category": "Yoo Vill Eet Thees",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43505,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43512,
+      "portrait": false,
+      "category": "Hoo Dahzent Noh Thet?",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51000,
+      "portrait": false,
+      "category": "Quiz-Shows",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51001,
+      "portrait": false,
+      "category": "Rebranding",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51002,
+      "portrait": false,
+      "category": "Singen",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51003,
+      "portrait": false,
+      "category": "Neuer Content",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51004,
+      "portrait": false,
+      "category": "Nie wieder",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51005,
+      "portrait": false,
+      "category": "Hohe Nachfrage",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51006,
+      "portrait": false,
+      "category": "Weltherrschaft",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51007,
+      "portrait": false,
+      "category": "Arbeitsplätze",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51008,
+      "portrait": false,
+      "category": "Tatort",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51009,
+      "portrait": false,
+      "category": "Österreichische Geschenke",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51010,
+      "portrait": false,
+      "category": "Nicht der einzige",
+      "bumper": "SayWhat",
+      "us": false
+    }
+  ]
 }

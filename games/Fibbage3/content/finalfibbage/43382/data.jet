@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Müllbeutel|Käse,eine Papiertüte|Krawatten,ein Koffer|Kunstfell,ein Sofa|Messern,eine Waschmaschine|Bowlingkugeln,ein Abflussrohr|Bienen,ein Rucksack|Hanteln,ein Hochzeitskleid|Salami,ein Wäschebeutel|Schaufensterpuppen,ein Einkaufswagen|Diskokugeln,ein Schlafsack|Radios,eine Suppenschüssel|Böllern,ein Umzugskarton|Altöl,eine Matratze|Joghurt,ein Minikühlschrank|Katzenfutter,eine Hängematte|VHS-Kassetten,ein Arztkittel|Schwarzgeld,eine Socke|Heuschrecken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ach England",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Bettdecke|Kokosnüssen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Juli 2015 kam es nach der Meldung eines toten Tieres in den Kanälen von Manchester zu einem Polizeieinsatz. Aber keine Sorge. Es stellte sich heraus, dass es nur <BLANK> gefüllt mit <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bettdecken|Kokosnüssen,eine Bettdecke|Kokosnuss,eine Steppdecke|Kokosnüssen,Steppdecke|Kokosnüssen,Bettdecke|Kokosnüssen,ein Bettbezug|Kokosnüsse,Bettbezug|Kokosnüsse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Bettdecke|Kokosnüssen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Juli 2015 kam es nach der Meldung eines toten Tieres in den Kanälen von Manchester zu einem Polizeieinsatz. Aber keine Sorge. Es stellte sich heraus, dass es nur <BLANK> gefüllt mit <BLANK> war.",
+      "t": "A",
+      "v": "561755_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

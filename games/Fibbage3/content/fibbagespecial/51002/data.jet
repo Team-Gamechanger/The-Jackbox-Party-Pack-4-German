@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -17,42 +17,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "der tote Zar,eine Ente,die Ziege,die große Schwester,ein zahnloses Milchmädchen,der Schlachter mit Bart,der kranke Bär,das schwächliche Kind,der wütende Tiger,der alte Druide,der Seemann,der Kleinvogel,ein Otter,die Hexe,der Großkhan,der Bauarbeiter,die magische Fee,die Kerzenzieherin",
+      "v": "Platzhalter Eins,Platzhalter Zwei,Platzhalter Drei,Platzhalter Vier,Platzhalter Fünf",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Ohlways Sey Nevrl",
+      "v": "Singen",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "der Krebs",
+      "v": "Rassismus",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
+      "v": "SayWhat",
       "n": "BumperType"
     },
     {
       "t": "S",
-      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "v": "Rezo tweetete: “<BLANK> klingt irgendwie gesungen auch nicht geil”",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "16:34 Uhr<br />11. März 2020",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "@rezomusik",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "der Krebse,die Krabbe,ein Krebs,eine Krabbe",
+      "v": "",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "560240_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +85,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]der Krebs",
+      "s": "[category=host]Rassismus",
       "t": "A",
-      "v": "560238_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "s": "[category=host]Rezo tweetete: “<BLANK> klingt irgendwie gesungen auch nicht geil”",
       "t": "A",
-      "v": "560235_0",
       "n": "QuestionAudio"
     }
   ]

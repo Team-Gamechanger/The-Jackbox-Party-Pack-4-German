@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "der tote Zar,eine Ente,die Ziege,die große Schwester,ein zahnloses Milchmädchen,der Schlachter mit Bart,der kranke Bär,das schwächliche Kind,der wütende Tiger,der alte Druide,der Seemann,der Kleinvogel,ein Otter,die Hexe,der Großkhan,der Bauarbeiter,die magische Fee,die Kerzenzieherin",
+      "v": "jelly beans|teddy bears,blankets|pillows,paint|brushes,printer ink|kale,apples|bread,cheap pens|expensive pens,flashlights|batteries,vending machines|peanuts,boomerangs|juggling balls,scissors|safety scissors,ham|cheese,power tools|pillow cases,trenchcoats|romantic novels,barbecue grills|toasters,sunglasses|hair gel,steins|leiderhosen,video games|soft drinks,chainsaws|first aid kits",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Ohlways Sey Nevrl",
+      "v": "Volkswagen",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "der Krebs",
+      "v": "Currywurst|Ketchup",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "v": "Volkswagen verkauft nicht nur Autos. Komischerweise verkaufen sie auch <BLANK> und <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "der Krebse,die Krabbe,ein Krebs,eine Krabbe",
+      "v": "wurst|ketchup,bratwurst|ketchup,curry wurst|ketchup",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "560240_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]der Krebs",
+      "s": "[category=host]Currywurst|Ketchup",
       "t": "A",
-      "v": "560238_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "s": "[category=host]Volkswagen verkauft nicht nur Autos. Komischerweise verkaufen sie auch <BLANK> und <BLANK>.",
       "t": "A",
-      "v": "560235_0",
+      "v": "682565_0",
       "n": "QuestionAudio"
     }
   ]

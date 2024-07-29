@@ -27,27 +27,27 @@
     },
     {
       "t": "S",
-      "v": "der tote Zar,eine Ente,die Ziege,die große Schwester,ein zahnloses Milchmädchen,der Schlachter mit Bart,der kranke Bär,das schwächliche Kind,der wütende Tiger,der alte Druide,der Seemann,der Kleinvogel,ein Otter,die Hexe,der Großkhan,der Bauarbeiter,die magische Fee,die Kerzenzieherin",
+      "v": "Papst,Oktopus,Blumen,Tentakel,Werwolf,Albtraum,Schaf,Schrei,Wind,Schreck,Hass,Mond,Dämonen,Spaß,Klempner,Expressionismus,Liebes,Freundes",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Ohlways Sey Nevrl",
+      "v": "Bewerbungsschreiben",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "der Krebs",
+      "v": "Engel",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
+      "v": "Photo",
       "n": "BumperType"
     },
     {
       "t": "S",
-      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "v": "Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärterin</i>.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "der Krebse,die Krabbe,ein Krebs,eine Krabbe",
+      "v": "Engels",
       "n": "AlternateSpellings"
     },
     {
@@ -78,23 +78,24 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "560240_0",
+      "v": "563710_0",
       "n": "BumperAudio"
     },
     {
       "t": "G",
+      "v": "570625_1",
       "n": "Pic"
     },
     {
-      "s": "[category=host]der Krebs",
+      "s": "[category=host]Engel",
       "t": "A",
-      "v": "560238_0",
+      "v": "563708_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "s": "[category=host]Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärterin</i>.",
       "t": "A",
-      "v": "560235_0",
+      "v": "563705_0",
       "n": "QuestionAudio"
     }
   ]

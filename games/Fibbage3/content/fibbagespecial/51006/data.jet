@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -17,42 +17,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "der tote Zar,eine Ente,die Ziege,die große Schwester,ein zahnloses Milchmädchen,der Schlachter mit Bart,der kranke Bär,das schwächliche Kind,der wütende Tiger,der alte Druide,der Seemann,der Kleinvogel,ein Otter,die Hexe,der Großkhan,der Bauarbeiter,die magische Fee,die Kerzenzieherin",
+      "v": "Platzhalter Eins,Platzhalter Zwei,Platzhalter Drei,Platzhalter Vier,Platzhalter Fünf",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Ohlways Sey Nevrl",
+      "v": "Weltherrschaft",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "der Krebs",
+      "v": "Die Mücken",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
+      "v": "SayWhat",
       "n": "BumperType"
     },
     {
       "t": "S",
-      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "v": "Rapper Sido tweetete: “<BLANK> wollen die Weltherrschaft an sich reißen !!!”",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "22:02 Uhr<br />9. Aug. 2017",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "@siggismallz",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "der Krebse,die Krabbe,ein Krebs,eine Krabbe",
+      "v": "Mücken",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "560240_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +85,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]der Krebs",
+      "s": "[category=host]Die Mücken",
       "t": "A",
-      "v": "560238_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "s": "[category=host]Rapper Sido tweetete: “<BLANK> wollen die Weltherrschaft an sich reißen !!!”",
       "t": "A",
-      "v": "560235_0",
       "n": "QuestionAudio"
     }
   ]

@@ -1,4 +1,59 @@
 {
   "episodeid": 1313,
-  "content": []
+  "content": [
+    {
+      "x": true,
+      "personal": "",
+      "id": 14973,
+      "portrait": false,
+      "category": "Spurensuche",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19380,
+      "portrait": false,
+      "category": "Auf Streife",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43262,
+      "portrait": false,
+      "category": "Morgenroutine",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43382,
+      "portrait": false,
+      "category": "Ach England",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48276,
+      "portrait": false,
+      "category": "Volkswagen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52000,
+      "portrait": false,
+      "category": "Großstadtfieber",
+      "bumper": "",
+      "us": false
+    }
+  ]
 }
