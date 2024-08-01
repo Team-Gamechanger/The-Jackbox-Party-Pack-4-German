@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696559_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Beste Sache um sie in einer XL Version zu haben nur um lustig zu sein"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696560_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Bestes Spielzeug für ein Kleinkind"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696555_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein kleines Objekt"
     },
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",

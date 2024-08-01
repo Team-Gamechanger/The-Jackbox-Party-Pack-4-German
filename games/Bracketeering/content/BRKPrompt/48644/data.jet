@@ -89,7 +89,7 @@
       "t": "A",
       "v": "693139_0",
       "n": "Twist0Audio",
-      "s": "Bestes Buch um hinter den Titel 'im Bett' hinzuzufügen"
+      "s": "Am lustigsten, wenn man \"im Bett\" an den Buchtitel hängt"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -144,7 +143,7 @@
       "t": "A",
       "v": "693149_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DAS beste Buch um hinter den Titel \"im Bett\" dranzuhängen?!"
+      "s": "Welches ist das BESTE Buch, um hinter den Titel \"im Bett\" dranzuhängen?!"
     }
   ]
 }

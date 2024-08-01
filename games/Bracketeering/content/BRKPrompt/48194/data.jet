@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680107_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Es wird gegessen, was auf den Teller kommt!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "680108_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Igitt!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "680109_1f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Kindheitstraumata, wir kommen!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "680110_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Schmeckt wie selbstgemacht! Leider!"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "680092_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der Geschmack für Babybrei, der mit Abstand am widerlichsten wäre"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "680099_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Wir müssen den Kleinen schon früh die Grausamkeit des Lebens zeigen!"
     },
@@ -146,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "680106_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der mit großem Abstand widerlichste Geschmack für Babybrei??!"
     }

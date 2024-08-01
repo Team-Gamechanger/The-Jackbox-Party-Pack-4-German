@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680077_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Gewappnet für die Apokalypse!"
     },
@@ -121,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "680062_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Eine Sache, die jeder für den Notfall in einem Glaskasten haben sollte"
     },
@@ -143,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "680076_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DIE Sache, die jeder für den Notfall in einem Glaskasten haben sollte?!!"
     }

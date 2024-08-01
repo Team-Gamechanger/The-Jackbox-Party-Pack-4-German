@@ -89,7 +89,7 @@
       "t": "A",
       "v": "692719_0f",
       "n": "Twist0Audio",
-      "s": "Wenn dieser Cartooncharakter echt wäre würde er am schnellsten draufgehen"
+      "s": "Der Cartoon-Charakter, der in der realen Welt vermutlich am schnellsten draufgehen würde"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "692715_0",
       "n": "PromptAudio",
-      "s": "Nenne einen Cartooncharakter"
+      "s": "Nenne einen Cartoon-Charakter"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "692722_0f",
       "n": "PromptReactionAudio",
-      "s": "Wir stellen hier eine schwierige aber auch sehr wichtige Frage."
+      "s": "Eine schwierige, aber auch äußerst wichtige Frage!"
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
       "t": "A",
       "v": "692729_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER Cartooncharakter, der in der echten Welt am schnellsten abkratzt?!"
+      "s": "Welcher Cartoon-Charakter würde in unserer Welt vermutlich am schnellsten draufgehen??!"
     }
   ]
 }

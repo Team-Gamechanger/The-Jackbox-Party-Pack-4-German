@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679895_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Das ist das gute Zeug!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679896_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Damit will ich spielen!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "679897_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Gib her, das Spielzeug. Hörste? Her damit, los! (Klingt so, als würde er sich mit einem Kind um das Spielzeug raufen)"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679880_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das Kinderspielzeug, bei dem es am meisten Spaß macht, damit als Erwachsener zu spielen"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679894_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das SPAßIGSTE Kinderspielzeug für Erwachsene?!!"
     }

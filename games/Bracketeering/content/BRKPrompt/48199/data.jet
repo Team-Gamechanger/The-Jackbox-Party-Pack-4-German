@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "680242_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Eine Sache, die wirklich jeder können sollte"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "680249_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Achtung: Dieser Prompt könnte kaputte Beziehungen endgültig zerstören."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "680256_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die Sache, die ausnahmslos jeder können sollte??!"
     }

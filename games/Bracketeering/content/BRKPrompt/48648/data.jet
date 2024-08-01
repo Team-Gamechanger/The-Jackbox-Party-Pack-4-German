@@ -89,7 +89,7 @@
       "t": "A",
       "v": "693259_0f",
       "n": "Twist0Audio",
-      "s": "Dieses Maskottchen sollte am ehesten ein erotisches Hörbuch einsprechen"
+      "s": "Das Maskottchen, das am ehesten ein erotisches Hörbuch einsprechen sollte"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -144,7 +143,7 @@
       "t": "A",
       "v": "693269_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DAS Maskottchen, das ein erotisches Hörbuch einsprechen soll?!"
+      "s": "Welches Maskottchen soll ein erotisches Hörbuch einsprechen??!"
     }
   ]
 }

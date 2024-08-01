@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "680362_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Podcast, um nebenbei Sex zu haben"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "680369_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Diese Frage ist NICHT familien- und jungfrauenfreundlich!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "680376_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Podcast, um währenddessen Sex zu haben??!"
     }

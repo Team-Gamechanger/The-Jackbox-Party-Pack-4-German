@@ -122,7 +122,7 @@
       "t": "A",
       "v": "704467_0f",
       "n": "PromptAudio",
-      "s": "Nenne irgendein Tier, das im oder am Wasser lebt"
+      "s": "Nenne ein Tier, das im oder am Wasser lebt"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",

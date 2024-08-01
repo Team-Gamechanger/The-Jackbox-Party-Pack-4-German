@@ -32,12 +32,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "679835_0f",
+      "v": "",
       "n": "Win0Audio"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "A",
-      "v": "679836_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das ruf ich jetzt jedem hinterher!!!"
     },
@@ -58,7 +58,7 @@
     },
     {
       "t": "A",
-      "v": "679837_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Die Begrüßung ist GUUUUUUT!!!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679820_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die lustigste Art, eine fremde Person auf der Straße zu begrüßen"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679834_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die LUSTIGSTE Art, einen Wildfremden auf der Straße zu begrüßen?!!"
     }

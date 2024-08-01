@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679775_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ich brauch ein Nachtlicht!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679776_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Nichts für Kinderäuglein!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "679760_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das Buch, das einem Kind als Gutenachtgeschichte am ehesten Albträume bescheren wird"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "679774_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche Gutenachtgeschichte wird einem Kind am ehesten Albträume bescheren?!!"
     }

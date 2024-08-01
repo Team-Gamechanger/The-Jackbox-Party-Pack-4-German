@@ -89,7 +89,7 @@
       "t": "A",
       "v": "693109_0f",
       "n": "Twist0Audio",
-      "s": "Das beste Buch um es nur zu haben um damit anzugeben"
+      "s": "Das beste Buch, um es nur zum Angeben zu besitzen"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -144,7 +143,7 @@
       "t": "A",
       "v": "693119_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DAS beste Buch, das man hat nur um damit anzugeben?"
+      "s": "Was ist DAS Buch, das man nur besitzt, um damit anzugeben?"
     }
   ]
 }

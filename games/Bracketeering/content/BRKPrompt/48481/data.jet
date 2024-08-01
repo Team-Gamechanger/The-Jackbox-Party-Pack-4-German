@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688628_1",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der Ort, an dem man am ehesten auf Mark Forster treffen würde"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688629_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Welcher Ort hat die beste Toilette?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688630_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der Ort, der sich am besten für eine Hochzeit eignet"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688624_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Laden oder ein Restaurant"
     },

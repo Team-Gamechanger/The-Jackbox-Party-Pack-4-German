@@ -89,7 +89,7 @@
       "t": "A",
       "v": "692659_0f",
       "n": "Twist0Audio",
-      "s": "Das beste Alter um in einen Vampir verwandelt zu werden"
+      "s": "Das beste Alter, um in einen Vampir verwandelt zu werden"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "692662_0f",
       "n": "PromptReactionAudio",
-      "s": "Und ja, ich wurde mit 49 in ein Vampir verwandelt!"
+      "s": "Und ja, ich wurde mit 27 in einen Vampir verwandelt!"
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
       "t": "A",
       "v": "692669_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DAS beste Alter, um in einen Vampir verwandelt zu werden?!"
+      "s": "Welches ist das beste Alter, um in einen Vampir verwandelt zu werden?!"
     }
   ]
 }

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688658_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Sache, um sie an Halloween Kindern zu geben"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688659_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Horkrux"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688660_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Was würde in einem Animationsfilm am ehesten von Julien Bam gesprochen werden?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688654_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },

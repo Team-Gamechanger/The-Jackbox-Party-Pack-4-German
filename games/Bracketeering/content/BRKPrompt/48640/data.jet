@@ -89,7 +89,7 @@
       "t": "A",
       "v": "693019_0f",
       "n": "Twist0Audio",
-      "s": "Beste Stimme für deine inneren Gedanken"
+      "s": "Die beste Stimme für deine innere Stimme"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -144,7 +143,7 @@
       "t": "A",
       "v": "693029_0f",
       "n": "FinalReactionAudio",
-      "s": "Wer hat DIE beste Stimme für die Stimmer in deinem Kopf?!"
+      "s": "Wer hat die beste Stimme für die Stimme im eigenen Kopf??!"
     }
   ]
 }

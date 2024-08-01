@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680047_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Steht das auch im Beipackzettel?"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "680048_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Fragen Sie Ihren Arzt oder Apotheker!!!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "680032_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die bestmögliche Nebenwirkung, die ein Medikament haben könnte"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "680039_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich denke da an explosiven Durchfall."
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "680046_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die bestmögliche Nebenwirkung, die ein Medikament haben kann?!!"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680287_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Saucool!"
     },
@@ -121,19 +121,20 @@
     },
     {
       "t": "A",
-      "v": "680272_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolsten letzten Worte"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "680279_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Achtung: Dieser Prompt könnte kaputte Beziehungen endgültig zerstören."
     },
     {
       "t": "B",
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "680286_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was sind einfach die COOLSTEN letzten Worte?!!"
     }

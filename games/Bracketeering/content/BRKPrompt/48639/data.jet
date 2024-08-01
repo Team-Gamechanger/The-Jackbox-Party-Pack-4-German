@@ -89,7 +89,7 @@
       "t": "A",
       "v": "692989_0f",
       "n": "Twist0Audio",
-      "s": "Beste Süßigkeit, wenn man keine Zähne hat"
+      "s": "Die beste Süßigkeit, wenn man keine Zähne hat"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -132,8 +132,7 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio",
-      "s": "Dieses Spiel ist ein verbindlicher Vertrag!"
+      "n": "PromptReactionAudio"
     },
     {
       "t": "B",
@@ -144,7 +143,7 @@
       "t": "A",
       "v": "692999_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DIE beste Süßigkeit, für den Fall, dass man keine Zähne hat?!"
+      "s": "Welche ist die beste Süßigkeit, wenn man alt ist und keine Zähne mehr hat??!"
     }
   ]
 }

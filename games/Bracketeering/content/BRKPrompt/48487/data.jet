@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688808_1",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Charakter, um ihn auf einen Lkw zu drucken"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688809_1",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Charakter, um ihn auf seiner Unterwäsche zu haben"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "688810_1",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688804_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Cartoon-Charakter"
     },

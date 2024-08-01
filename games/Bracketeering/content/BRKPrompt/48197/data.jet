@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "680182_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der coolste Name für eine Schriftart"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "680196_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der COOLSTE Name für eine Schriftart?!!"
     }

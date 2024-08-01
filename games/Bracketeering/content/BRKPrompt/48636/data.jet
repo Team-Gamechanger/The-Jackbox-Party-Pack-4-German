@@ -89,7 +89,7 @@
       "t": "A",
       "v": "692899_0f",
       "n": "Twist0Audio",
-      "s": "Würde das beste Pokémon abgeben"
+      "s": "Welches Tier würde das beste Pokémon abgeben?"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen aufgezogen wurde."
+      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
       "t": "A",
       "v": "692909_0f",
       "n": "FinalReactionAudio",
-      "s": "Welches Tier gibt GARANTIERT das beste Pokémon ab?!"
+      "s": "Welches Tier gibt das beste Pokémon ab?!"
     }
   ]
 }

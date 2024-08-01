@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688778_1",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welches Tier wäre der coolste Butler?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688779_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Welches Tier wäre der beste Geschäftsführer?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688780_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Welches Tier würde die berührendste Rede bei deiner Hochzeit halten?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688774_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },

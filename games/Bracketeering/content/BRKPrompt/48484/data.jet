@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688718_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Partner für einen spaßigen Roadtrip"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688719_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Wer wäre der beste Liebhaber?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688720_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Wer hätte wahrscheinlich die stinkigste Kacke?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688714_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Comic-Charakter"
     },

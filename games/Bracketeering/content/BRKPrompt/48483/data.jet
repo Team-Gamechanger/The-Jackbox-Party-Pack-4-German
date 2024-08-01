@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688688_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Tier, um damit Kinder zu erschrecken"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688689_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das coolste Tier, um darauf in eine Schlacht zu reiten"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688690_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Hauptcharakter für einen Animationsfilm"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688684_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },

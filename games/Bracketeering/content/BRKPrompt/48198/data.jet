@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680227_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ach, das wäre doch nicht nötig gewesen. Auch wenn, doch, es war nötig!"
     },
@@ -121,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "680212_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Was wäre das großzügigste Geschenk?"
     },
@@ -132,7 +132,7 @@
     },
     {
       "t": "A",
-      "v": "680219_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich hoffe auf gute Ideen, ich habe drei Geburtstage anstehen und noch kein Plan, was ich verschenken soll."
     },
@@ -143,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "680226_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das mit großem Abstand großzügigste Geschenk??!"
     }

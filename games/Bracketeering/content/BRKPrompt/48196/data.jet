@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Zeit für'n Gips!"
     },
     {
       "t": "B",
@@ -47,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "680168_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "AGGGGGHHHHH!!!!"
     },
@@ -58,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "680169_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "AUTSCH!!!"
     },
@@ -69,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "680170_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Es tut so weh und ist so cool!"
     },
@@ -123,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "680152_2f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der coolste Weg, sich Knochen zu brechen"
     },
@@ -145,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "680166_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der COOLSTE Weg, sich Knochen zu brechen?!!"
     }

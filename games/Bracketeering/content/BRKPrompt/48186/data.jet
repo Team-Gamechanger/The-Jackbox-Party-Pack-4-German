@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679865_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Kochend heiß!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679866_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Nutz ich ab jetzt immer!"
     },
@@ -59,18 +59,18 @@
     },
     {
       "t": "A",
-      "v": "679867_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Darauf einen Kaffee!"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin3Audio"
     },
     {
       "t": "A",
-      "v": "679868_0f",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679850_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die beste Art, Kaffee zu trinken, wenn man keine Tasse finden kann"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "679857_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich brauche das Koffein!!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679864_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Art, Kaffee zu trinken, wenn du keine Tasse finden kannst?!!"
     }

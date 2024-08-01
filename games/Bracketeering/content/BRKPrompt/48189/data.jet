@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "679955_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Fühlt sich das guuut an!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "679956_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das will ich nie mehr loslassen!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "679957_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ich kann nie mehr ohne!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "679940_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die Sache, die sich beim Anfassen am besten anfühlt"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "679947_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ach, und es... MUSS nicht versaut sein."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "679954_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche Sache fühlt sich beim Anfassen einfach am besten an??!"
     }

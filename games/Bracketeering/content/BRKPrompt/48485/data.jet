@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "688748_1",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Zeitpunkt, um einen Film im Kino zu sehen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "688749_1",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Zeitpunkt für ein Duell auf Leben und Tod"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "688750_1",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Zeitpunkt, um ihn wieder und wieder und wieder zu erleben"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "688744_1",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
     },

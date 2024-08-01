@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "680302_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die Sache, die man am einfachsten vergisst"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "680309_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Achtung: Dieser Prompt könnte kaputte Beziehungen endgültig zerstören."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "680316_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die Sache, die man am einfachsten... ähhh.... ach, komm schon...ah ja: VERGISST!"
     }

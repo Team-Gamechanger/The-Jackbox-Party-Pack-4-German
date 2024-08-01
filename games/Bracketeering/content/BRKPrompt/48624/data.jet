@@ -89,7 +89,7 @@
       "t": "A",
       "v": "692539_0",
       "n": "Twist0Audio",
-      "s": "Bester Name für den Partner eines alten, weisen Cops"
+      "s": "Der beste Name für den jungen Partner eines alten Polizisten"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "",
       "n": "Twist2Audio",
-      "s": "Welcher Charakter sollte am ehesten Bundeskanzler werden?"
+      "s": "Welcher Charakter hätte die besten Chancen Bundeskanzler zu werden?"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "692535_0f",
       "n": "PromptAudio",
-      "s": "Ein Name den du einem Haustier geben würdest"
+      "s": "Ein Name, den du einem Haustier geben würdest"
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
       "t": "A",
       "v": "692549_0f",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für den Partner eines alten, weisen Cops?!"
+      "s": "Was ist der BESTE Name für den jungen Partner eines alten Polizisten??!"
     }
   ]
 }
