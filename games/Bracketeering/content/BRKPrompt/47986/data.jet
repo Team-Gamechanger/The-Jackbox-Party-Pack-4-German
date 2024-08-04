@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674374_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Business ist toll!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674375_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Die Visiten gelesen!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "674376_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Fax mich an!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "674359_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Wort, das man auf seine Visitenkarte schreiben kann, das jeden beeindruckt"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "674366_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Bei mir ist es mein Name und bei euch?"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "674373_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das beeindruckendste Wort, dass man auf seine Visitenkarte schreiben kann?!!"
     }

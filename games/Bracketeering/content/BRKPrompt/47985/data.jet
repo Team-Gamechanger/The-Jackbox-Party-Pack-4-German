@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674344_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ulala!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674345_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Sexy!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "674346_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Kinky!!!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "674347_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Bemerk mich, Daddy!!!"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "674329_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste Safe-Wort beim Sex"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "674336_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Höchste Zeit, die Kinder ins Bett zu schicken, jetzt wird's brisant!"
     },
@@ -146,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "674343_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das beste Safe-Wort, wenn's im Bett mal wieder heißer wird??!"
     }

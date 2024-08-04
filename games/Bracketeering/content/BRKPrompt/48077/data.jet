@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "676679_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Name für ein richtig schlechtes Fußballteam"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "676693_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER beste Name für ein Fußballteam voller Schwachmaten?!"
     }

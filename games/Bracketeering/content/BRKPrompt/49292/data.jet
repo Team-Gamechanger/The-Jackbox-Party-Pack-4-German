@@ -89,7 +89,7 @@
       "t": "A",
       "v": "704681_0",
       "n": "Twist0Audio",
-      "s": "Am lustigsten"
+      "s": "Was ist am lustigsten?"
     },
     {
       "t": "B",
@@ -100,7 +100,7 @@
       "t": "A",
       "v": "704682_0",
       "n": "Twist1Audio",
-      "s": "Bestes geheimes Passwort"
+      "s": "Das beste Passwort"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "704683_0",
       "n": "Twist2Audio",
-      "s": "Beste Revie für dieses Spiel"
+      "s": "Die beste Rezension für dieses Spiel"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "704677_0",
       "n": "PromptAudio",
-      "s": "Schreib einfach irgendwas. Wirklich. Einfach irgendwas."
+      "s": "Schreibe einfach irgendwas. Wirklich. Einfach irgendwas."
     },
     {
       "t": "B",

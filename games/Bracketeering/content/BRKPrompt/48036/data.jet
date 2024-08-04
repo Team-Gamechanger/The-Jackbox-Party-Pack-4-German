@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "675482_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Man sieht sich in der VIP-Lounge!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "675483_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Starker Name!!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "675467_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste falsche Name, um den Türsteher davon zu überzeugen, dass du auf der Gästeliste stehst"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "675474_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Meiner ist immer Plus Eins. Herr Schmitty Plus Eins."
     },
@@ -144,9 +144,9 @@
     },
     {
       "t": "A",
-      "v": "675481_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist der BESTE falsche Name, falls man nicht wirklich eingeladen ist?!"
+      "s": "Was ist der BESTE falsche Name, falls man nicht wirklich auf der Gästeliste steht?!"
     }
   ]
 }

@@ -89,7 +89,7 @@
       "t": "A",
       "v": "704771_1f",
       "n": "Twist0Audio",
-      "s": "Wird am wahrscheinlichsten deine politische Karriere zerstören, wenn du es im Bundestag sagst"
+      "s": "Was zerstört am wahrscheinlichsten deine politische Karriere, wenn du es im Bundestag sagst?"
     },
     {
       "t": "B",
@@ -100,7 +100,7 @@
       "t": "A",
       "v": "704772_0f",
       "n": "Twist1Audio",
-      "s": "Sollte von einem Flugzeug unbedingt in den Himmel geschrieben werden"
+      "s": "Der Satz, der unbedingt von einem Flugzeug in den Himmel geschrieben werden sollte"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "704767_0",
       "n": "PromptAudio",
-      "s": "Zitiere eine Catchphrase aus Film und Fernsehen"
+      "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
     {
       "t": "B",

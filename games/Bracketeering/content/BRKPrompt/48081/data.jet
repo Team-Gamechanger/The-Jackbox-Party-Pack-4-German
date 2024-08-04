@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676814_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Gruuuselig!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676815_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Da krieg' selbst ich Albträume!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676816_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Ich werde nie wieder schlafen gehen!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "676799_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Diese Gute-Nacht-Geschichte wird deinem Kind am ehesten Albträume bescheren"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "676806_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich möchte, dass mein Kind mehr Albträume bekommt, also passe ich gut auf"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676813_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DIE Gute-Nacht-Geschichte, die deinem Kind am ehesten Albträume bescheren wird??!"
     }

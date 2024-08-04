@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676394_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ich hol den Rahmen!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676395_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Tierisch gut!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676396_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Nie waren die Träume süßer!"
     },
@@ -90,7 +90,7 @@
     },
     {
       "t": "A",
-      "v": "676383_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Tier, um davon ein riesiges Bild über dem Bett hängen zu haben"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "676379_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "676386_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Jetzt wirds tierisch!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676393_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das BESTE Tier, um sich davon ein riesiges Bild über das Bett zu hängen??!"
     }

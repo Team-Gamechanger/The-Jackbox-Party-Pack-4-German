@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676754_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Also ich mag's!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676755_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Richtiger Dad-Joke!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676756_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Vater weiß es am Besten!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "676739_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Ersatz für das Wort \"Papa\""
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "676746_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Und mit dem Gewinner muss jeder hier seinen Vater von nun an ansprechen."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676753_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Ersatz für das Wort \"Papa\", den wir ab jetzt für immer für unsere Väter benutzen??!"
     }

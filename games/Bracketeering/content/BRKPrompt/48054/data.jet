@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676002_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Du brennst förmlich!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676003_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "An dir verbrennt man sich die Pfoten!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676004_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Wir feuern dich an!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "675987_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, die man schreien kann, während man einen Feuerzauber einsetzt"
     },
@@ -134,9 +134,9 @@
     },
     {
       "t": "A",
-      "v": "675994_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Ich schreie immer nur \"Feuerball\", aber ich bin noch kein guter Zauberer."
+      "s": "Ich schreie immer nur \"Feuerball\", aber ich bin auch kein guter Zauberer."
     },
     {
       "t": "B",
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676001_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Sache, die man schreien kann, während man einen Feuerzauber einsetzt?!!"
     }

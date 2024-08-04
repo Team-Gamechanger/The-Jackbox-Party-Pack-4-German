@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676302_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Sonnencreme nicht vergessen!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676303_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Underdog aus den Schatten!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676304_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Da strahlt wer heller als die Sonne!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "676287_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Eine Sache, die mit Sonnenbrille lustig aussehen würde"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "676294_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Abgesehen von euren lustigen Gesichtern natürlich..."
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676301_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DIE Sache, die mit Sonnenbrille am lustigsten aussehen würde?!"
     }

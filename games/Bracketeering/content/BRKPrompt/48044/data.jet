@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "675702_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Schönes Wort!!!"
     },
@@ -121,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "675687_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste Wort, um damit jeden deiner Sätze zu beenden"
     },
@@ -132,9 +132,9 @@
     },
     {
       "t": "A",
-      "v": "675694_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Und mit jeden Satz meinen wir JEDEN Satz! Für immer. Ohne Ausnahmen."
+      "s": "Und mit jedem Satz meinen wir JEDEN Satz! Für immer. Ohne Ausnahmen."
     },
     {
       "t": "B",
@@ -143,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "675701_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das COOLSTE Wort, um damit für immer und ewig jeden deiner Sätze zu beenden?!!"
     }

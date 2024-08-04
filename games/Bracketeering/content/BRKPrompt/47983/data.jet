@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "674284_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Das Finanzamt wird mich niemals... Ähhh... Tolle Antwort?"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "674285_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Immer Kassenbons aufheben!!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "674286_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Eine günstigere Steuerklasse!!!!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "674287_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Ooo... abgezogen!!!"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "674269_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, um sie von der Steuer abzusetzen"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "674276_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Steuerberater lieben diesen Prompt!"
     },
@@ -146,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "674283_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Sache, die man von der Steuer absetzen kann??!"
     }

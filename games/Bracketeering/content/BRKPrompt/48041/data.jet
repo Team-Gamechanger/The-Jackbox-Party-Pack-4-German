@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "675608_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Schnallt euch an!!"
     },
@@ -48,19 +48,20 @@
     },
     {
       "t": "A",
-      "v": "675609_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ich SCHNALL hier gar nix mehr!! "
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win2Audio"
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "Ein richtiges Gürteltier!"
     },
     {
       "t": "B",
@@ -122,9 +123,9 @@
     },
     {
       "t": "A",
-      "v": "675593_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Die beste Form für eine Gürtelschnalle"
+      "s": "Die beste Form für eine überdimensionierte Gürtelschnalle"
     },
     {
       "t": "B",
@@ -133,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "675600_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Vielleicht will ich hiernach ja wieder Hosen tragen..."
     },
@@ -144,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "675607_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Form für eine riesige Gürtelschnalle?!"
     }

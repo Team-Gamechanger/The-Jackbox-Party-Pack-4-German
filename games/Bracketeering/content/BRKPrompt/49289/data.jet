@@ -89,7 +89,7 @@
       "t": "A",
       "v": "704591_0f",
       "n": "Twist0Audio",
-      "s": "Beste Zeit um eine Pizza komplett alleine zu verdrücken"
+      "s": "Der beste Zeitpunkt, um eine ganze Pizza alleine zu verdrücken"
     },
     {
       "t": "B",
@@ -100,7 +100,7 @@
       "t": "A",
       "v": "704592_0",
       "n": "Twist1Audio",
-      "s": "Beste Zeit um nach einem ersten Date nochmal anzurufen"
+      "s": "Der beste Zeitpunkt, um nach einem ersten Date wieder anzurufen"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "704593_1f",
       "n": "Twist2Audio",
-      "s": "Beste Zeit für den Weltuntergang"
+      "s": "Der beste Zeitpunkt für den Weltuntergang"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "704587_1f",
       "n": "PromptAudio",
-      "s": "Nenne irgendeine Uhrzeit. Egal ob Tag oder Uhrzeit."
+      "s": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
     },
     {
       "t": "B",

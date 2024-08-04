@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676424_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Irgendwie vermisse ich VERMISST zu sein!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676425_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ich spür' schon die Insel-Vibes!"
     },
@@ -89,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "676413_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Mit wem im Team überlebt man gestrandet auf einer einsamen Insel am ehesten?"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "676409_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "676416_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Jeder hat das schon erlebt!"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "676423_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Mit wem überlebt man gestrandet auf einer einsamen Insel??!"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "676092_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Ich liebe DAS!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "676093_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ich hab mich in die Liebe verliebt!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "676094_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Wenn Liebe falsch ist, möchte ich nie mehr recht haben!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "676077_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der perfekte Zeitpunkt, um \"Ich liebe dich\" zu sagen"
     },
@@ -134,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "676084_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Gut aufpassen, Singles!"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "676091_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER PERFEKTE Zeitpunkt, um die Wörter \"Ich liebe dich\" zu sagen?!!"
     }
