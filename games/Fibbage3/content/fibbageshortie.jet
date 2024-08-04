@@ -429,7 +429,7 @@
       "personal": "",
       "id": 24807,
       "portrait": false,
-      "category": "Feststellungen",
+      "category": "Wissenschaftliche Erkenntnisse",
       "bumper": "",
       "us": false
     },
@@ -466,6 +466,15 @@
       "id": 43239,
       "portrait": false,
       "category": "Stoßgebete",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43242,
+      "portrait": false,
+      "category": "Nicht schießen!",
       "bumper": "",
       "us": false
     },
@@ -520,6 +529,24 @@
       "id": 43337,
       "portrait": false,
       "category": "Sicherheit geht vor",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43352,
+      "portrait": false,
+      "category": "Unter Dach und Fach",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43354,
+      "portrait": false,
+      "category": "Tierreich",
       "bumper": "",
       "us": false
     },

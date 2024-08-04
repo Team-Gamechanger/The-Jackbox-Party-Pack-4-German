@@ -12,47 +12,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Nasenbluten,schlechte Laune,keinen Lebenswillen mehr,die Faxen dicke,zu schnelles Internet,keinen Kugelschreiber,Ratten,zu viel Geld,die ganze Nacht geschlafen,Brausepulver geschnupft,furchtbare Flugangst,einen schlechten Film gedreht,in der Küche masturbiert,eine Sahnetorte ins Gesicht bekommen,Niesen müssen,keinen Empfang,gefurzt,seinen Paketboten beleidigt,seine Autoschlüssel verloren",
+      "v": "eigenen Kot essen,ihren Zwilling töten,explodieren,bis zum Tod niesen,sich mit sich selbst paaren,ihr Inneres nach außen kehren,eine zweite Vagina erhalten,Stacheln bekommen,masturbieren,Gold erbrechen,ihr Hirn essen,ihre Zunge verschlucken,Säure bluten,Albträume bekommen,ihre Kinder essen,einen zusätzlichen Kopf bekommen,sich tot noch fortpflanzen,sich klonen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Nicht allein",
+      "v": "Tierreich",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "keinen Sex",
+      "v": "ihren eigenen Penis abbeißen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "SayWhat",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "v": "Bananenschnecken betreiben manchmal “Apophallie”. Das bedeutet, dass sie <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "1:13 Uhr<br />18. Nov. 2013",
+      "v": "",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "@Elyas_MBarek",
+      "v": "",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "nicht sex,keinen Geschlechtsverkehr",
+      "v": "ihren Penis abbeißen,ihren Pimmel abbeißen,ihren Penis abbeissen,den Penis abbeißen,sich den Penis abbeißen,sich den eigenen Penis abbeißen,sich ihren eigenen Penis abbeißen,sich ihren Penis abbeißen",
       "n": "AlternateSpellings"
     },
     {
@@ -85,13 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]keinen Sex",
+      "s": "[category=host]ihren eigenen Penis abbeißen",
       "t": "A",
+      "v": "561138_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "s": "[category=host]Bananenschnecken betreiben manchmal “Apophallie”. Das bedeutet, dass sie <BLANK>.",
       "t": "A",
+      "v": "561135_0",
       "n": "QuestionAudio"
     }
   ]

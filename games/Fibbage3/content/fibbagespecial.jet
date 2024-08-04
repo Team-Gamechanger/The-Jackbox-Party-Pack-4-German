@@ -83,7 +83,7 @@
       "us": false
     },
     {
-      "x": false,
+      "x": true,
       "personal": "",
       "id": 51001,
       "portrait": false,
@@ -148,15 +148,6 @@
     {
       "x": false,
       "personal": "",
-      "id": 51008,
-      "portrait": false,
-      "category": "Tatort",
-      "bumper": "SayWhat",
-      "us": false
-    },
-    {
-      "x": false,
-      "personal": "",
       "id": 51009,
       "portrait": false,
       "category": "Österreichische Geschenke",
@@ -164,11 +155,11 @@
       "us": false
     },
     {
-      "x": false,
+      "x": true,
       "personal": "",
       "id": 51010,
       "portrait": false,
-      "category": "Nicht der einzige",
+      "category": "Nicht allein",
       "bumper": "SayWhat",
       "us": false
     }

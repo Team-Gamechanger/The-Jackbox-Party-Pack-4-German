@@ -12,47 +12,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Nasenbluten,schlechte Laune,keinen Lebenswillen mehr,die Faxen dicke,zu schnelles Internet,keinen Kugelschreiber,Ratten,zu viel Geld,die ganze Nacht geschlafen,Brausepulver geschnupft,furchtbare Flugangst,einen schlechten Film gedreht,in der Küche masturbiert,eine Sahnetorte ins Gesicht bekommen,Niesen müssen,keinen Empfang,gefurzt,seinen Paketboten beleidigt,seine Autoschlüssel verloren",
+      "v": "beim Rasieren,beim Masturbieren,während dem Pinkeln,nackt,singend,beim Sex,beim tanzen,beim Frühstück,betrunken,bei einer Beerdigung,beim Rennen,beim Kartenspielen,krabbelnd,beim Nachladen,an Sonntagen,beim Baden,schlafend,hinterrücks",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Nicht allein",
+      "v": "Nicht schießen!",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "keinen Sex",
+      "v": "beim Kacken",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "SayWhat",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "v": "Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "1:13 Uhr<br />18. Nov. 2013",
+      "v": "",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "@Elyas_MBarek",
+      "v": "",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "nicht sex,keinen Geschlechtsverkehr",
+      "v": "beim scheissen,beim scheißen,scheissend,scheißend,kackend,kotend,beim Koten",
       "n": "AlternateSpellings"
     },
     {
@@ -85,13 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]keinen Sex",
+      "s": "[category=host]beim Kacken",
       "t": "A",
+      "v": "559098_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "s": "[category=host]Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
       "t": "A",
+      "v": "559095_0",
       "n": "QuestionAudio"
     }
   ]

@@ -12,47 +12,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Nasenbluten,schlechte Laune,keinen Lebenswillen mehr,die Faxen dicke,zu schnelles Internet,keinen Kugelschreiber,Ratten,zu viel Geld,die ganze Nacht geschlafen,Brausepulver geschnupft,furchtbare Flugangst,einen schlechten Film gedreht,in der Küche masturbiert,eine Sahnetorte ins Gesicht bekommen,Niesen müssen,keinen Empfang,gefurzt,seinen Paketboten beleidigt,seine Autoschlüssel verloren",
+      "v": "eine Villa,ein Autokino,ein Casino,einen UFO-Landeplatz,einen Freizeitpark,ein Bällebad,einen Golfplatz,ein Hard Rock Cafe,eine Autowaschanlage,eine U-Bahn-Station,ein Segelboot,ein Krankenhaus,eine Nachbildung des Eiffelturms,eine riesige Schere,ein Blumenbeet,einen Strand,eine Keksfabrik,eine Seilbahn",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Nicht allein",
+      "v": "Unter Dach und Fach",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "keinen Sex",
+      "v": "einen Berg",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "SayWhat",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "v": "Der exzentrische Pekinger Zhang Biqing war fest entschlossen, dass seinem Wohngebäude etwas wichtiges fehlte und baute deshalb auf sein Dach <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "1:13 Uhr<br />18. Nov. 2013",
+      "v": "",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +57,12 @@
     },
     {
       "t": "S",
-      "v": "@Elyas_MBarek",
+      "v": "",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "nicht sex,keinen Geschlechtsverkehr",
+      "v": "eine Berglandschaft,Berge,ein Gebirge,Gebirge,Berglandschaften,einen Hügel,Hügel",
       "n": "AlternateSpellings"
     },
     {
@@ -85,13 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]keinen Sex",
+      "s": "[category=host]einen Berg",
       "t": "A",
+      "v": "561088_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "s": "[category=host]Der exzentrische Pekinger Zhang Biqing war fest entschlossen, dass seinem Wohngebäude etwas wichtiges fehlte und baute deshalb auf sein Dach <BLANK>.",
       "t": "A",
+      "v": "561085_1",
       "n": "QuestionAudio"
     }
   ]
