@@ -120,7 +120,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendein Verb"
+                "text": "Nenne ein Verb"
             },
             "facts": []
         },
@@ -1030,7 +1030,7 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Der beste Anmachspruch"
+                    "text": "Der beste Anmachspruch aller Zeiten"
                 },
                 {
                     "text": "Würde sich gut in einem Glückskeks machen"
@@ -4432,7 +4432,7 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Welcher Gegenstand beherbergt wahrscheinlich die meisten Bakterien?"
+                    "text": "Was beherbergt wahrscheinlich die meisten Bakterien?"
                 }
             ],
             "prompt": {
@@ -4507,7 +4507,7 @@
                     "text": "Q*bert"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48661,
             "category": "Character",
             "twists": [
@@ -4603,28 +4603,28 @@
         {
             "decoys": [
                 {
-                    "text": "nettes Lächeln"
+                    "text": "Nettes Lächeln"
                 },
                 {
-                    "text": "gutes Herz"
+                    "text": "Gutes Herz"
                 },
                 {
-                    "text": "langes Haar"
+                    "text": "Langes Haar"
                 },
                 {
-                    "text": "schlaues Köpfchen"
+                    "text": "Schlaues Köpfchen"
                 },
                 {
-                    "text": "sexy Sixpack"
+                    "text": "Sexy Sixpack"
                 },
                 {
-                    "text": "tiefe Stimme"
+                    "text": "Tiefe Stimme"
                 },
                 {
-                    "text": "großer Hintern"
+                    "text": "Großer Hintern"
                 },
                 {
-                    "text": "lange Wimpern"
+                    "text": "Lange Wimpern"
                 }
             ],
             "x": true,
@@ -4636,14 +4636,14 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die du an einem Menschen schön findest"
+                "text": "Nenne eine Sache, die du an einem Menschen attraktiv findest"
             },
             "facts": []
         },
         {
             "decoys": [
                 {
-                    "text": "Ohre anknabbern"
+                    "text": "Ohren anknabbern"
                 },
                 {
                     "text": "Fußmassage"
@@ -4658,13 +4658,13 @@
                     "text": "Parfüm"
                 },
                 {
-                    "text": "blonde Haare"
+                    "text": "Blonde Haare"
                 },
                 {
-                    "text": "gute Haltung"
+                    "text": "Gute Haltung"
                 },
                 {
-                    "text": "hohe Intelligenz"
+                    "text": "Hohe Intelligenz"
                 }
             ],
             "x": true,
@@ -4676,7 +4676,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Sache, die du attraktiv findest"
+                "text": "Nenne eine Sache, die du an einem Menschen attraktiv findest"
             },
             "facts": []
         },
@@ -4763,7 +4763,7 @@
         {
             "decoys": [
                 {
-                    "text": "Hey Jude"
+                    "text": "Pedro"
                 },
                 {
                     "text": "Every Breath You Take"
@@ -5009,7 +5009,7 @@
         {
             "decoys": [
                 {
-                    "text": "Fantastic Mr. Fox"
+                    "text": "Alles steht Kopf"
                 },
                 {
                     "text": "Stirb langsam"
@@ -5049,7 +5049,7 @@
         {
             "decoys": [
                 {
-                    "text": "Tony Tiger"
+                    "text": "Tony, der Tiger"
                 },
                 {
                     "text": "Chester Cheetah"
@@ -9106,7 +9106,7 @@
             "category": "Time",
             "twists": [],
             "prompt": {
-                "text": "Die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte"
+                "text": "Die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte, wenn er in deine Zukunft blickt"
             },
             "facts": []
         },
