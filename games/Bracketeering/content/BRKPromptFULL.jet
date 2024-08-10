@@ -87,7 +87,7 @@
                     "text": "Gähnen"
                 },
                 {
-                    "text": "Stretchen"
+                    "text": "Dehnen"
                 },
                 {
                     "text": "Laufen"
@@ -120,7 +120,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine \u201cTätigkeit\u201d"
+                "text": "Nenne irgendein Verb"
             },
             "facts": []
         },
@@ -159,7 +159,7 @@
                     "text": "In wessen Haus würdest du am liebsten eine Nacht verbringen?"
                 },
                 {
-                    "text": "Verdient einen Popoklatscher"
+                    "text": "Wer verdient eine Backpfeife?"
                 },
                 {
                     "text": "Nach dieser Person sollte eine Grundschule benannt werden"
@@ -202,10 +202,10 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Wird am wahrscheinlichsten deine politische Karriere zerstören, wenn du es im Bundestag sagst"
+                    "text": "Was zerstört am wahrscheinlichsten deine politische Karriere, wenn du es im Bundestag sagst?"
                 },
                 {
-                    "text": "Sollte von einem Flugzeug unbedingt in den Himmel geschrieben werden"
+                    "text": "Der Satz, der unbedingt von einem Flugzeug in den Himmel geschrieben werden sollte"
                 },
                 {
                     "text": "Die beste Google-Maps-Rezension"
@@ -248,13 +248,13 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Am effektivsten auf einem Wahlplakat"
+                    "text": "Was wäre auf einem Wahlplakat am effektivsten?"
                 },
                 {
-                    "text": "Macht sich am besten auf einem Katzenposter"
+                    "text": "Was macht sich am besten auf einem Katzenposter?"
                 },
                 {
-                    "text": "Macht auf einem Grabstein am ehesten was her"
+                    "text": "Was macht auf dem Grabstein am ehesten was her?"
                 }
             ],
             "prompt": {
@@ -386,10 +386,10 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Dieses Tier könnte deine Kinder am besten beschützen"
+                    "text": "Das Tier, das deine Kinder am besten beschützen könnte"
                 },
                 {
-                    "text": "Die beste Tattooidee für deinen Hintern"
+                    "text": "Das beste Tattoo-Motiv für deinen Hintern"
                 },
                 {
                     "text": "Das Tier, das am ehesten nach Hühnchen schmeckt"
@@ -438,11 +438,11 @@
                     "text": "Der beste Weg, nicht mehr an Sex zu denken"
                 },
                 {
-                    "text": "Das wäre das beste Pfadfinder-Abzeichen"
+                    "text": "Was wäre die beste olympische Disziplin?"
                 }
             ],
             "prompt": {
-                "text": "Nenne irgendeine Tätigkeit"
+                "text": "Nenne irgendein Verb"
             },
             "facts": []
         },
@@ -488,7 +488,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne deine liebste Comicfigur"
+                "text": "Nenne eine Comicfigur"
             },
             "facts": []
         },
@@ -524,10 +524,10 @@
             "category": "Store",
             "twists": [
                 {
-                    "text": "Hier hängen Teenager am ehesten rum, wenn ihre traurige, kleine Stadt sonst nichts hergibt"
+                    "text": "Hier hängen Teenager am ehesten rum, wenn ihre traurige Kleinstadt sonst nichts hergibt"
                 },
                 {
-                    "text": "Am wahrscheinlichsten nur eine Fassade für Geldwäsche"
+                    "text": "Was ist am wahrscheinlichsten nur eine Fassade für Geldwäsche?"
                 },
                 {
                     "text": "Hierhin sollte ein frisch aufgetauter Höhlenmensch zuerst gehen"
@@ -852,7 +852,7 @@
                     "text": "Was würde am ehesten auf einer Backkartoffel schmecken?"
                 },
                 {
-                    "text": "Der beste Geschmack für einen Lippenbalsam"
+                    "text": "Der beste Geschmack für Lippenbalsam"
                 }
             ],
             "prompt": {
@@ -984,13 +984,13 @@
             "category": "Game",
             "twists": [
                 {
-                    "text": "Dieses Spiel braucht unbedingt einen Live-Kommentator"
+                    "text": "Das Spiel, das unbedingt einen Live-Kommentator braucht"
                 },
                 {
-                    "text": "Dieses Spiel wäre als Michael-Bay-Film am coolsten"
+                    "text": "Das Spiel, das als Michael-Bay-Film am coolsten wäre"
                 },
                 {
-                    "text": "Dieses Spiel würde jede Beerdigung aufwerten"
+                    "text": "Das Spiel, das jede Beerdigung aufwertet"
                 }
             ],
             "prompt": {
@@ -1720,7 +1720,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Der beste Name für ein paar Schrottplatz-Wachhunde"
+                    "text": "Der beste Name für zwei Schrottplatz-Wachhunde"
                 },
                 {
                     "text": "Der beste Name für ein Rockstar-Duo"
@@ -2643,7 +2643,7 @@
                     "text": "Das beste Mitbringsel auf einer Party"
                 },
                 {
-                    "text": "Es wäre am ironischsten, wenn du nur noch diesen Gegenstand besitzt, nachdem du alles verloren hast"
+                    "text": "Es wäre am ironischsten, wenn du nur noch diese Sache besitzt, nachdem du alles verloren hast"
                 },
                 {
                     "text": "Was würde sich am besten vergoldet an einer Halskette machen?"
@@ -4292,13 +4292,13 @@
                     "text": "Segway"
                 },
                 {
-                    "text": "Landrover"
+                    "text": "Fahrrad"
                 },
                 {
-                    "text": "Toyota"
+                    "text": "Draisine"
                 },
                 {
-                    "text": "Subaru"
+                    "text": "Pferdekutsche"
                 }
             ],
             "x": true,
@@ -4312,7 +4312,7 @@
                     "text": "Das beste Fahrzeug, um darin intime Dinge zu treiben"
                 },
                 {
-                    "text": "Welches Auto würde sich am besten in Mario Kart machen?"
+                    "text": "Welches Gefährt würde sich in Mario Kart am besten schlagen?"
                 }
             ],
             "prompt": {
@@ -4922,7 +4922,7 @@
                 }
             ],
             "prompt": {
-                "text": "Schreib einfach irgendwas. Wirklich. Einfach irgendwas."
+                "text": "Schreibe einfach irgendwas. Wirklich. Einfach irgendwas."
             },
             "facts": []
         },
@@ -8403,7 +8403,7 @@
                     "text": "Der beste Zeitpunkt, um eine ganze Pizza alleine zu verdrücken"
                 },
                 {
-                    "text": "Der beste Zeitpunkt, um nach einem ersten Date noch mal anzurufen"
+                    "text": "Der beste Zeitpunkt, um nach einem ersten Date wieder anzurufen"
                 },
                 {
                     "text": "Der beste Zeitpunkt für den Weltuntergang"
