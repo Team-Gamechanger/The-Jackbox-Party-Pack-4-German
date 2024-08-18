@@ -3330,7 +3330,7 @@
                     "text": "Wer würde am ehesten ein Bild seiner Genitalien auf Tinder senden?"
                 },
                 {
-                    "text": "Der beste Anwalt, nachdem du des Mordes beschuldigt wurdest"
+                    "text": "Der beste Anwalt, wenn du wegen Mord angeklagt bist"
                 }
             ],
             "prompt": {
@@ -3374,7 +3374,7 @@
                 }
             ],
             "prompt": {
-                "text": "Ein guter Name für einen Elfenhelfer vom Weihnachtsmann"
+                "text": "Ein guter Name für einen Helfer vom Weihnachtsmann"
             },
             "facts": []
         },
@@ -3413,10 +3413,10 @@
                     "text": "Diese Person würde wahrscheinlich den besten Batman abgeben"
                 },
                 {
-                    "text": "Bei diesem Promi wäre es am ehesten okay, jede Nacht von ihm träumen zu müssen"
+                    "text": "Von wem würdest du am liebsten jede Nacht träumen müssen?"
                 },
                 {
-                    "text": "Dieser Promi wäre der beste Bundeskanzler"
+                    "text": "Wer wäre der beste Bundeskanzler?"
                 }
             ],
             "prompt": {
@@ -3473,7 +3473,7 @@
         {
             "decoys": [
                 {
-                    "text": "Bulle"
+                    "text": "Stier"
                 },
                 {
                     "text": "Hering"
@@ -3548,7 +3548,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Das Tier, das in Menschenkleidung am lustigsten aussehen würde"
+                    "text": "Das Tier, das in Ballkleid am lustigsten aussehen würde"
                 },
                 {
                     "text": "Das Tier, das wahrscheinlich am besten schmeckt"
@@ -3686,7 +3686,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Dieses Tier auf die eigenen Motorhaube lackiert am coolsten aussehen"
+                    "text": "Das Tier, das auf die eigene Motorhaube lackiert am coolsten aussehen würde"
                 },
                 {
                     "text": "Der beste Ersatz für den Schlitten des Weihnachtsmannes, wenn die Rentiere wieder Durchfall haben"
@@ -3807,7 +3807,7 @@
                     "text": "Pikachu"
                 },
                 {
-                    "text": "Mickey Maus"
+                    "text": "Micky Maus"
                 },
                 {
                     "text": "Goofy"
@@ -3916,7 +3916,7 @@
             "category": "Emoji",
             "twists": [
                 {
-                    "text": "Die beste Emoji-Antwort, wenn dir dein Ex schreibt"
+                    "text": "Die beste Emoji-Antwort, wenn dich dein Ex aus dem Nichts anschreibt"
                 },
                 {
                     "text": "Das beste Emoji, um es von jetzt an jeder Nachricht anzuhängen, die du deinem Chef sendest"
@@ -3939,7 +3939,7 @@
                     "text": "Knopf"
                 },
                 {
-                    "text": "Poststempel"
+                    "text": "Briefmarke"
                 },
                 {
                     "text": "Muschel"
@@ -4011,10 +4011,10 @@
                     "text": "Die beste Sache, durch die man die \u201cSchere\u201d bei Schere, Stein, Papier ersetzen könnte"
                 },
                 {
-                    "text": "Der beste Hinweis in einem Escape Room"
+                    "text": "Der beste Hinweis in einem Escape-Room"
                 },
                 {
-                    "text": "In welche dieser Sachen würdest du dich am ehesten verlieben?"
+                    "text": "In welche Sache würdest du dich am ehesten verlieben?"
                 }
             ],
             "prompt": {
@@ -4040,7 +4040,7 @@
                     "text": "Briefmarke"
                 },
                 {
-                    "text": "Penny"
+                    "text": "Cent-Stück"
                 },
                 {
                     "text": "Cracker"
@@ -4060,7 +4060,7 @@
                     "text": "Das beste Spielzeug für ein Kleinkind"
                 },
                 {
-                    "text": "Der beste Ersatz für eine Zahnbürste, wenn man in der Klemme sitzt"
+                    "text": "Der beste Ersatz für eine Zahnbürste, wenn man in der Klemme steckt"
                 }
             ],
             "prompt": {
@@ -4100,7 +4100,7 @@
             "category": "Name",
             "twists": [
                 {
-                    "text": "Das beste Synonym für \u201ceinen abseilen\u201d"
+                    "text": "Das beste Synonym für \u201cKacken\u201d"
                 }
             ],
             "prompt": {
@@ -4221,7 +4221,7 @@
                     "text": "Ruf deine Mutter an"
                 }
             ],
-            "x": false,
+            "x": true,
             "id": 48669,
             "category": "Quote",
             "twists": [
@@ -4392,7 +4392,7 @@
             "category": "Quote",
             "twists": [
                 {
-                    "text": "Der beste Ratschlag für dein jüngeres Ich"
+                    "text": "Der beste Ratschlag an dein jüngeres Ich"
                 }
             ],
             "prompt": {
@@ -5064,7 +5064,7 @@
                     "text": "Hennes die Ziege"
                 },
                 {
-                    "text": "Mickey Maus"
+                    "text": "Micky Maus"
                 },
                 {
                     "text": "Colonel Sanders"
@@ -8000,7 +8000,7 @@
             "category": "Feelings",
             "twists": [
                 {
-                    "text": "Welche Emotion ist am nützlichsten, wenn man sich Hulk verwandeln möchte?"
+                    "text": "Welche Emotion ist am nützlichsten, wenn man sich in Hulk verwandeln möchte?"
                 }
             ],
             "prompt": {
@@ -8080,7 +8080,7 @@
             "category": "Actions",
             "twists": [
                 {
-                    "text": "Die nützlichste Sache in einer postapokalyptischen Zukunft"
+                    "text": "Die nützlichste Fähigkeit in einer postapokalyptischen Zukunft"
                 }
             ],
             "prompt": {
