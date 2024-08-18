@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "682228_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, die in einem Schrank versteckt sein kann"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "682235_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Nur so nebenbei, begehbare Kleiderschränke sind der Hammer, was man da alles findet!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "682242_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Sache, die in einem Schrank versteckt sein kann?!!"
     }

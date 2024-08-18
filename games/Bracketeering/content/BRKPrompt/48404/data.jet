@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "686432_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Die nützlichste Sache in einer postapokalyptischen Zukunft"
+      "s": "Die nützlichste Fähigkeit in einer postapokalyptischen Zukunft"
     },
     {
       "t": "B",
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "686428_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Aktivität, die Leute im Mittelalter wahrscheinlich gemacht haben"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "686435_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686442_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist am nützlichsten in einer postapokalyptischen Zukunft??!"
     }

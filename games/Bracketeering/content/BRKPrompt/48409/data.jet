@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686582_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Sache, um sie in die eigene Unterhose zu tun und ein wenig darin rumzusitzen"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "686578_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gewürz oder ein Topping, das man auf Essen tun kann"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "PromptReactionAudio"
+      "v": "promptreaction",
+      "n": "PromptReactionAudio",
+      "s": "Fragt nicht warum, ein Teil dieser Antwort könnte die Bevölkerung verunsichern."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686592_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die beste Sache, um sie in die eigene Unterhose zu tun und ein wenig darin rumzusitzen??!"
     }

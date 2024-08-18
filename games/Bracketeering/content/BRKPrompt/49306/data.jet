@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "705085_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Mitbringsel auf einer Party"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "705086_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Es wäre am ironischsten, wenn du nur noch diese Sache besitzt, nachdem du alles verloren hast"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "705087_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Was würde sich am besten vergoldet an einer Halskette machen?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "705081_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne etwas, von dem du denkst, dass eine verdammt reiche Person es besitzt"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

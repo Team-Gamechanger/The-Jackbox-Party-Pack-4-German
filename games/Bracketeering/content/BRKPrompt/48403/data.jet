@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "So retro!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Altmodisch, aber cool!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "686402_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die Aktivität, die am wahrscheinlichsten ein großes Hipster-Comeback bekommt"
     },
@@ -120,19 +122,20 @@
     },
     {
       "t": "A",
-      "v": "686398_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Aktivität, die Leute vor 150 Jahren wahrscheinlich gemacht haben"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "686405_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "686412_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was wird am wahrscheinlichsten bald ein großes Hipster-Comeback haben??!"
     }

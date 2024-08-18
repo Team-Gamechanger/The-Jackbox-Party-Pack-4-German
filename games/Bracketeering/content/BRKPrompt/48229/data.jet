@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "681169_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Wissenschaft!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "681170_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das perfekte Haustier!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "681154_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Welche zwei Tiere würden den coolsten Hybriden abgeben?"
     },
@@ -133,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "681161_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Können wir Dr. Moreau hier ranholen?!"
     },
@@ -144,9 +144,9 @@
     },
     {
       "t": "A",
-      "v": "681168_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welche zwei Tiere würden zusammen den coolsten Hybrid abgeben?!!"
+      "s": "Welche zwei Tiere würden zusammen den coolsten Hybriden abgeben?!!"
     }
   ]
 }

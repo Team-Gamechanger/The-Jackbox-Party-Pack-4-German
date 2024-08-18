@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "682003_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "FKK ist im Trend!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "682004_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Privatsphäre ist überbewertet!!!"
     },
@@ -122,20 +122,20 @@
     },
     {
       "t": "A",
-      "v": "681988_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Ort, um dort nackt herumzulaufen"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Können wir Dr. Moreau hier ranholen?!"
+      "s": "Definitiv nicht dieser Ort, denn ich - ähh - trage eine Hose."
     },
     {
       "t": "B",
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "682002_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Ort, um dort splitterfasernackt herumzulaufen?!!"
     }

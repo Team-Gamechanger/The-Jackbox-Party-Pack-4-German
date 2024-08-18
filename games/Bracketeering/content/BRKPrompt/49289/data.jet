@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704591_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Zeitpunkt, um eine ganze Pizza alleine zu verdrücken"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704592_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Zeitpunkt, um nach einem ersten Date wieder anzurufen"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704593_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Zeitpunkt für den Weltuntergang"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704587_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704861_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "In wessen Haus würdest du am liebsten eine Nacht verbringen?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704862_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Wer verdient eine Backpfeife?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704863_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Nach dieser Person sollte eine Grundschule benannt werden"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704857_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine prominente Person"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

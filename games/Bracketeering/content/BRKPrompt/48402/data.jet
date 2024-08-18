@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686372_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die erträglichste Tätigkeit, wenn man sie bis ans Ende aller Tage machen müsste"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686368_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine sehr langweilige Tätigkeit"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "686375_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Sisyphos wird Augen machen!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686382_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist am erträglichsten, wenn man es bis ans Ende aller Tage machen müsste??!"
     }

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686552_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Emotion für einen Hirnchirurgen, während er dich operiert"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686548_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Emotion"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686562_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die BESTE Emotion für einen Hirnchirurgen, während er an einem herumdoktort?!"
     }

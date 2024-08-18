@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Furchterregend!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Gruuuuuselig!"
     },
     {
       "t": "B",
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "682318_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die gruseligste Sache, die man sagen kann, um sich zu verabschieden"
     },
@@ -131,7 +133,7 @@
     },
     {
       "t": "A",
-      "v": "682325_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich persönlich sage nie \"Lebe wohl\". Oh, warte, ich hab's ja jetzt gesagt. So viel dazu..."
     },
@@ -142,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "682332_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die GRUSELIGSTE Sache, die man sagen kann, wenn man sich verabschiedet?!"
     }

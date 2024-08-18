@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686642_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die Sportart, die einem Nerd am ehesten liegen würde"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686638_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sportart"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Fragt nicht warum, ein Teil dieser Antwort könnte die Bevölkerung verunsichern."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686652_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die Sportart, die einem Nerd am ehesten taugen würde??!"
     }

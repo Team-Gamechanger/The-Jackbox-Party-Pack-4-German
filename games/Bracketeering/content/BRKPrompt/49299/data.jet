@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704891_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Tätigkeit, um plötzlich dabei “auszurasten”"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704892_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Titel für eine Seifenoper"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704893_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der schrecklichste Zweitname"
     },
@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "704887_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Nenne eine “Tätigkeit”"
+      "s": "Nenne ein Verb"
     },
     {
       "t": "B",
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

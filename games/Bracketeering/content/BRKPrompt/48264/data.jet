@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "682213_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Luzifer!!"
     },
@@ -48,19 +48,20 @@
     },
     {
       "t": "A",
-      "v": "682214_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Beelzebub!!!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win2Audio"
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "Satan!!"
     },
     {
       "t": "B",
@@ -122,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "682198_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der Ort, an dem sich am wahrscheinlichsten der Eingang zur Hölle befindet"
     },
@@ -133,7 +134,7 @@
     },
     {
       "t": "A",
-      "v": "682205_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Verbannt alle jene, die diese Klammer nicht überstehen!"
     },
@@ -144,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "682212_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wo befindet sich am wahrscheinlichsten der Eingang zur Hölle?!!"
     }

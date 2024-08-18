@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "682288_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Satz, den man unbedingt in jeder Sprache sagen können sollte"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "682302_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welchen Satz MUSS man einfach in jeder Sprache sagen können!??"
     }

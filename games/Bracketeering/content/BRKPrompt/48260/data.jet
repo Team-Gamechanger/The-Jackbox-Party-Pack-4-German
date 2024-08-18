@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "682093_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Pfui!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "682094_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Widerlich!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "682095_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Zum Kotzen!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "682096_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Einfach nur ekelhaft!"
     },
@@ -124,19 +124,20 @@
     },
     {
       "t": "A",
-      "v": "682078_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die ekligste Sache, in die man seine Hand hineinstecken kann"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "682085_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Auf meinen Fingern steht Bracketeering, aber ich habe auch viele Finger!"
     },
     {
       "t": "B",
@@ -145,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "682092_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die EKELHAFTESTE Sache, in die man seine Hand stecken kann??!"
     }

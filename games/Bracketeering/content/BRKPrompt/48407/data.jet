@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "686522_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Welche Emotion ist am nützlichsten, wenn man sich Hulk verwandeln möchte?"
+      "s": "Welche Emotion ist am nützlichsten, wenn man sich in Hulk verwandeln möchte?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686518_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Emotion"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686532_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche Emotion braucht man, um sich in Hulk zu verwandeln??!"
     }

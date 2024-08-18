@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "681199_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Besser als Unterricht!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "681200_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Holt den Fernseher-Schrank!"
     },
@@ -122,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "681184_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der Film, der in 100 Jahren am ehesten im Geschichtsunterricht gezeigt werden sollte"
     },
@@ -144,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "681198_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Film sollte in 100 Jahren im Geschichtsunterricht gezeigt werden??!"
     }

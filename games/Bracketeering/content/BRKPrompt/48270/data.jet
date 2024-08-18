@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "682393_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Igitt!!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "682394_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Das ist ja widerlich!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "682395_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Pfui, widerwärtig!"
     },
@@ -70,7 +70,7 @@
     },
     {
       "t": "A",
-      "v": "682396_0f",
+      "v": "win3",
       "n": "Win3Audio",
       "s": "Ich glaub', mir wird schlecht!"
     },
@@ -124,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "682378_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die ekligste Sache, die jemand hochwürgen könnte"
     },
@@ -135,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "682385_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Als wäre allein das Konzept \"hochwürgen\" nicht schon eklig genug!"
     },
@@ -146,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "682392_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die absolut ekelhafteste Sache, die jemand hochwürgen könnte??!"
     }

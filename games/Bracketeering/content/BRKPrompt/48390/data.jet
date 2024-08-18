@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686024_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die komischste Nachricht, die man einer Brieftaube ans Bein binden könnte"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686038_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die KOMISCHSTE Nachricht, die man einer Brieftaube ans Bein binden kann?!"
     }

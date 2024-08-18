@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "682108_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der Ort, an dem Tetrapak-Wein besonders unangebracht ist"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "PromptReactionAudio"
+      "v": "promptreaction",
+      "n": "PromptReactionAudio",
+      "s": "Tetrapak-Wein: Der ultimative Konflikt zwischen \"Quadratisch, praktisch, gut\" und \"Würdevoller Genuss\"."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "682122_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wo ist Tetrapak-Wein ein echtes No-Go??!"
     }

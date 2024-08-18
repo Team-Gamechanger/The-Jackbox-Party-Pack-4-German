@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686192_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Sache, um sie nach einer Magen-Darm-Grippe zu essen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686188_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Frühstücksessen"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686202_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist die beste erste Mahlzeit nach einer Magen-Darm-Grippe??!"
     }

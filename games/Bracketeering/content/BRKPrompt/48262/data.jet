@@ -32,33 +32,36 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ich will es! JETZT!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Her damit!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win2Audio"
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "Uuund meins!"
     },
     {
       "t": "B",
@@ -120,19 +123,20 @@
     },
     {
       "t": "A",
-      "v": "682138_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, die man stehlen kann"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "682145_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Tetrapak-Wein: Der ultimative Konflikt zwischen \"Quadratisch, praktisch, gut\" und \"Würdevoller Genuss\"."
     },
     {
       "t": "B",
@@ -141,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "682152_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Sache, die man stehlen kann?!"
     }

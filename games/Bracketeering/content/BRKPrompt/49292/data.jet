@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704681_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Was ist am lustigsten?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704682_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Passwort"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704683_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Rezension für dieses Spiel"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704677_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe einfach irgendwas. Wirklich. Einfach irgendwas."
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

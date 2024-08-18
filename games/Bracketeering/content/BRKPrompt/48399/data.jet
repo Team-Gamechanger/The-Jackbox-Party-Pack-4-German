@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686282_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wer hätte heute die meisten Follower auf Instagram?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686278_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine historische Figur"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686292_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche historische Figur hätte GARANTIERT die meisten Instagram-Follower?"
     }

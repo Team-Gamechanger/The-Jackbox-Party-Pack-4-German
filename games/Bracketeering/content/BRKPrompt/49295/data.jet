@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704771_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Was zerstört am wahrscheinlichsten deine politische Karriere, wenn du es im Bundestag sagst?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704772_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der Satz, der unbedingt von einem Flugzeug in den Himmel geschrieben werden sollte"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704773_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Google-Maps-Rezension"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704767_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

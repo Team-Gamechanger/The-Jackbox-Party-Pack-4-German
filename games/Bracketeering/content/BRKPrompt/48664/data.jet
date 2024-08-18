@@ -89,7 +89,7 @@
       "t": "A",
       "v": "693741_0f",
       "n": "Twist0Audio",
-      "s": "Hat wahrscheinlich die meisten Bakterien auf seiner Oberfläche"
+      "s": "Was beherbergt wahrscheinlich die meisten Bakterien?"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "693737_0f",
       "n": "PromptAudio",
-      "s": "Nenne etwas was du in einem Badezimmer finden würdest"
+      "s": "Nenne etwas, was du in einem Badezimmer finden würdest"
     },
     {
       "t": "B",
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "693751_0f",
       "n": "FinalReactionAudio",
-      "s": "Was hiervon hat am MEISTEN Bakterien auf seiner Oberfläche?!"
+      "s": "Was beherbergt die meisten Bakterien??!"
     }
   ]
 }

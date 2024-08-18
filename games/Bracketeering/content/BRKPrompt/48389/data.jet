@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "685994_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das Versteck, mit dem man auf jeden Fall beim Versteckenspielen gewinnt"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "686001_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Eckstein, Eckstein, alles muss versteckt sein!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686008_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wo gewinnt man beim Versteckenspielen auf jeden Fall??!"
     }

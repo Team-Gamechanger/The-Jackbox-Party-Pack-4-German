@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704801_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Tier, das deine Kinder am besten beschützen könnte"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704802_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Tattoo-Motiv für deinen Hintern"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704803_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das Tier, das am ehesten nach Hühnchen schmeckt"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704797_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

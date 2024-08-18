@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Kaufe ich sofort!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Läuft bei mir in Dauerschleife!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "686462_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für ein Schlageralbum"
     },
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "686458_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Aktivität, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
     },
@@ -132,7 +134,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "686472_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der absolut beste Name für ein Schlageralbum??!"
     }

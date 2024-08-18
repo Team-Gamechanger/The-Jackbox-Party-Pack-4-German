@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "682258_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Wort, das man beim ersten Versuch definitiv nicht richtig schreibt"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "682265_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Viel Spaß allen ohne Autokorrektur beim Antworten."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "682272_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Bei welchem Wort MUSS man einfach den Duden rausholen, weil man es beim ersten Versuch definitiv nicht richtig schreibt?!!"
     }

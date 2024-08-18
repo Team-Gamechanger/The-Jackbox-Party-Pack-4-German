@@ -89,7 +89,7 @@
       "t": "A",
       "v": "696619_0f",
       "n": "Twist0Audio",
-      "s": "Lustigste neue Mörderwaffe für CLUEDO"
+      "s": "Die lustigste neue Tatwaffe für CLUEDO"
     },
     {
       "t": "B",
@@ -100,7 +100,7 @@
       "t": "A",
       "v": "696620_0f",
       "n": "Twist1Audio",
-      "s": "Beste Grabbeigabe"
+      "s": "Die beste Grabbeigabe"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "696621_0f",
       "n": "Twist2Audio",
-      "s": "Beste Sache um sie in eine Pinata zu tun"
+      "s": "Die beste Sache, mit der man eine Pinata füllen kann"
     },
     {
       "t": "B",
@@ -122,7 +122,7 @@
       "t": "A",
       "v": "696615_0f",
       "n": "PromptAudio",
-      "s": "Nenne ein kleines Objekt"
+      "s": "Nenne eine kleine Sache"
     },
     {
       "t": "B",
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

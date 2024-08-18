@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Jeden Freitag, 20:15 Uhr!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "686492_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für deine eigene TV-Show"
     },
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "686488_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Emotion"
     },
@@ -132,7 +133,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Sisyphos wird Augen machen!"
     },
     {
       "t": "B",
@@ -141,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "686502_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Name für die eigene TV-Show??!"
     }

@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "682348_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das effektivste Mittel gegen Schluckauf"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "682362_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DAS effektivste Mittel gegen Schluckauf?!"
     }

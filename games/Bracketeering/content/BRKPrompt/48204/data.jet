@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680407_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Zum Totlachen!!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "680408_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Ich krieg' mich nicht mehr ein!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "680409_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "LOL!!"
     },
@@ -123,7 +123,7 @@
     },
     {
       "t": "A",
-      "v": "680392_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das lustigste Wort der deutschen Sprache"
     },
@@ -145,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "680406_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das LUSTIGSTE Wort unserer deutschen Sprache?!!"
     }

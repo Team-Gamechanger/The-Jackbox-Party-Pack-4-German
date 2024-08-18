@@ -100,7 +100,7 @@
       "t": "A",
       "v": "697488_0f",
       "n": "Twist1Audio",
-      "s": "Bei diesem Promi wäre es am ehesten okay, jede Nacht von ihm träumen zu müssen"
+      "s": "Von wem würdest du am liebsten jede Nacht träumen müssen?"
     },
     {
       "t": "B",
@@ -111,7 +111,7 @@
       "t": "A",
       "v": "697489_0f",
       "n": "Twist2Audio",
-      "s": "Dieser Promi wäre der beste Bundeskanzler"
+      "s": "Wer wäre der beste Bundeskanzler?"
     },
     {
       "t": "B",
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

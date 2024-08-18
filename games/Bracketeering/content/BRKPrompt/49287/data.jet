@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704531_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Hier hängen Teenager am ehesten rum, wenn ihre traurige Kleinstadt sonst nichts hergibt"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704532_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Was ist am wahrscheinlichsten nur eine Fassade für Geldwäsche?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704533_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Hierhin sollte ein frisch aufgetauter Höhlenmensch zuerst gehen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704527_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Laden oder ein Restaurant"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

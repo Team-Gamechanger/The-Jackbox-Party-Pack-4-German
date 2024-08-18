@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686222_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Job, um was von der Arbeit mitgehen zu lassen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686218_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Beruf"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "686225_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich habe Kisten voller Mikrofone in meiner Garage."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686232_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Job, um was von der Arbeit mitgehen zu lassen?"
     }

@@ -37,7 +37,7 @@
     },
     {
       "t": "A",
-      "v": "680437_0f",
+      "v": "win0",
       "n": "Win0Audio",
       "s": "Sieger der Herzen!"
     },
@@ -48,7 +48,7 @@
     },
     {
       "t": "A",
-      "v": "680438_0f",
+      "v": "win1",
       "n": "Win1Audio",
       "s": "Mich kriegst du damit!!!"
     },
@@ -59,7 +59,7 @@
     },
     {
       "t": "A",
-      "v": "680439_0f",
+      "v": "win2",
       "n": "Win2Audio",
       "s": "Da werd' ich ja glatt rot!"
     },
@@ -123,19 +123,20 @@
     },
     {
       "t": "A",
-      "v": "680422_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Der beste Anmachspruch"
+      "s": "Der beste Anmachspruch aller Zeiten"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "680429_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Diese Frage ist NICHT familien- und jungfrauenfreundlich!"
     },
     {
       "t": "B",
@@ -144,7 +145,7 @@
     },
     {
       "t": "A",
-      "v": "680436_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der UNUMSTRITTEN beste Anmachspruch?!!"
     }

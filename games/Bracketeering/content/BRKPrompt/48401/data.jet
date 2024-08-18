@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "686342_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die coolste Sache, die eine Oma auf einem Foto tun könnte"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "686338_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine sehr langweilige Tätigkeit"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "686345_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe sehr, die haben auch Kölsch!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686352_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die COOLSTE Sache, die eine Oma auf einem Foto tun könnte?"
     }

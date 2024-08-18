@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704621_1",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Damit würdest du in den Nachrichten alle umhauen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704622_1",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Weg, nicht mehr an Sex zu denken"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704623_1",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Was wäre die beste olympische Disziplin?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704617_1",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Verb"
     },
@@ -143,7 +143,7 @@
       "t": "A",
       "v": "",
       "n": "FinalReactionAudio",
-      "s": "Was ist DER beste Name für eine Band von Toggo?!"
+      "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }
   ]
 }

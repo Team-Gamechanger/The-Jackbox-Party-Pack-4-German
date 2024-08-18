@@ -120,20 +120,20 @@
     },
     {
       "t": "A",
-      "v": "681484_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte"
+      "s": "Die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte, wenn er in deine Zukunft blickt"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Können wir Dr. Moreau hier ranholen?!"
+      "s": "Also jetzt einmal vorausgesetzt, dass er in seiner Kugel wirklich etwas sieht..."
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "681498_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte?!"
     }
