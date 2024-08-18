@@ -175,15 +175,6 @@
     {
       "x": true,
       "personal": "",
-      "id": 16005,
-      "portrait": false,
-      "category": "Sich selbst googeln",
-      "bumper": "",
-      "us": true
-    },
-    {
-      "x": true,
-      "personal": "",
       "id": 16086,
       "portrait": false,
       "category": "Schuldig",
@@ -551,6 +542,42 @@
       "us": false
     },
     {
+      "x": true,
+      "personal": "",
+      "id": 43367,
+      "portrait": false,
+      "category": "Der Mais ist heiß",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43370,
+      "portrait": false,
+      "category": "Wiener Elefanten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43373,
+      "portrait": false,
+      "category": "Harte Nüsse",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43374,
+      "portrait": false,
+      "category": "Kinderschmuck",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": false,
       "personal": "",
       "id": 43520,
@@ -646,6 +673,15 @@
       "id": 43567,
       "portrait": false,
       "category": "Isländische Kontroversen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43570,
+      "portrait": false,
+      "category": "Royaler Tratsch",
       "bumper": "",
       "us": false
     },

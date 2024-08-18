@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Fleischklöpse,Vogelscheuchen,Omelette,Sushi,Pfannkuchen,Wiener Würstchen,Kürbisse,Eiscreme,Erdnüsse,Pizza,M&Ms,Benjamin-Blümchen-Torte,Zuckerstangen,ein Sofa,Marshmallows,Thüringer Klöße,Radieschen,Steak",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Wiener Elefanten",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Weihnachtsbäume",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Einmal im Jahr dürfen die Elefanten im Wiener Tiergarten Schönbrunn <BLANK> fressen.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Bäume,Tannenbäume,Lichterbäume,Christbäume,Weihnachts Bäume",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Weihnachtsbäume",
       "t": "A",
-      "v": "564135_0",
+      "v": "561538_1",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Einmal im Jahr dürfen die Elefanten im Wiener Tiergarten Schönbrunn <BLANK> fressen.",
       "t": "A",
-      "v": "564132_0",
+      "v": "561535_0",
       "n": "QuestionAudio"
     }
   ]

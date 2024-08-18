@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "sich einen Mann,einen Zoo,einen Computer,ein neues Auto,einen Garten,sich ein Kind,die Fahrkarte,die Gans,ein neues Paar Schuhe,eine Angel,einen Spiegel,Hühner,ein Pferd,Löffel,eine Hutfabrik,eine Mistgabel,eine Zeitung,einen Fernseher",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "ein Ferkel",
       "n": "CorrectText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: \"Die Frau hatte keine Probleme, also kaufte sie <BLANK>\".",
       "n": "QuestionText"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Ferkel,ein Ferkelchen,Ferkelchen,das Ferkel,das Ferkelchen,ein Babyschwein,Babyschweine,das Babyschwein,ein Babyschweinchen,Babyschweinchen,das Babyschweinchen,ein Schwein,Schweine,sich ein Ferkel,sich ein Ferkelchen,sich Ferkelchen,sich Ferkel,sich ein Babyschwein,sich Babyschweine,sich ein Schwein,sich Schweine,ein Schweinchen,sich ein Schweinchen,das Schweinchen,sich das Schweinchen,Schweinchen",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "565116_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +86,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]ein Ferkel",
       "t": "A",
-      "v": "564135_0",
+      "v": "565114_0f",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: \"Die Frau hatte keine Probleme, also kaufte sie <BLANK>\".",
       "t": "A",
-      "v": "564132_0",
+      "v": "565111_0",
       "n": "QuestionAudio"
     }
   ]

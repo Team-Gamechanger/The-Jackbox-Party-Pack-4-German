@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "betrunkener Teenager,Hinterwäldler,Nudisten,Vogelscheuchen,Vampirfledermäuse,Freimaurer,Harry-Potter-Fans,Politiker,verliebter Pärchen,radioaktiver Hirsche,Jonglierer,Labyrinthe,Maler,riesiger Hasen,Weltkriegsbomben,Drogendealer,Tunnel der Mafia,Bauern",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Der Mais ist heiß",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "kannibalischer Hamster",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die französischen Maisfelder waren voller <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Hamster,Kannibalen,fleischessender Hamster,fleischfressender Hamster,Kannibalen-Hamster,Hamster-Kannibalen",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]kannibalischer Hamster",
       "t": "A",
-      "v": "564135_0",
+      "v": "561463_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die französischen Maisfelder waren voller <BLANK>.",
       "t": "A",
-      "v": "564132_0",
+      "v": "561460_0",
       "n": "QuestionAudio"
     }
   ]

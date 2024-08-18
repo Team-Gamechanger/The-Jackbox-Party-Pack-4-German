@@ -27,17 +27,17 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "singen,das Alphabet aufzählen,baden,Rosen pflücken,gurgeln,Krebs heilen,stehlen,Steuern zahlen,lachen,Zitronen lutschen,sprechen,flüstern,küssen,Grimassen schneiden,Salz lecken,den Boden blank polieren,die Kuh verkaufen,in die Sonne schauen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Müttcherchen Russland",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Honig trinken",
       "n": "CorrectText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: \"Mit deinen Lippen würde ich gern' <BLANK>.” ",
       "n": "QuestionText"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Honig essen,trinken",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "565291_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +86,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Honig trinken",
       "t": "A",
-      "v": "564135_0",
+      "v": "565289_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: \"Mit deinen Lippen würde ich gern' <BLANK>.” ",
       "t": "A",
-      "v": "564132_0",
+      "v": "565286_0",
       "n": "QuestionAudio"
     }
   ]

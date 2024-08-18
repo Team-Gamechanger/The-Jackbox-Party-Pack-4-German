@@ -6,7 +6,7 @@
       "personal": "",
       "id": 43321,
       "portrait": false,
-      "category": "Ohlways Sey Nevrl",
+      "category": "Mütterchen Russland",
       "bumper": "Russian",
       "us": false
     },
@@ -51,7 +51,7 @@
       "personal": "",
       "id": 43502,
       "portrait": false,
-      "category": "Yoo Vill Eet Thees",
+      "category": "Mütterchen Russland",
       "bumper": "Russian",
       "us": false
     },
@@ -69,7 +69,61 @@
       "personal": "",
       "id": 43512,
       "portrait": false,
-      "category": "Hoo Dahzent Noh Thet?",
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43526,
+      "portrait": false,
+      "category": "Liebe und Hiebe",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43527,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43554,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43555,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43556,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43562,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
       "bumper": "Russian",
       "us": false
     },
@@ -160,6 +214,15 @@
       "id": 51010,
       "portrait": false,
       "category": "Nicht allein",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51011,
+      "portrait": false,
+      "category": "Promi-Tweet",
       "bumper": "SayWhat",
       "us": false
     }

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "ein Blumentopf,ein Vogel,ein Bumerang,ein Diamantenring,eine Tasse,ein Brandherd,eine Zeitung,ein Teekessel,ein Ball,eine Knoblauchzehe,ein Knochen,ein Stein,das letzte Hemd,ein Buch,eine Magd,eine Geige,ein Großvater,ein Holzbein",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "eine Kartoffel",
       "n": "CorrectText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: \"Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.\"",
       "n": "QuestionText"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Kartoffeln,die Kartoffel,eine Süßkartoffel,die Süßkartoffel,ein Erdapfel,der Erdapfel",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "565091_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +86,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]eine Kartoffel",
       "t": "A",
-      "v": "564135_0",
+      "v": "565089_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: \"Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.\"",
       "t": "A",
-      "v": "564132_0",
+      "v": "565086_0",
       "n": "QuestionAudio"
     }
   ]

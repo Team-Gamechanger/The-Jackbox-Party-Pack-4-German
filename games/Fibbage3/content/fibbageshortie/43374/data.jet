@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Segelbooten,Wölfen,Hexen,Gladiatoren,einem toten Schwein,Adlern,Kerzen,schwangeren Frauen,Pferdeäpfeln,einem Speer,Löffeln,einem Hintern,erotischen Einhörnern,Füßen,Oktopussen,einem Blutstropfen,Jupiter mit Erektion,einer Lammkeule",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Kinderschmuck",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "fliegenden Penissen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom “Fascina”, Amulette in Form von <BLANK>, tragen. ",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Penissen,Penes,fliegenden Penes,einem Penis,einem fliegenden Penis",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]fliegenden Penissen",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom “Fascina”, Amulette in Form von <BLANK>, tragen. ",
       "t": "A",
-      "v": "564132_0",
+      "v": "561635_0",
       "n": "QuestionAudio"
     }
   ]

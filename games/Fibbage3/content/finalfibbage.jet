@@ -40,6 +40,78 @@
     {
       "x": false,
       "personal": "",
+      "id": 43483,
+      "portrait": false,
+      "category": "Monsters",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43559,
+      "portrait": false,
+      "category": "Mail Rule",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43724,
+      "portrait": false,
+      "category": "Celebrations",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43851,
+      "portrait": false,
+      "category": "Drinking",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44063,
+      "portrait": false,
+      "category": "Villainy",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44114,
+      "portrait": false,
+      "category": "Specific Smells",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44149,
+      "portrait": false,
+      "category": "complex people",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44152,
+      "portrait": false,
+      "category": "Dutch Crime",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 48276,
       "portrait": false,
       "category": "Volkswagen",
@@ -52,6 +124,15 @@
       "id": 52000,
       "portrait": false,
       "category": "Großstadtfieber",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52001,
+      "portrait": false,
+      "category": "",
       "bumper": "",
       "us": false
     }

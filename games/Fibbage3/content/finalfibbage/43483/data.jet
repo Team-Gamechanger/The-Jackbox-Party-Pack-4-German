@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Nilpferd|Elefant,Eichhörnchen|Hirsch,Otter|Hai,Wolf|Bär,Oktopus|Hund,Wolf|Werwolf,Mensch|Schnecke,Marsmensch|Drache,Esel|Fisch,Meerjungfrau|Einhorn,Krabbe|Hummer,Elch|Gans,Fischer|Garnele,gefroren|kochend heiß,Hund|Katzenwels,Milch|Zucker,Delfin|Bär,Pirat|Seegurke",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Monsters",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Aal|Schwein",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Solltet ihr einmal am Herrington Lake im US-amerikanischen Kentucky sein, haltet die Augen offen nach dem angeblichen Monster, das halb <BLANK> und halb <BLANK> sein soll.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Schwein|Aal,Schweinchen|Aal,Aal|Schweinchen,Aal|Ferkel,Ferkel|Aal,Aal|Eber,Eber|Aal",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Aal|Schwein",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Solltet ihr einmal am Herrington Lake im US-amerikanischen Kentucky sein, haltet die Augen offen nach dem angeblichen Monster, das halb <BLANK> und halb <BLANK> sein soll.",
       "t": "A",
-      "v": "564132_0",
+      "v": "563380_0",
       "n": "QuestionAudio"
     }
   ]

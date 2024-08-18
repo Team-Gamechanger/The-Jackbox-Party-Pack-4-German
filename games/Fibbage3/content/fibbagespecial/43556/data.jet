@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasKeywordAudio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Mais,Schmerzen,Meerrettich,Aale,Käse,Sahne,Mist,Borschtsch,Süßigkeiten,Tomaten,Rinde,Brot,Erdbeeren,Mandeln,Minze,Kohle,Zwiebeln,Heu",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Salz",
       "n": "CorrectText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: “Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.”",
       "n": "QuestionText"
     },
     {
@@ -67,18 +67,19 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Meersalz,Saltz",
       "n": "AlternateSpellings"
     },
     {
       "s": "[category=host]",
       "t": "A",
+      "v": "570927_0",
       "n": "KeywordResponseAudio"
     },
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "565141_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +87,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Salz",
       "t": "A",
-      "v": "564135_0",
+      "v": "565139_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: “Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.”",
       "t": "A",
-      "v": "564132_0",
+      "v": "565136_0",
       "n": "QuestionAudio"
     }
   ]

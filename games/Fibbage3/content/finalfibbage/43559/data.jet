@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Unterhosen|BHs,Marmelade|Konserven,Bier|Likör,Mäuse|Ratten,Wasser|Apfelsaft,Zahnbürsten|Zahnpasta,Pudding|Wackelpudding,Münzen|Geldscheine,Pistolen|Munition,DVDs|CDs,Kohl|Salat,Vanilleeis|Erdbeereis,Katzen|Hunde,Raketen|Raketenwerfer,Bleistifte|Kugelschreiber,Löffel|Gabeln,Nägel|Hammer,Senf|Ketchup",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Mail Rule",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Skorpione|Spinnen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Im Jahr 2013 musste das Postamt von San Diego die Menschen an ein Gesetz erinnern, nach dem man zwar <BLANK>, aber nicht <BLANK> verschicken darf.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Skorpione|Spinnen",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Im Jahr 2013 musste das Postamt von San Diego die Menschen an ein Gesetz erinnern, nach dem man zwar <BLANK>, aber nicht <BLANK> verschicken darf.",
       "t": "A",
-      "v": "564132_0",
+      "v": "565211_0",
       "n": "QuestionAudio"
     }
   ]

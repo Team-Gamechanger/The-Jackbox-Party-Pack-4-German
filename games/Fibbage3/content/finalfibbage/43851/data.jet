@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "das Blut|Ziegen,die Milch|einem Gorilla,den Urin|ihrer Großmutter,den Regen|einem Hurrikan,den Schweiß|ihren Vätern,das Öl|einem alten Auto,die Tränen|Clowns,das Gift|Anakondas,das Wasser|öffentlichen Toiletten,den Wein|Toten,den Saft|einer vergammelten Banane,die Spucke|ihrem Vater,das Shampoo|ihrer Schwester,die Tränen|ihren Konkurrenten,das Erbrochene|Fischen,die Innere|einer Windel,das Bier|ihren Vorfahren,die Spucke|ihren Hunden",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Drinking",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "das Sperma|jungen Männern",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Als Teil ihrer Entwicklung zum erwachsenen Mann müssen die Jungen des Sambia-Stammes in Papua-Neuguinea <BLANK> von <BLANK> trinken.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "das Sperma|Männern,das Sperma|älteren Männern,das Sperma|anderen Männern,Sperma|jungen Männern,Sperma|Männern,Sperma|älteren Männern,Sperma|anderen Männern",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]das Sperma|jungen Männern",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Als Teil ihrer Entwicklung zum erwachsenen Mann müssen die Jungen des Sambia-Stammes in Papua-Neuguinea <BLANK> von <BLANK> trinken.",
       "t": "A",
-      "v": "564132_0",
+      "v": "571382_0",
       "n": "QuestionAudio"
     }
   ]

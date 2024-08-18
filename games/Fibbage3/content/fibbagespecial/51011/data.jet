@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -17,42 +17,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Dackel,Pünktliche Züge,Laptops,Regenbogen-Enten,Schweizer Uhren,Arbeitsverträge,Steuererklärungen,Meine Schwiegereltern,Taschenbücher,Kassetten,Android-Smartphones,Rentner im Sonnenstudio,Junge Menschen an FKK-Stränden,Wirklich lustige Witze,Innovative Fernsehsendungen,Umweltfreundliche Autos,Geschmackvolle Türmatten,Gutriechende Teenager",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Promi-Tweet",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Beinamputierte Ameisen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
+      "v": "SayWhat",
       "n": "BumperType"
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Hazel Brugger tweetete “Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.”",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "23:47 Uhr<br />21. Mai 2014",
       "n": "SocialMediaDate"
     },
     {
@@ -62,12 +62,12 @@
     },
     {
       "t": "S",
-      "v": "",
+      "v": "@hazelbrugger",
       "n": "SocialMediaName"
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "Ameisen,Bein amputierten Ameisen,Ameisen ohne Beine,Feuerameisen,Amputierten Ameisen,beinlosen Ameisen",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +85,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Beinamputierte Ameisen",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Hazel Brugger tweetete “Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.”",
       "t": "A",
-      "v": "564132_0",
       "n": "QuestionAudio"
     }
   ]

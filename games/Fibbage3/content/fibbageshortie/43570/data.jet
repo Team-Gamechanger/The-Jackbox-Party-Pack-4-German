@@ -2,17 +2,17 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasKeywordAudio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Basketball,Krocket,Scharade,Boccia,Quiplash,Cards Against Humanity,Mensch ärgere dich nicht,Poker,Twister,Reise nach Jerusalem,Risiko,Wahrheit oder Pflicht,Dart,Minecraft,Volleyball,Schach,Mario Kart,Werwolf",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Royaler Tratsch",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "Monopoly",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es “zu gemein” wird.",
       "n": "QuestionText"
     },
     {
@@ -67,18 +62,18 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "",
       "n": "AlternateSpellings"
     },
     {
       "s": "[category=host]",
       "t": "A",
+      "v": "571022_0",
       "n": "KeywordResponseAudio"
     },
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +81,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]Monopoly",
       "t": "A",
-      "v": "564135_0",
+      "v": "565473_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es “zu gemein” wird.",
       "t": "A",
-      "v": "564132_0",
+      "v": "565470_0",
       "n": "QuestionAudio"
     }
   ]

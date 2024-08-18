@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Taschendiebstähle|Mäusefallen,Autodiebstähle|Autobomben,Graffiti|teflonbeschichteten Wänden,Bankräube|falschen Banken,bei Rot über die Ampel gehen|Kampfhunden,Korruption|einem Beschwerdebriefkasten,Übergewicht|Hypnose,den Drogenmissbrauch|Feiern,organisierte Kriminalität|Wetttänzen,die Erderwärmung|Rollerskates,Obdachlosigkeit|großen Koffern,Feuer|Feuer,Kriminelle Banden|Messern,Schwarzfahrer|kostenlosen Süßigkeiten,Wildpinkler|kostenloser Unterwäsche,Raser|falschen Kinderwägen,Kneipenprügeleien|einem Tiger,Internetkriminalität|dem Nintendo Power Glove",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dutch Crime",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Drohnen|Adlern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2017 sorgte die niederländische Polizei weltweit für Schlagzeilen, als sie ankündigte, in Zukunft <BLANK> mit <BLANK> bekämpfen zu wollen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Drohnen|Vögeln,Verbrechen|Vögeln,Straftaten|Vögeln,Kriminalität|Vögeln,Verbrechen|Adlern,Straftaten|Adlern,Kriminalität|Adlern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Drohnen|Adlern",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2017 sorgte die niederländische Polizei weltweit für Schlagzeilen, als sie ankündigte, in Zukunft <BLANK> mit <BLANK> bekämpfen zu wollen.",
+      "t": "A",
+      "v": "580143_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

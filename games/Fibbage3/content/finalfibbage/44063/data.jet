@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasBumperType"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,27 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "ein Pirat|Bomben,eine Wolke|Wasabi,ein Geist|Marshmallows,ein Ninja|Schlamm,ein Biker|Motoröl,ein Gangmitglied|Seesternen,ein Dämon|Kartoffelbrei,ein Polizist|Patronen,ein Gestaltwandler|menschlichen Zähnen,ein Surfer|Sand,ein Clown|Sägemehl,ein Alien|Lava,ein Werwolf|Teer,ein Vampir|kleineren Vampiren,ein Höhlenmensch|Schmetterlingen,ein Postbote|Briefen,ein Arzt|Spritzen,ein Professor|Rasierklingen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mütterchen Russland",
+      "v": "Villainy",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "ein Nazi|Bienen",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Russian",
-      "n": "BumperType"
-    },
-    {
-      "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Die besten Spider-Man-Schurken schaffen es nie in die Filme. Wie der böse Fritz von Meyer, der <BLANK> bestehend aus <BLANK> ist.",
       "n": "QuestionText"
     },
     {
@@ -67,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "ein Mensch|Bienen,ein Monster|Bienen,ein Nationalsozialist|Bienen,ein Nazi|Wespen,ein Mensch|Wespen,ein Monster|Wespen,ein Nationalsozialist|Wespen,ein Mann|Bienen,ein Mann|Wespen",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +73,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]ein Nazi|Bienen",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Die besten Spider-Man-Schurken schaffen es nie in die Filme. Wie der böse Fritz von Meyer, der <BLANK> bestehend aus <BLANK> ist.",
       "t": "A",
-      "v": "564132_0",
+      "v": "577253_0",
       "n": "QuestionAudio"
     }
   ]

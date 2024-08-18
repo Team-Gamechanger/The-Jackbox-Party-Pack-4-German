@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Hintern|einem Pferd,die Plazenta|einem Schwein,das Innere|einer Umkleidekabine,das Bedauern|einem One-Night-Stand,die Zigarren|Großvätern,der Furz|einem Baby,das Innere|einem Taxi aus New York,die Abgasse|einem Trabant,die Toilette|Flugzeugen,die Achsel|einem Schweißer,das Wasser|einem Schwimmbad,frisch geschnittenes Gras|einem Garten,das Leder|einem neuen Auto,der Warteraum|einem Arzt,die Tinte|einem Tintenstrahldrucker,der Atem|einem Welpen,der Kopf|einem Baby,die Farbe|frisch gestrichenen Wänden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Specific Smells",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Fell|Kätzchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2017 brachte die Firma The Library of Fragrance ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "das Fell|Babykatzen,das Haar|Babykatzen,das Haar|Kätzchen,das Fell|Katzen,das Haar|Katzen,das Fell|einer Katze,das Haar|einer Katze,das Fell|einem Kätzchen,das Haar|einem Kätzchen,das Fell|Babykätzchen,das Haar|Babykätzchen,das Fell|einer Babykatze,das Haar|einer Babykatze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]das Fell|Kätzchen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im März 2017 brachte die Firma The Library of Fragrance ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
+      "t": "A",
+      "v": "578854_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

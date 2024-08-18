@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Narren,Barkeeper,Kleinkinder,Hausfrauen,Spione,Fischer,Milchbauern,Toilettenputzer,seit der Einschulung,Postboten,Affen auf dem Baum,Piloten,Hinterwäldler,Bauern,Witwen,Schweinehirten,Toten,Ratten",
+      "v": "Kuchen essen,labern,ein Bad nehmen,Duschen,speisen,schlafen,weinen,Jagen gehen,gärtnern,ein Buch lesen,tauchen gehen,Kekse backen,Fahrrad fahren,Bier trinken,atmen,kämpfen,Suppe essen,Schlitten fahren",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Friseure",
+      "v": "spazieren gehen",
       "n": "CorrectText"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch “Erst die Arbeit, dann das Vergnügen” entspricht, lautet: “Nach getaner Arbeit kannst du kühn <BLANK>.”",
       "n": "QuestionText"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "t": "S",
-      "v": "Barbiere,Friseur,Friseurinnen",
+      "v": "einen Spaziergang machen,Spaziergänge machen,den Spaziergang machen",
       "n": "AlternateSpellings"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "564448_0",
       "n": "BumperAudio"
     },
     {
@@ -86,15 +86,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Friseure",
+      "s": "[category=host]spazieren gehen",
       "t": "A",
-      "v": "564135_0",
+      "v": "564446_0",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch “Erst die Arbeit, dann das Vergnügen” entspricht, lautet: “Nach getaner Arbeit kannst du kühn <BLANK>.”",
       "t": "A",
-      "v": "564132_0",
+      "v": "564443_0",
       "n": "QuestionAudio"
     }
   ]
