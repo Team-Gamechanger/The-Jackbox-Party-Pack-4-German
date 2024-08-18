@@ -403,6 +403,1326 @@
         {
             "decoys": [
                 {
+                    "text": "Salamipizza"
+                },
+                {
+                    "text": "Hummus"
+                },
+                {
+                    "text": "Chili con Carne"
+                },
+                {
+                    "text": "Cheeseburger"
+                },
+                {
+                    "text": "Joghurt"
+                },
+                {
+                    "text": "Hotdog"
+                },
+                {
+                    "text": "Essiggurken"
+                },
+                {
+                    "text": "Schokoladenpudding"
+                }
+            ],
+            "x": false,
+            "id": 48396,
+            "category": "Food",
+            "twists": [
+                {
+                    "text": "Die beste Sache, um sie nach einer Magen-Darm-Grippe zu essen"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendein Frühstücksessen"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Essen finden"
+                },
+                {
+                    "text": "Schwertkampf"
+                },
+                {
+                    "text": "Blut abzapfen"
+                },
+                {
+                    "text": "Rüstungen polieren"
+                },
+                {
+                    "text": "Drachen jagen"
+                },
+                {
+                    "text": "Länder entdecken"
+                },
+                {
+                    "text": "Hexen jagen"
+                },
+                {
+                    "text": "Pferde putzen"
+                }
+            ],
+            "x": false,
+            "id": 48404,
+            "category": "Actions",
+            "twists": [
+                {
+                    "text": "Die nützlichste Fähigkeit in einer postapokalyptischen Zukunft"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Aktivität, die Leute im Mittelalter wahrscheinlich gemacht haben"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Kohle abbauen"
+                },
+                {
+                    "text": "Draußen schlafen"
+                },
+                {
+                    "text": "Wölfe bekämpfen"
+                },
+                {
+                    "text": "Keuchhusten heilen"
+                },
+                {
+                    "text": "In den Krieg ziehen"
+                },
+                {
+                    "text": "Angst vor der Sonne haben"
+                },
+                {
+                    "text": "Dampfmaschinen bauen"
+                },
+                {
+                    "text": "Kerzen ziehen"
+                }
+            ],
+            "x": false,
+            "id": 48403,
+            "category": "Actions",
+            "twists": [
+                {
+                    "text": "Die Aktivität, die am wahrscheinlichsten ein großes Hipster-Comeback bekommt"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Aktivität, die Leute vor 150 Jahren wahrscheinlich gemacht haben"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Coupons ausschneiden"
+                },
+                {
+                    "text": "Rechnungen bezahlen"
+                },
+                {
+                    "text": "Müsli machen"
+                },
+                {
+                    "text": "Äpfel pflücken"
+                },
+                {
+                    "text": "Zehennägel schneiden"
+                },
+                {
+                    "text": "Mathe"
+                },
+                {
+                    "text": "Kalorien zählen"
+                },
+                {
+                    "text": "Silberbesteck polieren"
+                }
+            ],
+            "x": false,
+            "id": 48402,
+            "category": "Actions",
+            "twists": [
+                {
+                    "text": "Die erträglichste Tätigkeit, wenn man sie bis ans Ende aller Tage machen müsste"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine sehr langweilige Tätigkeit"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Summen"
+                },
+                {
+                    "text": "Ein Formular ausfüllen"
+                },
+                {
+                    "text": "Fische babysitten"
+                },
+                {
+                    "text": "Müsli essen"
+                },
+                {
+                    "text": "Sachen zählen"
+                },
+                {
+                    "text": "Nicht einschlafen können"
+                },
+                {
+                    "text": "Kerzen ziehen"
+                },
+                {
+                    "text": "Unterhosen falten"
+                }
+            ],
+            "x": false,
+            "id": 48401,
+            "category": "Actions",
+            "twists": [
+                {
+                    "text": "Die coolste Sache, die eine Oma auf einem Foto tun könnte"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine sehr langweilige Tätigkeit"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Schein"
+                },
+                {
+                    "text": "Sein"
+                },
+                {
+                    "text": "Rein"
+                },
+                {
+                    "text": "Fein"
+                },
+                {
+                    "text": "Klein"
+                },
+                {
+                    "text": "Das ist mein Rhein."
+                },
+                {
+                    "text": "Klare Antwort: Nein."
+                },
+                {
+                    "text": "Verzeihn"
+                }
+            ],
+            "x": false,
+            "id": 48400,
+            "category": "Word",
+            "twists": [
+                {
+                    "text": "Der beste Name für eine bayerische Bierstube"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Wort oder einen kurzen Satz, der mit \u201c-ein\u201d endet"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Leonardo da Vinci"
+                },
+                {
+                    "text": "Napoleon"
+                },
+                {
+                    "text": "Julius Caesar"
+                },
+                {
+                    "text": "Van Gogh"
+                },
+                {
+                    "text": "Alexander der Große"
+                },
+                {
+                    "text": "Aristoteles"
+                },
+                {
+                    "text": "Einstein"
+                },
+                {
+                    "text": "Otto von Bismark"
+                }
+            ],
+            "x": false,
+            "id": 48399,
+            "category": "People",
+            "twists": [
+                {
+                    "text": "Wer hätte heute die meisten Follower auf Instagram?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine historische Figur"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Müllmann"
+                },
+                {
+                    "text": "Bankier"
+                },
+                {
+                    "text": "Meteorologe"
+                },
+                {
+                    "text": "Comedian"
+                },
+                {
+                    "text": "Lidl-Kassierer"
+                },
+                {
+                    "text": "Pizzakoch"
+                },
+                {
+                    "text": "Ohrenarzt"
+                },
+                {
+                    "text": "Pokerspieler"
+                }
+            ],
+            "x": true,
+            "id": 48398,
+            "category": "Job",
+            "twists": [
+                {
+                    "text": "Der beste Job für ein erotisches Kostüm"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendeinen Beruf"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Taxifahrer"
+                },
+                {
+                    "text": "Ölinselarbeiter"
+                },
+                {
+                    "text": "Boxtrainer"
+                },
+                {
+                    "text": "Kapitän zur See"
+                },
+                {
+                    "text": "Nachrichtensprecher"
+                },
+                {
+                    "text": "Postbote"
+                },
+                {
+                    "text": "Hundefänger"
+                },
+                {
+                    "text": "Mechaniker"
+                }
+            ],
+            "x": false,
+            "id": 48397,
+            "category": "Job",
+            "twists": [
+                {
+                    "text": "Der beste Job, um was von der Arbeit mitgehen zu lassen"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendeinen Beruf"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Felder vorbereiten"
+                },
+                {
+                    "text": "Met machen"
+                },
+                {
+                    "text": "Erkunden"
+                },
+                {
+                    "text": "Telegramme senden"
+                },
+                {
+                    "text": "Faxen"
+                },
+                {
+                    "text": "Kartenschreiben"
+                },
+                {
+                    "text": "Lesen"
+                },
+                {
+                    "text": "Höhlenwände bekritzeln"
+                }
+            ],
+            "x": false,
+            "id": 48405,
+            "category": "Actions",
+            "twists": [
+                {
+                    "text": "Der beste Name für ein Schlageralbum"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Aktivität, die Menschen vermutlich gemacht haben, bevor der Fernseher erfunden wurde"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Alte Windel"
+                },
+                {
+                    "text": "Benutzte Kaffeefilter"
+                },
+                {
+                    "text": "Reifen"
+                },
+                {
+                    "text": "Socken"
+                },
+                {
+                    "text": "Plastikbeutel"
+                },
+                {
+                    "text": "Plastiklöffel"
+                },
+                {
+                    "text": "Süßigkeitenverpackungen"
+                },
+                {
+                    "text": "Fischgräten"
+                }
+            ],
+            "x": false,
+            "id": 48410,
+            "category": "Object",
+            "twists": [
+                {
+                    "text": "Was würde dir in einem Antiquitätenladen am ehesten 100 Euro einbringen?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne etwas, was du in einer Mülltonne oder auf einem Schrottplatz finden würdest"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Meerrettich"
+                },
+                {
+                    "text": "Mayonnaise"
+                },
+                {
+                    "text": "Ketchup"
+                },
+                {
+                    "text": "Senf"
+                },
+                {
+                    "text": "Sriracha"
+                },
+                {
+                    "text": "Salsa"
+                },
+                {
+                    "text": "Frühlingszwiebeln"
+                },
+                {
+                    "text": "Maggi"
+                }
+            ],
+            "x": false,
+            "id": 48409,
+            "category": "Food",
+            "twists": [
+                {
+                    "text": "Die beste Sache, um sie in die eigene Unterhose zu tun und ein wenig darin rumzusitzen"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Gewürz oder ein Topping, das man auf Essen tun kann"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Angst"
+                },
+                {
+                    "text": "Eifersucht"
+                },
+                {
+                    "text": "Wehmut"
+                },
+                {
+                    "text": "Hunger"
+                },
+                {
+                    "text": "Langeweile"
+                },
+                {
+                    "text": "Wut"
+                },
+                {
+                    "text": "Zweifel"
+                },
+                {
+                    "text": "Empörung"
+                }
+            ],
+            "x": false,
+            "id": 48408,
+            "category": "Feelings",
+            "twists": [
+                {
+                    "text": "Die beste Emotion für einen Hirnchirurgen, während er dich operiert"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Emotion"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Wut"
+                },
+                {
+                    "text": "Erbost"
+                },
+                {
+                    "text": "Eifersucht"
+                },
+                {
+                    "text": "Nervosität"
+                },
+                {
+                    "text": "Wehmut"
+                },
+                {
+                    "text": "Zufriedenheit"
+                },
+                {
+                    "text": "Aufregung"
+                },
+                {
+                    "text": "Verletzt"
+                }
+            ],
+            "x": false,
+            "id": 48407,
+            "category": "Feelings",
+            "twists": [
+                {
+                    "text": "Welche Emotion ist am nützlichsten, wenn man sich in Hulk verwandeln möchte?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Emotion"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Paranoia"
+                },
+                {
+                    "text": "Sorge"
+                },
+                {
+                    "text": "Müdigkeit"
+                },
+                {
+                    "text": "Wut"
+                },
+                {
+                    "text": "Freude"
+                },
+                {
+                    "text": "Ekel"
+                },
+                {
+                    "text": "Frustration"
+                },
+                {
+                    "text": "Langeweile"
+                }
+            ],
+            "x": false,
+            "id": 48406,
+            "category": "Feelings",
+            "twists": [
+                {
+                    "text": "Der beste Name für deine eigene TV-Show"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Emotion"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Diese Taube explodiert gleich"
+                },
+                {
+                    "text": "Wurde ich gerufen?"
+                },
+                {
+                    "text": "Brauchen Sie eine Unfallversicherung?"
+                },
+                {
+                    "text": "Don\u2019t @ me"
+                },
+                {
+                    "text": "Ich kann auch jonglieren!"
+                },
+                {
+                    "text": "Morgen bleibe ich Zuhause"
+                },
+                {
+                    "text": "Sie werden dich beobachten"
+                },
+                {
+                    "text": "Das ist ein Eichhörnchen, richtig?"
+                }
+            ],
+            "x": false,
+            "id": 48390,
+            "category": "Sentence",
+            "twists": [],
+            "prompt": {
+                "text": "Die komischste Nachricht, die man einer Brieftaube ans Bein binden könnte"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ein Flughafen"
+                },
+                {
+                    "text": "Die Decke"
+                },
+                {
+                    "text": "In einem Löwenkäfig"
+                },
+                {
+                    "text": "Im Pentagon"
+                },
+                {
+                    "text": "Valhalla"
+                },
+                {
+                    "text": "Weltraum"
+                },
+                {
+                    "text": "In einer Vase"
+                },
+                {
+                    "text": "In einem Netto"
+                }
+            ],
+            "x": false,
+            "id": 48389,
+            "category": "Place",
+            "twists": [],
+            "prompt": {
+                "text": "Das Versteck, mit dem man auf jeden Fall beim Versteckenspielen gewinnt"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ein totes Eichhörnchen"
+                },
+                {
+                    "text": "Ein halbes Sandwich"
+                },
+                {
+                    "text": "Einen angebissenen Donut"
+                },
+                {
+                    "text": "Die Magna Carta"
+                },
+                {
+                    "text": "Eine alte Gebrauchsanweisung"
+                },
+                {
+                    "text": "Ein Glasauge"
+                },
+                {
+                    "text": "Tickets für ein Fußballspiel"
+                },
+                {
+                    "text": "Ein Bild von Til Schweiger"
+                }
+            ],
+            "x": false,
+            "id": 48270,
+            "category": "Object",
+            "twists": [],
+            "prompt": {
+                "text": "Die ekligste Sache, die jemand hochwürgen könnte"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Mehr Schluckauf"
+                },
+                {
+                    "text": "Schreckliche, schreckliche Albträume"
+                },
+                {
+                    "text": "Die Nachrichten schauen"
+                },
+                {
+                    "text": "Eine Musicalnummer singen"
+                },
+                {
+                    "text": "Milch exen"
+                },
+                {
+                    "text": "Mord"
+                },
+                {
+                    "text": "Eine fettige Pizza"
+                },
+                {
+                    "text": "Eine überirdische Begegnung"
+                }
+            ],
+            "x": false,
+            "id": 48269,
+            "category": "Body",
+            "twists": [],
+            "prompt": {
+                "text": "Das effektivste Mittel gegen Schluckauf"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Man riecht sich!"
+                },
+                {
+                    "text": "Wir sehen uns bald wieder hehehe"
+                },
+                {
+                    "text": "Halte die Augen offen"
+                },
+                {
+                    "text": "Ich rufe dich an"
+                },
+                {
+                    "text": "Nur dass du es weißt...ich bin ein Vampir"
+                },
+                {
+                    "text": "Verschließe deine Tür gut"
+                },
+                {
+                    "text": "Tüdelü (aber gruselig)"
+                },
+                {
+                    "text": "Wir sehen uns auf der anderen Seite"
+                }
+            ],
+            "x": false,
+            "id": 48268,
+            "category": "Word",
+            "twists": [],
+            "prompt": {
+                "text": "Die gruseligste Sache, die man sagen kann, um sich zu verabschieden"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Was gibts heute Abend, Todd?"
+                },
+                {
+                    "text": "Wie kriege ich die Kaffeeflecken raus?"
+                },
+                {
+                    "text": "Wo kann ich Fleisch kaufen?"
+                },
+                {
+                    "text": "Hab ich was zwischen den Zähnen?"
+                },
+                {
+                    "text": "Das ist ein echt großer Vogel"
+                },
+                {
+                    "text": "Und dann öffnet Brad Pitt die Schachtel"
+                },
+                {
+                    "text": "Wo ist die Toilette?"
+                },
+                {
+                    "text": "Warum bin ich nur so traurig?"
+                }
+            ],
+            "x": false,
+            "id": 48267,
+            "category": "Quote",
+            "twists": [],
+            "prompt": {
+                "text": "Ein Satz, den man unbedingt in jeder Sprache sagen können sollte"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Kaputt"
+                },
+                {
+                    "text": "Arachnophobie"
+                },
+                {
+                    "text": "Aggressiv"
+                },
+                {
+                    "text": "Karosserie"
+                },
+                {
+                    "text": "Dilettantisch"
+                },
+                {
+                    "text": "Jackett"
+                },
+                {
+                    "text": "Annullieren"
+                },
+                {
+                    "text": "Appell"
+                }
+            ],
+            "x": false,
+            "id": 48266,
+            "category": "Word",
+            "twists": [],
+            "prompt": {
+                "text": "Ein Wort, das man beim ersten Versuch definitiv nicht richtig schreibt"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Narnia Portal"
+                },
+                {
+                    "text": "Alte Sandalen"
+                },
+                {
+                    "text": "Motten"
+                },
+                {
+                    "text": "Kleiderbügel"
+                },
+                {
+                    "text": "Bazookas"
+                },
+                {
+                    "text": "Waschbären"
+                },
+                {
+                    "text": "Tiger"
+                },
+                {
+                    "text": "Walnüsse"
+                }
+            ],
+            "x": false,
+            "id": 48265,
+            "category": "Object",
+            "twists": [],
+            "prompt": {
+                "text": "Die coolste Sache, die in einem Schrank versteckt sein kann"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Baden-Württemberg"
+                },
+                {
+                    "text": "Ein Vulkan"
+                },
+                {
+                    "text": "Der Mond"
+                },
+                {
+                    "text": "Irgendeine Tür"
+                },
+                {
+                    "text": "Bielefeld"
+                },
+                {
+                    "text": "Lederhose"
+                },
+                {
+                    "text": "Highway to Hell"
+                },
+                {
+                    "text": "In einem Albtraum"
+                }
+            ],
+            "x": true,
+            "id": 48264,
+            "category": "Place",
+            "twists": [],
+            "prompt": {
+                "text": "Der Ort, an dem sich am wahrscheinlichsten der Eingang zur Hölle befindet"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Die Zukunft"
+                },
+                {
+                    "text": "Ein bisschen weniger als eine Million"
+                },
+                {
+                    "text": "Ein verfluchtes Amulett"
+                },
+                {
+                    "text": "Seltene Entenspezies"
+                },
+                {
+                    "text": "Die Mona Lisa"
+                },
+                {
+                    "text": "Jackbox Party Pack 5"
+                },
+                {
+                    "text": "Atomwaffen"
+                },
+                {
+                    "text": "Mondsteine"
+                }
+            ],
+            "x": true,
+            "id": 48262,
+            "category": "Object",
+            "twists": [],
+            "prompt": {
+                "text": "Die coolste Sache, die man stehlen kann"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "In der Schule"
+                },
+                {
+                    "text": "Im Museum"
+                },
+                {
+                    "text": "Im Krankenhaus"
+                },
+                {
+                    "text": "Beim Zahnarzt"
+                },
+                {
+                    "text": "Im Zirkus"
+                },
+                {
+                    "text": "In der Bibliothek"
+                },
+                {
+                    "text": "Bayerischer Biergarten"
+                },
+                {
+                    "text": "In einer Rakete"
+                }
+            ],
+            "x": true,
+            "id": 48261,
+            "category": "Place",
+            "twists": [],
+            "prompt": {
+                "text": "Der Ort, an dem Tetrapak-Wein besonders unangebracht ist"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ein Haufen nasses Zeitungspapier"
+                },
+                {
+                    "text": "Schlamm"
+                },
+                {
+                    "text": "Spülwasser"
+                },
+                {
+                    "text": "Hundekacke"
+                },
+                {
+                    "text": "Nasse Farbe"
+                },
+                {
+                    "text": "Alte Lasagne"
+                },
+                {
+                    "text": "Sumpfwasser"
+                },
+                {
+                    "text": "Mixer"
+                }
+            ],
+            "x": false,
+            "id": 48260,
+            "category": "Object",
+            "twists": [],
+            "prompt": {
+                "text": "Die ekligste Sache, in die man seine Hand hineinstecken kann"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Sandwich"
+                },
+                {
+                    "text": "Finger"
+                },
+                {
+                    "text": "Fusselig"
+                },
+                {
+                    "text": "Lecker"
+                },
+                {
+                    "text": "Gandalf"
+                },
+                {
+                    "text": "Bananenbrot"
+                },
+                {
+                    "text": "Zensiert"
+                },
+                {
+                    "text": "Vergebung"
+                }
+            ],
+            "x": false,
+            "id": 48259,
+            "category": "Word",
+            "twists": [],
+            "prompt": {
+                "text": "Das coolste Wort für ein Tattoo"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Im Kanal"
+                },
+                {
+                    "text": "In einer Bibliothek"
+                },
+                {
+                    "text": "Am FKK-Strand"
+                },
+                {
+                    "text": "Auf einem Golfplatz"
+                },
+                {
+                    "text": "Im Gefängnis"
+                },
+                {
+                    "text": "Beim Scheidungstermin"
+                },
+                {
+                    "text": "Modern-Talking-Konzert"
+                },
+                {
+                    "text": "Leipzig"
+                }
+            ],
+            "x": true,
+            "id": 48258,
+            "category": "Place",
+            "twists": [],
+            "prompt": {
+                "text": "Der beste Ort, um dort nackt herumzulaufen"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Toiletten"
+                },
+                {
+                    "text": "Eine Bowlingbahn"
+                },
+                {
+                    "text": "24-Stunden-Tankstelle"
+                },
+                {
+                    "text": "Yoga-Studio"
+                },
+                {
+                    "text": "Eine Wüste"
+                },
+                {
+                    "text": "Inmitten eines Sees"
+                },
+                {
+                    "text": "Ein Versicherungsbüro"
+                },
+                {
+                    "text": "Ein Fiat 500"
+                }
+            ],
+            "x": false,
+            "id": 48241,
+            "category": "Place",
+            "twists": [],
+            "prompt": {
+                "text": "Der beste Ort, um ihn heimzusuchen, nachdem man ein Geist geworden ist"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ein gutes Mittagessen"
+                },
+                {
+                    "text": "Dein Team wird dritter Platz"
+                },
+                {
+                    "text": "Raketenrucksack"
+                },
+                {
+                    "text": "Eine Menge Haare und das überall"
+                },
+                {
+                    "text": "Du findest nächste Woche einen Cent"
+                },
+                {
+                    "text": "Du lebst für immer"
+                },
+                {
+                    "text": "1 kostenlose E-Roller-Fahrt"
+                },
+                {
+                    "text": "Welpen!!"
+                }
+            ],
+            "x": false,
+            "id": 48240,
+            "category": "Time",
+            "twists": [],
+            "prompt": {
+                "text": "Die coolste Sache, die ein Wahrsager in seiner Kristallkugel sehen könnte, wenn er in deine Zukunft blickt"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hangover 3"
+                },
+                {
+                    "text": "Alice im Wunderland"
+                },
+                {
+                    "text": "Sex and the City"
+                },
+                {
+                    "text": "Batman vs Superman"
+                },
+                {
+                    "text": "Der dunkle Turm"
+                },
+                {
+                    "text": "Transformers"
+                },
+                {
+                    "text": "Spider-Man: A New Universe"
+                },
+                {
+                    "text": "Minions-Film"
+                }
+            ],
+            "x": false,
+            "id": 48230,
+            "category": "Movie",
+            "twists": [],
+            "prompt": {
+                "text": "Der Film, der in 100 Jahren am ehesten im Geschichtsunterricht gezeigt werden sollte"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Löwe und Tiger"
+                },
+                {
+                    "text": "Elefant und Maus"
+                },
+                {
+                    "text": "Elch und Eichhörnchen"
+                },
+                {
+                    "text": "Hamster und Maulwurf"
+                },
+                {
+                    "text": "Hase und Falke"
+                },
+                {
+                    "text": "Grashüpfer und Grille"
+                },
+                {
+                    "text": "Katzenhai und Wal"
+                },
+                {
+                    "text": "Delfin und Krabbe"
+                }
+            ],
+            "x": false,
+            "id": 48229,
+            "category": "Animal",
+            "twists": [],
+            "prompt": {
+                "text": "Welche zwei Tiere würden den coolsten Hybriden abgeben?"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Ich mag dich"
+                },
+                {
+                    "text": "Was passiert?!"
+                },
+                {
+                    "text": "Magst du mich?"
+                },
+                {
+                    "text": "Ich bin reich"
+                },
+                {
+                    "text": "Grüße, Mensch!"
+                },
+                {
+                    "text": "Ich reagiere allergisch auf Zurückweisung"
+                },
+                {
+                    "text": "Ich bin ein Model"
+                },
+                {
+                    "text": "Willkommen bei McDonald\u2019s"
+                }
+            ],
+            "x": true,
+            "id": 48205,
+            "category": "Quote",
+            "twists": [],
+            "prompt": {
+                "text": "Der beste Anmachspruch"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Pudding"
+                },
+                {
+                    "text": "Nugget"
+                },
+                {
+                    "text": "Fluffig"
+                },
+                {
+                    "text": "Sprühschiss"
+                },
+                {
+                    "text": "Schlagzeug"
+                },
+                {
+                    "text": "Hosen"
+                },
+                {
+                    "text": "Hänger"
+                },
+                {
+                    "text": "Salami"
+                }
+            ],
+            "x": false,
+            "id": 48204,
+            "category": "Word",
+            "twists": [],
+            "prompt": {
+                "text": "Das lustigste Wort der deutschen Sprache"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
                     "text": "Gemischtes Hack"
                 },
                 {
@@ -4225,6 +5545,926 @@
             "twists": [],
             "prompt": {
                 "text": "Die beste Requisite für ein teures Hunde-Fotoshooting"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hai"
+                },
+                {
+                    "text": "Robbe"
+                },
+                {
+                    "text": "Walross"
+                },
+                {
+                    "text": "Seelöwe"
+                },
+                {
+                    "text": "Otter"
+                },
+                {
+                    "text": "Nilpferd"
+                },
+                {
+                    "text": "Clownfisch"
+                },
+                {
+                    "text": "Lachs"
+                }
+            ],
+            "x": true,
+            "id": 49285,
+            "category": "Animal",
+            "twists": [
+                {
+                    "text": "Der coolste Sidekick für Aquaman"
+                },
+                {
+                    "text": "Wer würde dich am ehesten retten, wenn du ertrinkst?"
+                },
+                {
+                    "text": "Welches dieser Tiere würde an Halloween in einem \u201cSexy Hummel\u201d-Kostüm am besten aussehen?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Tier, das im oder am Wasser lebt"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "BMW"
+                },
+                {
+                    "text": "Polo"
+                },
+                {
+                    "text": "Mini Cooper"
+                },
+                {
+                    "text": "Suzuki"
+                },
+                {
+                    "text": "Segway"
+                },
+                {
+                    "text": "Fahrrad"
+                },
+                {
+                    "text": "Draisine"
+                },
+                {
+                    "text": "Pferdekutsche"
+                }
+            ],
+            "x": true,
+            "id": 49286,
+            "category": "Vehicle",
+            "twists": [
+                {
+                    "text": "Der beste Ersatz für das Batmobil"
+                },
+                {
+                    "text": "Das beste Fahrzeug, um darin intime Dinge zu treiben"
+                },
+                {
+                    "text": "Welches Gefährt würde sich in Mario Kart am besten schlagen?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendein Fahrzeug"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Superman"
+                },
+                {
+                    "text": "Harley Quinn"
+                },
+                {
+                    "text": "Batman"
+                },
+                {
+                    "text": "Der Joker"
+                },
+                {
+                    "text": "Wonder Woman"
+                },
+                {
+                    "text": "Megamind"
+                },
+                {
+                    "text": "Bane"
+                },
+                {
+                    "text": "Wolverine"
+                }
+            ],
+            "x": false,
+            "id": 49288,
+            "category": "Super",
+            "twists": [
+                {
+                    "text": "Dieser Person würdest du am ehesten anvertrauen, dir Essen zu bestellen"
+                },
+                {
+                    "text": "Wer bräuchte am ehesten ein komplettes Umstyling?"
+                },
+                {
+                    "text": "Diese Person sollte sich häufiger einen Scherz erlauben"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Comicfigur"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Lidl"
+                },
+                {
+                    "text": "Penny"
+                },
+                {
+                    "text": "REWE"
+                },
+                {
+                    "text": "McDonald\u2019s"
+                },
+                {
+                    "text": "Burger King"
+                },
+                {
+                    "text": "Netto"
+                },
+                {
+                    "text": "IKEA"
+                },
+                {
+                    "text": "Subway"
+                }
+            ],
+            "x": false,
+            "id": 49287,
+            "category": "Store",
+            "twists": [
+                {
+                    "text": "Hier hängen Teenager am ehesten rum, wenn ihre traurige Kleinstadt sonst nichts hergibt"
+                },
+                {
+                    "text": "Was ist am wahrscheinlichsten nur eine Fassade für Geldwäsche?"
+                },
+                {
+                    "text": "Hierhin sollte ein frisch aufgetauter Höhlenmensch zuerst gehen"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne einen Laden oder ein Restaurant"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "1983"
+                },
+                {
+                    "text": "12:47 Uhr"
+                },
+                {
+                    "text": "Dienstag"
+                },
+                {
+                    "text": "Sonntag"
+                },
+                {
+                    "text": "2:53 Uhr nachts"
+                },
+                {
+                    "text": "Mitternacht"
+                },
+                {
+                    "text": "Freitag Nachmittag"
+                },
+                {
+                    "text": "Montag"
+                }
+            ],
+            "x": false,
+            "id": 49289,
+            "category": "Time",
+            "twists": [
+                {
+                    "text": "Der beste Zeitpunkt, um eine ganze Pizza alleine zu verdrücken"
+                },
+                {
+                    "text": "Der beste Zeitpunkt, um nach einem ersten Date wieder anzurufen"
+                },
+                {
+                    "text": "Der beste Zeitpunkt für den Weltuntergang"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendeinen Zeitpunkt (egal ob Tag, Jahr, Uhrzeit etc.)"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Rennen"
+                },
+                {
+                    "text": "Laufen"
+                },
+                {
+                    "text": "Springen"
+                },
+                {
+                    "text": "Beobachten"
+                },
+                {
+                    "text": "Zuhören"
+                },
+                {
+                    "text": "Sprechen"
+                },
+                {
+                    "text": "Stolzieren"
+                },
+                {
+                    "text": "Hopsen"
+                }
+            ],
+            "x": true,
+            "id": 49290,
+            "category": "Word",
+            "twists": [
+                {
+                    "text": "Damit würdest du in den Nachrichten alle umhauen"
+                },
+                {
+                    "text": "Der beste Weg, nicht mehr an Sex zu denken"
+                },
+                {
+                    "text": "Was wäre die beste olympische Disziplin?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendein Verb"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Hund & Ball"
+                },
+                {
+                    "text": "Stift & Papier"
+                },
+                {
+                    "text": "Salz & Pfeffer"
+                },
+                {
+                    "text": "Socke & Schuh"
+                },
+                {
+                    "text": "Brettspiel & Würfel"
+                },
+                {
+                    "text": "Handy & Hülle"
+                },
+                {
+                    "text": "Boden & Decke"
+                },
+                {
+                    "text": "Feuer & Wasser"
+                }
+            ],
+            "x": true,
+            "id": 49291,
+            "category": "Word",
+            "twists": [
+                {
+                    "text": "Der beste Titel für einen Anime"
+                },
+                {
+                    "text": "Der beste Name für ein Restaurant in einer Autobahn-Raststätte"
+                },
+                {
+                    "text": "Das beste Synonym für das Wort \u201cSterben\u201d"
+                }
+            ],
+            "prompt": {
+                "text": "Schreibe zwei beliebige Wörter und setze \u201cund\u201d oder \u201c&\u201d dazwischen"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "was?"
+                },
+                {
+                    "text": "ok meinetwegen"
+                },
+                {
+                    "text": "woo woo woo"
+                },
+                {
+                    "text": "hubba hubba"
+                },
+                {
+                    "text": "yeet"
+                },
+                {
+                    "text": "bjdhjbfdbhjfdhjbsds"
+                },
+                {
+                    "text": "ähm"
+                },
+                {
+                    "text": "huh?"
+                }
+            ],
+            "x": false,
+            "id": 49292,
+            "category": "Anything",
+            "twists": [
+                {
+                    "text": "Was ist am lustigsten?"
+                },
+                {
+                    "text": "Das beste Passwort"
+                },
+                {
+                    "text": "Die beste Rezension für dieses Spiel"
+                }
+            ],
+            "prompt": {
+                "text": "Schreibe einfach irgendwas. Wirklich. Einfach irgendwas."
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Friss meine Shorts!"
+                },
+                {
+                    "text": "Möge die Macht mit dir sein"
+                },
+                {
+                    "text": "Drinnen ist sie größer"
+                },
+                {
+                    "text": "Houston, wir haben ein Problem!"
+                },
+                {
+                    "text": "Hasta La Vista, Baby!"
+                },
+                {
+                    "text": "Ich bin der König der Welt!"
+                },
+                {
+                    "text": "Hier ist Johnny!"
+                },
+                {
+                    "text": "Ich habe deinen Vater getötet"
+                }
+            ],
+            "x": false,
+            "id": 49295,
+            "category": "Quote",
+            "twists": [
+                {
+                    "text": "Was zerstört am wahrscheinlichsten deine politische Karriere, wenn du es im Bundestag sagst?"
+                },
+                {
+                    "text": "Der Satz, der unbedingt von einem Flugzeug in den Himmel geschrieben werden sollte"
+                },
+                {
+                    "text": "Die beste Google-Maps-Rezension"
+                }
+            ],
+            "prompt": {
+                "text": "Zitiere einen berühmten Satz aus Film und Fernsehen"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Gib niemals auf!"
+                },
+                {
+                    "text": "Es ist ok, manchmal zu verkacken!"
+                },
+                {
+                    "text": "Greif nach den Sternen!"
+                },
+                {
+                    "text": "Stell sie dir einfach alle in Unterwäsche vor"
+                },
+                {
+                    "text": "Alle guten Dinge sind drei"
+                },
+                {
+                    "text": "Verlasse niemals wütend das Haus"
+                },
+                {
+                    "text": "Ehrlichkeit währt am längsten"
+                },
+                {
+                    "text": "Lass dich nicht so einfach abwimmeln"
+                }
+            ],
+            "x": false,
+            "id": 49294,
+            "category": "Quote",
+            "twists": [
+                {
+                    "text": "Was wäre auf einem Wahlplakat am effektivsten?"
+                },
+                {
+                    "text": "Was macht sich am besten auf einem Katzenposter?"
+                },
+                {
+                    "text": "Was macht auf dem Grabstein am ehesten was her?"
+                }
+            ],
+            "prompt": {
+                "text": "Gebe einen guten Ratschlag"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Facebook"
+                },
+                {
+                    "text": "Snapchat"
+                },
+                {
+                    "text": "Instagram"
+                },
+                {
+                    "text": "LinkedIn"
+                },
+                {
+                    "text": "Lieferando"
+                },
+                {
+                    "text": "Duolingo"
+                },
+                {
+                    "text": "PayPal"
+                },
+                {
+                    "text": "YouTube"
+                }
+            ],
+            "x": false,
+            "id": 49293,
+            "category": "Emoji",
+            "twists": [
+                {
+                    "text": "Diese App kennt dich am allerbesten"
+                },
+                {
+                    "text": "Die App, über die man am ehesten einen Film drehen sollte"
+                },
+                {
+                    "text": "Die App, die man zum Überleben einfach braucht"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendeine App, die du auf deinem Handy hast"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Zebra"
+                },
+                {
+                    "text": "Lachs"
+                },
+                {
+                    "text": "Wal"
+                },
+                {
+                    "text": "Ameisenbär"
+                },
+                {
+                    "text": "Schaf"
+                },
+                {
+                    "text": "Schwein"
+                },
+                {
+                    "text": "Hase"
+                },
+                {
+                    "text": "Eichhörnchen"
+                }
+            ],
+            "x": true,
+            "id": 49296,
+            "category": "Animal",
+            "twists": [
+                {
+                    "text": "Das Tier, das deine Kinder am besten beschützen könnte"
+                },
+                {
+                    "text": "Das beste Tattoo-Motiv für deinen Hintern"
+                },
+                {
+                    "text": "Das Tier, das am ehesten nach Hühnchen schmeckt"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Tier"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Rücken"
+                },
+                {
+                    "text": "Ohren"
+                },
+                {
+                    "text": "Kopf"
+                },
+                {
+                    "text": "Hals"
+                },
+                {
+                    "text": "Bauch"
+                },
+                {
+                    "text": "Knie"
+                },
+                {
+                    "text": "Nase"
+                },
+                {
+                    "text": "Hände"
+                }
+            ],
+            "x": true,
+            "id": 49297,
+            "category": "Body",
+            "twists": [
+                {
+                    "text": "Das Körperteil, das am ehesten ein eigenes Bewusstsein entwickeln und unabhängig werden sollte"
+                },
+                {
+                    "text": "Das verstörendste Körperteil, das man im Pausenraum-Kühlschrank finden könnte"
+                },
+                {
+                    "text": "Der beste Ort für ein Herz-Tattoo"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Körperteil"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Rennen"
+                },
+                {
+                    "text": "Gähnen"
+                },
+                {
+                    "text": "Dehnen"
+                },
+                {
+                    "text": "Laufen"
+                },
+                {
+                    "text": "Schreien"
+                },
+                {
+                    "text": "Baden"
+                },
+                {
+                    "text": "Grabschen"
+                },
+                {
+                    "text": "Fallen"
+                }
+            ],
+            "x": false,
+            "id": 49299,
+            "category": "Wort",
+            "twists": [
+                {
+                    "text": "Die beste Tätigkeit, um plötzlich dabei \u201causzurasten\u201d"
+                },
+                {
+                    "text": "Der beste Titel für eine Seifenoper"
+                },
+                {
+                    "text": "Der schrecklichste Zweitname"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Verb"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Til Schweiger"
+                },
+                {
+                    "text": "Will Smith"
+                },
+                {
+                    "text": "Justin Bieber"
+                },
+                {
+                    "text": "Taylor Swift"
+                },
+                {
+                    "text": "Günther Jauch"
+                },
+                {
+                    "text": "Katy Perry"
+                },
+                {
+                    "text": "Miley Cyrus"
+                },
+                {
+                    "text": "Michael Bully Herbig"
+                }
+            ],
+            "x": true,
+            "id": 49298,
+            "category": "Celebrity",
+            "twists": [
+                {
+                    "text": "In wessen Haus würdest du am liebsten eine Nacht verbringen?"
+                },
+                {
+                    "text": "Wer verdient eine Backpfeife?"
+                },
+                {
+                    "text": "Nach dieser Person sollte eine Grundschule benannt werden"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne irgendeine prominente Person"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Vanille"
+                },
+                {
+                    "text": "Schokolade"
+                },
+                {
+                    "text": "Erdbeere"
+                },
+                {
+                    "text": "After Eight"
+                },
+                {
+                    "text": "Cookie Dough"
+                },
+                {
+                    "text": "Pistazie"
+                },
+                {
+                    "text": "Marzipan"
+                },
+                {
+                    "text": "Blau"
+                }
+            ],
+            "x": false,
+            "id": 49300,
+            "category": "Food",
+            "twists": [
+                {
+                    "text": "Der beste Name für eine Boyband"
+                },
+                {
+                    "text": "Was würde am besten auf einer Backkartoffel schmecken?"
+                },
+                {
+                    "text": "Der beste Geschmack für Lippenbalsam"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne eine Eiscremesorte"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Knick & Knack"
+                },
+                {
+                    "text": "Einfach und schwer"
+                },
+                {
+                    "text": "Insekt & Spinne"
+                },
+                {
+                    "text": "Haar und Schinken"
+                },
+                {
+                    "text": "Wälder & Seen"
+                },
+                {
+                    "text": "Wasser und Erde"
+                },
+                {
+                    "text": "Stift & Papier"
+                },
+                {
+                    "text": "Socken und Sandalen"
+                }
+            ],
+            "x": false,
+            "id": 49301,
+            "category": "Word",
+            "twists": [
+                {
+                    "text": "Der beste Name für zwei Schrottplatz-Wachhunde"
+                },
+                {
+                    "text": "Der beste Name für ein Rockstar-Duo"
+                },
+                {
+                    "text": "Der beste Name für ein veganes Restaurant"
+                }
+            ],
+            "prompt": {
+                "text": "Schreibe zwei beliebige Wörter und setze \u201cund\u201d oder \u201c&\u201d dazwischen"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Uff"
+                },
+                {
+                    "text": "Yeet"
+                },
+                {
+                    "text": "Ohje"
+                },
+                {
+                    "text": "Salami"
+                },
+                {
+                    "text": "Wackelpudding"
+                },
+                {
+                    "text": "Popanz"
+                },
+                {
+                    "text": "Schleckermaul"
+                },
+                {
+                    "text": "Naselaufen"
+                }
+            ],
+            "x": false,
+            "id": 49303,
+            "category": "Word",
+            "twists": [
+                {
+                    "text": "Der beste Name für ein Disney-Königreich"
+                },
+                {
+                    "text": "Der beste Name für ein Rennpferd"
+                },
+                {
+                    "text": "Der beste neue Name für England"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne das dämlichste Wort, das dir einfällt"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "UNO"
+                },
+                {
+                    "text": "Kniffel"
+                },
+                {
+                    "text": "Mensch ärgere dich nicht"
+                },
+                {
+                    "text": "Spiel des Lebens"
+                },
+                {
+                    "text": "Mühle"
+                },
+                {
+                    "text": "Monopoly"
+                },
+                {
+                    "text": "Cards Against Humanity"
+                },
+                {
+                    "text": "Phase 10"
+                }
+            ],
+            "x": true,
+            "id": 49304,
+            "category": "Game",
+            "twists": [
+                {
+                    "text": "Das Spiel, das unbedingt einen Live-Kommentator braucht"
+                },
+                {
+                    "text": "Das Spiel, das als Michael-Bay-Film am coolsten wäre"
+                },
+                {
+                    "text": "Das Spiel, das jede Beerdigung aufwertet"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne ein Brett- oder Kartenspiel"
+            },
+            "facts": []
+        },
+        {
+            "decoys": [
+                {
+                    "text": "Falltür"
+                },
+                {
+                    "text": "Polo-Pferde"
+                },
+                {
+                    "text": "Abflussrohre"
+                },
+                {
+                    "text": "Autobahnen"
+                },
+                {
+                    "text": "Funktionierender Kugelschreiber"
+                },
+                {
+                    "text": "Beheizter Pool"
+                },
+                {
+                    "text": "Kaviar"
+                },
+                {
+                    "text": "Eigener Flughafen"
+                }
+            ],
+            "x": false,
+            "id": 49306,
+            "category": "Object",
+            "twists": [
+                {
+                    "text": "Das beste Mitbringsel auf einer Party"
+                },
+                {
+                    "text": "Es wäre am ironischsten, wenn du nur noch diese Sache besitzt, nachdem du alles verloren hast"
+                },
+                {
+                    "text": "Was würde sich am besten vergoldet an einer Halskette machen?"
+                }
+            ],
+            "prompt": {
+                "text": "Nenne etwas, von dem du denkst, dass eine verdammt reiche Person es besitzt"
             },
             "facts": []
         },
