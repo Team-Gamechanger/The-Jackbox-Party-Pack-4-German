@@ -570,13 +570,13 @@
             "category": "Song",
             "twists": [
                 {
-                    "text": "Der Song, der am ehesten spielen sollte, wenn du einen Raum betrittst"
+                    "text": "Der Song, der immer spielen sollte, wenn du einen Raum betrittst"
                 },
                 {
-                    "text": "Der beste Song für ein Schlager-Remake"
+                    "text": "Der beste Song für ein Heavy-Metal-Remake"
                 },
                 {
-                    "text": "Der beste Song für eine neue Nationalhymne"
+                    "text": "Die beste neue Nationalhymne"
                 }
             ],
             "prompt": {
@@ -616,13 +616,13 @@
             "category": "Celebrity",
             "twists": [
                 {
-                    "text": "Am ehesten ein Tinder-Match"
+                    "text": "Das beste Tinder-Match"
                 },
                 {
                     "text": "Das beste Werbegesicht für extragroße Kondome"
                 },
                 {
-                    "text": "Wer gibt wahrscheinlich das meiste Trinkgeld"
+                    "text": "Wer gibt wahrscheinlich das meiste Trinkgeld?"
                 }
             ],
             "prompt": {
@@ -665,10 +665,10 @@
                     "text": "Der beste Film, um ihn für den Rest deines Lebens jeden Tag dreimal anzuschauen"
                 },
                 {
-                    "text": "Der schlechteste Film, für den ersten Kinobesuch eines Kindes"
+                    "text": "Der schlechteste Film für den ersten Kinobesuch eines Kindes"
                 },
                 {
-                    "text": "Wäre die Thematik eines wirklich coolen Escape Rooms"
+                    "text": "Die Thematik eines wirklich coolen Escape-Room"
                 }
             ],
             "prompt": {
@@ -708,7 +708,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Dieses Gericht schmeckt auch nach einem Tag im Kühlschrank noch gut"
+                    "text": "Das Gericht, das auch nach einem Tag im Kühlschrank noch gut schmeckt"
                 },
                 {
                     "text": "Diese Speise sähe einfach cool aus, wenn sie an Bäumen wachsen würde"
@@ -892,13 +892,13 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Was würde am besten als Popcorn-Topping schmecken?"
+                    "text": "Das beste Popcorn-Topping"
                 },
                 {
                     "text": "Der coolste Name für einen Clown"
                 },
                 {
-                    "text": "Lässt sich am besten zu Puder verarbeiten und schnupfen"
+                    "text": "Was lässt sich am besten zu Puder verarbeiten und schnupfen?"
                 }
             ],
             "prompt": {
@@ -938,7 +938,7 @@
             "category": "Word",
             "twists": [
                 {
-                    "text": "Der beste Name für einen Schlager"
+                    "text": "Der beste Name für ein piekfeines Restaurant"
                 },
                 {
                     "text": "Der beste Pärchenname"
@@ -1033,7 +1033,7 @@
                     "text": "Der beste Anmachspruch aller Zeiten"
                 },
                 {
-                    "text": "Würde sich gut in einem Glückskeks machen"
+                    "text": "Der beste Spruch in einem Glückskeks"
                 },
                 {
                     "text": "Die beste Nachricht von deiner Mutter"
@@ -1065,7 +1065,7 @@
                     "text": "Kirby"
                 },
                 {
-                    "text": "Duckhunt-Duo"
+                    "text": "Duck-Hunt-Duo"
                 },
                 {
                     "text": "Ezio"
@@ -1079,7 +1079,7 @@
                     "text": "Als welcher Charakter würdest du am liebsten einen Tag verbringen?"
                 },
                 {
-                    "text": "Welcher Charakter wäre der beste Rapper?"
+                    "text": "Der beste Rapper"
                 },
                 {
                     "text": "Welcher Charakter wäre im Bett am besten?"
@@ -1128,7 +1128,7 @@
                     "text": "Die beste Aktivität vor dem Sex in einem Porno"
                 },
                 {
-                    "text": "Während welcher dieser Tätigkeiten wäre eine Inspektion der Polizei am lustigsten?"
+                    "text": "Während welcher Tätigkeit wäre eine Inspektion der Polizei am lustigsten?"
                 }
             ],
             "prompt": {
@@ -1249,7 +1249,7 @@
                     "text": "Ice Age"
                 },
                 {
-                    "text": "Der Emoji Movie"
+                    "text": "Emoji- Der Film"
                 },
                 {
                     "text": "Shrek"
@@ -1260,13 +1260,13 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Der Film, der sich die nächsten 10 Jahre am besten hält"
+                    "text": "Der Film, der die nächsten 10 Jahre am besten altert"
                 },
                 {
-                    "text": "Der beste Film zum einfach laufen lassen, um Einbrecher abzuschrecken"
+                    "text": "Der beste Film zum Laufen lassen, um Einbrecher abzuschrecken"
                 },
                 {
-                    "text": "Der beste Filmtitel zum Einbauen in dein Hochzeitsgelübde"
+                    "text": "Der beste Filmtitel, um ihn in das eigene Hochzeitsgelübde einzubauen"
                 }
             ],
             "prompt": {
@@ -1309,10 +1309,10 @@
                     "text": "Der beste Name für einen professionellen Tänzer"
                 },
                 {
-                    "text": "Viel besser als jedes Lebkuchenhaus sind Häuser aus dieser Süßigkeit"
+                    "text": "Ein Haus aus dieser Süßigkeit ist viel besser als jedes Lebkuchenhaus"
                 },
                 {
-                    "text": "Am besten herunterschluckbar, ohne zu kauen"
+                    "text": "Was ist am besten herunterschluckbar, ohne zu kauen?"
                 }
             ],
             "prompt": {
@@ -1401,10 +1401,10 @@
                     "text": "Der beste Geschmack für Caprisonne"
                 },
                 {
-                    "text": "Der beste Name für ein Hybridauto"
+                    "text": "Der beste Name für ein E-Auto"
                 },
                 {
-                    "text": "Damit würdest du dich am ehesten im Wald bedecken, um unentdeckt zu bleiben"
+                    "text": "Die beste Tarnung, um im Wald unentdeckt zu bleiben"
                 }
             ],
             "prompt": {
@@ -1424,7 +1424,7 @@
                     "text": "Stift und Papier"
                 },
                 {
-                    "text": "heiß & geil"
+                    "text": "Heiß & geil"
                 },
                 {
                     "text": "Haut und Haar"
@@ -1493,7 +1493,7 @@
                     "text": "Diese Person wäre am nervigsten, wenn man zusammen mit ihr in einem Aufzug feststecken würde"
                 },
                 {
-                    "text": "Diese Person wäre wahrscheinlich der beste Stand-up-Comedian"
+                    "text": "Wahrscheinlich der beste Stand-up-Comedian"
                 },
                 {
                     "text": "Wer wäre am besten in Quiplash?"
@@ -1585,7 +1585,7 @@
                     "text": "Wenn du mit diesen Worten Schluss machst, kann es dir niemand verübeln"
                 },
                 {
-                    "text": "Wäre am lustigsten, wenn Gandhi es gesagt hätte"
+                    "text": "Was wäre am lustigsten, wenn Gandhi es gesagt hätte?"
                 },
                 {
                     "text": "Der beste Titel für einen Schlager"
@@ -1766,13 +1766,13 @@
             "category": "People",
             "twists": [
                 {
-                    "text": "Die Band, die wahrscheinlich bei den meisten Leuten im Hintergrund spielte, als sie schwanger wurden"
+                    "text": "Die Band, die wahrscheinlich bei den meisten Leuten im Hintergrund spielte, als sie gezeugt wurden"
                 },
                 {
-                    "text": "Diese Band spielt am wahrscheinlichsten gerade in irgendeinem Supermarkt"
+                    "text": "Wer spielt am wahrscheinlichsten gerade auf irgendeinem Supermarkt-Parkplatz?"
                 },
                 {
-                    "text": "Diese Band arbeitet am wahrscheinlichsten heute in einem Einkaufszentrum"
+                    "text": "Die Band, die am wahrscheinlichsten den nächsten Eurovision Song Contest gewinnen würde"
                 }
             ],
             "prompt": {
@@ -1815,7 +1815,7 @@
                     "text": "Der beste Vape-Geschmack"
                 },
                 {
-                    "text": "Würde als Donutfüllung am besten schmecken"
+                    "text": "Die beste Donutfüllung"
                 },
                 {
                     "text": "Diese Sache aus einer Kanone zu schießen, wäre am lustigsten"
@@ -1850,7 +1850,7 @@
                     "text": "Canon"
                 },
                 {
-                    "text": "LG"
+                    "text": "Kodak"
                 }
             ],
             "x": false,
@@ -1907,10 +1907,10 @@
                     "text": "Welche App würdest du bei Zeitreisen überall herumzeigen?"
                 },
                 {
-                    "text": "Welche App würde am wahrscheinlichsten die Weltherrschaft an sich reißen, wenn sie ein Gewissen entwickeln würde?"
+                    "text": "Welche App würde am wahrscheinlichsten die Weltherrschaft an sich reißen, wenn sie ein Bewusstsein entwickelt?"
                 },
                 {
-                    "text": "Diese App könntest du deinen Großeltern am einfachsten erklären"
+                    "text": "Die App, die man seinen Großeltern am einfachsten erklären könnte"
                 }
             ],
             "prompt": {
@@ -1956,7 +1956,7 @@
                     "text": "Die Farbe, die am besten das Gefühl beschreibt, nachdem man einen abgeseilt hat"
                 },
                 {
-                    "text": "Die gruseligste Farbe für bedrohlich leuchtende Augen unter deinem Bett"
+                    "text": "Die gruseligste Farbe für bedrohlich leuchtende Augen unter dem Bett"
                 }
             ],
             "prompt": {
@@ -1982,7 +1982,7 @@
                     "text": "Grüner Tee"
                 },
                 {
-                    "text": "Benjamin Blümchen Torte"
+                    "text": "Benjamin-Blümchen-Torte"
                 },
                 {
                     "text": "Mehl"
@@ -1996,7 +1996,7 @@
             "category": "Food",
             "twists": [
                 {
-                    "text": "Das Essen, das am meisten von Bacon profitieren würde"
+                    "text": "Das Essen, das am meisten von Speck profitieren würde"
                 },
                 {
                     "text": "Das beste Essen für einen Esswettbewerb"
@@ -2045,7 +2045,7 @@
                     "text": "Diese Aktivität würde in VR am meisten Spaß machen"
                 },
                 {
-                    "text": "Diese Aktivität ist am schwersten, wenn man betrunken bist"
+                    "text": "Was ist am schwersten, wenn man betrunken ist?"
                 },
                 {
                     "text": "Etwas, das alle Eltern unbedingt ihren Kindern beibringen sollten"
@@ -2180,13 +2180,13 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Welche Waffe würdest du für dich wählen, wenn du ein neuer Teenage Mutant Ninja Turtle wärst?"
+                    "text": "Welche Waffe würdest du wählen, wenn du ein neuer Teenage Mutant Ninja Turtle wärst?"
                 },
                 {
-                    "text": "Der gruseligste Spitzname, den dein Gefängnis-Zellennachbar haben kann"
+                    "text": "Der gruseligste Spitzname, den dein Zellenmitbewohner im Gefängnis haben kann"
                 },
                 {
-                    "text": "Am ehesten als Vibrator verwendbar (also rein theoretisch, natürlich)"
+                    "text": "Am ehesten irgendwie als Vibrator verwendbar"
                 }
             ],
             "prompt": {
@@ -2226,13 +2226,13 @@
             "category": "Game",
             "twists": [
                 {
-                    "text": "Welches Spiel würde die beste Gameshow abgeben?"
+                    "text": "Welches Spiel würde die beste Spielshow abgeben?"
                 },
                 {
                     "text": "Das beste Spiel, um darin Jumanji-mäßig gefangen zu sein"
                 },
                 {
-                    "text": "Der beste Titel für deine Autobiografie"
+                    "text": "Der beste Titel für die eigene Autobiografie"
                 }
             ],
             "prompt": {
@@ -2275,10 +2275,10 @@
                     "text": "Der coolste Name für ein Polizisten-Duo"
                 },
                 {
-                    "text": "Am ehesten Tierarzt-Slang für das Befruchten einer Kuh"
+                    "text": "Was ist am ehesten Tierarzt-Slang für das Befruchten einer Kuh?"
                 },
                 {
-                    "text": "Der beste Spitznamen für deine Großeltern"
+                    "text": "Der beste Spitznamen für die Großeltern"
                 }
             ],
             "prompt": {
@@ -2307,7 +2307,7 @@
                     "text": "Du riechst wie billiger Schinken!"
                 },
                 {
-                    "text": "Du bist ein großer Dummie"
+                    "text": "Du bist ein großer Doofie"
                 },
                 {
                     "text": "Deine Mudda!"
@@ -2321,7 +2321,7 @@
                     "text": "Das hört man am ehesten in einer Münchener Seitengasse"
                 },
                 {
-                    "text": "Der beste Anfeuerungsruf bei einer Sportveranstaltung"
+                    "text": "Der beste Anfeuerungsruf bei einer Sportwettbewerb"
                 },
                 {
                     "text": "Der beste Slogan für eine Fluggesellschaft"
@@ -2367,7 +2367,7 @@
                     "text": "Das beste Frühstück nach einer durchzechten Nacht"
                 },
                 {
-                    "text": "Diese Speise schmeckt nach einem One-Night-Stand am besten"
+                    "text": "Was schmeckt nach einem One-Night-Stand am besten?"
                 },
                 {
                     "text": "Das beste Essen, nachdem man eine Magen-Darm-Grippe überstanden hat"
@@ -2413,14 +2413,14 @@
                     "text": "Die inspirierendste Emotion für Kunst"
                 },
                 {
-                    "text": "Wenn du einem Roboter eine Emotion beibringen könntest, welche wäre es?"
+                    "text": "Wenn du einem Roboter nur eine Emotion beibringen könntest, welche wäre es?"
                 },
                 {
-                    "text": "Das wäre am unangebrachtesten während eines Elternabends"
+                    "text": "Die unangebrachteste Emotion bei einem Schul-Elternabend"
                 }
             ],
             "prompt": {
-                "text": "Nenne eine spezifische Emotion"
+                "text": "Nenne eine sehr spezifische Emotion"
             },
             "facts": []
         },
@@ -2502,7 +2502,7 @@
             "category": "Job",
             "twists": [
                 {
-                    "text": "Es wäre am komischsten, wenn ein Kind das als Jobwunsch hätte"
+                    "text": "Der komischste Jobwunsch für ein Kind"
                 },
                 {
                     "text": "Das beste Setting für eine Sitcom"
@@ -2558,7 +2558,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was du jetzt gerade in deinem Mülleimer finden würdest"
+                "text": "Nenne etwas, das du jetzt gerade in deinem Mülleimer finden würdest"
             },
             "facts": []
         },
@@ -2686,10 +2686,10 @@
             "category": "Movie",
             "twists": [
                 {
-                    "text": "Was wäre am besten als Remake mit Affen statt menschlichen Schauspielern?"
+                    "text": "Was braucht am dringendsten ein Remake mit Affen anstelle menschlicher Schauspieler?"
                 },
                 {
-                    "text": "Bei welchem Film wäre nur noch in aus ihm stammenden Zitaten kommunizieren am effektivsten?"
+                    "text": "Der Film, dessen Zitate man am ehesten für den Rest des Lebens benutzen kann"
                 },
                 {
                     "text": "Welcher Film würde das beste Gruppen-Kostüm für dich und deine Freunde hergeben?"
@@ -2775,7 +2775,7 @@
                     "text": "Der beste Name für einen LKW-Fahrer"
                 },
                 {
-                    "text": "Der beste Filmtitel für einen automatischen Erfolg bei den Oscars"
+                    "text": "Der Filmtitel, mit dem man bei den Oscars auf jeden Fall Erfolg hat"
                 },
                 {
                     "text": "Der perfekte Schriftzug für ein Intimtattoo"
@@ -2821,10 +2821,10 @@
                     "text": "Die beste Entschuldigung dafür, dass man sich verspätet hat"
                 },
                 {
-                    "text": "Die Sache, die nackt am meisten Spaß macht"
+                    "text": "Was macht nackt am meisten Spaß?"
                 },
                 {
-                    "text": "Die beste Ausrede, wenn deine Eltern anrufen, du aber nicht mit ihnen sprechen willst"
+                    "text": "Die beste Ausrede, wenn die Eltern anrufen, man aber nicht mit ihnen sprechen will"
                 }
             ],
             "prompt": {
@@ -2913,7 +2913,7 @@
                     "text": "Der coolste Name für eine Biker-Gang"
                 },
                 {
-                    "text": "Was eignet sich am besten dazu, es unter die Kleidung zu stopfen und aussehen zu lassen, als wären es Geschlechtsteile?"
+                    "text": "Die beste Maske für einen Maskenball"
                 },
                 {
                     "text": "Der beste Geschmack für Hustensaft"
@@ -2959,10 +2959,10 @@
                     "text": "Welches Gemüse schmeckt frittiert am besten?"
                 },
                 {
-                    "text": "Welches ist der beste Name für eine Rockband?"
+                    "text": "Der beste Name für eine Rockband"
                 },
                 {
-                    "text": "Das beste Gemüse zum Aushöhlen und darin auf dem Meer herumfahren"
+                    "text": "Das beste Gemüse zum Aushöhlen und darin als Boot auf dem Meer herumfahren"
                 }
             ],
             "prompt": {
@@ -3002,7 +3002,7 @@
             "category": "Activity",
             "twists": [
                 {
-                    "text": "Was wäre am gruseligsten, wenn man dabei eine Augenbinde tragen müsste?"
+                    "text": "Was ist am gruseligsten, wenn man dabei eine Augenbinde tragen muss?"
                 },
                 {
                     "text": "Welches wäre das beste Schulfach, das die Schüler wirklich auf das Leben vorbereitet?"
@@ -3040,7 +3040,7 @@
                     "text": "Zyklop"
                 },
                 {
-                    "text": "Monster von Loch Ness"
+                    "text": "Loch-Ness-Monster"
                 }
             ],
             "x": true,
@@ -3048,13 +3048,13 @@
             "category": "Monster",
             "twists": [
                 {
-                    "text": "Welches Monster wäre der beste Boss?"
+                    "text": "Wer wäre der beste Boss?"
                 },
                 {
                     "text": "Das Monster, das am besten im Bett ist"
                 },
                 {
-                    "text": "Es wäre am coolsten, sich bei Wasserkontakt in dieses Monster zu verwandeln"
+                    "text": "Es wäre am coolsten, sich bei Wasserkontakt darin zu verwandeln"
                 }
             ],
             "prompt": {
@@ -3094,7 +3094,7 @@
             "category": "Fluid",
             "twists": [
                 {
-                    "text": "Auf einer Welle dieser Flüssigkeit zu reiten, wäre am coolsten"
+                    "text": "Die coolste Flüssigkeit, um auf ihr zu surfen"
                 },
                 {
                     "text": "Die beste Flüssigkeit, um sie einer Person ins Gesicht zu spritzen, die man nicht mag"
@@ -3140,7 +3140,7 @@
             "category": "Color",
             "twists": [
                 {
-                    "text": "Die heißeste Unterwäschefarbe"
+                    "text": "Die heißeste Farbe für Unterwäsche"
                 },
                 {
                     "text": "Die beste Farbe für einen Neuanstrich des Weißen Hauses"
@@ -3278,10 +3278,10 @@
             "category": "Fluid",
             "twists": [
                 {
-                    "text": "Die beste Flüssigkeit zum Einfrieren vor einer Schneeballschlacht"
+                    "text": "Die beste Flüssigkeit, um daraus Schneebälle für eine Schneeballschlacht zu formen"
                 },
                 {
-                    "text": "In Zukunft wird Benzin durch diese Flüssigkeit ersetzt"
+                    "text": "Die Flüssigkeit, durch die Benzin in der Zukunft ersetzt werden wird"
                 },
                 {
                     "text": "Die beste Flüssigkeit, um sie auf eine offene Wunde zu träufeln"
@@ -5461,7 +5461,7 @@
                     "text": "Skittles"
                 },
                 {
-                    "text": "fluffige Wolken"
+                    "text": "Fluffige Wolken"
                 },
                 {
                     "text": "Ich bin Batman"
@@ -5470,7 +5470,7 @@
                     "text": "Lucky Charms"
                 },
                 {
-                    "text": "whaaaaaaa?"
+                    "text": "bitte was"
                 }
             ],
             "x": true,
@@ -5478,10 +5478,10 @@
             "category": "Anything",
             "twists": [
                 {
-                    "text": "Die dämlichste Antwort, wenn du danach gefragt wirst einfach irgendwas zu schreiben"
+                    "text": "Die dämlichste Antwort, wenn man danach gefragt wird, einfach irgendwas zu schreiben"
                 },
                 {
-                    "text": "Die komischste Textnachricht von einem Baby"
+                    "text": "Die komischste SMS von einem Baby"
                 },
                 {
                     "text": "Die dümmste Antwort auf \u201cIch liebe Dich\u201d"
@@ -7964,7 +7964,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Emotion"
+                "text": "Nenne eine sehr spezifische Emotion"
             },
             "facts": []
         },
@@ -8004,7 +8004,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Emotion"
+                "text": "Nenne eine sehr spezifische Emotion"
             },
             "facts": []
         },
@@ -8044,7 +8044,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne eine Emotion"
+                "text": "Nenne eine sehr spezifische Emotion"
             },
             "facts": []
         },
