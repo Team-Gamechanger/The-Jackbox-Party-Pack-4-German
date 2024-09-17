@@ -5158,7 +5158,7 @@
             "category": "Character",
             "twists": [
                 {
-                    "text": "Der Charakter, der am ehesten von Elyas M\u2019Barek gespielt werden sollte"
+                    "text": "Der Charakter, der am ehesten von Jan Josef Liefers gespielt werden sollte"
                 }
             ],
             "prompt": {
@@ -5684,7 +5684,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Der beste Spitzname für ein Sommerferien-Zeltlager"
+                    "text": "Der beste Spitzname, den man sich in einem Sommerferien-Zeltlager verdienen könnte"
                 }
             ],
             "prompt": {
@@ -6430,7 +6430,7 @@
             "category": "Emoji",
             "twists": [],
             "prompt": {
-                "text": "Das beste Emoji, um es als Desktophintergrund zu benutzen"
+                "text": "Das beste Bild, um es als Desktophintergrund zu benutzen"
             },
             "facts": []
         },
@@ -6538,7 +6538,7 @@
             "category": "Name",
             "twists": [],
             "prompt": {
-                "text": "Der beste Spitzname für einen Herzdruckmassage-Übungsdummy"
+                "text": "Der beste Spitzname für eine Herzdruckmassage-Übungspuppe"
             },
             "facts": []
         },
@@ -7400,7 +7400,7 @@
             "category": "People",
             "twists": [
                 {
-                    "text": "Die Band, die das beste Album für Kinder releasen würde"
+                    "text": "Die Band, die das beste Album für Kinder veröffentlichen würde"
                 }
             ],
             "prompt": {
@@ -7564,7 +7564,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne einen Ort aus Film und Fernsehen"
+                "text": "Nenne einen fiktiven Ort"
             },
             "facts": []
         },
