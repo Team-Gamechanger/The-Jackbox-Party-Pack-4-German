@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692509_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Power-up in einem Videospiel"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692505_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "692512_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "[nachdenklich] Hmmm, eine Sache, die man aufhebt und Superkräfte bekommt... wie Geld, in unserer Welt!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692519_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was wäre das beste Item in einem Videospiel??!"
     }

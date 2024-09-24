@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "687496_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die Sache, die du am längsten beobachten könntest"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "687503_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "(Hyper-macho) Vergesst bloß das Apfelschorle nicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "687510_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was könnte man am längsten beobachten??!"
     }

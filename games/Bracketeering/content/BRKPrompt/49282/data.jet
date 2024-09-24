@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704381_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Dieses Gericht schmeckt auch nach einem Tag im Kühlschrank noch gut"
+      "s": "Das Gericht, das auch nach einem Tag im Kühlschrank noch gut schmeckt"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704382_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Diese Speise sähe einfach cool aus, wenn sie an Bäumen wachsen würde"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704383_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Geschmack für Likör"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704377_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Speise"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

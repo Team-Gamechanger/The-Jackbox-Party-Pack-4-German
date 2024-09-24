@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692659_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Alter, um in einen Vampir verwandelt zu werden"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692655_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Alter (in Zahlen)"
     },
@@ -131,9 +131,9 @@
     },
     {
       "t": "A",
-      "v": "692662_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Und ja, ich wurde mit 27 in einen Vampir verwandelt!"
+      "s": "Und ja, ich wurde mit 49 in einen Vampir verwandelt! Ich vermisse Knoblauch am meisten..."
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692669_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das beste Alter, um in einen Vampir verwandelt zu werden?!"
     }

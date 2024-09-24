@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "691183_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Das beste Emoji, um es als Desktophintergrund zu benutzen"
+      "s": "Das beste Bild, um es als Desktophintergrund zu benutzen"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
+      "s": "Verzaubert mich mit euren Antworten!"
     },
     {
       "t": "B",
@@ -142,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "691197_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welches ist das BESTE Emoji für den Desktophintergrund??!"
+      "s": "Welches ist das BESTE Bild für den Desktophintergrund??!"
     }
   ]
 }

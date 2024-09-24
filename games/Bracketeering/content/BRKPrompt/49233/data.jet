@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703093_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Diese Person wäre am nervigsten, wenn man zusammen mit ihr in einem Aufzug feststecken würde"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703094_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Diese Person wäre wahrscheinlich der beste Stand-up-Comedian"
+      "s": "Wahrscheinlich der beste Stand-up-Comedian"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703095_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Wer wäre am besten in Quiplash?"
     },
@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "703089_0",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Nenne irgendeine historische Figur"
+      "s": "Nenne eine historische Figur"
     },
     {
       "t": "B",
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

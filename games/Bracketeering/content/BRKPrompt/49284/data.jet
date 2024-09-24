@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704441_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der Song, der am ehesten spielen sollte, wenn du einen Raum betrittst"
+      "s": "Der Song, der immer spielen sollte, wenn du einen Raum betrittst"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "704442_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Song für ein Schlager-Remake"
+      "s": "Der beste Song für ein Heavy-Metal-Remake"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "704443_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Der beste Song für eine neue Nationalhymne"
+      "s": "Die beste neue Nationalhymne"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704437_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Song"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

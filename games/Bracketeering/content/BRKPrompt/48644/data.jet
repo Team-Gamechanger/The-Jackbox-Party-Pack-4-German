@@ -32,53 +32,58 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "... im Bett!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "...im Bett!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win2Audio"
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "... im Bett!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin3Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win3Audio"
+      "v": "win3",
+      "n": "Win3Audio",
+      "s": "...im Bett!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin4Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win4Audio"
+      "v": "win4",
+      "n": "Win4Audio",
+      "s": "...im Bett!"
     },
     {
       "t": "B",
@@ -87,7 +92,7 @@
     },
     {
       "t": "A",
-      "v": "693139_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Am lustigsten, wenn man \"im Bett\" an den Buchtitel hängt"
     },
@@ -120,7 +125,7 @@
     },
     {
       "t": "A",
-      "v": "693135_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein klassisches Buch"
     },
@@ -132,7 +137,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +147,7 @@
     },
     {
       "t": "A",
-      "v": "693149_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Buch, um hinter den Titel \"im Bett\" dranzuhängen?!"
     }

@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ich bin verzaubert!"
     },
     {
       "t": "B",
@@ -120,20 +121,20 @@
     },
     {
       "t": "A",
-      "v": "691153_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beeindruckendste Ort, an dem ein Zauberer deine Karte herbeizaubern könnte"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
+      "s": "Verzaubert mich mit euren Antworten!"
     },
     {
       "t": "B",
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "691167_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER beeindruckenste Ort, an dem ein Zauberer die eigene Karte AUS DEM NICHTS herbeizaubern könnte?!"
     }

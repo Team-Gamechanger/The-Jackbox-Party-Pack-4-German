@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697847_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für einen LKW-Fahrer"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "697848_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Filmtitel für einen automatischen Erfolg bei den Oscars"
+      "s": "Der Filmtitel, mit dem man bei den Oscars auf jeden Fall Erfolg hat"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697849_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der perfekte Schriftzug für ein Intimtattoo"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697843_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Adjektiv"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

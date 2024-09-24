@@ -87,8 +87,9 @@
     },
     {
       "t": "A",
-      "v": "692449_0f",
-      "n": "Twist0Audio"
+      "v": "twist0",
+      "n": "Twist0Audio",
+      "s": "Der Gegenstand, den man als erstes aus einem brennenden Haus retten sollte"
     },
     {
       "t": "B",
@@ -119,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692445_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692459_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Gegenstand sollte als erstes aus einem brennenden Haus gerettet werden??!"
     }

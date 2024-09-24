@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "691213_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die coolste Sache, die man in ein Lagerfeuer werfen kann"
     },
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
+      "s": "Verzaubert mich mit euren Antworten!"
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "691227_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DIE coolste Sache, um sie in ein Lagerfeuer zu werfen?!"
     }

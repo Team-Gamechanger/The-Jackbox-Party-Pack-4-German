@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697817_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Entschuldigung dafür, dass man sich verspätet hat"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "697818_1",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Die Sache, die nackt am meisten Spaß macht"
+      "s": "Was macht nackt am meisten Spaß?"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "697819_1",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Die beste Ausrede, wenn deine Eltern anrufen, du aber nicht mit ihnen sprechen willst"
+      "s": "Die beste Ausrede, wenn die Eltern anrufen, man aber nicht mit ihnen sprechen will"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697813_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Tätigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

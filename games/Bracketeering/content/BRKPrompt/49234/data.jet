@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703123_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für eine Anwaltskanzlei"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703124_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Name für eine Disney-Sitcom über Zwillinge"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703125_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Synonym für “Netflix und Chill”"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703119_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe zwei beliebige Wörter und setze “und” oder “&” dazwischen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

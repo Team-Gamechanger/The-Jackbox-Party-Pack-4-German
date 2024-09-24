@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693079_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die Person, die am ehesten insgeheim ein Vampir ist"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "693075_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "PromptReactionAudio"
+      "v": "promptreaction",
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693089_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wer ist DEFINITIV ein Vampir?!"
     }

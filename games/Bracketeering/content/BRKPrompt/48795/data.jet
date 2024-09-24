@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "697697_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Welches Monster wäre der beste Boss?"
+      "s": "Wer wäre der beste Boss?"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697698_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das Monster, das am besten im Bett ist"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "697699_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Es wäre am coolsten, sich bei Wasserkontakt in dieses Monster zu verwandeln"
+      "s": "Es wäre am coolsten, sich bei Wasserkontakt darin zu verwandeln"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697693_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Monster"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

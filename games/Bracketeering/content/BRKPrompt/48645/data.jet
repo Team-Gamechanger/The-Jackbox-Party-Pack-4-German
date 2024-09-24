@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693169_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die Studierenden von welchem Fach überleben am ehesten die Zombieapokalypse?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693165_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Studiengang"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693179_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche Studierenden überleben am ehesten die Zombieapokalypse??!"
     }

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703205_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Passwort für eine Videokonferenz"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703206_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Wort, das man statt Amen nach einem Gebet sagen kann"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703207_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Du würdest unverzüglich deinen Arzt wechseln, wenn er deinen Hintern so nennt"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703201_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen guten Namen für ein Haustier"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

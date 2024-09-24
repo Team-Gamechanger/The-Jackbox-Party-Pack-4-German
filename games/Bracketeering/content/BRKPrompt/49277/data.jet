@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704231_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Was würde am besten als Popcorn-Topping schmecken?"
+      "s": "Das beste Popcorn-Topping"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704232_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der coolste Name für einen Clown"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "704233_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Lässt sich am besten zu Puder verarbeiten und schnupfen"
+      "s": "Was lässt sich am besten zu Puder verarbeiten und schnupfen?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704227_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Süßigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

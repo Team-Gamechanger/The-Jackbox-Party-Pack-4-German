@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697139_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der gruseligste Spitzname für deinen Partner"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697140_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Tier, um sein Sexleben damit zu vergleichen"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "697141_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Das coolste Tier, um es die verbotenen Techniken antiker Kampfkunst zu lehren"
+      "s": "Das coolste Tier, das einem die verbotenen Techniken antiker Kampfkunst lehren könnte"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697135_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696739_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Alter, um von einem Zauberer in einen Frosch verwandelt zu werden"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696740_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das merkwürdigste Alter, um seine Milchzähne zu verlieren"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696741_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Alter, um mit einem Koffer voller Geld Urlaub in Las Vegas zu machen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696735_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Alter (in Zahlen)"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

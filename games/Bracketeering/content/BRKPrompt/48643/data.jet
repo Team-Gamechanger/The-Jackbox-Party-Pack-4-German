@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Nie gelesen!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Das hab' ich hier auf irgendwo herumstehen!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "693109_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Buch, um es nur zum Angeben zu besitzen"
     },
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "693105_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Buch"
     },
@@ -132,7 +134,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "693119_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DAS Buch, das man nur besitzt, um damit anzugeben?"
     }

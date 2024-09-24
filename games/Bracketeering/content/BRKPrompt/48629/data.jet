@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ulala!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Nichts für Kinder!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "692689_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für einen Stripclub mit ausschließlich männlicher Besetzung"
     },
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "692685_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe das dämlichste Wort, das dir einfällt"
     },
@@ -133,7 +135,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Und ja, ich wurde mit 27 in einen Vampir verwandelt!"
+      "s": "Und ja, ich wurde mit 49 in einen Vampir verwandelt! Ich vermisse Knoblauch am meisten..."
     },
     {
       "t": "B",
@@ -142,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "692699_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste Name für einen Stripclub nur mit männlicher Besetzung??!"
     }

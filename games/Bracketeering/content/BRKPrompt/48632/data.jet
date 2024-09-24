@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692779_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Maskottchen für eine Fußballmannschaft"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692775_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692789_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was wäre das beste Maskottchen für eine Fußballmannschaft?!"
     }

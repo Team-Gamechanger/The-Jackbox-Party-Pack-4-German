@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "691093_1f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Der beste Spitzname für einen Herzdruckmassage-Übungsdummy"
+      "s": "Der beste Spitzname für eine Herzdruckmassage-Übungspuppe"
     },
     {
       "t": "B",
@@ -142,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "691107_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist der BESTE Spitzname für einen einen Herzdruckmassage-Übungsdummy??!"
+      "s": "Was ist der BESTE Spitzname für eine Herzdruckmassage-Übungspuppe??!"
     }
   ]
 }

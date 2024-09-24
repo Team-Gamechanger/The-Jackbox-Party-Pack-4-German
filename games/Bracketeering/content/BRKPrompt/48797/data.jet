@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697757_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welches Gemüse schmeckt frittiert am besten?"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "697758_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Welches ist der beste Name für eine Rockband?"
+      "s": "Der beste Name für eine Rockband"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "697759_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Das beste Gemüse zum Aushöhlen und darin auf dem Meer herumfahren"
+      "s": "Das beste Gemüse zum Aushöhlen und darin als Boot auf dem Meer herumfahren"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697753_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gemüse"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

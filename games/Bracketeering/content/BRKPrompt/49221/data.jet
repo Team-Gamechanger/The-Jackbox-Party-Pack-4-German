@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702717_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die schönste Farbe für einen Hochzeitsanzug"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702718_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Die Farbe, die am besten das Gefühl beschreibt, nachdem man einen abgeseilt hat"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702719_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Die gruseligste Farbe für bedrohlich leuchtende Augen unter deinem Bett"
+      "s": "Die gruseligste Farbe für bedrohlich leuchtende Augen unter dem Bett"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702713_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Farbe"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

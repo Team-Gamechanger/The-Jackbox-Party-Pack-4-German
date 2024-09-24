@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692929_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Tier, mit dem man ein cooles Gespräch führen könnte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692925_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692939_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Mit welchem Tier könnte man die coolsten Gespräche führen??!"
     }

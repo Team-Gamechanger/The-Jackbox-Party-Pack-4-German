@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Er spielt nicht, er ist das!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "693649_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wer sollte in einer Videospiel-Verfilmung von Klaus Kinski gespielt werden?"
     },
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "693645_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Videospielcharakter"
     },
@@ -132,7 +133,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "693659_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher dieser Videospiel-Charaktere sollte in einer Verfilmung von Klaus Kinski gespielt werden??!"
     }

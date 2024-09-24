@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "692809_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der beste Spitzname für ein Sommerferien-Zeltlager"
+      "s": "Der beste Spitzname, den man sich in einem Sommerferien-Zeltlager verdienen könnte"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692805_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },
@@ -142,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "692819_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist der BESTE Spitzname für ein Zeltlager in den Sommerferien?!"
+      "s": "Was wäre der BESTE Spitzname, den man sich im Zeltlager verdienen könnte?!"
     }
   ]
 }

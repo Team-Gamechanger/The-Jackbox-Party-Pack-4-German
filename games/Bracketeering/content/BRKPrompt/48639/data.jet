@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692989_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Süßigkeit, wenn man keine Zähne hat"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692985_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Süßigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692999_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welche ist die beste Süßigkeit, wenn man alt ist und keine Zähne mehr hat??!"
     }

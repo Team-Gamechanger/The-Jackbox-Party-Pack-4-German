@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703063_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für ein Kätzchen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703064_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der coolste Name für die Gitarre eines Blues-Sängers"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703065_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste neue Name für Berlin"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703059_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Vorname, den du gerne hättest"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

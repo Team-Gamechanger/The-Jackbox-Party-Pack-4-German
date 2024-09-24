@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697577_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Dieses Buch würde sich perfekt als 8-Bit-Spiel machen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697578_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Welches Buch wäre das beste Hip-Hop-Musical?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697579_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der krasseste Name für eine Straßengang"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697573_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Buch"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

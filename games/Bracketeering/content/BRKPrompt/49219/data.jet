@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702657_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Diese Aktivität würde in VR am meisten Spaß machen"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702658_1",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Diese Aktivität ist am schwersten, wenn man betrunken bist"
+      "s": "Was ist am schwersten, wenn man betrunken ist?"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702659_1",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Etwas, das alle Eltern unbedingt ihren Kindern beibringen sollten"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702653_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Tätigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

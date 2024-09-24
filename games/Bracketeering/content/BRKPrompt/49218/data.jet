@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702627_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Welche Waffe würdest du für dich wählen, wenn du ein neuer Teenage Mutant Ninja Turtle wärst?"
+      "s": "Welche Waffe würdest du wählen, wenn du ein neuer Teenage Mutant Ninja Turtle wärst?"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702628_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der gruseligste Spitzname, den dein Gefängnis-Zellennachbar haben kann"
+      "s": "Der gruseligste Spitzname, den dein Zellenmitbewohner im Gefängnis haben kann"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702629_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Am ehesten als Vibrator verwendbar (also rein theoretisch, natürlich)"
+      "s": "Am ehesten irgendwie als Vibrator verwendbar (also rein theoretisch, natürlich)"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702623_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Waffe"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

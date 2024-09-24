@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702567_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das hört man am ehesten in einer Münchener Seitengasse"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702568_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Anfeuerungsruf bei einer Sportveranstaltung"
+      "s": "Der beste Anfeuerungsruf bei einer Sportwettbewerb"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702569_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Slogan für eine Fluggesellschaft"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702563_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beleidige mich kurz und knackig"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

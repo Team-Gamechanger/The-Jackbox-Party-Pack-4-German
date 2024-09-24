@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702387_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Was wäre am besten als Remake mit Affen statt menschlichen Schauspielern?"
+      "s": "Was braucht am dringendsten ein Remake mit Affen anstelle menschlicher Schauspieler?"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702388_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Bei welchem Film wäre nur noch in aus ihm stammenden Zitaten kommunizieren am effektivsten?"
+      "s": "Der Film, dessen Zitate man am ehesten für den Rest des Lebens benutzen kann"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702389_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Welcher Film würde das beste Gruppen-Kostüm für dich und deine Freunde hergeben?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702383_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Film"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

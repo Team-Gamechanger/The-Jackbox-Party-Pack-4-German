@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703033_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wenn du mit diesen Worten Schluss machst, kann es dir niemand verübeln"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703034_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Wäre am lustigsten, wenn Gandhi es gesagt hätte"
+      "s": "Was wäre am lustigsten, wenn Gandhi es gesagt hätte?"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703035_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Titel für einen Schlager"
     },
@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "703029_0",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Gib einen guten Ratschlag"
+      "s": "Gebe einen guten Ratschlag"
     },
     {
       "t": "B",
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

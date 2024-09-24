@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697607_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Dieses Buch würde das beste Heavy-Metal-Album ergeben"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697608_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Ratgeber fürs Leben"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697609_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Buch, um einem Einbrecher damit eins überzubraten"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697603_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Buch"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

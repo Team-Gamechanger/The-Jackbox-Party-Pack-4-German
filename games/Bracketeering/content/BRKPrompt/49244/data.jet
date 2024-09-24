@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703415_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für einen Batman-Bösewicht"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703416_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Name für ein Pop-Duo"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703417_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Spitzname für deine Geschlechtsorgane"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703411_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne zwei Wörter die sich reimen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702447_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Es wäre am komischsten, wenn ein Kind das als Jobwunsch hätte"
+      "s": "Der komischste Jobwunsch für ein Kind"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702448_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Setting für eine Sitcom"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702449_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Alibi-Beruf für einen Superhelden"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702443_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Beruf"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

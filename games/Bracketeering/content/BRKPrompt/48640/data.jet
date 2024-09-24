@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693019_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Stimme für deine innere Stimme"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693015_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693029_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wer hat die beste Stimme für die Stimme im eigenen Kopf??!"
     }

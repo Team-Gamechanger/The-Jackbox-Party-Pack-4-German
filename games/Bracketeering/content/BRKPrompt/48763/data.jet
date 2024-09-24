@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696709_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Maskottchen für ein Fußballteam"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696710_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Die beste Deko für einen Schönheitssalon"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696711_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Emoji, um damit die Polizei zu kontaktieren"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696705_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beschreibe irgendein Emoji"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

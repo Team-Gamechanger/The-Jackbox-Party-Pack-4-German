@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "697727_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Was wäre am gruseligsten, wenn man dabei eine Augenbinde tragen müsste?"
+      "s": "Was ist am gruseligsten, wenn man dabei eine Augenbinde tragen muss?"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697728_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Welches wäre das beste Schulfach, das die Schüler wirklich auf das Leben vorbereitet?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697729_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Aktivität für ein erstes Date"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697723_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die man draußen machen kann"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

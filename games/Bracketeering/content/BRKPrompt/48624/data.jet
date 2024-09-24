@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692539_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für den jungen Partner eines alten Polizisten"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692535_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Name, den du einem Haustier geben würdest"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692549_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Name für den jungen Partner eines alten Polizisten??!"
     }

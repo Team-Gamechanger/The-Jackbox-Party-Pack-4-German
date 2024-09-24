@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703445_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welches Wort wird das kommende Jugendwort des Jahres?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703446_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Die beste Aktivität vor dem Sex in einem Porno"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "703447_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Während welcher dieser Tätigkeiten wäre eine Inspektion der Polizei am lustigsten?"
+      "s": "Während welcher Tätigkeit wäre eine Inspektion der Polizei am lustigsten?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703441_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Tätigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686878_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die eine verdammt reiche Person vermutlich besitzt"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "686885_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Das erinnert mich an diese furchtbare Halskette, die mich in dieses Spiel gefangen hat! Aber schön war sie trotzdem."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686892_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was beherbergt am wahrscheinlichsten einen schrecklichen Fluch??!"
     }

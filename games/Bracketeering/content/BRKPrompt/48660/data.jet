@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693619_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wenn du diese Aktivität mit 100 Jahren noch machen könntest, wärst du am glücklichsten"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693615_2f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Tätigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693629_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DIE Sache, die du am liebsten noch in 100 Jahren könntest?!"
     }

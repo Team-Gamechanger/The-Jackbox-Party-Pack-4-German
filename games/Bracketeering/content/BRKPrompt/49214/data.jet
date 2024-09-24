@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702507_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Kombination zu Nudeln ohne alles"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702508_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Ersatz für Wasser auf einer Wasserrutsche"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702509_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Name für einen Welpen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702503_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gewürz oder Topping, das man auf sein Essen tun kann"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

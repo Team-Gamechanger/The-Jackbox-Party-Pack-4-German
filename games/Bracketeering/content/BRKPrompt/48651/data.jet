@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693349_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Film, für einen Motto-Kindergeburtstag"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693345_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Filmtitel"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693359_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher ist der BESTE Film für einen Motto-Kindergeburtstag??!"
     }

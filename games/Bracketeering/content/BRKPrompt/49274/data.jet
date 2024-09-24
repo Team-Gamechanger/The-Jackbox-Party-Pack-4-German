@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704141_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der beste Name für einen Schlager"
+      "s": "Der beste Name für ein piekfeines Restaurant"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704142_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Pärchenname"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704143_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Name für eine Sekte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704137_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe zwei beliebige Wörter und setze “und” oder “&” dazwischen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

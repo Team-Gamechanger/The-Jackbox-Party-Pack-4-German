@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693771_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Ratschlag an dein jüngeres Ich"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "693767_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "PromptReactionAudio"
+      "v": "promptreaction",
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693781_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Ratschlag an dein jüngeres Ich?!"
     }

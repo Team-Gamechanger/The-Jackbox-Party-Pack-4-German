@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702853_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welche App würdest du bei Zeitreisen überall herumzeigen?"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702854_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Welche App würde am wahrscheinlichsten die Weltherrschaft an sich reißen, wenn sie ein Gewissen entwickeln würde?"
+      "s": "Welche App würde am wahrscheinlichsten die Weltherrschaft an sich reißen, wenn sie ein Bewusstsein entwickelt?"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702855_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Diese App könntest du deinen Großeltern am einfachsten erklären"
+      "s": "Die App, die man seinen Großeltern am einfachsten erklären könnte"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702849_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine App, die du auf deinem Handy hast"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693529_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Titel für einen Helene-Fischer-Song"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693525_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sache, die du an einem Menschen attraktiv findest"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693539_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Titel für einen neuen Song von Helene Fischer??!"
     }

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693259_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Maskottchen, das am ehesten ein erotisches Hörbuch einsprechen sollte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693255_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Maskottchen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693269_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welches Maskottchen soll ein erotisches Hörbuch einsprechen??!"
+      "s": "Welches Maskottchen sollte ein erotisches Hörbuch einsprechen??!"
     }
   ]
 }

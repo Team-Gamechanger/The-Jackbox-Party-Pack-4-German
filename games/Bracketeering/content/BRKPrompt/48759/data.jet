@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "696589_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Die beste Sache, durch die man die “Schere” bei Schere, Stein, Papier ersetzen könnte"
+      "s": "Die beste Sache, durch die man die Schere bei Schere, Stein, Papier ersetzen könnte"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "696590_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Hinweis in einem Escape-Room"
+      "s": "Der Hinweis, den man am ehesten in einem Escape-Room erwarten würde"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696591_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "In welche Sache würdest du dich am ehesten verlieben?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696585_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

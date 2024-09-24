@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702883_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für einen Star-Trek-Planeten"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702884_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der coolste Name für einen Roboter-Polizisten"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702885_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Name für eine Band der Neuen Deutschen Welle"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702879_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Elektronikmarke"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

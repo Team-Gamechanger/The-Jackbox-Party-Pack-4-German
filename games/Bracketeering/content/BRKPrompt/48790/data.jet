@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697547_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Am lustigsten, wenn man “im Bett” an den Titel hängt"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697548_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Name für eine hippe Cocktailbar"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697549_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Am besten als Einschlafgeschichte geeignet"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697543_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Buch"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

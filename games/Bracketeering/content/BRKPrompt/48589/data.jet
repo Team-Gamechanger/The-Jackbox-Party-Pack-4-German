@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Da kann man nie genug von haben!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Kostenlos ist der perfekte Preis dafür!"
     },
     {
       "t": "B",
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "691123_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste Werbegeschenk"
     },
@@ -142,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "691137_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Werbegeschenk??!"
     }

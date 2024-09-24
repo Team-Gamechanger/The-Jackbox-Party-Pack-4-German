@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686788_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Gebe einen guten Ratschlag"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686802_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der beste letzte Satz, bevor man den Löffel abgibt??!"
     }

@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "687436_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der beste Name für ein Quiz-Team"
     },
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Da kommt der Kalligraf aus euch raus!"
+      "s": "Also ich persönlich bin ja ein Garfield-Typ!"
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "687450_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER beste Name für ein Quiz-Team??!"
     }

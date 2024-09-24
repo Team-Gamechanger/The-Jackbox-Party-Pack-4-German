@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "697637_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Die heißeste Unterwäschefarbe"
+      "s": "Die heißeste Farbe für Unterwäsche"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697638_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Die beste Farbe für einen Neuanstrich des Weißen Hauses"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697639_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Farbe für Eis am Stiel"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697633_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Farbe"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "693801_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Das beste Hobby während einer Wirtschaftskrise"
+      "s": "Das beste Hobby während einer Krise"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693797_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Hobby"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693811_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welches ist das BESTE Hobby, dem man während einer Wirtschaftskrise nachgehen kann??!"
+      "s": "Welches ist das BESTE Hobby, dem man während einer Krise nachgehen kann??!"
     }
   ]
 }

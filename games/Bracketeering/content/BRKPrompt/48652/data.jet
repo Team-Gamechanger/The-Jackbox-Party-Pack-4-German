@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693379_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Spitzname für einen Penis"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693375_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine mythologische Figur oder Kreatur"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693389_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist die BESTE Penis-Spitzname?!"
+      "s": "Was ist der BESTE Penis-Spitzname?!"
     }
   ]
 }

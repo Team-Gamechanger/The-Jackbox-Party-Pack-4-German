@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704261_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wer würde als Arbeitgeber in deinem Lebenslauf am coolsten aussehen?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704262_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Wer würde mit einem Vokuhila am besten aussehen?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704263_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Wer würde am ehesten mit Kim Jong Un rummachen?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704257_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine prominente Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

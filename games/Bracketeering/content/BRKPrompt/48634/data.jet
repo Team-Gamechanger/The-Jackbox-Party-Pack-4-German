@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692839_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Tier, von dem man als Baby gefunden und großgezogen werden könnte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692835_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "692842_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692849_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Tier, von dem man als Baby großgezogen werden könnte??!"
     }

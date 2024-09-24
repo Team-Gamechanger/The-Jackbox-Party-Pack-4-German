@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "686848_0",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Nenne einen Ort aus Film und Fernsehen"
+      "s": "Nenne einen fiktiven Ort"
     },
     {
       "t": "B",
@@ -133,7 +133,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Mein echter Name ist Gänseblümchen! Ich hab schon SO viele Sprüche gehört"
+      "s": "Mein echter Name ist Gänseblümchen! Ich hab schon SO viele Sprüche gehört."
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686862_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Urlaubsort??!"
     }

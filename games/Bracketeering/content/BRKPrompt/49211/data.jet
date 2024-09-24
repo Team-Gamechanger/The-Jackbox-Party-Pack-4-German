@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702417_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welche dieser Sachen würdest du dir am ehesten in den Mund stecken?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702418_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Geschenk"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702419_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Worin versteckt sich am ehesten ein Dschinn?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702413_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne etwas, das du jetzt gerade in deinem Mülleimer finden würdest"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

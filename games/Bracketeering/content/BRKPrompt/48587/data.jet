@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "691063_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der Service, der am meisten einen Drive-in-Schalter benötigt"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "691077_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DER Service, der den Drive-in-Schalter am nötigsten hat??!"
     }

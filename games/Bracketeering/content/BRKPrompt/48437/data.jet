@@ -32,43 +32,47 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "So MÄNNLICH!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Da kann der MANN MANN sein!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win2Audio"
+      "v": "win2",
+      "n": "Win2Audio",
+      "s": "Perfekt für MÄNNER!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin3Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win3Audio"
+      "v": "win3",
+      "n": "Win3Audio",
+      "s": "MANNoMANN, da fühlt sich der MANN MÄNNLICH!"
     },
     {
       "t": "B",
@@ -120,7 +124,7 @@
     },
     {
       "t": "A",
-      "v": "687466_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Der männlichste Ort, an dem man picknicken könnte"
     },
@@ -131,7 +135,7 @@
     },
     {
       "t": "A",
-      "v": "687473_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "(Hyper-macho) Vergesst bloß das Apfelschorle nicht!"
     },
@@ -142,7 +146,7 @@
     },
     {
       "t": "A",
-      "v": "687480_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Picknickort ist der ABSOLUT MÄNNLICHSTE?!"
     }

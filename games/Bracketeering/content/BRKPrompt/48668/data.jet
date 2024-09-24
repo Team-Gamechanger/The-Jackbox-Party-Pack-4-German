@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693861_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Slang für Oralverkehr"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693857_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe zwei beliebige Wörter und setze “und” oder “&” dazwischen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693871_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was sollte man ab heute NUR NOCH für Oralverkehr sagen??!"
     }

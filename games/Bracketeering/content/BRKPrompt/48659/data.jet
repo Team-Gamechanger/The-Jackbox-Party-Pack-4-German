@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693589_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Reim in einem Lied-Refrain"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693585_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne zwei Worte die sich reimen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693599_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Reim für einen Lied-Refrain??!"
     }

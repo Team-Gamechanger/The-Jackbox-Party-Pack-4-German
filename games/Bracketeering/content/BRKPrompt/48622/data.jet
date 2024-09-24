@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692479_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der Gegenstand, von dem man am ehesten behaupten könnte, dass er ein Familienerbstück ist"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692475_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692489_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wobei kann man am ehesten behaupten, dass es sich um ein Familienerbstück handelt??!"
     }

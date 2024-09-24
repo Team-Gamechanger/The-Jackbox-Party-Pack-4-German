@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "686668_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Sportart"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "686675_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Fragt nicht warum, ein Teil dieser Antwort könnte die Bevölkerung verunsichern."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686682_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Sportart sollte man am ehesten sein Leben verschreiben??!"
     }

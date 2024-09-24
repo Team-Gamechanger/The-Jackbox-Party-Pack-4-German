@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Der Gedanke zählt!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "So einen Gutschein hat mir meine Schwiegermutter erst geschenkt!"
     },
     {
       "t": "B",
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "691033_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Geschenkgutschein von diesem Unternehmen wäre sehr enttäuschend"
     },
@@ -142,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "691047_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Der Geschenkgutschein von welchem Unternehmen wäre am enttäuschensten??!"
     }

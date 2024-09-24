@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693711_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Geschenk für deine Tochter an ihrem Hochzeitstag"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693707_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendwas, das blau ist"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693721_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das BESTE Geschenk für die eigene Tochter an ihrem Hochzeitstag?"
     }

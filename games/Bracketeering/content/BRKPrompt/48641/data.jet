@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693049_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wer wäre als Kandidat bei Takeshis Castle am erfolgreichsten?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693045_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693059_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Wer wäre der beste Kandidat für Takeshis Castle?!"
     }

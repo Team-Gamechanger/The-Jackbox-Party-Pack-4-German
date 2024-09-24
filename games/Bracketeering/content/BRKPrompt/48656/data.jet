@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693499_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welchen Laden gibt es auch in 100 Jahren noch?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693495_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Laden oder ein Restaurant"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693509_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches Etablissement gibt es auch in 100 Jahren noch?!"
     }

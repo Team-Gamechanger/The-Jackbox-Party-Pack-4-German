@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686818_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Vorname, den du gerne hättest"
     },
@@ -131,9 +131,9 @@
     },
     {
       "t": "A",
-      "v": "686825_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
-      "s": "Mein echter Name ist Gänseblümchen! Ich hab schon SO viele Sprüche gehört"
+      "s": "Mein echter Name ist Gänseblümchen! Ich hab schon SO viele Sprüche gehört."
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686832_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher ist der beste Name für das richtig coole Kind auf der Schule??!"
     }

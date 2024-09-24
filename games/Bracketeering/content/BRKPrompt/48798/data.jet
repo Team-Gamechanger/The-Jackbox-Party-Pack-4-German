@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697787_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der coolste Name für eine Biker-Gang"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "697788_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Was eignet sich am besten dazu, es unter die Kleidung zu stopfen und aussehen zu lassen, als wären es Geschlechtsteile?"
+      "s": "Die beste Maske für einen Maskenball"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697789_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Geschmack für Hustensaft"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697783_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Gemüse"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

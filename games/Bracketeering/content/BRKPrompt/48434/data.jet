@@ -120,20 +120,20 @@
     },
     {
       "t": "A",
-      "v": "687376_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Die inspirierendste Sache, die man an eine Toilettenwand schreiben kann"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "687383_0f",
+      "v": "",
       "n": "PromptReactionAudio",
-      "s": "Da kommt der Kalligraf aus euch raus!"
+      "s": "Also ich persönlich bin ja ein Garfield-Typ!"
     },
     {
       "t": "B",
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "687390_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die inspirierendste Sache, die man an eine Toilettenwand schreiben kann?!"
     }

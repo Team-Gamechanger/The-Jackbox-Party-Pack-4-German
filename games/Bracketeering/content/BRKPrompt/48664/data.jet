@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "So viele Bazillen!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "693741_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Was beherbergt wahrscheinlich die meisten Bakterien?"
     },
@@ -120,9 +121,9 @@
     },
     {
       "t": "A",
-      "v": "693737_0f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Nenne etwas, was du in einem Badezimmer finden würdest"
+      "s": "Nenne etwas, das du in einem Badezimmer finden würdest"
     },
     {
       "t": "B",
@@ -132,7 +133,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "693751_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was beherbergt die meisten Bakterien??!"
     }

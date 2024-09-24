@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "690737_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das beste neue Feld für ein Monopoly-Spielbrett"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "690751_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was wäre das BESTE neue Feld für ein Monopoly-Spielbrett??!"
     }

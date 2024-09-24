@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702973_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die inspirierendste Emotion für Kunst"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702974_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Wenn du einem Roboter eine Emotion beibringen könntest, welche wäre es?"
+      "s": "Wenn du einem Roboter nur eine Emotion beibringen könntest, welche wäre es?"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702975_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Das wäre am unangebrachtesten während eines Elternabends"
+      "s": "Die unangebrachteste Emotion bei einem Schul-Elternabend"
     },
     {
       "t": "B",
@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "702969_0",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Nenne eine spezifische Emotion"
+      "s": "Nenne eine sehr spezifische Emotion"
     },
     {
       "t": "B",
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703295_2f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für einen professionellen Tänzer"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703296_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Viel besser als jedes Lebkuchenhaus sind Häuser aus dieser Süßigkeit"
+      "s": "Ein Haus aus dieser Süßigkeit ist viel besser als jedes Lebkuchenhaus"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "703297_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Am besten herunterschluckbar, ohne zu kauen"
+      "s": "Was ist am besten herunterschluckbar, ohne zu kauen?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703291_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Süßigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693831_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der coolste Name für einen Wrestling-Move"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693827_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe zwei beliebige Wörter und setze “und” oder “&” dazwischen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693841_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Was ist der COOLSTE für einen Wrestling-Move??!"
+      "s": "Was ist der COOLSTE Name für einen Wrestling-Move??!"
     }
   ]
 }

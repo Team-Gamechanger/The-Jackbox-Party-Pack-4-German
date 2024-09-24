@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704291_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Am ehesten ein Tinder-Match"
+      "s": "Das beste Tinder-Match"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704292_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Werbegesicht für extragroße Kondome"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "704293_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Wer gibt wahrscheinlich das meiste Trinkgeld"
+      "s": "Wer gibt wahrscheinlich das meiste Trinkgeld?"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704287_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine prominente Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

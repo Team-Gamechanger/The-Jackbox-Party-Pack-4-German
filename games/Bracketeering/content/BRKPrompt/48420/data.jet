@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686908_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Hobby"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "686915_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Töpfern ist das einzige, was mich davon abhält, euch ALLE auf den Mond zu schießen!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686922_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die beste Ablenkung vom bitteren Hass, der tief in jedem von uns schlummert??!"
     }

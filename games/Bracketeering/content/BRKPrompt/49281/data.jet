@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "704351_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Die beste Flüssigkeit zum Einfrieren vor einer Schneeballschlacht"
+      "s": "Die beste Flüssigkeit, um daraus Schneebälle für eine Schneeballschlacht zu formen"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "704352_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "In Zukunft wird Benzin durch diese Flüssigkeit ersetzt"
+      "s": "Die Flüssigkeit, durch die Benzin in der Zukunft ersetzt werden wird"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704353_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Flüssigkeit, um sie auf eine offene Wunde zu träufeln"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704347_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Flüssigkeit"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

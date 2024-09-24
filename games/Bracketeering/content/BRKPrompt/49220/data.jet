@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702687_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Das Essen, das am meisten von Bacon profitieren würde"
+      "s": "Das Essen, das am meisten von Speck profitieren würde"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "702688_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Essen für einen Esswettbewerb"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702689_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das Essen, das bei einem Date am ehesten zwischen deinen Zähnen hängenbleibt"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702683_1",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendein Lebensmittel"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

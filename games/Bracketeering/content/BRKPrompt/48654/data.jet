@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693439_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Song für einen Lapdance"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693435_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Song"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693449_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher ist der BESTE Song für einen Lapdance?"
     }

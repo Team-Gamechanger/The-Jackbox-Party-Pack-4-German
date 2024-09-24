@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702597_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der coolste Name für ein Polizisten-Duo"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702598_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Am ehesten Tierarzt-Slang für das Befruchten einer Kuh"
+      "s": "Was ist am ehesten Tierarzt-Slang für das Befruchten einer Kuh?"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702599_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Der beste Spitznamen für deine Großeltern"
+      "s": "Der beste Spitznamen für die Großeltern"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702593_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreibe zwei beliebige Wörter und setze “und” oder “&” dazwischen"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

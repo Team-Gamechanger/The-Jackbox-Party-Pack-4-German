@@ -87,8 +87,9 @@
     },
     {
       "t": "A",
-      "v": "692387_1",
-      "n": "Twist0Audio"
+      "v": "twist0",
+      "n": "Twist0Audio",
+      "s": "Welchen Gegenstand würdest du am ehesten in deinem Hintern irgendwo hineinschmuggeln?"
     },
     {
       "t": "B",
@@ -119,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692383_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine kleine Sache"
     },
@@ -130,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "692390_1f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Um diese Frage zu klären, wurde dieses Spiel entwickelt."
     },
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692397_1f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welchen Gegenstand würdet ihr am ehesten im eigenen Hintern irgendwo hineinschmuggeln??!"
     }

@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Like und Follow!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "692869_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Welchem Tier würdest du am ehesten auf Instagram folgen?"
     },
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "692865_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "692879_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Bei welchem Tier lohnt sich das Folgen auf Instagram am meisten??!"
     }

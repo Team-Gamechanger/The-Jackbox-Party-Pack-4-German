@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703475_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Als welcher Charakter würdest du am liebsten einen Tag verbringen?"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703476_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Welcher Charakter wäre der beste Rapper?"
+      "s": "Der beste Rapper"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703477_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Welcher Charakter wäre im Bett am besten?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703471_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Videospielcharakter"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

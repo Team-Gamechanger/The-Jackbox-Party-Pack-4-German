@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Das wird Spiegel-Bestseller!"
     },
     {
       "t": "B",
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "686728_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine Tätigkeit, die dich unglaublich nervt"
     },
@@ -131,7 +132,7 @@
     },
     {
       "t": "A",
-      "v": "686735_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Ich würde sie kaufen, nur für den Fall, dass irgendwann mal das Klopapier ausgeht!"
     },
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "686742_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Titel für die Autobiografie von Mario Barth?!"
     }

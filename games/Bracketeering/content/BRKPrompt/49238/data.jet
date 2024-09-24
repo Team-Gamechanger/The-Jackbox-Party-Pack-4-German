@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "703235_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Welches Spiel würde die beste Gameshow abgeben?"
+      "s": "Welches Spiel würde die beste Spielshow abgeben?"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703236_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Spiel, um darin Jumanji-mäßig gefangen zu sein"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "703237_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Der beste Titel für deine Autobiografie"
+      "s": "Der beste Titel für die eigene Autobiografie"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703231_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Brett- oder Kartenspiel"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

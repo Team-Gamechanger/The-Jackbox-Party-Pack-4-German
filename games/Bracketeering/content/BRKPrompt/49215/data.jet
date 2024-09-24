@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "702537_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Frühstück nach einer durchzechten Nacht"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702538_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Diese Speise schmeckt nach einem One-Night-Stand am besten"
+      "s": "Was schmeckt nach einem One-Night-Stand am besten?"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "702539_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Essen, nachdem man eine Magen-Darm-Grippe überstanden hat"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702533_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendetwas, das man zum Frühstück isst"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

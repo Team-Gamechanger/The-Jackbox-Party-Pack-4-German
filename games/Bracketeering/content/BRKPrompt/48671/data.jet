@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Das macht das Klo froh!"
     },
     {
       "t": "B",
@@ -87,7 +88,7 @@
     },
     {
       "t": "A",
-      "v": "693951_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Synonym für \"Kacken\""
     },
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "693947_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein guter Name für einen Helfer vom Weihnachtsmann"
     },
@@ -132,7 +133,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "693961_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das BESTE Synonym für das Wort \"Kacken\"??!"
     }

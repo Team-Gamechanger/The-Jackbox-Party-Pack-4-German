@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696561_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Ersatz für eine Zahnbürste, wenn man in der Klemme steckt"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

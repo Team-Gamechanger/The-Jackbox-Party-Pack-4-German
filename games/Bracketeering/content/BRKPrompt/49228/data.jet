@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702943_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Die Band, die wahrscheinlich bei den meisten Leuten im Hintergrund spielte, als sie schwanger wurden"
+      "s": "Die Band, die wahrscheinlich bei den meisten Leuten im Hintergrund spielte, als sie gezeugt wurden"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702944_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Diese Band spielt am wahrscheinlichsten gerade in irgendeinem Supermarkt"
+      "s": "Wer spielt am wahrscheinlichsten gerade auf irgendeinem Supermarkt-Parkplatz?"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702945_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Diese Band arbeitet am wahrscheinlichsten heute in einem Einkaufszentrum"
+      "s": "Die Band, die am wahrscheinlichsten den nächsten Eurovision Song Contest gewinnen würde"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702939_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Band"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

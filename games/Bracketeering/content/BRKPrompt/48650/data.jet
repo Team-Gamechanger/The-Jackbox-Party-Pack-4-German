@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693319_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der Film, den man einem Außerirdischen am ehesten zeigen sollte"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693315_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Filmtitel"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693329_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welcher ist der BESTE Film, um ihn einen Außerirdischen zu zeigen??!"
+      "s": "Welcher ist der BESTE Film, um ihn einem Außerirdischen zu zeigen??!"
     }
   ]
 }

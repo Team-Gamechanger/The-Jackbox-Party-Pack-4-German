@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "704321_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Wenn deine Kacke diese Farbe hat, musst du dir ernsthafte Sorgen machen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "704322_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Die beste Haarfarbe für rebellische Teenager"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "704323_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Farbe für ein Hochzeitskleid"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "704317_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Farbe"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

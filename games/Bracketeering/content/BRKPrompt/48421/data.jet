@@ -89,7 +89,7 @@
       "t": "A",
       "v": "686942_0",
       "n": "Twist0Audio",
-      "s": "Die Band, die das beste Album für Kinder releasen würde"
+      "s": "Die Band, die das beste Album für Kinder veröffentlichen würde"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686938_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeine Band"
     },
@@ -142,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "686952_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welche Band würde GARANTIERT das beste Album für Kinder releasen?!"
+      "s": "Welche Band würde GARANTIERT das beste Album für Kinder veröffentlichen?!"
     }
   ]
 }

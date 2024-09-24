@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "702477_0",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Dämlichste Antwort wenn du danach gefragt wirst einfach irgendwas zu schreiben"
+      "s": "Die dämlichste Antwort, wenn man danach gefragt wird, einfach irgendwas zu schreiben"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "702478_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Komischste Textnachricht von einem Baby"
+      "s": "Die komischste SMS von einem Baby"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "702479_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Dümmste Antwort auf Ich liebe Dich"
+      "s": "Die dümmste Antwort auf \"Ich liebe Dich\""
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702473_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Schreib einfach irgendwas. Wirklich. Einfach irgendwas."
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

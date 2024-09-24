@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696859_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Tier, das auf die eigene Motorhaube lackiert am coolsten aussehen würde"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696860_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Ersatz für den Schlitten des Weihnachtsmannes, wenn die Rentiere wieder Durchfall haben"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696861_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Welches Tier wäre der beste Küsser?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696855_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

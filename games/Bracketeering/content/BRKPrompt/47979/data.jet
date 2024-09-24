@@ -32,42 +32,42 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "win0",
+      "v": "",
       "n": "Win0Audio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "win1",
+      "v": "",
       "n": "Win1Audio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin2Audio"
     },
     {
       "t": "A",
-      "v": "win2",
+      "v": "",
       "n": "Win2Audio"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasWin3Audio"
     },
     {
       "t": "A",
-      "v": "win3",
+      "v": "",
       "n": "Win3Audio"
     },
     {
@@ -126,13 +126,14 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "promptreaction",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Haltet eure Schnuckelchen bereit!!"
     },
     {
       "t": "B",

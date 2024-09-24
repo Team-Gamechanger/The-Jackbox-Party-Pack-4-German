@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697487_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Diese Person würde wahrscheinlich den besten Batman abgeben"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697488_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Von wem würdest du am liebsten jede Nacht träumen müssen?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697489_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Wer wäre der beste Bundeskanzler?"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697483_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

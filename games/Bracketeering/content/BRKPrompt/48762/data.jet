@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696679_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Emoji, das dir deine Großeltern senden könnten"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696680_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das effektivste Emoji für ein \"ACHTUNG GEFAHR!\"-Schild"
     },
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "696681_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Das beste neues Logo für McDonald's"
+      "s": "Das beste neue Logo für McDonald's"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696675_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beschreibe irgendein Emoji"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

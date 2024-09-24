@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692959_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Körperteil für ein Piercing"
     },
@@ -120,19 +120,20 @@
     },
     {
       "t": "A",
-      "v": "692955_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Körperteil"
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasPromptReactionAudio"
     },
     {
       "t": "A",
-      "v": "692962_0f",
-      "n": "PromptReactionAudio"
+      "v": "",
+      "n": "PromptReactionAudio",
+      "s": "Ihr wisst schon, wie in Tarzan, als er von den Affen großgezogen wurde."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692969_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welches ist das beste Körperteil, um sich ein Piercing machen zu lassen??!"
     }

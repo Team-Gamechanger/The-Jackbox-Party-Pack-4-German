@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Kauf' ich gleich ne CD von!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Mein Kind liebts!"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "693981_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für eine Toggo-Band"
     },
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "693977_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein guter Name für einen Helfer vom Weihnachtsmann"
     },
@@ -132,7 +134,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",
@@ -141,7 +144,7 @@
     },
     {
       "t": "A",
-      "v": "693991_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Name für eine Band vom Kindersender Toggo??!"
     }

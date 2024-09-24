@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "692719_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der Cartoon-Charakter, der in der realen Welt vermutlich am schnellsten draufgehen würde"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "692715_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Cartoon-Charakter"
     },
@@ -131,7 +131,7 @@
     },
     {
       "t": "A",
-      "v": "692722_0f",
+      "v": "promptreaction",
       "n": "PromptReactionAudio",
       "s": "Eine schwierige, aber auch äußerst wichtige Frage!"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "692729_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Welcher Cartoon-Charakter würde in unserer Welt vermutlich am schnellsten draufgehen??!"
     }

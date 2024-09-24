@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697079_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der coolste Sidekick"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697080_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der niedlichste Spitzname für ein Baby"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697081_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das Tier, von dem du am ehesten getötet werden wollen würdest"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697075_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

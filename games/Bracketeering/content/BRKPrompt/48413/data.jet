@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "686698_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein abwertendes Adjektiv"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Fragt nicht warum, ein Teil dieser Antwort könnte die Bevölkerung verunsichern."
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "686712_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Mit WELCHEM Wort würde dein oder deine Ex dich am ehesten beschreiben??!"
     }

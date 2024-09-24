@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "703355_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der Film, der sich die nächsten 10 Jahre am besten hält"
+      "s": "Der Film, der die nächsten 10 Jahre am besten altert"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703356_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Film zum einfach laufen lassen, um Einbrecher abzuschrecken"
+      "s": "Der beste Film zum Laufen lassen, um Einbrecher abzuschrecken"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "703357_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Der beste Filmtitel zum Einbauen in dein Hochzeitsgelübde"
+      "s": "Der beste Filmtitel, um ihn in das eigene Hochzeitsgelübde einzubauen"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703351_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Filmtitel"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

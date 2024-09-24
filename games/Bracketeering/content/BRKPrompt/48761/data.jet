@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696649_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Emoji-Antwort, wenn dich dein Ex aus dem Nichts anschreibt"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "696650_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Das beste Emoji, um es von jetzt an jeder Nachricht anzuhängen, die du deinem Chef sendest"
+      "s": "Das beste Emoji, um es von jetzt an jede Nachricht anzuhängen, die du deinem Chef sendest"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696651_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Emoji, um deinen Namen zu ersetzen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696645_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beschreibe irgendein Emoji"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

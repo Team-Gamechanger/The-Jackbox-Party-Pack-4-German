@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697457_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das beste Motiv für ein Tattoo auf deinem Rücken"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697458_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Diese Person hat wahrscheinlich die meisten Haare am Körper"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697459_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Person für einen Körpertausch"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697453_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

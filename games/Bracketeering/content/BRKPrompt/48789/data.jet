@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "697517_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der Promi, der den besten Trauzeugen abgeben würde"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "697518_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Wer würde am ehesten ein Bild seiner Genitalien auf Tinder senden?"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "697519_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Der beste Anwalt, wenn du wegen Mord angeklagt bist"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "697513_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine berühmte Person"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

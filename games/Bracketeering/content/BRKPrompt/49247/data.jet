@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "703505_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der beste Anmachspruch"
+      "s": "Der beste Anmachspruch aller Zeiten"
     },
     {
       "t": "B",
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703506_1f",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Würde sich gut in einem Glückskeks machen"
+      "s": "Der beste Spruch in einem Glückskeks"
     },
     {
       "t": "B",
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703507_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Nachricht von deiner Mutter"
     },
@@ -120,9 +120,9 @@
     },
     {
       "t": "A",
-      "v": "703501_1f",
+      "v": "prompt",
       "n": "PromptAudio",
-      "s": "Zitiere eine Catchphrase aus Film und Fernsehen"
+      "s": "Zitiere einen berühmten Satz aus Film und Fernsehen"
     },
     {
       "t": "B",
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703153_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Geschmack für Caprisonne"
     },
@@ -98,9 +98,9 @@
     },
     {
       "t": "A",
-      "v": "703154_0",
+      "v": "twist1",
       "n": "Twist1Audio",
-      "s": "Der beste Name für ein Hybridauto"
+      "s": "Der beste Name für ein E-Auto"
     },
     {
       "t": "B",
@@ -109,9 +109,9 @@
     },
     {
       "t": "A",
-      "v": "703155_0",
+      "v": "twist2",
       "n": "Twist2Audio",
-      "s": "Damit würdest du dich am ehesten im Wald bedecken, um unentdeckt zu bleiben"
+      "s": "Die beste Tarnung, um im Wald unentdeckt zu bleiben"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703149_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne eine grüne Sache"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

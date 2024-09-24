@@ -3508,7 +3508,7 @@
                     "text": "Das beste Tier, um sein Sexleben damit zu vergleichen"
                 },
                 {
-                    "text": "Das coolste Tier, um es die verbotenen Techniken antiker Kampfkunst zu lehren"
+                    "text": "Das coolste Tier, das einem die verbotenen Techniken antiker Kampfkunst lehren könnte"
                 }
             ],
             "prompt": {
@@ -3548,7 +3548,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Das Tier, das in Ballkleid am lustigsten aussehen würde"
+                    "text": "Das Tier, das in einem Ballkleid am lustigsten aussehen würde"
                 },
                 {
                     "text": "Das Tier, das wahrscheinlich am besten schmeckt"
@@ -3778,7 +3778,7 @@
             "category": "Animal",
             "twists": [
                 {
-                    "text": "Welche Tierart würde den coolsten gigantischen Roboter ergeben?"
+                    "text": "Welche Tierart würde den coolsten gigantischen Roboter abgeben?"
                 },
                 {
                     "text": "Das Tier, dem man am ehesten Stepptanz beibringen sollte"
@@ -3876,7 +3876,7 @@
                     "text": "Das effektivste Emoji für ein \u201cACHTUNG GEFAHR!\u201d-Schild"
                 },
                 {
-                    "text": "Das beste neues Logo für McDonald\u2019s"
+                    "text": "Das beste neue Logo für McDonald\u2019s"
                 }
             ],
             "prompt": {
@@ -3919,7 +3919,7 @@
                     "text": "Die beste Emoji-Antwort, wenn dich dein Ex aus dem Nichts anschreibt"
                 },
                 {
-                    "text": "Das beste Emoji, um es von jetzt an jeder Nachricht anzuhängen, die du deinem Chef sendest"
+                    "text": "Das beste Emoji, um es von jetzt an jede Nachricht anzuhängen, die du deinem Chef sendest"
                 },
                 {
                     "text": "Das beste Emoji, um deinen Namen zu ersetzen"
@@ -4008,10 +4008,10 @@
             "category": "Object",
             "twists": [
                 {
-                    "text": "Die beste Sache, durch die man die \u201cSchere\u201d bei Schere, Stein, Papier ersetzen könnte"
+                    "text": "Die beste Sache, durch die man die Schere bei Schere, Stein, Papier ersetzen könnte"
                 },
                 {
-                    "text": "Der beste Hinweis in einem Escape-Room"
+                    "text": "Der Hinweis, den man am ehesten in einem Escape-Room erwarten würde"
                 },
                 {
                     "text": "In welche Sache würdest du dich am ehesten verlieben?"
@@ -4352,7 +4352,7 @@
             "category": "Hobby",
             "twists": [
                 {
-                    "text": "Das beste Hobby während einer Wirtschaftskrise"
+                    "text": "Das beste Hobby während einer Krise"
                 }
             ],
             "prompt": {
@@ -4436,7 +4436,7 @@
                 }
             ],
             "prompt": {
-                "text": "Nenne etwas, was du in einem Badezimmer finden würdest"
+                "text": "Nenne etwas, das du in einem Badezimmer finden würdest"
             },
             "facts": []
         },

@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "691003_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das Skurrilste, das man sagen kann, nachdem jemand niesen musste"
     },
@@ -142,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "691017_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist das Skurrilste, das man sagen könnte, nachdem jemand niesen musste??!"
     }

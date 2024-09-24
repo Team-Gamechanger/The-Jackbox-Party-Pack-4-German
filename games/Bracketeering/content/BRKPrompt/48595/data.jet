@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Erfolgreiche Person mit sechs Buchstaben? Ahh, Sieger!"
     },
     {
       "t": "B",
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "691303_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Das coolste Wort, um es in ein Kreuzworträtsel einzubauen"
     },
@@ -133,7 +134,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Ach, und für die Kartenspiel-Muffel unter euch: \"Farbe\" beim Kartenspiel meint keine Farbe, wie zum Beispiel Grün, sondern das Symbol, also Kreuz, Pik, Karo oder Herz."
+      "s": "Verzaubert mich mit euren Antworten!"
     },
     {
       "t": "B",
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "691317_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist DAS coolste Wort, dass unbedingt in einem Kreuzworträtsel eingebaut werden muss??!"
     }

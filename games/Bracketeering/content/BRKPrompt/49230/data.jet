@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703003_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Die beste Catchphrase für eine Cartoonfigur"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703004_0",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Der beste Name für ein Restaurant, in dem man von Kellnern beleidigt wird"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703005_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Die beste Art, ein Haustier zu rufen"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "702999_0",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beleidige mich kurz und knackig"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

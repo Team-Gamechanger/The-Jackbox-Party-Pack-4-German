@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "693229_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Name für eine Emo-Rockband"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693225_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne irgendeinen Feiertag"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,7 +142,7 @@
     },
     {
       "t": "A",
-      "v": "693239_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist der BESTE Name für eine Emorockband?!"
     }

@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "696799_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Welche Tierart würde den coolsten gigantischen Roboter ergeben?"
+      "s": "Welche Tierart würde den coolsten gigantischen Roboter abgeben?"
     },
     {
       "t": "B",
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696800_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das Tier, dem man am ehesten Stepptanz beibringen sollte"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696801_0",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das Tier, das in einem Cartoon die zweite Hand des Bösewichts wäre"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696795_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier, das größer ist als du"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

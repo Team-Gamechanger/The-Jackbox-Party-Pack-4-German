@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "696889_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Mit welchem Tier würdest du deinen größten Feind am liebsten in einen Raum sperren?"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "696890_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "Das beste Plüschtier für ein Baby"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "696891_0f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "Das beste Tier für den Schoß eines Bond-Bösewichts"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "696885_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne ein Tier"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

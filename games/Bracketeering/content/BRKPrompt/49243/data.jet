@@ -87,7 +87,7 @@
     },
     {
       "t": "A",
-      "v": "703385_1f",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Der beste Ort, um deinen Seelenverwandten zu treffen"
     },
@@ -98,7 +98,7 @@
     },
     {
       "t": "A",
-      "v": "703386_0f",
+      "v": "twist1",
       "n": "Twist1Audio",
       "s": "An diesen Ort sollte man unbedingt betrunken hingehen"
     },
@@ -109,7 +109,7 @@
     },
     {
       "t": "A",
-      "v": "703387_1f",
+      "v": "twist2",
       "n": "Twist2Audio",
       "s": "So würdest du dein Kind nennen, wenn du dafür eine Million Euro bekommst"
     },
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "703381_1f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen Laden oder ein Restaurant"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Ich hoffe mal, er lautet nicht, schreibe eine andere Antwort bei Bracketeering..."
     },
     {
       "t": "B",

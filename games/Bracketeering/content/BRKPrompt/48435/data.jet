@@ -32,13 +32,14 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Zum Totlachen!"
     },
     {
       "t": "B",
@@ -120,7 +121,7 @@
     },
     {
       "t": "A",
-      "v": "687406_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Ein Wort oder ein Satz, der als Punchline für jeden Witz funktioniert"
     },
@@ -133,7 +134,7 @@
       "t": "A",
       "v": "",
       "n": "PromptReactionAudio",
-      "s": "Da kommt der Kalligraf aus euch raus!"
+      "s": "Also ich persönlich bin ja ein Garfield-Typ!"
     },
     {
       "t": "B",
@@ -142,7 +143,7 @@
     },
     {
       "t": "A",
-      "v": "687420_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
       "s": "Was ist die beste Punchline für einfach jeden Witz??!"
     }

@@ -32,23 +32,25 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin0Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win0Audio"
+      "v": "win0",
+      "n": "Win0Audio",
+      "s": "Ab ins Fernsehen mit dir!"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasWin1Audio"
     },
     {
       "t": "A",
-      "v": "",
-      "n": "Win1Audio"
+      "v": "win1",
+      "n": "Win1Audio",
+      "s": "Wer würde das nicht sehen wollen?"
     },
     {
       "t": "B",
@@ -87,7 +89,7 @@
     },
     {
       "t": "A",
-      "v": "692569_0",
+      "v": "twist0",
       "n": "Twist0Audio",
       "s": "Das Emoji, das seine eigene Fernsehserie verdient"
     },
@@ -120,7 +122,7 @@
     },
     {
       "t": "A",
-      "v": "692565_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Beschreibe irgendein Emoji"
     },
@@ -142,9 +144,9 @@
     },
     {
       "t": "A",
-      "v": "692579_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welche Emoji verdient UNTER ALLEN UMSTÄNDEN eine eigene Fernsehserie??!"
+      "s": "Welches Emoji verdient UNTER ALLEN UMSTÄNDEN eine eigene Fernsehserie??!"
     }
   ]
 }

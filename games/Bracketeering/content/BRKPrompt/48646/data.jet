@@ -87,9 +87,9 @@
     },
     {
       "t": "A",
-      "v": "693199_0f",
+      "v": "twist0",
       "n": "Twist0Audio",
-      "s": "Der Charakter, der am ehesten von Elyas M'Barek gespielt werden sollte"
+      "s": "Der Charakter, der am ehesten von Jan Josef Liefers gespielt werden sollte"
     },
     {
       "t": "B",
@@ -120,7 +120,7 @@
     },
     {
       "t": "A",
-      "v": "693195_0f",
+      "v": "prompt",
       "n": "PromptAudio",
       "s": "Nenne einen fiktionalen Charakter"
     },
@@ -132,7 +132,8 @@
     {
       "t": "A",
       "v": "",
-      "n": "PromptReactionAudio"
+      "n": "PromptReactionAudio",
+      "s": "Finstere Geheimnisse kommen ans Tageslicht!"
     },
     {
       "t": "B",
@@ -141,9 +142,9 @@
     },
     {
       "t": "A",
-      "v": "693209_0f",
+      "v": "finalreaction",
       "n": "FinalReactionAudio",
-      "s": "Welcher Charakter MUSS EINFACH von Elyas M'Barek gespielt werden??!"
+      "s": "Welcher Charakter MUSS EINFACH von Jan Josef Liefers gespielt werden??!"
     }
   ]
 }
