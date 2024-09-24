@@ -90,9 +90,9 @@
 
         "AUDIENCE": "PUBLIKUM",
 
-        "PLAY_AGAIN_WITH": "NOCHMAL?",
+        "PLAY_AGAIN_WITH": "NOCHMAL SPIELEN?",
 
-        "PLAY_AGAIN": "NOCHMAL?",
+        "PLAY_AGAIN": "NOCHMAL SPIELEN?",
 
         "SAME_PLAYERS": "GLEICHE SPIELER",
 
@@ -220,7 +220,7 @@
 
         "BY": "VON",
 
-        "BRACKET_WINNERS": "KLAMMER GEWINNER"
+        "BRACKET_WINNERS": "KLAMMER-GEWINNER"
 
     },
 
