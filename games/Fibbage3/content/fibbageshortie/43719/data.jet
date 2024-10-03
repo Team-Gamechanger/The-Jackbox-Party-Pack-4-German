@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tulpen,Energydrinks,Emo-Rock,Paprika,Ukulelen,Stuntmen,Dichtern,Pommes,Fußballern,Bleistiften,Speck,Armbanduhren,Donutlöchern,Go-Karts,Jonglierern,Flip-Flops,Clowns,Haustierschlangen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Klein aber fein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Models",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Produzent von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fotomodels,Supermodels,Topmodels,Fotomodellen,Mannequins,Top Models,Super Models",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Models",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Produzent von <BLANK>.",
+      "t": "A",
+      "v": "568330_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

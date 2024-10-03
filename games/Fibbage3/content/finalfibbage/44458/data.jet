@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blut|Träume,Oettinger|Haggis,eine geschmolzene Uhr|Sand,Fischeier|Mayonnaise,Schweinespeichel|ein benutztes Pflaster,Affenaugen|süßer Senf,Parfüm|ein Avocadokern,eine Diamantkette|eine schöne Frau,ein Hund|eine Katze,ein Kartenset|trügerische Hoffnung,Oktopus-Tinte|Marshmallows,Speck|Anti-Speck,Baumwolle|Plastik,Vollkorn-Toastbrot|das Geheimnis des Lebens,Recyclingpapier|Bleichmittel,ein Zugticket|ein Haar,eine Taube|ein Geheimnis,Weißer Bastelkleber|Unvoreingenommenheit",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Just a Pinch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tequila|Lammhirn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Salvador Dali schrieb ein wirklich skurriles Kochbuch namens <i>Die Diners mit Gala</i>. Darin enthalten: ein Avocado-Toast-Rezept, für das <BLANK> und <BLANK> benötigt werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tequila|ein Lammhirn,Tequilla|Lammhirn,Tequilla|ein Lammhirn,Tequila|Lamm Hirn,Tequila|ein Lamm Hirn,Tequilla|Lamm Hirn,Tequilla|ein Lamm Hirn,Lammhirn|Tequila,ein Lammhirn|Tequila,Lammhirn|Tequilla,ein Lammhirn|Tequilla,Lamm Hirn|Tequila,ein Lamm Hirn|Tequila,Lamm Hirn|Tequilla,ein Lamm Hirn|Tequilla,Tequila|ein Schafhirn,Tequilla|Schafhirn,Tequilla|ein Schafhirn,Tequila|Schaf Hirn,Tequila|ein Schaf Hirn,Tequilla|Schaf Hirn,Tequilla|ein Schaf Hirn,Schafhirn|Tequila,ein Schafhirn|Tequila,Schafhirn|Tequilla,ein Schafhirn|Tequilla,Schaf Hirn|Tequila,ein Schaf Hirn|Tequila,Schaf Hirn|Tequilla,ein Schaf Hirn|Tequilla",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tequila|Lammhirn",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Salvador Dali schrieb ein wirklich skurriles Kochbuch namens <i>Die Diners mit Gala</i>. Darin enthalten: ein Avocado-Toast-Rezept, für das <BLANK> und <BLANK> benötigt werden.",
+      "t": "A",
+      "v": "588657_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

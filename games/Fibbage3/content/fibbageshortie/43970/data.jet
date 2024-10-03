@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Puppen,Koran-Kopien,Vibratoren,Beinprothesen,Kindern,Taschentücher-Packungen,Plüschtieren,Laptops,iPhones,Unterwäsche,Keksen,Kondomen,Spielzeug,BHs,Leguanen,Kruzifixen,Gemälden von Picasso,Hühnereiern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spanische Schmuggler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "falschen Bananen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2017 verhaftete die spanische Polizei zwei Männer, die versucht haben, 15 Pfund Kokain in <BLANK> zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bananen,fake Bananen,gefälschten Bananen,Fake-Bananen,unechten Bananen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]falschen Bananen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im März 2017 verhaftete die spanische Polizei zwei Männer, die versucht haben, 15 Pfund Kokain in <BLANK> zu schmuggeln.",
+      "t": "A",
+      "v": "574595_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

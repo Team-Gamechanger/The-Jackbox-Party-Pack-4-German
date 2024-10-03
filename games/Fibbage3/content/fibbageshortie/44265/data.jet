@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Aale,Eiskaffee,schrille Hüte,Fernsehzeitschriften,Energydrinks,schicke Stifte an Kinder,abgelaufene Suppe,knochenlose Chicken Wings,Follower,Pepsi bei Demonstrationen,Klausurlösungen,Hoffnung,Hotdogs,Steine mit Wackelaugen,die finnische Verfassung,zahnmedizinische Leistungen,Bücher über den eigenen Erfolg,Computermäuse",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Finnland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "billige Pizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die finnische Polizei startete im Jahr 2015 eine merkwürdige Kampagne in den sozialen Medien, in der sie die Öffentlichkeit aufforderte, jeden zu melden, der <BLANK> verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pizza,günstige Pizza,preiswerte Pizza,Billigpizza,billige Pizzen,Pizzen,günstige Pizzen,preiswerte Pizzen,Billigpizzen,billige Pizzas,Pizzas,günstige Pizzas,preiswerte Pizzas,Billigpizzas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]billige Pizza",
+      "t": "A",
+      "v": "583175_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die finnische Polizei startete im Jahr 2015 eine merkwürdige Kampagne in den sozialen Medien, in der sie die Öffentlichkeit aufforderte, jeden zu melden, der <BLANK> verkauft.",
+      "t": "A",
+      "v": "583172_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

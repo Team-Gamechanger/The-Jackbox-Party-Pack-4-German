@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "In der Verkehrskontrolle",
+      "v": "Verkehrskontrollen",
       "n": "Category"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]In Berlin-Wannsee wurde ein 77-jähriger Mann wegen überhöhter Geschwindigkeit angehalten. Dabei fiel dem Polizeibeamten auf, dass er während der Fahrt <BLANK>.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

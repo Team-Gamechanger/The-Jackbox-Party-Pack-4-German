@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Das Wort \"Avocado\" stammt aus der Sprache Nahuatl, wo es \"<BLANK>\" bedeutet.",
+      "v": "Das Wort “Avocado” stammt aus der Sprache Nahuatl, wo es \"<BLANK>\" bedeutet.",
       "n": "QuestionText"
     },
     {
@@ -85,8 +85,9 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Das Wort \"Avocado\" stammt aus der Sprache Nahuatl, wo es \"<BLANK>\" bedeutet.",
+      "s": "[category=host]Das Wort “Avocado” stammt aus der Sprache Nahuatl, wo es \"<BLANK>\" bedeutet.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

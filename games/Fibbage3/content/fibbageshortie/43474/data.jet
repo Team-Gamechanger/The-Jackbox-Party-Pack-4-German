@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Windeln,ihrem Urin,Bienen,Entenküken,Chips,Magneten,Spielzeuglastern,vergorener Milch,Tampons,altem Toast,Heuschrecken,Grillanzünder,leeren Joghurt-Bechern,Seifenblasen,Katzenhaar,Bierflaschen,benutztem Badewasser,Wasserbomben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wahrsager",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Spargel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Jemima Packington hat eine besondere und einzigartige Gabe. Sie behauptet, sie könne die Zukunft mithilfe von <BLANK> vorhersagen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Spargelstangen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Spargel",
+      "t": "A",
+      "v": "563158_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jemima Packington hat eine besondere und einzigartige Gabe. Sie behauptet, sie könne die Zukunft mithilfe von <BLANK> vorhersagen.",
+      "t": "A",
+      "v": "563155_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]In einem Hamburger Park entblöste sich im August 2022 ein Mann und griff im Anschluss eine Passantin mit <BLANK> an.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

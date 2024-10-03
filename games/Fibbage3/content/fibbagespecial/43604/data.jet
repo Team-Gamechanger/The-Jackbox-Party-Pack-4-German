@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hunde-Toiletten-Automats,automatischen Hundefütterers,Roboterwelpens,Tier-Kondomautomats,automatischen Stiefelleckers,Albtraum-Erzeugers,Hundekot-Verbrenners,Speicher-Pullovers,Hundeknochen-Anspitzers,Haus-Handföhns,Scherz-Flammenwerfers,Hundeanatomie-Spielsets,tragbaren Wassersprengers,Spendensammlers für Unterwegs,Kinder-Fallschirms,Vitaminspenders für Hunde,Hunde-Gefängnisses,Seelendiebs",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Halloween-Rucksacks",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dieses Patent gehört Deborah A. Morphet, der stolzen Erfinderin des <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Halloween-Beutels,Halloweenrucksacks,Halloween-Rucksack,Halloweenrucksack,Halloween Rucksacks,Halloween Rucksack",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "565985_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571325_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Halloween-Rucksacks",
+      "t": "A",
+      "v": "565983_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dieses Patent gehört Deborah A. Morphet, der stolzen Erfinderin des <BLANK>.",
+      "t": "A",
+      "v": "565980_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

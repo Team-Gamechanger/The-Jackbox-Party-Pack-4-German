@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kanone,Stier,Konfetti,Sport,Vögel,Lacher,Massage,Schule,Blätter,Flieger,Farbe,Wessi,Ballons,Pflanzen,Füller,Möbel,Hämmer,Nähmaschinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "In der Glotze",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehe-Ring",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen “<BLANK> frei!”.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ehering,Hochzeitsring",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ehe-Ring",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen “<BLANK> frei!”.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

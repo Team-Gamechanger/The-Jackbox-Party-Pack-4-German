@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schweineschlachter,Fahrtrichtungsanzeiger,Pferdestriegler,Seilspringer,Buchverbrenner,Spielverderber,Eierwerfer,Brandstifter,Raser,Trinker,Duscher,Rapper,Nudelmacher,Maler,Kaffeetrinker,Hinternwischer,Dachdecker,Samenspender",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mitteleuropa-Rekorde",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Totengräber",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Brüder Ladislav und Csaba setzten sich in der Slowakei gegen 10 andere Teams durch und wurden so die schnellsten <BLANK> Mitteleuropas.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Grabgräber,Grabausheber,Toten Gräber,Grabmacher",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Totengräber",
+      "t": "A",
+      "v": "583145_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Brüder Ladislav und Csaba setzten sich in der Slowakei gegen 10 andere Teams durch und wurden so die schnellsten <BLANK> Mitteleuropas.",
+      "t": "A",
+      "v": "583142_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

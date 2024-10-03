@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Roboter|Depressionen,einen Stier|Vorliebe für Steaks,ein Kind|Wohnsitz in Japan,einen Geist|dem Ruf Kinder zu fressen,einen Kaktus|Verbindungen zur italienischen Mafia,einen LKW|Raketenantrieb,ein Baby|angeblich 30 Jahren Erfahrung,einen Landwirt|Hass auf alle anderen Einwohner,einen Hasen|Fliege,einen Cowboy|drei laufenden Mordverfahren,einen Vogel|Durchfall,einen Raben|Hass auf Kinder,eine Schnecke|731 Kindern,einen Kriegshelden|mit drei Armen,einen Mathematiker|Dyskalkulie,eine mumifizierte Leiche|einem Hund als Berater,einen Bleistift|kaputter Mine,einen veganen Vampir|mit braungebrannter Haut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Texas Politics",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Ziege|Bierdurst",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In den 1980ern wählte die texanische Ortschaft Lajitas “Clay Henry” zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine Ziege|Liebe zum Bier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Ziege|Bierdurst",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In den 1980ern wählte die texanische Ortschaft Lajitas “Clay Henry” zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
+      "t": "A",
+      "v": "590499_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

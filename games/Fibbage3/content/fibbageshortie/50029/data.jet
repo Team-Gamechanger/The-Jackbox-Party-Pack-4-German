@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Ein in den 1960er-Jahren in der Türkei erlassenes Verbot führte dazu, dass die Herstellung, der Verkauf und das öffentliche Benutzen von <BLANK> verboten wurde.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

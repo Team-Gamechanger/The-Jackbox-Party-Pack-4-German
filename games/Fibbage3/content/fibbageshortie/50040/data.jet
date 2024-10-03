@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Am 28. März 2011 versammelten sich 173 Taucher im niederländischen Oss, um den Rekord für die meisten Menschen beim Unterwasser-<BLANK> zu brechen.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

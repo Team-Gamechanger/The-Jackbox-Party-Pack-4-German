@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Werfen von Kot,das Motorradfahren,Bier,Putin,die benachbarten Erdmännchen,Pommes,das Stehlen von Geldbeuteln,Sonnenbrillen,das Tragen von Schuhen,Ohrringe,Kaffee,Popcorn,Die Simpsons,Fanta,Pizza,pinke Haare,Poker,Rapmusik",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Besondere Vorlieben",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Brüste",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein Moskauer Zoo zeigte sich besorgt, als der dort lebende Waschbär Thomas eine plötzliche Begeisterung für <BLANK> entwickelte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Titten,menschliche Brüste,Menschen-Brüste,Möpse,Busen,weibliche Brüste",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Brüste",
+      "t": "A",
+      "v": "571030_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein Moskauer Zoo zeigte sich besorgt, als der dort lebende Waschbär Thomas eine plötzliche Begeisterung für <BLANK> entwickelte.",
+      "t": "A",
+      "v": "571027_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

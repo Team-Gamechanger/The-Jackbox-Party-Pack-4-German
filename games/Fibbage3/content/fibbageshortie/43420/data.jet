@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "langen Zehennägel,Torwarte,Elfer,Schwerhörigen,Hinterwäldler,guten Tänzer,Schleicher,stinkenden Füße,plötzlichen Wutausbrüche,imaginären Freunde,Teddybären,Blähungen,schlechten Freunde,Kellerkinder,Weißheitszähne,Unordnung,Diabetiker,Aluhüte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Genetik",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "unkämmbaren Haare",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der seltene genetische Defekt “Pili trianguli et canaliculi”, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als “Syndrom der <BLANK>”.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nicht kämmbaren Haare,nicht frisierbaren Haare,schlecht kämmbaren Haare,schlecht frisierbaren Haare,unfrisierbaren Haare,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]unkämmbaren Haare",
+      "t": "A",
+      "v": "562162_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der seltene genetische Defekt “Pili trianguli et canaliculi”, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als “Syndrom der <BLANK>”.",
+      "t": "A",
+      "v": "562159_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

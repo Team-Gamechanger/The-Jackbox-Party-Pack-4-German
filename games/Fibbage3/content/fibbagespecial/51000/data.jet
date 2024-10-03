@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Palina Rojinski tweetete: “hätte nicht gedacht jemals <BLANK> bei ner Quiz Show gebrauchen zu können”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

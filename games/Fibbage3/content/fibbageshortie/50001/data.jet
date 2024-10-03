@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Der Süßwarenhersteller Katjes produzierte in den ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

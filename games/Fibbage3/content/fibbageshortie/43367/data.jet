@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die französischen Maisfelder waren voller <BLANK>.",
+      "v": "Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die Maisfelder waren voller <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die französischen Maisfelder waren voller <BLANK>.",
+      "s": "[category=host]Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die Maisfelder waren voller <BLANK>.",
       "t": "A",
       "v": "561460_0",
       "n": "QuestionAudio"

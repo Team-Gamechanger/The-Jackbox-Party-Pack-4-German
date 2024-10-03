@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Gronkh tweetete: “<BLANK> nehmen uns die Arbeitsplätze weg!!”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

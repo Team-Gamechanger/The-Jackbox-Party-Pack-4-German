@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Bibel,eine Zahnbürste,dreiundzwanzig Kämme,eine Wasserflasche,ein Nasenhaar,ein Plüschtier,einen Liebesbrief,ein Messer,einen Schlüsselanhänger,einen Kochlöffel,einen Kassenzettel,Toilettenpapier,ein Kissen,eine Unterhose,Zahnräder,einen Geldbeutel,eine Gardine,einen Zirkel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ärchaologie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Klappstuhl",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1400 Jahren fanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Stuhl,einen Campingstuhl,Campingstühle,Klappstühle,einen Klapp Stuhl, Klapp Stühle,einen Camping Stuhl,Camping Stühle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Klappstuhl",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1400 Jahren fanden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

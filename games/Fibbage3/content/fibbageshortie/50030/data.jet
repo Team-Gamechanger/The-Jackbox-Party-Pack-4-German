@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mülltrennung,Kommunalwahlen,das Ehrenamt,Beerdigungen,Geldwäsche,Sonnenbrillen,Leitungswasser,öffentliche Sicherheit,Straßenbau,Windkraftanlagen,Lobbyismus,Datenschutz,Kartelle,Subventionen,den Schutz von Eulen,Katzenhaltung,das Abwassersystem,das Bildungssystem",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Handyspiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steuern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Um die Jugend mehr für das Thema zu begeistern, präsentierte die EU im November 2017 ein Handyspiel, in dem sich alles um <BLANK> dreht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "die Steuer,die Steuern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Steuern",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Um die Jugend mehr für das Thema zu begeistern, präsentierte die EU im November 2017 ein Handyspiel, in dem sich alles um <BLANK> dreht.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

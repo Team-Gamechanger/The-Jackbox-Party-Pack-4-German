@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Elyas M'Barek tweetete “Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Rapper Sido tweetete: “<BLANK> wollen die Weltherrschaft an sich reißen !!!”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Claudia Weber aus Moosburg versteigerte im Jahr 2019 einen selbstgestrickten Schal für 7550€, dessen Farbgebung sich nach <BLANK> richtete.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

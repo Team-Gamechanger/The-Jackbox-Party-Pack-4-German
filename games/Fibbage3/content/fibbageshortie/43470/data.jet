@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scheidung,Überdosis,Ungewollte Schwangerschaft,Börsencrash,Einzug in den Krieg,Ermordet,Verwitwet,Lepra,Cholera,deceitful butler,Die Treppe heruntergefallen,fitful spasm,dog murder,Demenz,Vermisstes Kind,Ertrinken,Weinender Geist,spontane menschliche Selbstentzündung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alte Brettspiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Suizid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als Milton Bradley 1860 die erste Version des Brettspiels Das Spiel des Lebens herausbrachte, konnten unglückliche Spieler auf dem \"<BLANK>\"-Feld landen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Selbstmord",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Suizid",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als Milton Bradley 1860 die erste Version des Brettspiels Das Spiel des Lebens herausbrachte, konnten unglückliche Spieler auf dem \"<BLANK>\"-Feld landen.",
+      "t": "A",
+      "v": "563055_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

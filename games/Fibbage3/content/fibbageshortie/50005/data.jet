@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Um die Geburtenrate in Südkorea zu erhöhen, plant die Regierung <BLANK>.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

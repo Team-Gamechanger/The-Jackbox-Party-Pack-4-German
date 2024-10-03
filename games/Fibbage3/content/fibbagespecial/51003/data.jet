@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Rezo tweetete: “Hat einer Bock, dass ich was zu <BLANK> mache?”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Verkehrsschild,einer Katze,Trockeneis,einem Space Shuttle,Autoabgasen,einem Kaktus,Klapperschlangen-Gift,Senfgas,der Sonne,einem Flammenwerfer,dem Atem eines Feuerschluckers,Reibung,Feuerwerk,einer Kanone,seinen Gedanken,einem Laser,einem Vulkan,dem Magnetfeld der Erde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zigaretten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Atombombe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1952 war der US-Amerikaner Ted Taylor der erste Mensch, der sich eine Zigarette mit <BLANK> anzündete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Atombomben,einer Bombe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einer Atombombe",
+      "t": "A",
+      "v": "574023_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 1952 war der US-Amerikaner Ted Taylor der erste Mensch, der sich eine Zigarette mit <BLANK> anzündete.",
+      "t": "A",
+      "v": "574020_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

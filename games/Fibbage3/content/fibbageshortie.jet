@@ -580,6 +580,51 @@
     {
       "x": false,
       "personal": "",
+      "id": 43420,
+      "portrait": false,
+      "category": "Genetik",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43424,
+      "portrait": false,
+      "category": "Komponisten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43428,
+      "portrait": false,
+      "category": "ABBA-Garderobe",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43470,
+      "portrait": false,
+      "category": "Alte Brettspiele",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43474,
+      "portrait": false,
+      "category": "Wahrsager",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 43520,
       "portrait": false,
       "category": "Zeitlose Partys",
@@ -677,11 +722,200 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "",
       "id": 43570,
       "portrait": false,
       "category": "Royaler Tratsch",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43691,
+      "portrait": false,
+      "category": "Bierisch gut!",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43719,
+      "portrait": false,
+      "category": "Klein aber fein",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43841,
+      "portrait": false,
+      "category": "Besondere Vorlieben",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43898,
+      "portrait": false,
+      "category": "Uranus",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43911,
+      "portrait": false,
+      "category": "Lustige Ausflüge",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43924,
+      "portrait": false,
+      "category": "Schwedische Verbrechen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43932,
+      "portrait": false,
+      "category": "Kleine Inselstaaten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43934,
+      "portrait": false,
+      "category": "Stammbäume",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43950,
+      "portrait": false,
+      "category": "Zigaretten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43961,
+      "portrait": false,
+      "category": "Blutrünstige Prinzessinnen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43968,
+      "portrait": false,
+      "category": "Star Trek",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43969,
+      "portrait": false,
+      "category": "Entspannung",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43970,
+      "portrait": false,
+      "category": "Spanische Schmuggler",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44008,
+      "portrait": false,
+      "category": "Auf der Flucht",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44100,
+      "portrait": false,
+      "category": "Münchener Anfälle",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44121,
+      "portrait": false,
+      "category": "Polnische Winter",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44150,
+      "portrait": false,
+      "category": "“Allergien”",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44244,
+      "portrait": false,
+      "category": "Verbesserungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44264,
+      "portrait": false,
+      "category": "Mitteleuropa-Rekorde",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44265,
+      "portrait": false,
+      "category": "Finnland",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44286,
+      "portrait": false,
+      "category": "Königliche Statuen",
       "bumper": "",
       "us": false
     },
@@ -699,7 +933,7 @@
       "personal": "",
       "id": 50000,
       "portrait": false,
-      "category": "In der Verkehrskontrolle",
+      "category": "Verkehrskontrollen",
       "bumper": "",
       "us": false
     },
@@ -751,6 +985,15 @@
     {
       "x": false,
       "personal": "",
+      "id": 50008,
+      "portrait": false,
+      "category": "Vor Gericht",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 50028,
       "portrait": false,
       "category": "Handwerkliche Begabung",
@@ -767,11 +1010,47 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 50030,
+      "portrait": false,
+      "category": "Handyspiele",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50031,
+      "portrait": false,
+      "category": "Ärchaologie",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 50033,
       "portrait": false,
       "category": "Hamburg",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50035,
+      "portrait": false,
+      "category": "Internet-Katzen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50038,
+      "portrait": false,
+      "category": "Schaffe schaffe, Häusle baue",
       "bumper": "",
       "us": false
     },
@@ -835,6 +1114,24 @@
       "id": 50051,
       "portrait": false,
       "category": "Japanische Studien",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50051,
+      "portrait": false,
+      "category": "Bundesautobahn 20",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50052,
+      "portrait": false,
+      "category": "In der Glotze",
       "bumper": "",
       "us": false
     }

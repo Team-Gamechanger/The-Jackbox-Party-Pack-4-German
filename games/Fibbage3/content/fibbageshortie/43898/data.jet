@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hintern,Affen,Schmerz,Lollipop,Hummer,Thors,Atlantik,Würstchen,Marihuana,Lisas,Socken,Weißer,Thomas',Mörder,Urin,Säure,Ratten,Ketten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Uranus",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Georgs",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt “<BLANK> Stern” bedeutet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "König Georgs,Georges,Georg's,König George,Georges,George's",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Georgs",
+      "t": "A",
+      "v": "572634_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt “<BLANK> Stern” bedeutet.",
+      "t": "A",
+      "v": "572631_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

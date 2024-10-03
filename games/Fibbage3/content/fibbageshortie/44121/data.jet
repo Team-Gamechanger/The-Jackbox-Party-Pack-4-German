@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "auf Katzen schießen,Mäntel verbrennen,Lumpen anziehen,Käfer verspotten,Schwerter schlucken,Kühe rasieren,Häuser mit Eiern bewerfen,Kleidung verkehrt tragen,nackt ringen,Kauderwelsch reden,Waisenkindern Münzen zuwerfen,Maisfelder anzünden,an Schlangen lecken,in Teer baden,Rote Bete verschenken,den ganzen Tag nur Pilze essen,Schneemänner küssen,sich Blau anmalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Polnische Winter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Puppen versenken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Während des polnischen Feiertags Topienie Marzanny feiern die Menschen das Ende des Winters mit einer kuriosen Tradition, indem sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Puppen ertränken,eine Puppe versenken,eine Puppe ertränken,Puppen in einen See schmeißen,Puppen in einen See werfen,eine Puppe ertränken,eine Puppe in einen See werfen,eine Puppe in einen See schmeißen,eine Puppe in den See werfen,eine Puppe in den See schmeißen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Puppen versenken",
+      "t": "A",
+      "v": "579066_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Während des polnischen Feiertags Topienie Marzanny feiern die Menschen das Ende des Winters mit einer kuriosen Tradition, indem sie <BLANK>.",
+      "t": "A",
+      "v": "579063_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

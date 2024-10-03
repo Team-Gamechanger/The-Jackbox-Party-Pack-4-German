@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abzudanken,eine Diät zu machen,die Steuern zu senken,mehr zu Lächeln,ein Instrument zu lernen,Make-up zu tragen,auf Opium zu verzichten,einen Erben zu zeugen,sich ein Hobby zuzulegen,zum Friseur zu gehen,die Klappe zu halten,Geschichte zu studieren,abzunehmen,Gras anzufassen,hohe Schuhe zu tragen,den Namen ihres Mannes anzunehmen,Russisch zu lernen,mit den Witzen aufzuhören",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Blutrünstige Prinzessinnen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu heiraten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die im Russland des 10. Jahrhunderts lebende Prinzessin Olga hatte den üblen Ruf, jeden zu töten, der ihr nahelegte, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "jemanden zu heiraten,sich einen Mann zu holen,einen Mann zu finden,einen Ehemann zu finden,sich einen Mann zu holen,nochmal zu heiraten,erneut zu heiraten,sich einen Mann zu suchen,einen Mann zu suchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]zu heiraten",
+      "t": "A",
+      "v": "574352_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die im Russland des 10. Jahrhunderts lebende Prinzessin Olga hatte den üblen Ruf, jeden zu töten, der ihr nahelegte, <BLANK>.",
+      "t": "A",
+      "v": "574349_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

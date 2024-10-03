@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Im Dezember 2022 verschwand aus dem Bodensee eine 800 Kilogramm schwere Edelstahlkugel voller <BLANK>.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

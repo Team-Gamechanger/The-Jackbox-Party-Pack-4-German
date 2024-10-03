@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Regenwürmern,Katzen,Hühnchen,Rentnern,Angela Merkel,Waisenkindern,Handys,Heidi Klum,Gefängnisinsassen,Füßen,Robotern,Vögeln,nackten Leuten,Kleinwüchsigen,Obdachlosen,einem Schneebesen,Insekten,Diensthunden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entspannung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Schlange",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Haar-Mode-Team in Dresden ist ein Friseursalon, der Kunden die einzigartige Gelegenheit bietet, sich von <BLANK> massieren zu lassen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Schlangen,Pythons,einer Python",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einer Schlange",
+      "t": "A",
+      "v": "574568_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Haar-Mode-Team in Dresden ist ein Friseursalon, der Kunden die einzigartige Gelegenheit bietet, sich von <BLANK> massieren zu lassen.",
+      "t": "A",
+      "v": "574565_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

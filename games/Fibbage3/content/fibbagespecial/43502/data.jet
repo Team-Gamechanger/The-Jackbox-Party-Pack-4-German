@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Ein altes russisches Sprichwort heißt übersetzt „Hunger ist nicht <BLANK>. Er wird dir keinen Kuchen bringen.“",
+      "v": "Ein altes russisches Sprichwort heißt übersetzt \"Hunger ist nicht <BLANK>. Er wird dir keinen Kuchen bringen.\"",
       "n": "QuestionText"
     },
     {
@@ -91,7 +91,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein altes russisches Sprichwort heißt übersetzt „Hunger ist nicht <BLANK>. Er wird dir keinen Kuchen bringen.“",
+      "s": "[category=host]Ein altes russisches Sprichwort heißt übersetzt \"Hunger ist nicht <BLANK>. Er wird dir keinen Kuchen bringen.\"",
       "t": "A",
       "v": "563898_0",
       "n": "QuestionAudio"

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Weißwein zu schnupfen,Aspirin zu nehmen,Grünkohl zu essen,heiß zu duschen,Liegestütze zu machen,Stepptanzen zu müssen,Falsett zu singen,mit dem Rad zu fahren,Zigarren zu rauchen,Vögel zu füttern,Gas einzuatmen,12 Stunden zu schlafen,zu rennen,Milch zu trinken,in Whisky zu baden,zu schwimmen,zu niesen,in die Sonne zu starren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwedische Verbrechen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kaffee zu trinken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Um zu beweisen, wie gefährlich es ist, bestrafte König Gustav III. von Schweden einmal einen Gefangenen, indem er ihn zwang, für den Rest seines Lebens jeden Tag <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine Tasse Kaffee zu trinken,drei Tassen Kaffe zu trinken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kaffee zu trinken",
+      "t": "A",
+      "v": "573150_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Um zu beweisen, wie gefährlich es ist, bestrafte König Gustav III. von Schweden einmal einen Gefangenen, indem er ihn zwang, für den Rest seines Lebens jeden Tag <BLANK>.",
+      "t": "A",
+      "v": "573147_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

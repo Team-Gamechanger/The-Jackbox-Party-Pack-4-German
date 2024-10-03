@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fußwege,Leitungswasser,ihre eigenen Fingernägel,Kaffee,Baskenmützen,Unhöflichkeit,Lärm,schlechtes Fernsehen,Bärte,Baguette,Luft,Unterwäsche,Arbeit,schlechte Nachrichten,Die Guardians of the Galaxy,Frankreich,Abgaße,Stopp-Schilder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "“Allergien”",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "WLAN",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 sprach ein französisches Gericht einer Frau eine Berufsunfähigkeitrente von 800 Euro zu, weil sie angeblich allergisch auf <BLANK> reagiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "WIFI,Wi-Fi,Funkfrequenzen,Mobilfunk",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]WLAN",
+      "t": "A",
+      "v": "580026_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 sprach ein französisches Gericht einer Frau eine Berufsunfähigkeitrente von 800 Euro zu, weil sie angeblich allergisch auf <BLANK> reagiert.",
+      "t": "A",
+      "v": "580023_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

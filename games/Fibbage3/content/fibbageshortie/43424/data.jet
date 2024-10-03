@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "geliebt,betrogen,aufgezogen,ausgeraubt,getötet,verheiratet,abserviert,getauft,gegessen,entführt,verhaftet,im Fechten gelehrt,erschossen,verführt,mit Kuhdung abgeworfen,geohrfeigt,frisiert,vergiftet",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Komponisten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "erblindet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Einigen Historikern zufolge wurden die Komponisten Bach und Händel beide vom selben Mann <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "blind,made blind,rendered blind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]erblindet",
+      "t": "A",
+      "v": "562262_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Einigen Historikern zufolge wurden die Komponisten Bach und Händel beide vom selben Mann <BLANK>.",
+      "t": "A",
+      "v": "562259_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

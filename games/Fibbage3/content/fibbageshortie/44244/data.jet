@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Facebookprofile,dumme Namen,ihre Texting-Gewohnheiten,Kreuzworträtsel,ihre Emoji-Verwendung,ihr schiefes Lächeln,veraltete Wörterbücher,überhöhte Selbstansprüche,quietschende Türscharniere,haarige Ohren,ihre Zeugnisse,Blutdurst,Albträume,ihre Kochkünste,schlechtes Benehmen,ihre Tollpatschigkeit,ständiges Lügen,Disco-Fieber",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verbesserungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "falsch geschriebene Tattoos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 bot das Caro y Cuervo Institute, ein kolumbianisches Bildungszentrum, den Menschen an, <BLANK> zu verbessern.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tattoos,ihre Tattoos,ihr Tattoo,Fehler in Tattoos,Fehler in ihren Tattoos,Fehler in ihrem Tattoo,Schreibfehler in den Tattoos,Schreibfehler in ihrem Tattoo,Schreibfehler in ihren Tattoos,Tattoo-Schreibfehler,ihre Tattoo-Schreibfehler,Tätowierungen,ihre Tätowierung,ihre Tätowierungen,Fehler in Tätowierungen,Fehler in ihren Tätowierungen,Schreibfehler in ihren Tätowierungen,Tätowierungs-Schreibfehler,ihre Tätowierungs-Schreibfehler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]falsch geschriebene Tattoos",
+      "t": "A",
+      "v": "582479_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 bot das Caro y Cuervo Institute, ein kolumbianisches Bildungszentrum, den Menschen an, <BLANK> zu verbessern.",
+      "t": "A",
+      "v": "582476_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

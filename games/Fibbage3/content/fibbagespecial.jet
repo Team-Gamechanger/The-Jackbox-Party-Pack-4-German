@@ -33,7 +33,7 @@
       "personal": "",
       "id": 43493,
       "portrait": false,
-      "category": "Bewerbungsschreiben",
+      "category": "Kunst oder Krempel",
       "bumper": "Photo",
       "us": false
     },
@@ -42,7 +42,7 @@
       "personal": "",
       "id": 43494,
       "portrait": false,
-      "category": "Was macht sie?",
+      "category": "Kunst oder Krempel",
       "bumper": "Photo",
       "us": false
     },
@@ -78,7 +78,7 @@
       "personal": "",
       "id": 43526,
       "portrait": false,
-      "category": "Liebe und Hiebe",
+      "category": "Mütterchen Russland",
       "bumper": "Russian",
       "us": false
     },
@@ -126,6 +126,15 @@
       "category": "Müttcherchen Russland",
       "bumper": "Russian",
       "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43604,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": true
     },
     {
       "x": false,

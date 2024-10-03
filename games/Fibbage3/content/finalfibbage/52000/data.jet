@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Ein Senior aus Hamburg erhielt eine Anzeige, weil er sich mit <BLANK> gegen <BLANK> wehrte.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

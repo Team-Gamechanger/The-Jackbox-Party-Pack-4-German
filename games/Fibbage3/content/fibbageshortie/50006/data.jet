@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Die pariser Modemarke Coperni bietet ein ganz besonderes Produkt in ihrem Sortiment an: Eine Handtasche bestehend aus <BLANK>.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

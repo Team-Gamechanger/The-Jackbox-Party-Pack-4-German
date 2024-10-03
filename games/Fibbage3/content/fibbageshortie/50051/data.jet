@@ -22,27 +22,27 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "Reiseübelkeit,Schlafmangel,Koffeinsucht,Schlechtes Wlan,Fischgestank,Uringeruch in der U-Bahn,Blähungen,Fettiges Haar,Ohrwürmer,Sodbrennen,die Farbe von Vogelkot,Laktoseintoleranz,graues Haar nicht,die Farbe von Katzen-Erbrochenem,den Geruch von Skittles,den Geschmack von Periodenblut,die Produktion von Ohrenschmalz,die Farbe von Rückenhaaren",
+      "v": "eine schwedische Flagge,eine halbvergrabene Schallplatte,einen liegengebliebenen Trabi,eine Polizeistation,einen Wasserspender,einen Hotdogstand,einen Hühnerhof,einen Wäscheständer,Meteoriten-Reste,einen Burger Kind,eine Discokugel,ein Sägeblatt,17 Schaufensterpuppen,eine riesige Karotte,einen Mattenwagen,ein Fußballfeld,die belgische Botschaft,einen Bankautomaten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Japanische Studien",
+      "v": "Bundesautobahn 20",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Fußgeruch",
+      "v": "einen Briefkasten",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie \"<i>Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind</i>\".",
+      "v": "Auf dem Mittelstreifen der A 20 kann man in der Nähe von Bad Segeberg seit vielen Jahren <BLANK> finden.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Schweißfüße,Schweißfuß,Schweissfüsse,Schweissfuss,den Fußgeruch,Fussgeruch,den Fussgeruch,Fussgerüche,Fußgerüche,Käsefüße,den Käsefuß,Käsefüsse,den Käsefuss,stinkende Füße,stinkende Füsse",
+      "v": "Briefkasten,einen Postbriefkasten,Postbriefkasten,einen Postkasten,Postkasten",
       "n": "AlternateSpellings"
     },
     {
@@ -80,13 +80,14 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Fußgeruch",
+      "s": "[category=host]einen Briefkasten",
       "t": "A",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie \"<i>Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind</i>\".",
+      "s": "[category=host]Auf dem Mittelstreifen der A 20 kann man in der Nähe von Bad Segeberg seit vielen Jahren <BLANK> finden.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

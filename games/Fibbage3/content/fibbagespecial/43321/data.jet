@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "v": "Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen \"Wenn Schweine fliegen können\". Das russische Äquivalent dazu ist \"Wenn <BLANK> vom Berge pfeift\".",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
+      "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen \"Wenn Schweine fliegen können\". Das russische Äquivalent dazu ist \"Wenn <BLANK> vom Berge pfeift\".",
       "t": "A",
       "v": "560235_0",
       "n": "QuestionAudio"

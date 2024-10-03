@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Der Designer Marcus Floyd hat im Oktober 2022 einen ungewöhnlichen Schuh-Onlineshop eröffnet, in dem man ausschließlich Sneaker für <BLANK> kaufen kann. ",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

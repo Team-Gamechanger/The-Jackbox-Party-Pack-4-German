@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jongleur,Veganer,ein Schüler,Zauberer,eine Meerjungfrau,Linkshänder,keine Frau,ein Profikoch,Programmierer,blind,im Rollstuhl,Franzose,ein Oktopus,Dichter,Doktor der Physik,ein Superheld,Perückenmacher,Korbflechter",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Königliche Statuen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Pinguin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2005 wurde in Edinburgh eine Statue zu Ehren von Sir Nils Olav errichtet, dem ersten Mitglied der norwegischen Königsgarde, das <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin,ein Kaiserpinguin,Kaiserpinguin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Pinguin",
+      "t": "A",
+      "v": "583835_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2005 wurde in Edinburgh eine Statue zu Ehren von Sir Nils Olav errichtet, dem ersten Mitglied der norwegischen Königsgarde, das <BLANK> war.",
+      "t": "A",
+      "v": "583832_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

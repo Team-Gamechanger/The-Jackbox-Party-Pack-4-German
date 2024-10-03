@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "v": "Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie \"Das wissen alle <BLANK>.\"",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
+      "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie \"Das wissen alle <BLANK>.\"",
       "t": "A",
       "v": "564132_0",
       "n": "QuestionAudio"

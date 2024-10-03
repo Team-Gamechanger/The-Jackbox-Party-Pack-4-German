@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nackt ist,wütend ist,alleine ist,jagt,schläft,schwimmt,betrunken ist,Teenager ist,schwanger ist,hüpft,alt ist,Fußball schaut,auf dem Kopf steht,weint,verkatert ist,am Äquator ist,nervös ist,alleine ist",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bierisch gut!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fliegt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Schon mal Betsy-Bier getrunken? Es wird so gebraut, dass es am besten schmeckt, während man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Flugzeug fliegt,über den Wolken ist,im Flugzeug sitzt,beim fliegen ist,im Flugzeug ist,über den Wolken fliegt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]fliegt",
+      "t": "A",
+      "v": "567443_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Schon mal Betsy-Bier getrunken? Es wird so gebraut, dass es am besten schmeckt, während man <BLANK>.",
+      "t": "A",
+      "v": "567440_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

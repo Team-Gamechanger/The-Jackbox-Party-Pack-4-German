@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "25-Teller-Nudelessen,Sackhüpf,Katzentrainings,Kuchenback,Schrei,Telefonier,Schönheits,Foto,Rennfahr,Schnelltippen,Bügel,Tieftauch,Schlagzeug,Busfahr,Wrestling,Stepptanz,Trompetenbau,Wäsche zusammenfalten,Fibbage,Reise",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vor Gericht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsbaumweitwurf",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein Gericht in Irland hat den Versicherungsanspruch einer Frau in Höhe von 820.000 Dollar abgewiesen, nachdem herausgefunden wurde, dass sie bei einem <BLANK>-Wettbewerb gewann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Weihnachtsbaumweitwurf",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein Gericht in Irland hat den Versicherungsanspruch einer Frau in Höhe von 820.000 Dollar abgewiesen, nachdem herausgefunden wurde, dass sie bei einem <BLANK>-Wettbewerb gewann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

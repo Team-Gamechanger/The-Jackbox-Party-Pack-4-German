@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Godzilla,eine nichtdetonierte Atombombe,die Unschuld,der Jungbrunnen,das eigene Selbst,nur CO2-neutrale Restaurants,riesige Schmetterlinge,ein mysteriöser Piratenschatz,ein echter Samurai,echte Meerjungfrauen,die Hölle,ein Schokoladenvulkan,die weltgrößte Katze,Ufos,der größte Mülleimer der Welt,nichts,heiße Singles,der größte Affe der Welt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lustige Ausflüge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Grab von Jesus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die japanische Stadt Aomori behauptet, sie sei einzigartig, weil sich dort <BLANK> befände.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jesus,das Grab von Jesus Christus,Jesus Christus' Grab,Jesus' Grab,Jesus Christus Grab,Jesus Grab,das Grab Jesu Christi,Jesu Christi Grab,das Grab Jesus,das Jesus-Grab",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]das Grab von Jesus",
+      "t": "A",
+      "v": "573021_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die japanische Stadt Aomori behauptet, sie sei einzigartig, weil sich dort <BLANK> befände.",
+      "t": "A",
+      "v": "573018_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

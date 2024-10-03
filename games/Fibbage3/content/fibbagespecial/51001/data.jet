@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -92,6 +92,7 @@
     {
       "s": "[category=host]Domtendo tweetete: “Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.”",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]
