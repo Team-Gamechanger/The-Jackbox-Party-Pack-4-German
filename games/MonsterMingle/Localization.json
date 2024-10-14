@@ -147,7 +147,7 @@
         "MOST_HEARTS": "MEISTE HERZEN",
         "PLACED": "Rang",
         "POWER_TRIGGERED": "Deine Fähigkeit wurde eingesetzt",
-        "NO_ONE_MESSAGED_AUDIENCE": "AUDIENCE erhielt keine Nachrichten.",
+        "NO_ONE_MESSAGED_AUDIENCE": "PUBLIKUM erhielt keine Nachrichten.",
         "WHO_DO_YOU_WANT_TO_DATE": "Mit wem möchtest du ein Date?",
         "DATE_NO_ONE": "Ich möchte niemanden daten.",
         "OF_THE_VOTES": "der Abstimmungen",
@@ -170,8 +170,8 @@
             "[Monster Type] war sehr liebenswert."
         ],
         "SECRET_WORD_IS": "Das geheime Wort ist:",
-        "SENDING_MESSAGE_TO": "Stimmt ab und sendet den Satz an ",
-        "THE_MAIN_SCREEN": "dem Hauptbildschirm.",
+        "SENDING_MESSAGE_TO": "Stimme ab und sende den Satz an ",
+        "THE_MAIN_SCREEN": "den Hauptbildschirm.",
         "EVERYBODY": "alle.",
         "AND": "und ",
         "SPONSOR": "Gesponsert von: "
