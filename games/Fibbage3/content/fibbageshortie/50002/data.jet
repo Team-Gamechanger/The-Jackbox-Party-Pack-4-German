@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre Apple Watch zu retten.",
+      "v": "Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre <i>Apple Watch</i> zu retten.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre Apple Watch zu retten.",
+      "s": "[category=host]Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre <i>Apple Watch</i> zu retten.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

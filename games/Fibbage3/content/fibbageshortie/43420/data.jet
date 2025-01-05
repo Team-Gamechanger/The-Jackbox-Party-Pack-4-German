@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der seltene genetische Defekt “Pili trianguli et canaliculi”, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als “Syndrom der <BLANK>”.",
+      "v": "Der seltene genetische Defekt „Pili trianguli et canaliculi“, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als „Syndrom der <BLANK>“.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der seltene genetische Defekt “Pili trianguli et canaliculi”, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als “Syndrom der <BLANK>”.",
+      "s": "[category=host]Der seltene genetische Defekt „Pili trianguli et canaliculi“, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als „Syndrom der <BLANK>“.",
       "t": "A",
       "v": "562159_1",
       "n": "QuestionAudio"

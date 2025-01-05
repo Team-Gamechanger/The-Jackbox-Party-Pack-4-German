@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: \"Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.\"",
+      "v": "Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: „Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.“",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: \"Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.\"",
+      "s": "[category=host]Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: „Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.“",
       "t": "A",
       "v": "565086_0",
       "n": "QuestionAudio"

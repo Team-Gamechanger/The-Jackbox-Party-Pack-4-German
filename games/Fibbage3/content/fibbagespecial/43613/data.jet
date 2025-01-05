@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Papa-Demütiger,Bauchrednerrucksack,Papa-Leiter,Buckelholster,Konzertleiter,Kleiner-Bruder-Beschützer,Größensimulator,Kletter-Kindertrage,mobilen Hausarrest,persönlichen Sidekick,tragbare Schaufensterpuppe,Kinderrettungsgurt für Überflutungen,Wachstumssimulator,Vater-Sohn-Wandergürtel,Vaterbadezimmer,Entwürdiger,Kinderkatapult,Urlaubshose",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Papa-Sattel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei diesem Patent handelt es sich um Paul. R. Harriss' <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Kinder-Sattel,Vater-Sattel,Väter-SattelPapa Sattel,Kinder Sattel,Vater Sattel,Väter Sattel,Papasattel,Kindersattel,Vatersattel,Vätersattel,Elten-Sattel,Eltern Sattel, Elternsattel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566194_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571335_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Papa-Sattel",
+      "t": "A",
+      "v": "566192_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei diesem Patent handelt es sich um Paul. R. Harriss' <BLANK>.",
+      "t": "A",
+      "v": "566189_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Madonna|Britney Spears,Elvis Presley|John Lennon,der Weihnachtsmann|der Osterhase,Mario|Wario,Jeanne d’Arc|Maria Magdalena,Judas|Jesus,Bill Clinton|George Bush,Gott|der Teufel,Klaus Kinski|Max Giermann,Quentin Tarantino|Bigfoot,Houdini|Richard Nixon,David Hasselhoff|Arnold Schwarzenegger,David Cameron|eine kleine Orange,Katy Perry|Margaret Thatcher,Beyonce|Beyonces böse Schwester,Taylor Swift|Steven Spielberg,Eminem|Andy Warhol,Rapunzel|der Typ aus The Big Bang Theory",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Anime",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jesus|Buddha",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 produzierte A-1 Pictures einen Film, der auf einem beliebten japanischen Manga basiert, in dem <BLANK> und <BLANK> als Zimmergenossen in Tokio zusammenleben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Buddha|Jesus,Jesus|Budda,Budda|Jesus,Buda|Jesus,Jesus Christus|Buddha,Buddha|Jesus Christus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jesus|Buddha",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2013 produzierte A-1 Pictures einen Film, der auf einem beliebten japanischen Manga basiert, in dem <BLANK> und <BLANK> als Zimmergenossen in Tokio zusammenleben.",
+      "t": "A",
+      "v": "598210_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

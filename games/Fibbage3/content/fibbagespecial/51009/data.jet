@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Elyas M'Barek tweetete “Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.”",
+      "v": "Elyas M'Barek tweetete „Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Elyas M'Barek tweetete “Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.”",
+      "s": "[category=host]Elyas M'Barek tweetete „Hab nen österreichischen <BLANK> zu verschenken. Will den nicht mehr.“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

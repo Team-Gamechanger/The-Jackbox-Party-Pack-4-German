@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Der Herr der Ringe,Fernsehdokumentationen,Schach,Lesebrillen,Baretts,Espresso,Cafes,Büchereien,das Nachdenken,Enzyklopädien,hypothetische Fragen,Kreuzworträtsel,Karikaturen,Gedichte,Bleistifte,das Internet,Moleküle,Gehirne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verbote",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Scrabble",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der rumänische Diktator Nicolae Ceausescu hatte einst solche Angst vor Intellektualität, dass er <BLANK> verbot.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "das Brettspiel Scrabble,das Scrabble-Spiel,Skrabbel,Scrabel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Scrabble",
+      "t": "A",
+      "v": "592492_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der rumänische Diktator Nicolae Ceausescu hatte einst solche Angst vor Intellektualität, dass er <BLANK> verbot.",
+      "t": "A",
+      "v": "592489_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

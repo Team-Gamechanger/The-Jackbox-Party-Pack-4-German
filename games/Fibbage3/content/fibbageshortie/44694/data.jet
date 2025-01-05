@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Grabsteinen,Spitzenpolitikern,Pizzatoppings,Männern namens Tobias,Vine-Stars,den Minions,Disney-Prinzessinen,Toilettenpapier,Selfies,Vampiren,Donuts,Muppets,imaginären Freunden,Hühnchen,Zootieren,Bäumen,Briten,Socken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Persönlichkeiten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steinen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 veröffentlichte <i>Marketing Theory</i> eine kuriose Studie, in der die Persönlichkeiten von <BLANK> bewertet wurden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Felsen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Steinen",
+      "t": "A",
+      "v": "594533_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2013 veröffentlichte <i>Marketing Theory</i> eine kuriose Studie, in der die Persönlichkeiten von <BLANK> bewertet wurden.",
+      "t": "A",
+      "v": "594530_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

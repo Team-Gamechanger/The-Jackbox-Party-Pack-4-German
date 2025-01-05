@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch “Erst die Arbeit, dann das Vergnügen” entspricht, lautet: “Nach getaner Arbeit kannst du kühn <BLANK>.”",
+      "v": "Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch „Erst die Arbeit, dann das Vergnügen“ entspricht, lautet: „Nach getaner Arbeit kannst du kühn <BLANK>.“",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch “Erst die Arbeit, dann das Vergnügen” entspricht, lautet: “Nach getaner Arbeit kannst du kühn <BLANK>.”",
+      "s": "[category=host]Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch „Erst die Arbeit, dann das Vergnügen“ entspricht, lautet: „Nach getaner Arbeit kannst du kühn <BLANK>.“",
       "t": "A",
       "v": "564443_0",
       "n": "QuestionAudio"

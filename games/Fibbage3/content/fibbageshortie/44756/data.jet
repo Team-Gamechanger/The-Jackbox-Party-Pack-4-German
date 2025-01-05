@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zirkuswaisen,Schlangen,Obstbäume,Ameisenbären,Quizshow-Moderatoren,verfluchte Puppen,Birkenstock-Sandalen,Echsen,Sandwiches,Mülleimer,Beweise,Rollerskates,Schallplatten,Freizeit,olympische Athleten,Mumien,Handy-Ladekabel,Videospiele",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Guter Zweck",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Esel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die einzigartige Wohltätigkeitsorganisation Longhopes findet ein Zuhause für ungewollte <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hausesel,Wildesel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Esel",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die einzigartige Wohltätigkeitsorganisation Longhopes findet ein Zuhause für ungewollte <BLANK>.",
+      "t": "A",
+      "v": "596418_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

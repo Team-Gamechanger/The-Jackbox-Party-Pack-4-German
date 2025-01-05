@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zum nächsten Blinzeln,du es bemerkst,die Wölfe kommen,zu deinem Geburtstag,der Arzt kommt,zur nächsten Träne,zum Frühstück,dein Herz heilt,zum nächsten Albtraum,Weihnachten,zum Fest,du aufhörst zu weinen,zum Weltuntergang,zum Weltfrieden,zum nächsten Regenbogen,zum nächsten Sonnenaufgang,zur ersten Liebe,die Tomaten gefrieren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Müttcherchen Russland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zur Hochzeit",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seit Generationen lindern russische Mütter die kleinen Schrammen und blauen Flecken ihrer Kinder mit den Worten: „Bis <BLANK> wird es schon wieder verheilt sein.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "zu deiner Hochzeit,zum Hochzeitstag,zu deinem Hochzeitstag,zur Heirat,zu deiner Heirat,zum Heiratstag,zu deinem Heiratstag,zu der Hochzeit,zu der Heirat",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566394_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]zur Hochzeit",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Seit Generationen lindern russische Mütter die kleinen Schrammen und blauen Flecken ihrer Kinder mit den Worten: „Bis <BLANK> wird es schon wieder verheilt sein.“",
+      "t": "A",
+      "v": "566389_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

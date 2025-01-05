@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Autofahren,die Verwendung von Bing,Mathe,Rückwärtssaltos,die Smoothie-Zubereitung,Staffellauf,Mah-Jongg,das Weinen,Telepathie,Tetris,das Streichen,das Anziehen von Hosen,das Notenlesen,das Haareschneiden,das Tanzen,Spanisch,Selbsthass,das Kochen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schildkröten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Gähnen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 brachte die britische Forscherin Dr. Anna Wilkinson sechs Monate lang einer Schildkröte <BLANK> bei.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gähnen,zu Gähnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]das Gähnen",
+      "t": "A",
+      "v": "590352_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2011 brachte die britische Forscherin Dr. Anna Wilkinson sechs Monate lang einer Schildkröte <BLANK> bei.",
+      "t": "A",
+      "v": "590349_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

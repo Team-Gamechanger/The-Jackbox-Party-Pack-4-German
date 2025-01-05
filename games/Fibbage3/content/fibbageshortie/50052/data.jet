@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen “<BLANK> frei!”.",
+      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen “<BLANK> frei!”.",
+      "s": "[category=host]Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

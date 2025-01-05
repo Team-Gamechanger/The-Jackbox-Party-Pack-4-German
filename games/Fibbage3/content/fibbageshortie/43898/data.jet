@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt “<BLANK> Stern” bedeutet.",
+      "v": "Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt „<BLANK> Stern“ bedeutet.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt “<BLANK> Stern” bedeutet.",
+      "s": "[category=host]Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt „<BLANK> Stern“ bedeutet.",
       "t": "A",
       "v": "572631_0",
       "n": "QuestionAudio"

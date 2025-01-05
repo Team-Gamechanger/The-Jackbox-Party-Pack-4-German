@@ -1,0 +1,93 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "den Knochen|Dinosauriern,vergammeltem Fleisch|Supermärkten,Spucke|der New Yorker U-Bahn,dem Schimmel|seiner Hauswand,dem Fußpilz|seinem Onkel,dem Wasser|einem Kometen,den Kiemen|Fischen,der Unterwäsche|seiner Frau,den Haaren|seinem Rücken,den Tränen|Hunden,den Windeln|seiner Tochter,dem Wasser|Hurricanes,Hilfe|Maden,dem Fell|Eisbären,benutzter Bettwäsche|einem Trucker-Motel,dem Wasser|seiner Toilette,der Tinte|alten Comics,den Bakterien|Bücherei-Büchern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drink up",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dem Urin|Diabetikern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2010 füllte der britische Biomediziner James Gilpin seine eigene Single-Malt-Whisky-Marke ab, die mit <BLANK> von <BLANK> fermentiert wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Urin|Diabtikern,dem Urin|Zuckerkranken,Urin|Zuckerkranken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]dem Urin|Diabetikern",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2010 füllte der britische Biomediziner James Gilpin seine eigene Single-Malt-Whisky-Marke ab, die mit <BLANK> von <BLANK> fermentiert wird.",
+      "t": "A",
+      "n": "QuestionAudio"
+    }
+  ]
+}

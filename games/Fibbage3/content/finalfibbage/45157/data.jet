@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babys|Kleinkinder,Flüstern|Schreien,Speisen|Getränke,Umarmungen|Handschläge,Augenkontakt|Lachen,das Erstechen|Erschießen von Kunden,Weinen|Heulen,Frühstück|Abendessen,Liebe|biologische Triebe,Ostern|Weihnachten,enge Kleidung|Strumpfhosen,ihre Eltern|Angehörige,Nachrichten|soziale Medien,das Internet|Videospiele,Duschen|Händewaschen,das Streicheln merkwürdiger Hunde|Katzen,Toiletten-|Essenspausen,Bordelle|Einrichtungshäuser",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Employee Guides",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Burger|Pommes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonalds' sorgte für Schlagzeilen, da sie den Arbeitsnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pommes|Burger,Burger|Pommes Frites,Pommes Frites|Burger,Cheeseburger|Pommes,Pommes|Cheeseburger,Pommes Frites|Cheeseburger,Cheeseburger|Pommes Frites,Burger|Fritten,Fritten|Burger,Cheeseburger|Fritten,Fritten|Cheeseburger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Burger|Pommes",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonalds' sorgte für Schlagzeilen, da sie den Arbeitsnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
+      "t": "A",
+      "v": "607534_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Olivenöl-Wodka,Nordsee-Wasser,Asbest-Shampoo,Babypandas,Seniorentränen,Pferdeurin,Toter Oma,Fuchshirnen,flüssigem Mut,niederländischen Redewendungen,Erdöl,Puderzucker,Bigfoot-Blut,Pferde-Durchfall,Wasser aus Narnia,Kunstschnee,Eichhörnchenpfoten,Kinderlachen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "China",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "britischer Luft",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Unternehmer Leo De Watts verdiente in China eine beträchtliche Stange Geld mit dem Verkauf von 115$-Flaschen gefüllt mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Luft aus England,englischer Luft,Engländischer Luft,Luft aus Großbritannien,Großbritannischer Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]britischer Luft",
+      "t": "A",
+      "v": "597111_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Unternehmer Leo De Watts verdiente in China eine beträchtliche Stange Geld mit dem Verkauf von 115$-Flaschen gefüllt mit <BLANK>.",
+      "t": "A",
+      "v": "597108_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

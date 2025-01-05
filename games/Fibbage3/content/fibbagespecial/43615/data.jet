@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "auf der Jagd,stärkt ihr Selbstvertrauen,verschwendet Zeit,wiegt sich,mit Rachegedanken,nach dem Haareschneiden,denkt an Wolken,lernt jonglieren,stinkt,macht Heiratsantrag,bereit zum Töten,mit Ziegenhörnern,fordert ihr Schicksal heraus,mit Hoffnungen und Träumen,namens Tina,lehrt Tänze,mit einer Pistole,ist über dich hinweg",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "trägt Affen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dieses Kunstwerk trägt den Titel <i>Frauenakt <BLANK></i>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mit Affen,hält Affen,hat Affen,trägt Äffchen,mit Äffchen,hält Äffchen,hat Äffchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566244_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571345_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]trägt Affen",
+      "t": "A",
+      "v": "566242_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dieses Kunstwerk trägt den Titel <i>Frauenakt <BLANK></i>.",
+      "t": "A",
+      "v": "566239_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen toten Clown,Hitlers toten Körper,die Arche Noah,Tutanchamun,eine Atomrakete,einen Minotaurus,Zeitreisende,1000 BHs,ein japanisches U-Boot,einen T-Rex,einen Container voller Kokain,300 Kopien des E.T.-Videospiels,ein Wal-Skelett,Vampire,einen Engel,ein Maislabyrinth,sein eigenes Grab,ein verlorenes Werk von Shakespeare",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fundstücke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Vulkan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der 20. Februar 1943 war ein schicksalhafter Tag für den mexikanischen Bauern Dionisio Pulido. Er warf einen Blick auf sein Maisfeld und war schockiert, als er <BLANK> erblickte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nen Vulkan,Vulkane,einen brandneuen Vulkan,einen neuen Vulkan,einen entstehenden Vulkan,einen neu entstehenden Vulkan,die Geburt eines Vulkans",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Vulkan",
+      "t": "A",
+      "v": "586984_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der 20. Februar 1943 war ein schicksalhafter Tag für den mexikanischen Bauern Dionisio Pulido. Er warf einen Blick auf sein Maisfeld und war schockiert, als er <BLANK> erblickte.",
+      "t": "A",
+      "v": "586981_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

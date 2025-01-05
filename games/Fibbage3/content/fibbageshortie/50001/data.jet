@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der Süßwarenhersteller Katjes produzierte in den ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
+      "v": "Der Süßwarenhersteller Katjes produzierte in seinen ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der Süßwarenhersteller Katjes produzierte in den ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
+      "s": "[category=host]Der Süßwarenhersteller Katjes produzierte in seinen ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

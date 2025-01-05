@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2011 wurde in den USA die Definition eines \"Assistenztieres\" aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
+      "v": "Im Jahr 2011 wurde in den USA die Definition eines „Assistenztieres“ aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Jahr 2011 wurde in den USA die Definition eines \"Assistenztieres\" aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
+      "s": "[category=host]Im Jahr 2011 wurde in den USA die Definition eines „Assistenztieres“ aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
       "t": "A",
       "v": "349494_0",
       "n": "QuestionAudio"

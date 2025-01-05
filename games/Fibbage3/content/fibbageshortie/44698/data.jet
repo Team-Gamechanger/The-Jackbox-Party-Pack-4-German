@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Ärzte verklagen,erregt werden,einschlafen,nicht mehr sitzen können,„es merkwürdig machen“,sich verlieben,Witze erzählen,neidisch werden,lachen,singen,Juckanfälle kriegen,Fressanfälle kriegen,lustig laufen,Erregt werden,Blähungen kriegen,zu Fluchen anfangen,bluten,übermäßig schwitzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Darmspiegelungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "explodieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 schrieb ein französisches Ärzteteam einen Artikel, in dem es Ratschläge für Darmspiegelungen gab, um zu verhindern, dass die Patienten <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "hochgehen,implodieren,in die Luft gehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]explodieren",
+      "t": "A",
+      "v": "594683_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2007 schrieb ein französisches Ärzteteam einen Artikel, in dem es Ratschläge für Darmspiegelungen gab, um zu verhindern, dass die Patienten <BLANK>.",
+      "t": "A",
+      "v": "594680_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

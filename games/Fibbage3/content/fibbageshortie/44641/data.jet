@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Geburtstagen,zwei Planeten,zwei Wassermolekülen,Greg und David,parkenden Autos,Kontinenten,Paartänzern,Paragraphen,den eigenen Ohren,Badezimmer und Küche,Sätzen,Männern in Whirlpools,Milch- und Nicht-Milchprodukten,den großen und kleinen Organen,den Schneidezähnen,Käsescheiben,Regentropfen,Schmetterlingsflügeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Raum",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Augenbrauen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "„Glabella“ ist der wissenschaftliche Fachbegriff für den Raum zwischen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "den eigenen Augenbrauen,Augenbrauen,zwei Augenbrauen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]den Augenbrauen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]„Glabella“ ist der wissenschaftliche Fachbegriff für den Raum zwischen <BLANK>.",
+      "t": "A",
+      "v": "593117_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

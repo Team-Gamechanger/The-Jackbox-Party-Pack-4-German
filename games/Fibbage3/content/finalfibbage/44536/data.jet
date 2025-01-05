@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In den 1980ern wählte die texanische Ortschaft Lajitas “Clay Henry” zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
+      "v": "In den 1980ern wählte die texanische Ortschaft Lajitas „Clay Henry“ zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In den 1980ern wählte die texanische Ortschaft Lajitas “Clay Henry” zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
+      "s": "[category=host]In den 1980ern wählte die texanische Ortschaft Lajitas „Clay Henry“ zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
       "t": "A",
       "v": "590499_0",
       "n": "QuestionAudio"

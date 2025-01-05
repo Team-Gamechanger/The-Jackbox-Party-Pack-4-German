@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Eimer|Perücke,ein Raum|nackten Menschen,ein Stuhl|Stacheln,ein Hut|einer hungrigen Ratte,ein sexy Gemälde|Mikrofon,ein Käsestück|Elektroschocker,ein Spiegel|der Inschrift \"Schuldig\",ein Grabstein|dem eigenen Namen drauf,ein Seil|einer festgebundenen Karotte,ein Hund|traurigem Blick,eine Bohrmaschine|einem nervigen Geräusch,ein trauriger Film|einem toten Kind,ein Radio|stündlich höherer Lautstärke,ein Kürbis|enttäuschtem Blick,ein Papagei|Sinn für Humor,ein Fotobuch|Sternbildern,eine Bauchrednerpuppe|sich bewegenden Augen,ein Glas Wasser|einem Loch in der Mitte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Confessions",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Skelett|leuchtenden Augen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Helene Adelaide Shelby hat einen ziemlich innovativen Apparat entwickelt, um Verbrecher dazu zu bringen, ihre Taten zu gestehen. Es war im Wesentlichen <BLANK> mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Schädel|leuchten Augen,ein Skelett|Augen,Skelett|leuchtenden Augen,Schädel|leuchtenden Augen,Skelett|Augen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Skelett|leuchtenden Augen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Helene Adelaide Shelby hat einen ziemlich innovativen Apparat entwickelt, um Verbrecher dazu zu bringen, ihre Taten zu gestehen. Es war im Wesentlichen <BLANK> mit <BLANK>.",
+      "t": "A",
+      "v": "640257_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

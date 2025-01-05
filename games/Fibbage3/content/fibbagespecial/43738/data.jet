@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frisches Ei,Schlange,Tischtuch,Pastete,Huhn,Laib Brot,Baby,Basketball,Taxi,Pfirsichkern,Korbmacher,Kronleuchter,Kuchenstück,Pusteblume,Kotelett,Wein,Ballonfahrer,Rinderleber",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Müttcherchen Russland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pilz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Es gibt ein russisches Sprichwort, das besagt, dass man beenden muss, was man anfängt. Übersetzt heißt es: „Wenn du dich selbst als <BLANK> bezeichnet hast, dann steig auch in den Korb!“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Pilz,Indigo-Reizker,einen Indigo-Reizker",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "568866_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pilz",
+      "t": "A",
+      "v": "568864_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Es gibt ein russisches Sprichwort, das besagt, dass man beenden muss, was man anfängt. Übersetzt heißt es: „Wenn du dich selbst als <BLANK> bezeichnet hast, dann steig auch in den Korb!“",
+      "t": "A",
+      "v": "568861_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

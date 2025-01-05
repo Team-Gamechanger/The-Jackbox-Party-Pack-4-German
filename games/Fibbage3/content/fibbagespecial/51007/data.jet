@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Gronkh tweetete: “<BLANK> nehmen uns die Arbeitsplätze weg!!”",
+      "v": "Gronkh tweetete: „<BLANK> nehmen uns die Arbeitsplätze weg!!“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Gronkh tweetete: “<BLANK> nehmen uns die Arbeitsplätze weg!!”",
+      "s": "[category=host]Gronkh tweetete: „<BLANK> nehmen uns die Arbeitsplätze weg!!“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

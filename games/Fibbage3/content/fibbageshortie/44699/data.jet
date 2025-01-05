@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wespen,kaltes Wasser,Elektroschocks,Vögelgeräusche,Wachhunde,angenehmen Keksduft,Tinte,eine Taube,E-Mail-Kettenbriefe,Babyweinen,Beyonce-Musik,das eigene Schnarchen,Pizzateig,Benzin,leise Geräusche,mehr Feuer,Helium,wütende Schlangen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brandschutz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "schmerzendes Gas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 erfand ein japanisches Forscherteam einen Feueralarm, der statt lauter Geräusche <BLANK> ausstößt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gas,brennendes Gas,stechendes Gas,Wasabi-Gas,Wasabi,Schmerzgas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]schmerzendes Gas",
+      "t": "A",
+      "v": "594713_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2009 erfand ein japanisches Forscherteam einen Feueralarm, der statt lauter Geräusche <BLANK> ausstößt.",
+      "t": "A",
+      "v": "594710_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

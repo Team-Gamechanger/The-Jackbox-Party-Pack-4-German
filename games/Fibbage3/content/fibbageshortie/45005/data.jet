@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Reis,billigen DVDs,Innereien,Telefonbüchern,Darts,Hotdogs,Glasscherben,Pferehaaren und Kaugummi,Batterien,Hirschgeweihen,Vogelfutter,Fischgräten,Kassenzetteln,Taschentüchern,Asche,benutzter Unterwäsche,Knallfröschen,Nussschalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dänische Singles",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zimt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In Dänemark wird eine unverheiratete Person an ihrem 25. Geburtstag von Freunden mit <BLANK> beworfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Zimt",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In Dänemark wird eine unverheiratete Person an ihrem 25. Geburtstag von Freunden mit <BLANK> beworfen.",
+      "t": "A",
+      "v": "602046_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

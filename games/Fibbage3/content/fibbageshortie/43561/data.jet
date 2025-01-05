@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Schon mal etwas von \"Klimakophilie\" gehört? Dabei fühlen Betroffene sexuelle Befriedigung, wenn sie <BLANK>.",
+      "v": "Schon mal etwas von „Klimakophilie“ gehört? Dabei fühlen Betroffene sexuelle Befriedigung, wenn sie <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Schon mal etwas von \"Klimakophilie\" gehört? Dabei fühlen Betroffene sexuelle Befriedigung, wenn sie <BLANK>.",
+      "s": "[category=host]Schon mal etwas von „Klimakophilie“ gehört? Dabei fühlen Betroffene sexuelle Befriedigung, wenn sie <BLANK>.",
       "t": "A",
       "v": "565261_1",
       "n": "QuestionAudio"

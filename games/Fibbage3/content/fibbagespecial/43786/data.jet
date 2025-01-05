@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rache,Hunden,Sommerregen,wütenden E-Mails,heißer Milch,Ziegenspucke,Lava,Schuhen,toten Spinnen,wütenden Vögeln,Eisregen,Hagel,Hundeatem,saurer Milch,Pfeilen,Tetrapak-Wein,Kummer,Bratensauce",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Müttcherchen Russland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mäusetränen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Möchte man die russische Version der Redewendung „Wie man in den Wald hineinruft, so schallt es heraus“ verwenden, sagt man: „Die Katze wird irgendwann einen Schwall von <BLANK> abbekommen“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mäuse Tränen,Mäuse-Tränen,Maustränen,Maus Tränen,Maus-Tränen,Mausetränen,Mause Tränen,Mause-Tränen,Rattentränen,Ratten Tränen,Ratten-Tränen,Tränen von Mäusen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "569350_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mäusetränen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Möchte man die russische Version der Redewendung „Wie man in den Wald hineinruft, so schallt es heraus“ verwenden, sagt man: „Die Katze wird irgendwann einen Schwall von <BLANK> abbekommen“.",
+      "t": "A",
+      "v": "569345_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

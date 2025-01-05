@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Bett,die Dusche,den Himmel,eine Telefonzelle,das Bett deiner Mutter,das Diskutieren,lächerliche Streitigkeiten,einen Pferdesarg,den Boxring,die Badewanne,die Speisekammer,den Sumpf,den Keller,das Gefängnis,den Sandkasten,die Kirche,eine Disco,den Schrank",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Müttcherchen Russland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Ofen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein junger Bengel, der versucht, Älteren zu sagen, was sie zu tun haben, könnte mit einer russischen Redewendung getadelt werden, die übersetzt so viel heißt wie: „Versuch nicht, vor deinem Vater in <BLANK> zu gelangen.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "die Öfen,Ofen,Öfen,die Hölle,Hölle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "571216_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]den Ofen",
+      "t": "A",
+      "v": "571214_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein junger Bengel, der versucht, Älteren zu sagen, was sie zu tun haben, könnte mit einer russischen Redewendung getadelt werden, die übersetzt so viel heißt wie: „Versuch nicht, vor deinem Vater in <BLANK> zu gelangen.“",
+      "t": "A",
+      "v": "571211_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

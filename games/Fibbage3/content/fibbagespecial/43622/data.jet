@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kriegt den Honig,ist auf dem Weg zum Broadway,erhält doppelte Liebe,überlebt den nächsten Morgen,wird nicht erwürgt,melkt sich selbst,macht sich gut im Eintopf,kommt in die Regierung,ist vermutlich eine Katze,braucht kein Heu,kriegt den Ehemann,erfreut den Staat,wird ein starker Stier,wird eine Milchkuh,frisst seine Geschwister,tanzt für Geld,kann fliegen,spielt die erste Geige",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Müttcherchen Russland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "saugt zwei Mütter",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russian",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine russische Redewendung, die besagt, dass man im Leben weiterkommt, wenn man nett zu seinen Mitmenschen ist, heißt übersetzt: „Ein zärtliches Kalb <BLANK>.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "saugt an zwei Müttern,saugt bei zwei Müttern,Trinkt bei zwei Müttern,wird von zwei Müttern gesäugt,wird von zwei Müttern ernährt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566419_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]saugt zwei Mütter",
+      "t": "A",
+      "v": "566417_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine russische Redewendung, die besagt, dass man im Leben weiterkommt, wenn man nett zu seinen Mitmenschen ist, heißt übersetzt: „Ein zärtliches Kalb <BLANK>.“",
+      "t": "A",
+      "v": "566414_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

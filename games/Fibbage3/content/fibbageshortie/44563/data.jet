@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Fluchtklappe,Nahrungsmittel,einen Welpen,eine Krone,einen Dildo,eine Schokoladentafel,einen seltenen Edelstein,das Skelett eines Hahns,ein Kuchenrezept,einen Geist,ein Gemälde von Da Vinci,einen Sexratgeber,Haustürschlüssel,ein Korsett,eine Zigarette,eine Tretmine,eine Schatzkarte,eine Affenpfote",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Grabgeheimnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Baby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als Wissenschaftler den Sarg des Bischofs Peder Winstrup untersuchten, waren sie schockiert, als sie <BLANK> darin versteckt fanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Kind,ein Fötus,einen Fötus,ein Fetus,einen Fetus,Baby,Kind,ein Kleinkind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Baby",
+      "t": "A",
+      "v": "591287_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als Wissenschaftler den Sarg des Bischofs Peder Winstrup untersuchten, waren sie schockiert, als sie <BLANK> darin versteckt fanden.",
+      "t": "A",
+      "v": "591284_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

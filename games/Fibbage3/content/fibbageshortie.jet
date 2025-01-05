@@ -501,7 +501,7 @@
       "personal": "",
       "id": 43265,
       "portrait": false,
-      "category": "“Wichtige” Forschung",
+      "category": "„Wichtige“ Forschung",
       "bumper": "",
       "us": false
     },
@@ -879,7 +879,7 @@
       "personal": "",
       "id": 44150,
       "portrait": false,
-      "category": "“Allergien”",
+      "category": "„Allergien“",
       "bumper": "",
       "us": false
     },
@@ -916,6 +916,330 @@
       "id": 44286,
       "portrait": false,
       "category": "Königliche Statuen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44294,
+      "portrait": false,
+      "category": "Exotisch",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44310,
+      "portrait": false,
+      "category": "Diebstahlschutz",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44318,
+      "portrait": false,
+      "category": "Wal-Qual",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44323,
+      "portrait": false,
+      "category": "Warenautomaten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44328,
+      "portrait": false,
+      "category": "Erwischt!",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44347,
+      "portrait": false,
+      "category": "Wilderei",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44352,
+      "portrait": false,
+      "category": "Liebe",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44356,
+      "portrait": false,
+      "category": "Schwester Rabiata",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44390,
+      "portrait": false,
+      "category": "Fundstücke",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44399,
+      "portrait": false,
+      "category": "Tiefe Wunden",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44488,
+      "portrait": false,
+      "category": "Satte Ratte",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44531,
+      "portrait": false,
+      "category": "Schildkröten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44540,
+      "portrait": false,
+      "category": "Antiker Buddhismus",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44555,
+      "portrait": false,
+      "category": "Antikes Griechenland",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44559,
+      "portrait": false,
+      "category": "Marketing-Stunts",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44563,
+      "portrait": false,
+      "category": "Grabgeheimnisse",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44568,
+      "portrait": false,
+      "category": "Pflichtlektüren",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44571,
+      "portrait": false,
+      "category": "Finnisches Militär",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44598,
+      "portrait": false,
+      "category": "Philippinen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44603,
+      "portrait": false,
+      "category": "Heilender Wein",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44607,
+      "portrait": false,
+      "category": "Teurer Trank",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44612,
+      "portrait": false,
+      "category": "Verbote",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44641,
+      "portrait": false,
+      "category": "Raum",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44694,
+      "portrait": false,
+      "category": "Persönlichkeiten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44698,
+      "portrait": false,
+      "category": "Darmspiegelungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44699,
+      "portrait": false,
+      "category": "Brandschutz",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44756,
+      "portrait": false,
+      "category": "Guter Zweck",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44777,
+      "portrait": false,
+      "category": "China",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44809,
+      "portrait": false,
+      "category": "Waren-Rückrufe",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44826,
+      "portrait": false,
+      "category": "Barbie",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44864,
+      "portrait": false,
+      "category": "Nashörner",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44895,
+      "portrait": false,
+      "category": "Alligatoren",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44900,
+      "portrait": false,
+      "category": "Geldsorgen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44906,
+      "portrait": false,
+      "category": "Gute Küche",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45005,
+      "portrait": false,
+      "category": "Dänische Singles",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45006,
+      "portrait": false,
+      "category": "Japanische Feste",
       "bumper": "",
       "us": false
     },
@@ -1132,6 +1456,24 @@
       "id": 50052,
       "portrait": false,
       "category": "In der Glotze",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50053,
+      "portrait": false,
+      "category": "Online-Shopping",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50054,
+      "portrait": false,
+      "category": "Italienischer Adel",
       "bumper": "",
       "us": false
     }

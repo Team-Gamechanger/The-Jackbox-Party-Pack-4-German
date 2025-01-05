@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diebstahl eines Handtasche,Popeln,Kuchen backen,Schneiden ihrer Zehennägel,auf dem Tisch kritzeln,Bügeln,Furzen,Flirten,Spotify hören,Schauen anzüglicher Filme,Sudoku lösen,Schlafwandeln,Unterhosen kaufen,Reinigen ihres Bauchnabels,Fifty Shades of Grey lesen,Tindern,Schminken,Comic lesen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erwischt!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pokémon fangen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Oktober 2015, während sie eigentlich einer Debatte im Parlament folgen sollte, wurde die norwegische Ministerpräsidentin beim <BLANK> erwischt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pokemon fangen,Pokémon Go spielen,Pokemon Go spielen,Pokémon spielen,Pokemon spielen,Pokémon Go fangen,Pokemon Go fangen,Pokémons fangen,Pokemons fangen,Pokémon Go auf dem Handy spielen,Pokemon Go auf dem Handy spielen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pokémon fangen",
+      "t": "A",
+      "v": "585095_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Oktober 2015, während sie eigentlich einer Debatte im Parlament folgen sollte, wurde die norwegische Ministerpräsidentin beim <BLANK> erwischt.",
+      "t": "A",
+      "v": "585092_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

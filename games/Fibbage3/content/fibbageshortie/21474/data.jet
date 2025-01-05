@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, dass <BLANK> für Babys verkauft.",
+      "v": "Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, das <BLANK> für Babys verkauft.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, dass <BLANK> für Babys verkauft.",
+      "s": "[category=host]Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, das <BLANK> für Babys verkauft.",
       "t": "A",
       "v": "406311_0",
       "n": "QuestionAudio"

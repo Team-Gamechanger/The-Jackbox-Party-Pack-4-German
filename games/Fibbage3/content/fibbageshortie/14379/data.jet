@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2013 brachte Hello Kitty “<BLANK> mit Fruchtgeschmack” als brandneue Produktlinie auf den Markt.",
+      "v": "Im Jahr 2013 brachte Hello Kitty „<BLANK> mit Fruchtgeschmack“ als brandneue Produktlinie auf den Markt.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Jahr 2013 brachte Hello Kitty “<BLANK> mit Fruchtgeschmack” als brandneue Produktlinie auf den Markt.",
+      "s": "[category=host]Im Jahr 2013 brachte Hello Kitty „<BLANK> mit Fruchtgeschmack“ als brandneue Produktlinie auf den Markt.",
       "t": "A",
       "v": "319615_1",
       "n": "QuestionAudio"

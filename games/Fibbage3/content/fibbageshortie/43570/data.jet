@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es “zu gemein” wird.",
+      "v": "Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es „zu gemein“ wird.",
       "n": "QuestionText"
     },
     {
@@ -87,7 +87,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es “zu gemein” wird.",
+      "s": "[category=host]Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es „zu gemein“ wird.",
       "t": "A",
       "v": "565470_0",
       "n": "QuestionAudio"

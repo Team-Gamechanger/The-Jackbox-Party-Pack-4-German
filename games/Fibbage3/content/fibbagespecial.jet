@@ -22,9 +22,27 @@
     {
       "x": false,
       "personal": "",
+      "id": 43477,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": true
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 43479,
       "portrait": false,
       "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43491,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
       "bumper": "Photo",
       "us": false
     },
@@ -135,6 +153,105 @@
       "category": "Verrückte Erfindungen",
       "bumper": "Photo",
       "us": true
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43612,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43613,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": true
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43614,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": true
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43615,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": true
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43621,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43622,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43626,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43738,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43786,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43788,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43847,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
     },
     {
       "x": false,

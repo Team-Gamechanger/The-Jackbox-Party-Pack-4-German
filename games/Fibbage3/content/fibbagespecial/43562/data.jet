@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: \"Mit deinen Lippen würde ich gern' <BLANK>.” ",
+      "v": "Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: „Mit deinen Lippen würde ich gern' <BLANK>.“ ",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: \"Mit deinen Lippen würde ich gern' <BLANK>.” ",
+      "s": "[category=host]Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: „Mit deinen Lippen würde ich gern' <BLANK>.“ ",
       "t": "A",
       "v": "565286_0",
       "n": "QuestionAudio"

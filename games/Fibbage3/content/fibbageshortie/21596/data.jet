@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Betreibt ihr \"Hippophagie\"? Ja, für den Fall, dass ihr <BLANK>.",
+      "v": "Betreibt ihr „Hippophagie“? Ja, für den Fall, dass ihr <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Betreibt ihr \"Hippophagie\"? Ja, für den Fall, dass ihr <BLANK>.",
+      "s": "[category=host]Betreibt ihr „Hippophagie“? Ja, für den Fall, dass ihr <BLANK>.",
       "t": "A",
       "v": "409000_0",
       "n": "QuestionAudio"

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anzünden,selbst lehren,stets gratulieren,nur kritisieren,andauernd herunterreden,in sich selbst verlieben,selbst nerven,nur mit kochendem Wasser waschen,mit 35 einsperren,schminken,im Bordell erniedrigen müssen,bunt anmalen,selbst anmalen,täglich nur fünfmal anschauen,tätowieren,selbst streicheln,täglich rasieren müssen,gegenseitig Kinderbücher vorlesen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Antiker Buddhismus",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "selbst mumifizieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "„Sokushinbutsu“ ist eine uralte buddhistische Praxis, bei der sich die Mönche <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mumifizieren,allein mumifizieren,in Mumien verwandeln,selbst in Mumien verwandeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]selbst mumifizieren",
+      "t": "A",
+      "v": "590621_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]„Sokushinbutsu“ ist eine uralte buddhistische Praxis, bei der sich die Mönche <BLANK>.",
+      "t": "A",
+      "v": "590618_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

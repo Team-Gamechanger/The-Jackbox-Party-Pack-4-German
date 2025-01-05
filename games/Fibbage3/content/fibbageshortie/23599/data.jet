@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens \"Weitsprung für <BLANK>\".",
+      "v": "Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens „Weitsprung für <BLANK>“.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens \"Weitsprung für <BLANK>\".",
+      "s": "[category=host]Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens „Weitsprung für <BLANK>“.",
       "t": "A",
       "v": "414760_0",
       "n": "QuestionAudio"

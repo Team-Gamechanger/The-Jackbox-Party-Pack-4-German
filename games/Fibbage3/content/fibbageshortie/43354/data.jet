@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Bananenschnecken betreiben manchmal “Apophallie”. Das bedeutet, dass sie <BLANK>.",
+      "v": "Bananenschnecken betreiben manchmal „Apophallie“. Das bedeutet, dass sie <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Bananenschnecken betreiben manchmal “Apophallie”. Das bedeutet, dass sie <BLANK>.",
+      "s": "[category=host]Bananenschnecken betreiben manchmal „Apophallie“. Das bedeutet, dass sie <BLANK>.",
       "t": "A",
       "v": "561135_0",
       "n": "QuestionAudio"

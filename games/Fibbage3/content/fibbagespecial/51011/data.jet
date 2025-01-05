@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Hazel Brugger tweetete “Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.”",
+      "v": "Hazel Brugger tweetete „Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Hazel Brugger tweetete “Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.”",
+      "s": "[category=host]Hazel Brugger tweetete „Im Mai wird immer klar: <BLANK> sind auch nichts weiteres als die kleinen, braungebrannten Schneemänner des Frühlings.“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

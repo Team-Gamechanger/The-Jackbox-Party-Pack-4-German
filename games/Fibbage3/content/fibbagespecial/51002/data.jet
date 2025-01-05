@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Rezo tweetete: “<BLANK> klingt irgendwie gesungen auch nicht geil”",
+      "v": "Rezo tweetete: „<BLANK> klingt irgendwie gesungen auch nicht geil“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Rezo tweetete: “<BLANK> klingt irgendwie gesungen auch nicht geil”",
+      "s": "[category=host]Rezo tweetete: „<BLANK> klingt irgendwie gesungen auch nicht geil“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

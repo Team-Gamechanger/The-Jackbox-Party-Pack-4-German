@@ -42,7 +42,7 @@
       "personal": "",
       "id": 43483,
       "portrait": false,
-      "category": "Monsters",
+      "category": "Monster",
       "bumper": "",
       "us": false
     },
@@ -130,6 +130,60 @@
     {
       "x": true,
       "personal": "",
+      "id": 44820,
+      "portrait": false,
+      "category": "Anime",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45157,
+      "portrait": false,
+      "category": "Employee Guides",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46190,
+      "portrait": false,
+      "category": "Drunk Driving",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46277,
+      "portrait": false,
+      "category": "Confessions",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46500,
+      "portrait": false,
+      "category": "Temple Tourism",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46502,
+      "portrait": false,
+      "category": "Remains",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 52000,
       "portrait": false,
       "category": "Großstadtfieber",
@@ -142,6 +196,15 @@
       "id": 52001,
       "portrait": false,
       "category": "",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52002,
+      "portrait": false,
+      "category": "Drink up",
       "bumper": "",
       "us": false
     }

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pferderennen,Telefonbetrug,Beerdigungen seiner Männer,eine Koffer-Verwechslung,seine Scheidungen,den Bau eines eigenen Schlosses,Restaurant-Besuche,den Verlust eines Spindschlüssels,Sportwetten,ein Investment in Kodak,den Kauf von Katzenstreu,erfolglose Golfturniere,seinen Zwillingsbruder Toby Escobar,die Jagd nach Vampiren,sogenannte Pizza-Partys,Rundungsfehler,die Vermarktung seines eigenen Desserts,versehentlich gezahlte Steuern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geldsorgen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ratten sein Geld fraßen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der kolumbianische Drogenboss Pablo Escobar verlor schätzungsweise 2 Milliarden US-Dollar durch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ratten,Wasserschäden,Wasserschaden,Ratten die sein Geld gefressen haben,Geldfressende Ratten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ratten sein Geld fraßen",
+      "t": "A",
+      "v": "600431_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der kolumbianische Drogenboss Pablo Escobar verlor schätzungsweise 2 Milliarden US-Dollar durch <BLANK>.",
+      "t": "A",
+      "v": "600428_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

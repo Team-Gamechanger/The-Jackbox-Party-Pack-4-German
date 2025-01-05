@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schädel|echten Pikachus,Herkunft|den Teenage Mutant Ninja Turtles,Samen|einem lebenden Baummonster,verrückteste|allen Großmüttern,Zunge|dem weltweit ersten Auktionator\n,Königin|Uranus,Geister|allen Flugzeugabstürzen,ältesten Katzen|Japan,Fußspuren|einem Dinosaurier-Mensch-Hybriden,letzte Frau|John Lennon,einzige Videoaufnahme|der Zahnfee,die Augenbrauen|Kaiser Hirohito,einzige Karte|der Milchstraße,Aufbauanleitung|einem erdbebenresistenten Regal,traditionelle Herstellung|Bubble Tea,Geburtsstätte|Bigfoot,die Augen|einem Riesenkalmar,Schuhe|Heidi",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Temple Tourism",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Knochen|einer Meerjungfrau",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr einen Termin beim Ryuguji-Tempel in Fukuoka, Japan, vereinbart, könnt ihr besichtigen, worum es sich örtlichen Legenden nach um die <BLANK> von <BLANK> handelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gebeine|einer Meerjungfrau,Knochen|Meerjungfrauen,Gebeine|Meerjungfrauen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Knochen|einer Meerjungfrau",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wenn ihr einen Termin beim Ryuguji-Tempel in Fukuoka, Japan, vereinbart, könnt ihr besichtigen, worum es sich örtlichen Legenden nach um die <BLANK> von <BLANK> handelt.",
+      "t": "A",
+      "v": "645309_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

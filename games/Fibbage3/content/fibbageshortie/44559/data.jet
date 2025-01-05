@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihn hasst,ihn als Erstes gesehen hat,sein Kleinkind mitbrachte,sich übergeben musste,bis zum Ende dranbleibt,ihn vollständig zitieren kann,einen besseren Film drehen kann,einen seltenen Gendefekt hat,während der Vorführung heiratet,ihn bei einer Hochzeit vorführt,ihn an Halloween anschaut,sich in einen Vampir verwandelt,einen Geist gesehen hat,einen Werwolf tötete,den Film verflucht hat,den Film boykottiert,sich als Skelett verkleidet,das Ende vorher errät",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Marketing-Stunts",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vor Schreck stirbt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Regisseur William Castle warb für seinen Film <i>Macabre</i> mit einem Angebot von 1.000 US-Dollar für jeden Zuschauer, der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "stirbt,starb,vor Schreck starb,vor lauter Schreck starb,vor lauter Schreck stirbt,vor Angst stirbt,vor Angst starb,aus Schreck stirbt,aus Schreck starb,aus Angst starb,aus Angst stirbt,stirbt,starb,während der Vorführung stirbt,während der Vorführung starb,im Kino starb,im Kino stirbt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]vor Schreck stirbt",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Regisseur William Castle warb für seinen Film <i>Macabre</i> mit einem Angebot von 1.000 US-Dollar für jeden Zuschauer, der <BLANK>.",
+      "t": "A",
+      "v": "591164_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

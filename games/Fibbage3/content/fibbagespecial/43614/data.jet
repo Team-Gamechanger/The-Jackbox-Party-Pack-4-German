@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Apartment,Einsamkeits,Wüsten,Bachelor,Isolations,Mini-Kettensägen,IKEA,Autopflege,Heim,Bergluft,Bio-Haarfärbe,Wohlgeruchs,Heimweh,Attraktivitäts,Hotel,Kratzbürstigkeits,Kino,Volltrottel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gewächshaus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hier ist eine Erfindung von Patentanmelder Waldemar Anguita: Der revolutionäre <BLANK>-Helm.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Treibhaus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "566219_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571330_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Gewächshaus",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Hier ist eine Erfindung von Patentanmelder Waldemar Anguita: Der revolutionäre <BLANK>-Helm.",
+      "t": "A",
+      "v": "566214_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

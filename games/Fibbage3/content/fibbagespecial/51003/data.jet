@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Rezo tweetete: “Hat einer Bock, dass ich was zu <BLANK> mache?”",
+      "v": "Rezo tweetete: „Hat einer Bock, dass ich was zu <BLANK> mache?“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Rezo tweetete: “Hat einer Bock, dass ich was zu <BLANK> mache?”",
+      "s": "[category=host]Rezo tweetete: „Hat einer Bock, dass ich was zu <BLANK> mache?“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

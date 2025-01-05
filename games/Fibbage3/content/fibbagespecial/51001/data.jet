@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Domtendo tweetete: “Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.”",
+      "v": "Domtendo tweetete: „Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Domtendo tweetete: “Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.”",
+      "s": "[category=host]Domtendo tweetete: „Man kann ohne <BLANK> wirklich nicht mehr auf diese Plattform hier.“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

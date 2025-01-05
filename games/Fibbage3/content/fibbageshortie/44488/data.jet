@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Drehbücher entwerfen,Schlagworte verwenden,Pilze mögen,Aktien kaufen,Marzipan fressen,Gold mögen,in Badezimmer gehen,streiten,ihr Haar frisieren,ihre Freunde nerven,gruselige Filme anschauen,ihre Gesichter zerkratzen,Stimmen hören,Rätsel lösen,sich zu Tode rennen,fliegen,im Schlaf schreien,Selbsthass entwickeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Satte Ratte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jazz genießen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 entdeckten US-amerikanische Forscher, dass Ratten, denen Kokain verabreicht worden war, mit größerer Wahrscheinlichkeit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jazz mögen,Jazz anhören,Jazzen,Jazz hören",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jazz genießen",
+      "t": "A",
+      "v": "589560_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2011 entdeckten US-amerikanische Forscher, dass Ratten, denen Kokain verabreicht worden war, mit größerer Wahrscheinlichkeit <BLANK>.",
+      "t": "A",
+      "v": "589557_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

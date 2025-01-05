@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "höfliche Schilder,Giftstacheln,Wespenstöcke,Stachelschweine,Hundekotbeutel,Schreckschusswaffen,Müllhaufen,giftige Schlangen,tödliche Krankheitserreger,Boden-Luft-Raketen,Bumerangwerfer,Fotos von Blinddarmoperationen,Pfefferspray,rostige Nägel,Maschinenpistolen,Bibeln,Elektrozäune,tote Fische",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Diebstahlschutz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Flammenwerfer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ende der Neunziger versuchte der südafrikanische Erfinder Charl Fourie, Autodiebstähle zu verhindern, indem er <BLANK> an Autos anbrachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Flammenwerfer,einen Flammen Werfer,einen Flammen-Werfer,Flammen Werfer,Flammen-Werfer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Flammenwerfer",
+      "t": "A",
+      "v": "584555_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ende der Neunziger versuchte der südafrikanische Erfinder Charl Fourie, Autodiebstähle zu verhindern, indem er <BLANK> an Autos anbrachte.",
+      "t": "A",
+      "v": "584552_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

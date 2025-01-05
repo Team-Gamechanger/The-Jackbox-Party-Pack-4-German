@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kristallen,Zauberen,Büffeln,Wölfen,Bettlaken,Früchten,der Sphynx,Autos,Schaufensterpuppen,Avataren,Sims,Pornos,Piraten,Hydranten,Honigmelonen,Einhörnern,Kentauren,Aliens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Liebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Geistern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die britische Frau Amethyst Realm hat öffentlich den Männern abgeschworen und bevorzugt jetzt romantische Beziehungen mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Phantomen,den Toten,toten Menschen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Geistern",
+      "t": "A",
+      "v": "585844_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die britische Frau Amethyst Realm hat öffentlich den Männern abgeschworen und bevorzugt jetzt romantische Beziehungen mit <BLANK>.",
+      "t": "A",
+      "v": "585841_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

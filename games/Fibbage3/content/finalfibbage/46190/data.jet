@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Küken|ihrem Mund,eine Kakerlake|ihrem Ohr,eine Fliege|ihrer Suppe,eine Chilischote|ihrem Nasenloch,einen Mimen|ihrem Kofferraum,eine Bibel|ihrem Hintern,Ferrero Rocher|ihren Schuhen,eine Dynamitstange|ihrem Haar,fünfzehn Kilogramm Gold|ihren Hosentaschen,eine Königskobra|ihrem Handschuhfach,einen Babytiger|ihrem Kofferraum,ein Bild des Polizisten|ihrem Rückspiegel,einen Maschendrahtzahn|ihrer Unterwäsche,drei Liter Bier|ihrem Tank,Tortillas|ihrem CD-Spieler,menschliches Fleisch|ihrem Mund,Gallensteine|ihrer Halskette,Bruchstücke der Berliner Mauer|ihrem Pferdeschwanz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drunk Driving",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Eidechse|ihrem BH",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Trunkenheit am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine Echse|ihrem BH,Eidechsen|ihrem BH,Echsen|ihrem BH,eine Eidechse|ihrem Büstenhalter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Eidechse|ihrem BH",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Trunkenheit am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
+      "t": "A",
+      "v": "637665_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

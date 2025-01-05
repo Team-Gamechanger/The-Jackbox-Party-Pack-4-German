@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Die wörtliche russische Übersetzung der Redewendung “Liebe ist blind”  lautet: “Die Liebe ist böse, denn du wirst sogar <BLANK> lieben.” ",
+      "v": "Die wörtliche russische Übersetzung der Redewendung „Liebe ist blind“  lautet: „Die Liebe ist böse, denn du wirst sogar <BLANK> lieben.“ ",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die wörtliche russische Übersetzung der Redewendung “Liebe ist blind”  lautet: “Die Liebe ist böse, denn du wirst sogar <BLANK> lieben.” ",
+      "s": "[category=host]Die wörtliche russische Übersetzung der Redewendung „Liebe ist blind“  lautet: „Die Liebe ist böse, denn du wirst sogar <BLANK> lieben.“ ",
       "t": "A",
       "v": "564418_0",
       "n": "QuestionAudio"

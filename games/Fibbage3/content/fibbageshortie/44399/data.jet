@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lecker rochen,Zähne wuchsen,in Brand gerieten,furzten,magisch verheilten,Blätter austrieben,wie Sternbilder geformt waren,Whisky bluteten ,Farbe produzierten,sprachen,schnell schrumpften,Rehe anzogen,sangen,rasant größer wurden,nach Kartoffel rochen,schimmelten,im Sommer gefrierten,pfeiften",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tiefe Wunden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blau leuchteten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bei der Schlacht von Shiloh im Jahr 1862 stellten verletzte Soldaten schockiert fest, dass einige ihrer Wunden <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "blau waren,blau wurden,blau zu leuchten begannen,begannen blau zu leuchten,blau leuchten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]blau leuchteten",
+      "t": "A",
+      "v": "587253_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei der Schlacht von Shiloh im Jahr 1862 stellten verletzte Soldaten schockiert fest, dass einige ihrer Wunden <BLANK>.",
+      "t": "A",
+      "v": "587250_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

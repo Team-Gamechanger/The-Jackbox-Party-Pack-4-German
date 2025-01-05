@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Löwen|einem Iglu,einem Dinosaurier|einem Freizeitpark,einer Mariachi-Band|einem Burger King,Crocodile Dundee|einer Zoo-Toilette,einem Gorilla|einem Nissan Versa,einer Ratte|seinem Ohr,Christopher Colombus|einem Koffer,einem Vampir|einem U-Boot,einem mannsgroßen Frosch|einem Weinkeller,einem Känguru|Reizwäsche,Bigfoot|einem Lamborghini,einem Neandertaler|einer Bierflasche,Indiana Jones|einem Kühlschrank,einem Hummermann|einem Blumentopf,einem Roboteralien|einem KFC,einem Elvis-Imitator|einer Waschmaschine,einem Wollhaarmammut|einem U-Bahn-Tunnel,einem Säbelzahntiger|einer Kaffeekanne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Remains",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Wal|einem Regenwald",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im April 2017 fand ein Bauunternehmer außerhalb der kleinen australischen Stadt Kuranda die Überreste von <BLANK> in <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Wal|Regenwald,dem Wal|im Regenwald,Walen|einem Regen Wald,einem Wal|einem Urwald,einem Wal|einem Ur Wald,einem Blauwal|einem Regenwald,Blau Wal,einem Regenwald,einem Blau Wal|dem Regenwald",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem Wal|einem Regenwald",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im April 2017 fand ein Bauunternehmer außerhalb der kleinen australischen Stadt Kuranda die Überreste von <BLANK> in <BLANK>.",
+      "t": "A",
+      "v": "645369_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Shirin David tweetete: “OKEY OKEY ICH MACH MIR JA SCHON <BLANK>”",
+      "v": "Shirin David tweetete: „OKEY OKEY ICH MACH MIR JA SCHON <BLANK>“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Shirin David tweetete: “OKEY OKEY ICH MACH MIR JA SCHON <BLANK>”",
+      "s": "[category=host]Shirin David tweetete: „OKEY OKEY ICH MACH MIR JA SCHON <BLANK>“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

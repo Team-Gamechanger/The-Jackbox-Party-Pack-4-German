@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Haare,Zähne,ihre Babykleidung,einen Ellenbogen,Socken,ein Malbuch,einen toten Hasen,zehn gesparte Silbermünzen,eine Bibel,Murmeln,ihre linke Hand,ihre Spielzeugsoldaten,ihre Hoffnungen und Träume,ein selbstgeschriebenes Gedicht,ein Spielzeug,ihr Schwert,ihr Geburtssiegel,ein Schachset",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Antikes Griechenland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Jo-Jo",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wurden Kinder des antiken Griechenlands erwachsen, erwartete man von ihnen, dass sie die Götter erfreuten, indem sie <BLANK> auf einen Altar legten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein JoJo,ihr Jo-Jo,ihr JoJo,das Jo-Jo,das JoJo,Jo-Jo,JoJo,ihre Jo-Jos,ihre JoJos,Jo-Jos,JoJos,ein Yo-Yo,ein YoYo,ihr Yo-Yo,ihr YoYo,das Yo-Yo,das YoYo,Yo-Yo,YoYo,ihre Yo-Yos,ihre YoYos,Yo-Yos,YoYos",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Jo-Jo",
+      "t": "A",
+      "v": "591047_1",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wurden Kinder des antiken Griechenlands erwachsen, erwartete man von ihnen, dass sie die Götter erfreuten, indem sie <BLANK> auf einen Altar legten.",
+      "t": "A",
+      "v": "591044_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

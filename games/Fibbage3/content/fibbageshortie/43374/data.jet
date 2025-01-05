@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom “Fascina”, Amulette in Form von <BLANK>, tragen. ",
+      "v": "Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom „Fascina“, Amulette in Form von <BLANK>, tragen. ",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom “Fascina”, Amulette in Form von <BLANK>, tragen. ",
+      "s": "[category=host]Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom „Fascina“, Amulette in Form von <BLANK>, tragen. ",
       "t": "A",
       "v": "561635_0",
       "n": "QuestionAudio"

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "v": "Elyas M'Barek tweetete „Wer hat gerade auch <BLANK>?“",
       "n": "QuestionText"
     },
     {
@@ -90,7 +90,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Elyas M'Barek tweetete “Wer hat gerade auch <BLANK>?”",
+      "s": "[category=host]Elyas M'Barek tweetete „Wer hat gerade auch <BLANK>?“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

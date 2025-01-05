@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "politische Gefangene,Comedians,Hacker,aufstrebende Diktatoren,für Touristen in Nordkorea,Pick-Up-Artists,Hundefriseure,seine Gegner,Auftragsmörder,Barbiere,Universitätsabsolventen,Gärtner,zukünftige Politiker,junge Paare,berufstätige Eltern,Eiskunstläufer,Wanderer,Großwildjäger",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pflichtlektüren",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Filmemacher",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Neben seiner Tätigkeit als Diktator von Nordkorea, schrieb und veröffentlichte Kim Jong-il ein Buch mit durchdachten Ratschlägen für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Filmmacher, Filme macher,Film macher,Filmschaffende,Filmproduzenten,Filmproduzentinnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Filmemacher",
+      "t": "A",
+      "v": "591437_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Neben seiner Tätigkeit als Diktator von Nordkorea, schrieb und veröffentlichte Kim Jong-il ein Buch mit durchdachten Ratschlägen für <BLANK>.",
+      "t": "A",
+      "v": "591434_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

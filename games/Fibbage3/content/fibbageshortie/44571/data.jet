@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wasserparks,Fitnessstudios,Banken,Museen,Tischtennisplatten,Arcadehallen,Kinos,Massagesalons,Statuen,Spielzeugläden,Aussichtstürmen,Paintball-Arenen,WLAN-Hotspots,Softdrinks,Bunkern,Irish pubs,Handys,Fastfood-Läden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Finnisches Militär",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Saunen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das finnische Militär ist einzigartig, da es seine Truppen mit mobilen <BLANK> ausstattet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Saunas,Saunaräumen,Sauna Räumen,Saunezelten,Sauna Zelten,Saunazelte,Sauna Zelte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Saunen",
+      "t": "A",
+      "v": "591527_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das finnische Militär ist einzigartig, da es seine Truppen mit mobilen <BLANK> ausstattet.",
+      "t": "A",
+      "v": "591524_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärterin</i>.",
+      "v": "Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärter</i>.",
       "n": "QuestionText"
     },
     {
@@ -93,7 +93,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärterin</i>.",
+      "s": "[category=host]Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärter</i>.",
       "t": "A",
       "v": "563705_0",
       "n": "QuestionAudio"

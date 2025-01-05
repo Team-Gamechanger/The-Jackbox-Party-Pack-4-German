@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: \"Die Frau hatte keine Probleme, also kaufte sie <BLANK>\".",
+      "v": "Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: „Die Frau hatte keine Probleme, also kaufte sie <BLANK>“.",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: \"Die Frau hatte keine Probleme, also kaufte sie <BLANK>\".",
+      "s": "[category=host]Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: „Die Frau hatte keine Probleme, also kaufte sie <BLANK>“.",
       "t": "A",
       "v": "565111_0",
       "n": "QuestionAudio"

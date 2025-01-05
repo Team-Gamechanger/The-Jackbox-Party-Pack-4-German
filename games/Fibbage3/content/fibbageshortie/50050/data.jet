@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Bei der jährlich in Russland stattfindenden “Bubble Baba-Challenge” versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
+      "v": "Bei der jährlich in Russland stattfindenden „Bubble Baba-Challenge“ versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Bei der jährlich in Russland stattfindenden “Bubble Baba-Challenge” versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
+      "s": "[category=host]Bei der jährlich in Russland stattfindenden „Bubble Baba-Challenge“ versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

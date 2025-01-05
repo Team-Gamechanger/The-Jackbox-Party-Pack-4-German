@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: “Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.”",
+      "v": "Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: „Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.“",
       "n": "QuestionText"
     },
     {
@@ -93,7 +93,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: “Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.”",
+      "s": "[category=host]Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: „Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.“",
       "t": "A",
       "v": "565136_0",
       "n": "QuestionAudio"

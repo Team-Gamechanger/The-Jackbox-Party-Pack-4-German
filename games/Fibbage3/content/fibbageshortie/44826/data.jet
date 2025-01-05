@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Organspenderin,Leichen,Robotor,pinkäugige,Werwolf,Mutter Maria,nach Wurst riechende,Grabräuberin,Heidi Klum,brennende Hexen,Rentnerin,Stefan Raab,Kriegsnarben,dystopische Zukunfts,Massenpanik,Reizdarm-Syndrom,kotzende,Wolverine",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Barbie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Angela Merkel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bei der 60. Nürnberger Spielwarenmesse präsentierte <i>Mattel</i> eine ungewöhnliche Adaption eines Spielzeugklassikers: die <BLANK> Barbie.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Angella Merkel,Kanzlerin von Deutschland",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Angela Merkel",
+      "t": "A",
+      "v": "598393_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei der 60. Nürnberger Spielwarenmesse präsentierte <i>Mattel</i> eine ungewöhnliche Adaption eines Spielzeugklassikers: die <BLANK> Barbie.",
+      "t": "A",
+      "v": "598390_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}
