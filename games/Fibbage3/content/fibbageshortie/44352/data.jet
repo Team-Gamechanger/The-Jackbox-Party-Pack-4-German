@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Geistern",
       "t": "A",
-      "v": "585844_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die britische Frau Amethyst Realm hat öffentlich den Männern abgeschworen und bevorzugt jetzt romantische Beziehungen mit <BLANK>.",
       "t": "A",
-      "v": "585841_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

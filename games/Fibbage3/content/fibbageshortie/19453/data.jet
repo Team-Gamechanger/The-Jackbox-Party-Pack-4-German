@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Eichhörnchen",
       "t": "A",
-      "v": "386264_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Doreen Green ist eines der seltsamsten Mitglieder der Avengers. Ihre Superkraft ist die Fähigkeit, <BLANK> zu kontrollieren. ",
       "t": "A",
-      "v": "386261_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Drachenschatz,eine Goldmine,ein Dinosaurierskelett,eine geheime Botschaft,einen antiken Tempel,einen verborgenen Palast,ein Piratenversteck,ein altes Königsgrab,einen römischen Schatz,eine versunkene Bibliothek,eine geheime Gruft,eine heilige Reliquie,eine unterirdische Festung,eine versiegelte Kammer,eine antike Schatzkammer,ein byzantinisches Bad,ein altes Gefängnis,eine Grabkammer,einen Geheimtunnel,eine Höhlenmalerei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entdeckungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine verlorene Stadt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als ein türkischer Mann in der Region Kappadokien 1963 sein Haus renovierte, war er überrascht, <BLANK> zu finden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine untergegangene Stadt,eine antike Stadt,eine verborgene Stadt,eine vergessene Stadt,eine versunkene Stadt,eine unterirdische Stadt,eine alte Stadt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine verlorene Stadt",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als ein türkischer Mann in der Region Kappadokien 1963 sein Haus renovierte, war er überrascht, <BLANK> zu finden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

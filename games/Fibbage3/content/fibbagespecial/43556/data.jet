@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasKeywordAudio"
     },
     {
@@ -73,13 +73,12 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "570927_0",
       "n": "KeywordResponseAudio"
     },
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "565141_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +88,13 @@
     {
       "s": "[category=host]Salz",
       "t": "A",
-      "v": "565139_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ihr wollt jemanden kennenlernen? Wie man in Russland so schön sagt: „Du kennst einen Menschen, wenn du einen Scheffel <BLANK> mit ihm isst.“",
       "t": "A",
-      "v": "565136_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Adam Rainer ist der einzige Mensch, der sowohl <BLANK> als auch <BLANK> war.",
       "t": "A",
-      "v": "579993_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

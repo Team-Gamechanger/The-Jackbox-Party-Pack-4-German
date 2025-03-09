@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "565291_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,13 @@
     {
       "s": "[category=host]Honig trinken",
       "t": "A",
-      "v": "565289_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Hört sich für einen Russen etwas zu gut an, um wahr zu sein, dann könnte er mit einer Redewendung antworten, die wortwörtlich übersetzt heißt: „Mit deinen Lippen würde ich gern' <BLANK>.“ ",
       "t": "A",
-      "v": "565286_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

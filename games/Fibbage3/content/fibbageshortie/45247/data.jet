@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlafstörungen,Höhenangst,Seekrankheit,Schnarchen,Heiserkeit,Migräne,Depressionen,Zahnschmerzen,Schluckauf,Lampenfieber,Flugangst,schlechte Laune,Sonnenbrand,Heimweh,Prüfungsangst,Platzangst,Computerviren,Rückenschmerzen,Katzenhaarallergie,Winterblues",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Viagra",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jetlag bei Hamstern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine kuriose Studie eines argentinischen Forscherteams aus dem Jahr 2007 ergab, dass Viagra neben seinen bekannteren Anwendungen auch <BLANK> heilen kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jetlag bei Hamster,Hamster-Jetlag,Zeitzonen-Müdigkeit bei Hamstern,Zeitverschiebungs-Symptome bei Hamstern,Hamsterjetlag,Hamster Jetlag",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jetlag bei Hamstern",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine kuriose Studie eines argentinischen Forscherteams aus dem Jahr 2007 ergab, dass Viagra neben seinen bekannteren Anwendungen auch <BLANK> heilen kann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

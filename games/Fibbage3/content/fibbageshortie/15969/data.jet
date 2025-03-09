@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Garnelen,Bärenpenis,Dynamit,Fisch,Pferdezähnen,Sprengstoff,Kaugummi,Knorpeln,Zement,getrocknetem Hundekot,Uran,Schleim,Menschenknochen,Menschenhaar,Teppichen,alten Kronkorken,Augenbrauen,Maissirup mit hohem Fructosegehalt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Angeln",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Karotten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Firma „E21“ stellt eine ganz besondere Angelrute her, die zu 70% aus <BLANK> besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "möhren,Mohrrüben,Gelbe Rübe,Rüebli,Riebli,Gelbe Rüben,Gelbrübe,Gelbrüben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Karotten",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Firma „E21“ stellt eine ganz besondere Angelrute her, die zu 70% aus <BLANK> besteht.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

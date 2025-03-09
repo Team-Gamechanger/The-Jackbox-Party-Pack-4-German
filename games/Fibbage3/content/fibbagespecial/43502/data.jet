@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563903_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -93,7 +93,7 @@
     {
       "s": "[category=host]Ein altes russisches Sprichwort heißt übersetzt „Hunger ist nicht <BLANK>. Er wird dir keinen Kuchen bringen.“",
       "t": "A",
-      "v": "563898_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

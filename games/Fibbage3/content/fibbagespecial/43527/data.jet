@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564448_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,13 @@
     {
       "s": "[category=host]spazieren gehen",
       "t": "A",
-      "v": "564446_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein altes russisches Sprichwort, das in seiner Bedeutung dem deutschen Spruch „Erst die Arbeit, dann das Vergnügen“ entspricht, lautet: „Nach getaner Arbeit kannst du kühn <BLANK>.“",
       "t": "A",
-      "v": "564443_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

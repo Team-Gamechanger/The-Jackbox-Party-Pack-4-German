@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "iPod,kleinen Hut,Billardkugel,Hund,Baby,Frisbee, Halskette,Toupet,Gürtelschnalle,Taschenuhr,Baseball,Pillenbehälter, Wii,Kuchen,Herzschrittmacher,Paar Kopfhörer,Selbsthilfebuch,Jo-Jo",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmuggler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hamburger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 versuchte ein chinesischer Reisender seine Haustier-Schildkröte an Bord eines Flugzeugs zu schmuggeln, indem er sie als <BLANK> tarnte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Burger,Cheeseburger,einen Hamburger,einen Burger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hamburger",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2013 versuchte ein chinesischer Reisender seine Haustier-Schildkröte an Bord eines Flugzeugs zu schmuggeln, indem er sie als <BLANK> tarnte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Ente,ein Straßenhund,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,ein Fußballmaskottchen,ein vierjähriges Kind,eine Ziege,ein Schimpanse,ein Kuscheltier,ein Verkehrsschild,ein Traktor,ein Sandwich,ein Zufallsgenerator,ein Baum",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wahlk(r)ampf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Nashorn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Einwohner der brasilianischen Stadt Sao Paulo waren mehr als überrascht, als 1958 <BLANK> die Stadtratwahl gewonnen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Nashornbulle,ein Nashornweibchen,ein Rhinozeros,das Nashorn,das Rhinozeros,ein Rhino",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Nashorn",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Einwohner der brasilianischen Stadt Sao Paulo waren mehr als überrascht, als 1958 <BLANK> die Stadtratwahl gewonnen hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

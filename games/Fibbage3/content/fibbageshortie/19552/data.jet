@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "say “I love you”,remember her name,quit laughing,attend in person,pick her up,stop arguing with her dad,open a jar of pickles,stop calling planes sky cars,name the 1987 Buffalo Bills,stop yawning,get a chocolate fountain,look her in the eye,snap his fingers,dance,stand up,find Sri Lanka on a map,juggle,quote Pitch Perfect",
+      "v": "“Ich liebe dich” sagen wollte,tanzen wollte,ihren Namen aussprechen konnte,persönlich erschien,seine Schuhe ausziehen wollte,nüchtern war,kochen konnte,ein Gedicht aufsagen konnte,ihre Lieblingsfarbe kannte,aufhörte zu gähnen,seine Handy-PIN verraten wollte,in ihre Augen schauen wollte,schnipsen konnte,aufstand,ihr Gewicht erraten wollte,auf einem Bein stehen konnte,jonglierte,ohne Smartphone leben wollte",
       "n": "Suggestions"
     },
     {
@@ -37,12 +37,12 @@
     },
     {
       "t": "S",
-      "v": "zu rechnen",
+      "v": "rechnen konnte",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht in der Lage war, <BLANK>.",
+      "v": "Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "solve a math problem",
+      "v": "Mathe konnte,addieren konnte,rechnete",
       "n": "AlternateSpellings"
     },
     {
@@ -80,15 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]zu rechnen",
+      "s": "[category=host]rechnen konnte",
       "t": "A",
-      "v": "388649_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht in der Lage war, <BLANK>.",
+      "s": "[category=host]Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht <BLANK>.",
       "t": "A",
-      "v": "388646_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dinosaurier,Kobolde,Wale,Holznymphen,Lavamenschen,Yetis,Wolpertinger,Zombies,Indianer,goldene Glitzerfrösche,Fans von Björk,Ratten,Geister,Maden,Krokodile,Monster,winzige Pandas,Zeitreisende",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Isländische Natur",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Elfen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Bau einer Autobahn in Island verzögerte sich 2013, nachdem Gegner des Projekts behaupteten, es würde Naturlandschaften zerstören, in denen <BLANK> leben und gedeihen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "elven,Alben,Elben,Elbe,Elfe,die Elfen,die Elben,die Alben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elfen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Bau einer Autobahn in Island verzögerte sich 2013, nachdem Gegner des Projekts behaupteten, es würde Naturlandschaften zerstören, in denen <BLANK> leben und gedeihen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566519_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -94,7 +94,7 @@
     {
       "s": "[category=host]Dieses Patent gehört Anthony Steffen, dem anerkannten Erfinder des automatischen <BLANK>.",
       "t": "A",
-      "v": "566514_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -17,32 +17,32 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "eine Atombombe,sein linkes Ohr,seinen Geschmackssinn,Zeit mit seinem Enkel,eine abgelaufene Busfahrkarte,seinen Speichel,seine Haare,den Mond,die Venus,das Mittelmeer,das Lamm Gottes,ein Schwimmbad,ein Katapult,Haferflocken,seine Zehennägel,einen McDonald's-Gutschein,den Atem vom Papst,Bernd das Brot,sein Onlindedatingprofil,seinen Arbeitsplatz",
+      "v": "Kanone,Stier,Konfetti,Sport,Vögel,Lacher,Massage,Schule,Blätter,Flieger,Farbe,Wessi,Ballons,Pflanzen,Füller,Möbel,Hämmer,Nähmaschinen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Online-Shopping",
+      "v": "In der Glotze",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "seine Kirche",
+      "v": "Ehe-Ring",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
+      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "eine Kirche,ein Gotteshaus,sein Gotteshaus,die Kirche,Kirche,ein Kloster,sein Kloster,das Kloster,ein Pfarrhaus,sein Pfarrhaus,das Pfarrhaus",
+      "v": "Ehering,Hochzeitsring",
       "n": "AlternateSpellings"
     },
     {
@@ -80,13 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]seine Kirche",
+      "s": "[category=host]Ehe-Ring",
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
+      "s": "[category=host]Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

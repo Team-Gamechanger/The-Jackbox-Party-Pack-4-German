@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Spargel",
       "t": "A",
-      "v": "563158_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Jemima Packington hat eine besondere und einzigartige Gabe. Sie behauptet, sie könne die Zukunft mithilfe von <BLANK> vorhersagen.",
       "t": "A",
-      "v": "563155_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "BHs,Quietscheentchen,Topflappen,Schweine,Smartphones,Geldbündel,Mafiosi,Teebeutel,Katzenpfoten,Schwämme,QR-Codes,Toaster,Panzer,Pferdeäpfel,Zungen,Raufasertapeten,traurige Emojis,Fritteusen,Taxameter,schwarze Löcher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Italienischer Adel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die alte italienische Adelsfamilie Colleoni hat ein eigentümliches Familienwappen, auf dem drei <BLANK> abgebildet sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Testikel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hoden",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die alte italienische Adelsfamilie Colleoni hat ein eigentümliches Familienwappen, auf dem drei <BLANK> abgebildet sind.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

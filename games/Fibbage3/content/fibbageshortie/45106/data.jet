@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zum Baby werden,schnell altern,seine Arme abnehmen,Gedanken von Hunden lesen,jeden Tanzschritt ausführen,Krabben beschwören,einen tödlichen Schnurrbart wachsen lassen,jedes Puzzle lösen,seine Vorfahren beschwören,neue Fashiontrends beginnen,seinen Körper verlassen,Herzinfarkte auslösen,alle Uhren stoppen,sich in eine Ente verwandeln,fünf Sekunden in die Vergangenheit reisen,das perfekte Geschenk raussuchen,sich an alle Geburtstage erinnern,den perfekten Kuchen backen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Super Duper",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Säure erbrechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der <i>Marvel</i>-Charakter Zeitgeist hat eine seltsame Mutantenkraft. Wann immer er will, kann er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Säure kotzen,Säure hochwürgen,Säure übergeben,Säure rülpsen,Säure spucken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Säure erbrechen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der <i>Marvel</i>-Charakter Zeitgeist hat eine seltsame Mutantenkraft. Wann immer er will, kann er <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

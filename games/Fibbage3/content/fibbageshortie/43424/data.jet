@@ -82,13 +82,13 @@
     {
       "s": "[category=host]erblindet",
       "t": "A",
-      "v": "562262_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Einigen Historikern zufolge wurden die Komponisten Bach und Händel beide vom selben Mann <BLANK>.",
       "t": "A",
-      "v": "562259_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

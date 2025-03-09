@@ -82,13 +82,13 @@
     {
       "s": "[category=host]hodenfressender Fische",
       "t": "A",
-      "v": "348396_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein Kopenhagener Professor riet männlichen Schwimmern aus Skandinavien dazu, ihre Badeanzüge wegen <BLANK> gut zu verschnüren.",
       "t": "A",
-      "v": "348393_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

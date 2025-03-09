@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Ohrgasmen",
+      "v": "Orgasmen",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]zu weinen",
       "t": "A",
-      "v": "379619_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die nicht jugendfreie Webseite WoodRocket.com produzierte 2015 eine Werbekampagne, in der Pornodarsteller versucht haben, <BLANK>.",
       "t": "A",
-      "v": "379616_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

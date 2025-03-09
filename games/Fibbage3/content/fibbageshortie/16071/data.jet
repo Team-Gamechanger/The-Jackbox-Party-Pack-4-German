@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rückenmassagen bekommen,konstruktive Kritik erhalten,Affenmilch trinken,Kokain nehmen,einen Facebook-Account haben,mit Enten zusammenleben,lustige Hüte tragen,Privatsphäre haben,Geburtstage feiern,Tattoos haben,Deodorant verwenden,Hamburger essen,Komplimente erhalten,mehr Euter haben,Marihuana rauchen,auf Wasserbetten schlafen,Milch trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Milchmädchen-Rechnung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Namen haben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine in der Fachzeitschrift <i>Anthrozoös</i> veröffentlichte Studie ergab, dass Kühe die <BLANK> bis zu 5% mehr Milch produzieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "benannt wurden,benannt sind,einen Namen haben,einen Namen besitzen,Namen besitzen,benannt worden sind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Namen haben",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine in der Fachzeitschrift <i>Anthrozoös</i> veröffentlichte Studie ergab, dass Kühe die <BLANK> bis zu 5% mehr Milch produzieren.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

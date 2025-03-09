@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zur Zulassungsstelle zu gehen,ihr Essen vorzukosten,auf Dates zu gehen,zu weinen,verprügelt zu werden,ihren Militärdienst abzuleisten,Filme zu schauen,Fallschirmspringen zu gehen,widerliche Dinge zu essen,in einer Schlange zu warten,mit Verwandten zu sprechen,angeschossen zu werden,aufs Klo zu gehen,Nachrichtenmeldungen vorzuspielen,tote Verwandte nachzustellen,beerdigt zu werden,Menschen zu beleidigen,in eine Schlange zu beißen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "China",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ins Gefängnis zu gehen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In China gibt es eine kuriose Praktik namens „Ding Zui“, bei der reiche Menschen jemanden dafür bezahlen für sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "in den Knast zu gehen,ihre Gefängnisstrafe abzusitzen,hinter Gitter zu gehen,in das Gefängnis zu gehen,in ein Gefängnis zu gehen,eine Gefängnisstrafe abzusitzen,eine Gefängnisstrafe zu verbüßen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ins Gefängnis zu gehen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In China gibt es eine kuriose Praktik namens „Ding Zui“, bei der reiche Menschen jemanden dafür bezahlen für sie <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

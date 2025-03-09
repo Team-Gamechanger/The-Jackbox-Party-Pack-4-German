@@ -82,13 +82,13 @@
     {
       "s": "[category=host]seiner Handyrechnung",
       "t": "A",
-      "v": "385184_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Amerikaner Corey Taylor ging bis zum Äußersten und beschloss, seinen eigenen Tod vorzutäuschen, um <BLANK> zu entkommen.",
       "t": "A",
-      "v": "385181_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Sich zu betrinken",
       "t": "A",
-      "v": "398774_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein bahnbrechender Bericht aus dem Jahr 2012 behauptete, dass sexuell frustrierte Fliegen dazu neigen würden, <BLANK>.",
       "t": "A",
-      "v": "398771_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

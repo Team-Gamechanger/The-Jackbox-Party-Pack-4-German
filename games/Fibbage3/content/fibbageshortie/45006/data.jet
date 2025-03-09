@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einem Stahlpenis",
       "t": "A",
-      "v": "602175_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Das Kanamara Matsuri ist ein jährliches japanisches Fest, bei dem ein Schrein mit <BLANK> durch die Straßen getragen wird.",
       "t": "A",
-      "v": "602172_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

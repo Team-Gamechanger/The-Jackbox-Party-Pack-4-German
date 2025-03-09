@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "560240_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,12 @@
     {
       "s": "[category=host]der Krebs",
       "t": "A",
-      "v": "560238_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Wenn etwas sehr unwahrscheinlich erscheint, sagt man im Deutschen „Wenn Schweine fliegen können“. Das russische Äquivalent dazu ist „Wenn <BLANK> vom Berge pfeift“.",
       "t": "A",
-      "v": "560235_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

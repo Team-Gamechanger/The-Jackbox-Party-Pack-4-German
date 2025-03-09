@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "laufen|reden,springen|rollen können,sehen|riechen,brüllen|sich bewegen,deinen Namen kennen|wissen wo du wohnst,singen|tanzen,denken|fühlen können,unzufrieden|glücklich sind,Messer kaufen|verkaufen,töten|Schuld empfinden können,lachen|weinen,schlafen|träumen,Feuer|Konfetti speien,zum Lachen|zum Nachdenken anregen,Witze|Geschichten erzählen,Handys benutzen|angerufen werden können,niedlich aussehen|Kinder fressen,die Zukunft vorhersagen|Saft pressen können",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Life Finds a Way",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "furzen|pinkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2017 stellte ein Museum im kanadischen Manitoba eine neue Ausstellung vor, die zwei Roboter-Dinosaurier zeigt, die sowohl <BLANK> als auch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "furzen|urinieren,blähen|pinkeln,blähen|urinieren,furzen|pinkeln können,furzen|urinieren können,blähen|pinkeln können|blähen|urinieren können,furzen|pissen,blähen|pissen,furzen|pissen können,blähen|pissen können,pinkeln|furzen,urinieren|furzen,pinkeln|blähen,uirnieren,blähen,pinkeln|furzen können,urinieren|furzen können,pinkeln|blähen können,urinieren|blähen können,pissen|furzen,pissen||blähen,pissen|furzen können,blähen|furzen können",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]furzen|pinkeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2017 stellte ein Museum im kanadischen Manitoba eine neue Ausstellung vor, die zwei Roboter-Dinosaurier zeigt, die sowohl <BLANK> als auch <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

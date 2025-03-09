@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "565116_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,12 @@
     {
       "s": "[category=host]ein Ferkel",
       "t": "A",
-      "v": "565114_0f",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein russisches Sprichwort über den Umgang mit Unglück lautet übersetzt: „Die Frau hatte keine Probleme, also kaufte sie <BLANK>“.",
       "t": "A",
-      "v": "565111_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

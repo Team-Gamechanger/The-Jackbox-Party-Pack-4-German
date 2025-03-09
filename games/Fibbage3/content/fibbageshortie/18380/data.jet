@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Uran,einem kleinerem Huhn,Cyanid,seinem Blut,Quecksilber,Radon,Austern,Asbest,Brennnesseln,Gift,Blei,Benzin,Salmonellen,Schmutz,Schlamm,Schierling,Müll,Kot",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hühner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schnee",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Sir Francis Bacon erkrankte schwer und verstarb nach einem Experiment, bei dem er ein Huhn mit <BLANK> füllte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Eis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Schnee",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Sir Francis Bacon erkrankte schwer und verstarb nach einem Experiment, bei dem er ein Huhn mit <BLANK> füllte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

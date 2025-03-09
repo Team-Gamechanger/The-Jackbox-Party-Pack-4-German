@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im März 2017 verhaftete die spanische Polizei zwei Männer, die versucht haben, 15 Pfund Kokain in <BLANK> zu schmuggeln.",
       "t": "A",
-      "v": "574595_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

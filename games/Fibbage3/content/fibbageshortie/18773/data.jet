@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Atommüll,Fischschuppen,recycelten Autoreifen,Spielkarten,CDs,Käfern,geschmolzenen Plastikmöbeln,altem Brot,ungenutzten Zahnarztutensilien,Glasscherben,ausrangierten Straßenschildern,Luftpolsterfolie,kaputten Musikinstrumenten,benutzten Bierdeckeln,verlorenen Kopfhörern,weggeworfenen Zahnbürsten,abgelaufenen Medikamenten,getragenen Mundschutzmasken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Chic",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "überfahrenen Tieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Unternehmen der Modedesignerin Pamela Paquin hat sich auf die Herstellung ethischer Modeaccessoires aus <BLANK> spezialisiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "getöteten Tieren,Überfahrenen Tieren,überfahrene Tiere,toten Straßentieren,Roadkill,überfahrenem Wild",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]überfahrenen Tieren",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Unternehmen der Modedesignerin Pamela Paquin hat sich auf die Herstellung ethischer Modeaccessoires aus <BLANK> spezialisiert.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

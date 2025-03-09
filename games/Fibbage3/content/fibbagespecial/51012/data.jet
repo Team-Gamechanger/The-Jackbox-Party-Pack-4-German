@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "King Kong,Wonder Woman,Godzilla,ein Riesenroboter,Alice im Wunderland,Gott,ein Alien,ein Riese,ein Dinosaurier,eine Zwergenkönigin,eine Samurai,ein Mammut,ein Wikinger,eine Weltmeisterin,eine Pflanze,ein Pferd,ein Pinguin,eine Gigolette",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Ameise",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Verona Pooth postete ein Bild von sich aus New York und schrieb: „Ich komme mir vor wie <BLANK>......“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "03:02 Uhr<br />09. Aug. 2015",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "Verona Pooth",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ameisen,Ameisenarbeiterin,eine Ameisenarbeitern,ein Ameischen,Ameischen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Ameise",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Verona Pooth postete ein Bild von sich aus New York und schrieb: „Ich komme mir vor wie <BLANK>......“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

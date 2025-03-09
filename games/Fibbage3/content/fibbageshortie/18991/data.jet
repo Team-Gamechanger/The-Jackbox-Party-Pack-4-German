@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im März 2006 wollte ein Mann in Osaka in Japan einen Einbruch nahe eines Tempels begehen, wurde allerdings von 20 <BLANK> festgenommen, die zufälligerweise im Gebäude waren.",
       "t": "A",
-      "v": "381281_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

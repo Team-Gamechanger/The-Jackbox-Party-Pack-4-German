@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "568866_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,13 @@
     {
       "s": "[category=host]Pilz",
       "t": "A",
-      "v": "568864_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Es gibt ein russisches Sprichwort, das besagt, dass man beenden muss, was man anfängt. Übersetzt heißt es: „Wenn du dich selbst als <BLANK> bezeichnet hast, dann steig auch in den Korb!“",
       "t": "A",
-      "v": "568861_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

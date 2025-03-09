@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Jazz genießen",
       "t": "A",
-      "v": "589560_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2011 entdeckten US-amerikanische Forscher, dass Ratten, denen Kokain verabreicht worden war, mit größerer Wahrscheinlichkeit <BLANK>.",
       "t": "A",
-      "v": "589557_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Saunen",
       "t": "A",
-      "v": "591527_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Das finnische Militär ist einzigartig, da es seine Truppen mit mobilen <BLANK> ausstattet.",
       "t": "A",
-      "v": "591524_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

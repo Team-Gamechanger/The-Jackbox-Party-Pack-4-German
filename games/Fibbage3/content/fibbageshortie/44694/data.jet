@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Steinen",
       "t": "A",
-      "v": "594533_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2013 veröffentlichte <i>Marketing Theory</i> eine kuriose Studie, in der die Persönlichkeiten von <BLANK> bewertet wurden.",
       "t": "A",
-      "v": "594530_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

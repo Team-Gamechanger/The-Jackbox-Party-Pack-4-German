@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einem toten Eichhörnchen",
       "t": "A",
-      "v": "592343_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2016 bot die schottische Brauerei <i>Brewdog</i> ein Bier namens „End of History“ an, das 20.000 US-Dollar kostete und in <BLANK> serviert wurde.",
       "t": "A",
-      "v": "592340_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

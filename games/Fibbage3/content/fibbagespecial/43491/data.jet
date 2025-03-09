@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563660_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]polieren ihn auf",
       "t": "A",
-      "v": "563658_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Titel dieses eigentümlichen Kunstwerkes lautet <i>Sie <BLANK></i>.",
       "t": "A",
-      "v": "563655_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

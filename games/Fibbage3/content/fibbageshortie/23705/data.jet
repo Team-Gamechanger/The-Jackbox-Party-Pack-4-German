@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rübensaft,Orangensaft,Bier,kochend heißem Wasser,Kaffee,Milch,Alkohol,Salzlauge,Helium,püriertem Lauch,Met,Eiswasser,Wein,Seife,Wodka,Parfüm,Wüstenmäusen,Maiskolben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Seenotrettung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rauch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Europäische Ärzte des 17. und 18. Jahrhunderts versuchten tatsächlich, Ertrunkene wiederzubeleben, indem sie ihren Hintern mit <BLANK> füllten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Zigarettenrauch,Tabak,Zigarrenrauch,Zigarren Rauch, Zigaretten Rauch,Tabak,Tabak Rauch,Tabakrauch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Rauch",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Europäische Ärzte des 17. und 18. Jahrhunderts versuchten tatsächlich, Ertrunkene wiederzubeleben, indem sie ihren Hintern mit <BLANK> füllten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

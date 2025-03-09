@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel “<BLANK> als Abwehr gegen unaussprechliches Grauen”.",
+      "v": "Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel „<BLANK> als Abwehr gegen unaussprechliches Grauen“.",
       "n": "QuestionText"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Pupsen",
       "t": "A",
-      "v": "340281_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel “<BLANK> als Abwehr gegen unaussprechliches Grauen”.",
+      "s": "[category=host]Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel „<BLANK> als Abwehr gegen unaussprechliches Grauen“.",
       "t": "A",
-      "v": "340278_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

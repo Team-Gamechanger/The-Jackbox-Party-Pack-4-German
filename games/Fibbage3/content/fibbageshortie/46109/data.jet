@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Stuhl, Rollstuhl, Tisch, Bett, Sofa, Hut, Socken, Handtuch, Schal, Kissen, Puppen, Stiefel, Handschuh, Kartoffel, Bananen, Wurstbrot, Würfel, Lampen, Nudel, Döner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Akrobaten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Tony Gemignani ist der 12-fache Meister in der ungewöhnlichen Sportart <BLANK>-Akrobatik.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pizzawurf, Pizza werfen, Pizzen, Pizzas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pizza",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tony Gemignani ist der 12-fache Meister in der ungewöhnlichen Sportart <BLANK>-Akrobatik.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Legalisierung jetzt",
+      "v": "Legalisierung",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Haareschneiden zu Hause",
       "t": "A",
-      "v": "564371_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Senator des US-Bundesstaates Tennessee schlug Anfang 2017 einen Gesetzentwurf vor, der <BLANK> legalisieren würde.",
       "t": "A",
-      "v": "564368_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

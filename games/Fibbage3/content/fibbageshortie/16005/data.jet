@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "running for Congress,dead,a lab experiment,a robot,dying,a plane crash survivor,a drug lord,a gay icon,Asian,related to Hitler,a democrat,a lottery winner,adopted,the next Dalai Lama,a former spy,originally named Bono,born in India,next in line to be Pope",
+      "v": "zum Meme geworden,tot,unwissentlich verheiratet,ein Roboter,ein Doppelgänger eines Prominenten,als Schauspieler gecastet,ein Mafiaboss,angeblich ein Spion,Lottogewinner,ein bekannter Influencer,ein berühmter Sänger,ein Kunstdieb,ein berühmter Stuntman,der Gründer einer Sekte,ein verlorener Königssohn,ein Topmodel,Bankrott,Poetry-Slammer",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Sich selbst googeln",
+      "v": "<i>Google</i>",
       "n": "Category"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "wanted,a criminal,a fugitive,wanted by the cops,wanted by the police,on the FBI’s Most Wanted List,on the Most Wanted List,wanted by the FBI",
+      "v": "ein gesuchter Verbrecher,ein gesuchter Straftäter,auf der Fahndungsliste,ein polizeilich Gesuchter,ein flüchtiger Krimineller,ein Fahndungsflüchtiger,ein geuschter Krimineller,ein meistgesuchter Verbrecher,ein meistgesuchter Straftäter,ein gesuchter Straftäter",
       "n": "AlternateSpellings"
     },
     {
@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Als Christopher Viatafa sich 2014 selbst googelte, war er überrascht, als er feststellte, dass er <BLANK> war.",
       "t": "A",
-      "v": "354095_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

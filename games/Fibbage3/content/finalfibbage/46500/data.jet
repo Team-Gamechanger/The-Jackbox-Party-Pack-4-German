@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Wenn ihr einen Termin beim Ryuguji-Tempel in Fukuoka, Japan, vereinbart, könnt ihr besichtigen, worum es sich örtlichen Legenden nach um die <BLANK> von <BLANK> handelt.",
       "t": "A",
-      "v": "645309_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,22 +27,22 @@
     },
     {
       "t": "S",
-      "v": "Kanone,Stier,Konfetti,Sport,Vögel,Lacher,Massage,Schule,Blätter,Flieger,Farbe,Wessi,Ballons,Pflanzen,Füller,Möbel,Hämmer,Nähmaschinen",
+      "v": "eine schwedische Flagge,eine halbvergrabene Schallplatte,einen liegengebliebenen Trabi,eine Polizeistation,einen Wasserspender,einen Hotdogstand,einen Hühnerhof,einen Wäscheständer,Meteoriten-Reste,einen Burger Kind,eine Discokugel,ein Sägeblatt,17 Schaufensterpuppen,eine riesige Karotte,einen Mattenwagen,ein Fußballfeld,die belgische Botschaft,einen Bankautomaten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "In der Glotze",
+      "v": "Bundesautobahn 20",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Ehe-Ring",
+      "v": "einen Briefkasten",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
+      "v": "Auf dem Mittelstreifen der A 20 kann man in der Nähe von Bad Segeberg seit vielen Jahren <BLANK> finden.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Ehering,Hochzeitsring",
+      "v": "Briefkasten,einen Postbriefkasten,Postbriefkasten,einen Postkasten,Postkasten",
       "n": "AlternateSpellings"
     },
     {
@@ -80,12 +80,13 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Ehe-Ring",
+      "s": "[category=host]einen Briefkasten",
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
+      "s": "[category=host]Auf dem Mittelstreifen der A 20 kann man in der Nähe von Bad Segeberg seit vielen Jahren <BLANK> finden.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

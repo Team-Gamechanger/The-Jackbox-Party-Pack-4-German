@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasBumperAudio"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Neuer Content",
+      "v": "Promis auf Social Media",
       "n": "Category"
     },
     {
@@ -78,6 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {

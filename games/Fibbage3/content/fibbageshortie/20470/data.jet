@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "betrunken sind,Fernsehen gucken,fast tot sind,schlafen,viel essen,Pornos anschauen,singen,auf einem Fahrrad fahren,schlecht gelaunt sind,Sport gucken,Haustiere haben,Mini-Golf spielen,mit Fremden darüber reden,ins Gefängnis gehen,nur Fisch essen,nicht schlafen,lockere Kleidung tragen,in warmen Klimazonen leben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entscheidungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pinkeln müssen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie der niederländischen Universität Twente aus dem Jahr 2011 ergab, dass Menschen bessere Entscheidungen über ihre Zukunft treffen, wenn sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine volle Blase haben,pissen müssen,aufs Klo müssen,auf die Toilette müssen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]pinkeln müssen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine Studie der niederländischen Universität Twente aus dem Jahr 2011 ergab, dass Menschen bessere Entscheidungen über ihre Zukunft treffen, wenn sie <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

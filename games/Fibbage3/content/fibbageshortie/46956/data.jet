@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waschmaschine,Angela Merkel,Baumarkt,Steuererklärung,Gartenzwerge,Sockenwolle,Bahnverspätung,Currywurst,Fahrkartenautomat,Leberwurst,Berliner Mauer,Apfelstrudel,Biergarten,Dackel,Kaffeepause,Brezel,Ampelkoalition,Mülltrennung,Bürokratie,Schrebergarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Porno-Suchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fidget Spinner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Pornhub hat einige seltsame Suchanfragen auf seiner Website, aber besonders seltsam wurde es im Mai 2017, als 2,5 Millionen Suchanfragen nach „<BLANK>“ eingingen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fidgetspinner,Fidget-Spinner,Handkreisel,Spinner",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Fidget Spinner",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pornhub hat einige seltsame Suchanfragen auf seiner Website, aber besonders seltsam wurde es im Mai 2017, als 2,5 Millionen Suchanfragen nach „<BLANK>“ eingingen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

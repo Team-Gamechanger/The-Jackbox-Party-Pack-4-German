@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Angela Merkel",
       "t": "A",
-      "v": "598393_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Bei der 60. Nürnberger Spielwarenmesse präsentierte <i>Mattel</i> eine ungewöhnliche Adaption eines Spielzeugklassikers: die <BLANK> Barbie.",
       "t": "A",
-      "v": "598390_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Als Teil ihrer Entwicklung zum erwachsenen Mann müssen die Jungen des Sambia-Stammes in Papua-Neuguinea <BLANK> von <BLANK> trinken.",
       "t": "A",
-      "v": "571382_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

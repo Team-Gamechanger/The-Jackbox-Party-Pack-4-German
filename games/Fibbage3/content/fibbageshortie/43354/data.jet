@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ihren eigenen Penis abbeißen",
       "t": "A",
-      "v": "561138_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Bananenschnecken betreiben manchmal „Apophallie“. Das bedeutet, dass sie <BLANK>.",
       "t": "A",
-      "v": "561135_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

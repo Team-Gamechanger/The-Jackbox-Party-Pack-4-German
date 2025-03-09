@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Georgs",
       "t": "A",
-      "v": "572634_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt „<BLANK> Stern“ bedeutet.",
       "t": "A",
-      "v": "572631_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

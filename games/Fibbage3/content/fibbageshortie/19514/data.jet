@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "beatbox,destroy the Daily Planet,call Batman “a jerk”,eat the sun,forget his name,move to Brazil,think he’s a cow,join the circus,become afraid of flying,wear denim,marry Lois Lane,destroy his credit rating,reveal his secret identity,quit the Daily Planet,go back to college,write a hit rock song,shave his head,wear a dress",
+      "v": "einem Gedichtwettbewerb,einer Umarmung mit Batman,einem Kostümwechsel,einem Rock-Konzert,einer Ballettaufführung,einem Umzug nach Brasilien,einem Tanz mit Wonder Woman,einem Zirkus-Besuch,dem Diebstahl der Kronjuwelen,dem Tragen eines Tutus,einer Hochzeit mit Lois Lane,einem Auftritt in einer Talkshow,einer Teilnahme bei einer Dating-Show\n,Purzelbäumen durch Metropolis,einer Fast-Food-Werbung,einer Wrestling-Karriere,einem Friseurbesuch,der Adoption eines Pinguins",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Superman-Trance",
+      "v": "Superman",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht mit übersinnlichen Kräften Superman zu <BLANK> zwingt.",
+      "v": "<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht Superman mit übersinnlichen Kräften zu <BLANK> zwingt.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "make a porno,be a porn star,be in a porno,have sex,have sex on tape,have sex on film",
+      "v": "einem Pornodreh,pornografischen Aufnahmen,einem Erotikfilm,sexuellen Handlungen vor der Kamera,der Aufnahme von Erotikvideos,einem pornografischen Video",
       "n": "AlternateSpellings"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]der Produktion eines Sextapes",
       "t": "A",
-      "v": "387734_2",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht mit übersinnlichen Kräften Superman zu <BLANK> zwingt.",
+      "s": "[category=host]<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht Superman mit übersinnlichen Kräften zu <BLANK> zwingt.",
       "t": "A",
-      "v": "387731_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sexspielzeug,Furby,Seepferdchen,Playmobilmännchen,Walbaby,Meerschweinchen,Brautkleid,Trampolin,Zelt,Plüscheinhorn,Wiesbachhorn,Katzenklo,Kugelschreiberset,Maß vom Oktoberfest,Deo,Mikrofon,Autogramm von Barack Obama,Weinglas",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strandgut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Legomännchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespült.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "lego männchen,lego,klemmbaustein,klemmbaustein männchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Legomännchen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespült.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

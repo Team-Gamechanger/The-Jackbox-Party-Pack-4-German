@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vanille|Kaffee,Motoröl|Gummi,Schokolade|Zigarrenrauch,Champagner|Käse,frisch gewaschener Wäsche|Kürbis,nassem Hund|Febreze,Benzin|Zitrone,Zedernholz|Pizza,Erdbeeren|Weißwurst,Moschus |Speck,Lavendel|Hanf,Chips|Pfefferminze,Popcorn|Axe Bodyspray,Neuwagen-Geruch|Kümmel,Curry|Bärlauch,geschnittenem Gras|Ingwer,Rosen|neuen Büchern,Orangenschale|Pfefferminz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sexy Scents",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gurke|Lakritze",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine amerikanische Studie kam 1998 zum Schluss, dass der sexuell erregendste Duft für Frauen eine Kombination aus <BLANK> und <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gurke|Lakritz,Gurken|Lakritze,Gurken|Lakritz,Lakritze|Gurke,Lakritz|Gurke,Lakritze|Gurken,Lakritz|Gurke,Salatgurke|Lakritze,Salatgurke|Lakritz,Salatgurken|Lakritze,Salatgurken|Lakritz,Lakritze|Salatgurke,Lakritz|Salatgurke,Lakritze|Salatgurken,Lakritz|Salatgurke,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Gurke|Lakritze",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine amerikanische Studie kam 1998 zum Schluss, dass der sexuell erregendste Duft für Frauen eine Kombination aus <BLANK> und <BLANK> ist.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

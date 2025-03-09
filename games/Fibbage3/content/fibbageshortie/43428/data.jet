@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ihre Steuern zu senken",
       "t": "A",
-      "v": "562342_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Den Mitgliedern der Band ABBA zufolge, waren ihre ausgefallenen Kostüme nicht nur ein modisches Statement. Sie waren auch dazu gedacht, <BLANK>.",
       "t": "A",
-      "v": "562339_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

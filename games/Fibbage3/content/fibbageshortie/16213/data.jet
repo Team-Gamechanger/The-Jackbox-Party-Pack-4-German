@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleinwüchsige,Übergewichtige Personen,Rentner,Models,Todkranke,Physiker,Professoren an der Uni Jena,Tote,dumme Menschen,Betrunkene,Rothaarige,Busfahrer,depressive Personen,Magersüchtige,Blonde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gesichter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hässliche Menschen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Laut einer Studie der Universität Jena aus dem Jahr 2014 haben <BLANK> die einprägsamsten Gesichter.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "unattraktive,unattraktive Menschen,unattraktive Personen,Hässliche,hässliche Personen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]hässliche Menschen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Laut einer Studie der Universität Jena aus dem Jahr 2014 haben <BLANK> die einprägsamsten Gesichter.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

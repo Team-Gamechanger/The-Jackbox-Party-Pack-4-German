@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die Firma KFC gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt habe.",
       "t": "A",
-      "v": "559395_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

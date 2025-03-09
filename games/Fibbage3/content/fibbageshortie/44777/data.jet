@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "China",
+      "v": "Geschäftsideen",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]britischer Luft",
       "t": "A",
-      "v": "597111_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Unternehmer Leo De Watts verdiente in China eine beträchtliche Stange Geld mit dem Verkauf von 115$-Flaschen gefüllt mit <BLANK>.",
       "t": "A",
-      "v": "597108_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

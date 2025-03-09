@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "konnte lachen,bellte Wörter,jonglierte,hielt PowerPoint Präsentationen,fuhr Fahrrad,zählte bis zehn,war einfach beeindruckt,faltete Origami,spielte Klavier,musste Steuern zahlen,sprach Deutsch,verstand Poesie,hüpfte immer,konnte seinen Schwanz nachwachsen lassen,liebte Basketball,rauchte,konnte stricken,bellte Lieder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Beagle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "leuchtete im Dunkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Beagle „Ruppy“ war ein sehr ungewöhnlicher Hund, denn er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "war fluoreszierend,war fluoriszierend,leuchtete nachts,fluoreszierte im Dunkeln,leuchtete,konnte nachts leuchten,glühte im Dunkeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]leuchtete im Dunkeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Beagle „Ruppy“ war ein sehr ungewöhnlicher Hund, denn er <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

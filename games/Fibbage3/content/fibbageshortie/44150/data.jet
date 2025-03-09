@@ -82,13 +82,13 @@
     {
       "s": "[category=host]WLAN",
       "t": "A",
-      "v": "580026_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2015 sprach ein französisches Gericht einer Frau eine Berufsunfähigkeitrente von 800 Euro zu, weil sie angeblich allergisch auf <BLANK> reagiert.",
       "t": "A",
-      "v": "580023_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

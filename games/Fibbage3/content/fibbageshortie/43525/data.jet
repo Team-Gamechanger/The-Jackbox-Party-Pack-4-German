@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Wohlerzogenen Kindern",
       "t": "A",
-      "v": "564396_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Antonio Ferrari ist Besitzer einer Weinbar in der italienischen Stadt Padua, in der er Menschen mit <BLANK> einen Sonderrabatt gewährt.",
       "t": "A",
-      "v": "564393_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

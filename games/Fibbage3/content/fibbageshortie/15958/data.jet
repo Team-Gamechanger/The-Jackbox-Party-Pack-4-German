@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein toter Hund,eine Smartphone-App,ein Geist,ein Teddybär,eine Tanne,ein Skelett,ein Kissen mit Aufdruck,ein Wassertank,ein Poster von Celine Dion,ein Schuh,ein unsichtbares Kaninchen,ein Dinosaurier in einem Museum,Elvis-Imitator,eine Katze,eine Tasche voller Perücken,eine Barbiepuppe,ein Wischmopp mit einer Schürze,ein Haufen schmutziger Unterwäsche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heirat",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Schaufensterpuppe im Rollstuhl",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus New York behauptet, seit 1986 glücklich mit seiner Frau Teagan verheiratet zu sein, die seltsamerweise <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine Puppe im Rollstuhl,eine Schaufensterpuppe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Schaufensterpuppe im Rollstuhl",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein Mann aus New York behauptet, seit 1986 glücklich mit seiner Frau Teagan verheiratet zu sein, die seltsamerweise <BLANK> ist.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

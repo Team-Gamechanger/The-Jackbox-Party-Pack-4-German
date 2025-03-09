@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im Jahr 2013 brachte Hello Kitty „<BLANK> mit Fruchtgeschmack“ als brandneue Produktlinie auf den Markt.",
       "t": "A",
-      "v": "319615_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

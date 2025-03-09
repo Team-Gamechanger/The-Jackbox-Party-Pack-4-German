@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Bierisch gut!",
+      "v": "Bierisch gut",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]fliegt",
       "t": "A",
-      "v": "567443_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Schon mal Betsy-Bier getrunken? Es wird so gebraut, dass es am besten schmeckt, während man <BLANK>.",
       "t": "A",
-      "v": "567440_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

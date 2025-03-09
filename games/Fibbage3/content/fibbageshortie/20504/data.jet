@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Speichelflecken,Blut,Fett,Ohrenschmalz,Erbrochenes,Schokolade,Brotkrümel,Farbe,Schweiß,Cola,Thunfischsalat,Buntstifte,Filzstift,Bleichmittel,Kaffeeflecken,Schmutz,Schleim,Öl",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>WD-40</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kaugummi",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter Anderem angeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gum,Kau Gummi,Kau-Gummi,klebendes Kaugummi",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kaugummi",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter Anderem angeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

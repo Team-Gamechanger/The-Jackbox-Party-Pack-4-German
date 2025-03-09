@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Teppich,einen Menschen,eine Autowaschanlage,ein Blumenbeet,Pferdeäpfel,einen Anhänger,Feuerholz,Pilze,ein Fußballfeld,zwei zusammengeschobene Tische,einen Grill,einem alten Schuhabtreter,alte Festplatten,einen Schaukelstuhl,ein Trampolin,Heu und Stroh,Klemmbausteine,Bargeld",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pferdechirurgie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Wasserbett",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Müsst ihr ein Pferd operieren? Es mag merkwürdig klingen, aber viele tierärztliche Handbücher empfehlen, das Pferd auf <BLANK> zu legen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "das Wasserbett,Wasserbetten,Wasserbett,ein Wasser Bett,das Wasser Bett,Wasser Betten,Wasser Bett",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Wasserbett",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Müsst ihr ein Pferd operieren? Es mag merkwürdig klingen, aber viele tierärztliche Handbücher empfehlen, das Pferd auf <BLANK> zu legen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

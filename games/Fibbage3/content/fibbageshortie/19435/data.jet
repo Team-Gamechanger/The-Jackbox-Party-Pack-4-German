@@ -82,13 +82,13 @@
     {
       "s": "[category=host]die Intelligenz",
       "t": "A",
-      "v": "385832_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Sapiosexuelle stehen auf <BLANK> einer Person.",
       "t": "A",
-      "v": "385829_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

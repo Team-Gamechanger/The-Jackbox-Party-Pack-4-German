@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einer ungeborenen Ente",
       "t": "A",
-      "v": "592073_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Wenn ihr das nächste Mal ein wenig zu viel gefeiert habt, probiert „Balut“: Ein traditionelles philippinisches Katerheilmittel, das aus einem mit <BLANK> gefüllten Ei besteht.",
       "t": "A",
-      "v": "592070_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

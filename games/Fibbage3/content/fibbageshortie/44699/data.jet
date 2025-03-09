@@ -82,13 +82,13 @@
     {
       "s": "[category=host]schmerzendes Gas",
       "t": "A",
-      "v": "594713_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2009 erfand ein japanisches Forscherteam einen Feueralarm, der statt lauter Geräusche <BLANK> ausstößt.",
       "t": "A",
-      "v": "594710_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

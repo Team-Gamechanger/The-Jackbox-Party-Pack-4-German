@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kriminell,Sexualstraftäter,minderjährig,Terrorist,Rassist,eine Hexe,Priester,millionär,Hinterwälder,ein Betrüger,Prominenter,Spion,ein schlechter Küsser,ein schlechter Liebhaber,Polizist,Koch,Royal,Untreu",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Warnhinweis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mit einem verwandt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die App „Islendinga“ warnt ihre Nutzer, wenn eine Person an der man Interesse zeigt, <BLANK> ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "verwandt mit dir,eine verwandte,ein verwandter,ein familienmitglied,mit dir verwandt,verwandt,Teil der eigenen Familie,Familienmitglied",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mit einem verwandt",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die App „Islendinga“ warnt ihre Nutzer, wenn eine Person an der man Interesse zeigt, <BLANK> ist.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

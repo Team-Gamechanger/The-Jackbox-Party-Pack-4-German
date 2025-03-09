@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Ottern",
       "t": "A",
-      "v": "376388_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2015 fand ein vom Aussterben bedrohter Affe im britischen <i>Bristol Zoo Gardens</i> ein tragisches Ende, als er versehentlich von <BLANK> gefressen wurde.",
       "t": "A",
-      "v": "376385_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

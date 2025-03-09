@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sauren Regen,Staub vom Jupiter,einen radioaktiven Meteoriten,einen abstürzenden Mond der Venus,ein Space-Shuttle-Bauteil,ein Mondkalb,ein Schwarzes Loch,den Nikolaus,einen abstürzenden Satelliten,ein Loch in der Ozonschicht,ein UFO,Venusglitzer,Merkurwolken,den Todesstern,Bienen,radioaktiven Schnee,einen Wetterballon,Konfetti",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sternenhimmel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Astronautenurin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Astrologen berichteten von einem seltsam glühenden Lichtstreifen am Nachthimmel des 9. September 2009. Die NASA teilte mit, dass es sich um <BLANK> gehandelt hätte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Astronautenpisse,Urin von Astronauten,Pisse von Astronauten,abgeworfenen Astronautenurin,Urin aus dem Space Shuttle,Astronautenurin aus dem Space Shuttle,Astronautenexkremente,Astronautenpisse aus dem Space Shuttle,Astronauten Urin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Astronautenurin",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Astrologen berichteten von einem seltsam glühenden Lichtstreifen am Nachthimmel des 9. September 2009. Die NASA teilte mit, dass es sich um <BLANK> gehandelt hätte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

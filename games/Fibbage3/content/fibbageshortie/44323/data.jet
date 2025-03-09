@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Weihwasser",
       "t": "A",
-      "v": "584945_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der erste Verkaufsautomat der Welt verkaufte <BLANK>.",
       "t": "A",
-      "v": "584942_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

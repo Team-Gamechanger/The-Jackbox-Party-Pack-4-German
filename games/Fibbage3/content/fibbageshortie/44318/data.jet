@@ -82,13 +82,13 @@
     {
       "s": "[category=host]schlecht singt",
       "t": "A",
-      "v": "584795_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Seit 1989 verfolgen Wissenschaftler den „einsamsten Wal der Welt“, der ihrer Auffassung nach so einsam ist, weil er <BLANK>.",
       "t": "A",
-      "v": "584792_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

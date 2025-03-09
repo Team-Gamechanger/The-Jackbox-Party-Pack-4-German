@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ausweise|DNA-Spuren,Gefängniszellen|Gesichtserkennung,Drohnen|Selbstzerstörungsfunktion,Uniformen|Abhörtechnik,Brücken|integrierten Röntgengeräten,Gefängnismauern|Stromschlägen,Polizeiautos|eingebautem Müllverbrenner,Handschellen|GPS-Trackern,Grenzzäune|Gangart-Erkennung,Gefängniswände|Chiliextrakt,Kaugummis|DNA-Markern,Radiolieder|verschlüsselten Nachrichten,Parkbänke|Minikameras,Straßenlaternen|Schussdetektoren,Verkehrsschilder|Abhörfunktion,Graffiti-Wände|versteckten Codes,Mülltonnen|Drogendetektoren,Fußballtrikots|Gangster-Karikaturen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Organisierte Kriminalität",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beton|Kokain",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Kampf gegen die organisierte Kriminalität hat Ecuador im Jahr 2023 damit begonnen, <BLANK> mit <BLANK> herzustellen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Beton|Cocain,Zement|Kokain,Zement|Cocain,Beton|beschlagnahmtem Kokain,Beton|beschlagnahmtem Cocain,Zement|beschlagnahmtem Kokain,Zement|beschlagnahmtem Cocain,Beton|Koks,Zement|Koks,Beton|Drogen,Zement|Drogen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Beton|Kokain",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Kampf gegen die organisierte Kriminalität hat Ecuador im Jahr 2023 damit begonnen, <BLANK> mit <BLANK> herzustellen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

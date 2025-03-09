@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Zeitreisende",
       "t": "A",
-      "v": "564287_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Am 28. Juni 2009 veranstaltete der Physiker Stephen Hawking eine Party, zu der nur <BLANK> eingeladen waren.",
       "t": "A",
-      "v": "564284_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

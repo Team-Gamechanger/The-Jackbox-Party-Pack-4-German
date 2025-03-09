@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563710_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]Engel",
       "t": "A",
-      "v": "563708_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Name dieses Gemäldes von Paul Klee ist <i><BLANK>-Anwärter</i>.",
       "t": "A",
-      "v": "563705_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Baby",
       "t": "A",
-      "v": "591287_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Als Wissenschaftler den Sarg des Bischofs Peder Winstrup untersuchten, waren sie schockiert, als sie <BLANK> darin versteckt fanden.",
       "t": "A",
-      "v": "591284_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

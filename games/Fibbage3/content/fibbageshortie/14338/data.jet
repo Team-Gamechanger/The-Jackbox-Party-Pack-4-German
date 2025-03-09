@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "masturbierte,telefonierte,hustete,rülpste,furzte,Fotos machte,rauchte,strickte,jodelte,Netflix schaute,SMS schrieb,kochte,eine Holzfigur schnitzte,seine Zähne putzte,Kaugummi kaute,Schluckauf hatte,pinkelte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gerichte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gähnte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im US-amerikanischen Bundesstaat Illinois wurde ein Zuschauer zu sechs Monaten Gefängnis verurteilt, weil er während einer Gerichtsverhandlung <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gähnen musste,gegähnt hat",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]gähnte",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im US-amerikanischen Bundesstaat Illinois wurde ein Zuschauer zu sechs Monaten Gefängnis verurteilt, weil er während einer Gerichtsverhandlung <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kapitalismus,der Konzertkultur,sozialen Medien,Umweltverschmutzung,Kindergärten,Toiletten,McDonald's,der Bundesregierung,Albträumen,der Konsumgesellschaft,Künstlicher Intelligenz,Smartphones,Werwolf-Bürokratie,ÖPNV,Universitäten,moderner Architektur,Kafka,Fast Fashion",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steuern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei diesem interessanten Kunstwerk handelt es sich um subtile Kritik an <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "der Steuer,Steuerabgaben,Steuerbelastung,dem Steuersystem,der Steuerpolitik,Steuergesetzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610413_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Steuern",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei diesem interessanten Kunstwerk handelt es sich um subtile Kritik an <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

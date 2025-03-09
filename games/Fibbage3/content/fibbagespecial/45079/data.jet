@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Musikers,Abschaums,Kunststudenten,Elends,Cannabis-Zombies,Wütenden,niederländischen Durchschnitts,Piraten,Thomas Rowlandson,Liebhabers,Heiden,Erfinders,Schwiegersohns,Feiglings,säumigen Vaters,Mittellosen,Hünen,Niederschlags",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Genies",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dieser Druck von Thomas Rowlandson aus dem Jahr 1806 heißt treffenderweise „Die Kammer des <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Genie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "604519_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Genies",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dieser Druck von Thomas Rowlandson aus dem Jahr 1806 heißt treffenderweise „Die Kammer des <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

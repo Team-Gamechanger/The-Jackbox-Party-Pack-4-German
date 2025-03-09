@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "speit,den Limbo schafft,einen Stuhl zerstört,einen kompletten Truthahn isst,ein Hole-in-One beim Minigolf schafft,ein Papierflugzeug bastelt,ein Dreirad 30 Meter weit fährt,ein Feuer löscht,eine Kuh melkt,in eine Toilette stürzt,weint,furzt,einen Krawattenknoten bindet,twerkt,10 Seilsprünge schafft,einen Bären zu Boden ringt,eine Matheklausur löst,10 Kämpfe in Folge gewinnt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sumo",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Baby zum Weinen bringt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine alljährliche Tradition des Nakizumo-Festivals ist, dass Sumoringer darum wetteifern, wer zuerst <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Baby zum Weinen bringt,ein Baby Weinen lässt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Baby zum Weinen bringt",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine alljährliche Tradition des Nakizumo-Festivals ist, dass Sumoringer darum wetteifern, wer zuerst <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

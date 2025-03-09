@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Puppen versenken",
       "t": "A",
-      "v": "579066_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Während des polnischen Feiertags Topienie Marzanny feiern die Menschen das Ende des Winters mit einer kuriosen Tradition, indem sie <BLANK>.",
       "t": "A",
-      "v": "579063_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

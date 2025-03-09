@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Darmspiegelungen",
+      "v": "Darm-Alarm",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]explodieren",
       "t": "A",
-      "v": "594683_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2007 schrieb ein französisches Ärzteteam einen Artikel, in dem es Ratschläge für Darmspiegelungen gab, um zu verhindern, dass die Patienten <BLANK>.",
       "t": "A",
-      "v": "594680_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

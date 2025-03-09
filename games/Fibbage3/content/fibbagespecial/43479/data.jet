@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563285_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]Kuss",
       "t": "A",
-      "v": "563283_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Dieses Patent wurde im Jahr 1998 von Deloris Gray Wood, der stolzen Erfinderin des <BLANK>-Schildes, veröffentlicht.",
       "t": "A",
-      "v": "563280_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

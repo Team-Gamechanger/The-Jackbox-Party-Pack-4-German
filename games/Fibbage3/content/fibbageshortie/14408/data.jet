@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Hitler",
       "t": "A",
-      "v": "320271_2",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Von 2011 bis 2013 lief in Indien eine Seifenoper mit einem ungewöhnlichen Titel, der wortwörtlich übersetzt <i>Große Schwester <BLANK></i> lautet.",
       "t": "A",
-      "v": "320268_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

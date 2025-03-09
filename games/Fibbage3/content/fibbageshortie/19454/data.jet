@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "with a ninja star,shaving his legs,opening a pack of baseball cards,playing lawn darts,eating popcorn,in a game of darts,on a chewing tobacco can,with a cigar cutter,with his own cleats,trying to mow the outfield,opening a beer,with his overgrown fingernails,exploring a thorny hedge maze,in a swordfight,on his jockstrap,hanging a pin-up calendar,with a KFC spork,breaking open a trophy case",
+      "v": "beim Nagel kauen,an einem Wurfstern,an einer Baseballkarte,beim Dartspielen,beim Essen von Popcorn,an seiner Mikrowelle,an seiner Weltmeisterschafts-Trophäe,an den Zähnen seines Glückshasen,bei einem Kartentrick,beim Rasenmähen des Spielfelds,an einer Autogrammkarte,beim Öffnen einer Champagnerflasche,an seiner Trillerpfeife,bei einem Schwertkampf,an einem zerbrochenen Baseballschläger,an einem McDonald's-Göffel,an seinem Glücksstein",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer stark verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
+      "v": "Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "on a brastrap,on a bra-strap,on a bra,on a brassiere,with a bra strap,with a brastrap,with a bra-strap,with a bra,with a brassiere",
+      "v": "an einem Büstenhalter,an einem BH,mit einem BH-Träger,mit einem Büstenhalter,mit einem BH,an einem Dessous-Träger,an Dessous,an einem BH Träger,einem Büstenhalter-Träger",
       "n": "AlternateSpellings"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]an einem BH-Träger",
       "t": "A",
-      "v": "386288_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer stark verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
+      "s": "[category=host]Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
       "t": "A",
-      "v": "386285_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

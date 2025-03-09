@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die Abteilung für öffentliche Gesundheit in Iowa sprach eine amtliche Warnung aus, nachdem eine Frau mittels <BLANK> versuchte, an Gewicht zu verlieren.",
       "t": "A",
-      "v": "345783_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

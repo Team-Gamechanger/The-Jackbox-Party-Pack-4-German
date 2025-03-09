@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hausstaub,den Wind,Mixer,Gedanken,Bananen,Tauben,Hamster,eine Zahnbürste,Ameisen,Wolken,Sandburgen,Geister,Brotkrümel,Hunde,den Stuhlgang,Sonnenbrillen,einen Schnuller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Steuerung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kakerlaken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Firma <i>Backyard Brains</i> verkauft ein Gerät, mit dem man <BLANK> mit dem Smartphone steuern kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "küchenschaben,schaben,eine Kakerlake,die Kakerlake,Kackerlacken,eine Kackerlacke,Kakerlacken,eine Kakerlacke,Kackerlaken,eine Kackerlake",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kakerlaken",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Firma <i>Backyard Brains</i> verkauft ein Gerät, mit dem man <BLANK> mit dem Smartphone steuern kann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

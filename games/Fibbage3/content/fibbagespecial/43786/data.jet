@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "569350_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -93,7 +93,7 @@
     {
       "s": "[category=host]Möchte man die russische Version der Redewendung „Wie man in den Wald hineinruft, so schallt es heraus“ verwenden, sagt man: „Die Katze wird irgendwann einen Schwall von <BLANK> abbekommen“.",
       "t": "A",
-      "v": "569345_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566244_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]trägt Affen",
       "t": "A",
-      "v": "566242_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Dieses Kunstwerk trägt den Titel <i>Frauenakt <BLANK></i>.",
       "t": "A",
-      "v": "566239_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

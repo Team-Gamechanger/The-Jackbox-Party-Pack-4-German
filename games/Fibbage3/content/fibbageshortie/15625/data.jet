@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Reptiloid",
       "t": "A",
-      "v": "345702_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
       "t": "A",
-      "v": "345699_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Filmemacher",
       "t": "A",
-      "v": "591437_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Neben seiner Tätigkeit als Diktator von Nordkorea, schrieb und veröffentlichte Kim Jong-il ein Buch mit durchdachten Ratschlägen für <BLANK>.",
       "t": "A",
-      "v": "591434_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

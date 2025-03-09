@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Abflussreiniger,Fliegenfänger,flexibler Ohrstöpsel,Kaugummi,Reifendichtungsmittel,Haargel,Bleistifthalter,Briefbeschwerer,Poliermittel,flexible Geldbörse,Alternative zu Bratensoße,Gedächtnisstütze,Puddingersatz,Fischentgräter,Haarentferner,Radiergummi,Verdauungsmittel,Käseersatz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Multifunktional",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tapetenreiniger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bevor es zu einem Kinderspielzeug wurde, war <i>Play-Doh</i> als <BLANK> konzipiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Reiniger für Tapeten,Tapetenreinigungsmittel,Tapeten Reinigungsmittel,Reinigungsmittel für Tapeten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tapetenreiniger",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bevor es zu einem Kinderspielzeug wurde, war <i>Play-Doh</i> als <BLANK> konzipiert.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

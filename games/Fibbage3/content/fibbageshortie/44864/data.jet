@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Tinderprofil",
       "t": "A",
-      "v": "599547_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]In einem Versuch, es zur Paarung zu bewegen, wurde einem kenianischen Breitmaulnashorn namens Sudan <BLANK> gegeben.",
       "t": "A",
-      "v": "599544_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

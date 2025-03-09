@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einer Tuba",
       "t": "A",
-      "v": "600281_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2007 war das Leben noch einfach. Wir hatten genug Freizeit, um herauszufinden, dass man mit <BLANK> einen Alligator erregen kann. ",
       "t": "A",
-      "v": "600278_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

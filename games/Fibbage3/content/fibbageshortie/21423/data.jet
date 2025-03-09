@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Pissoir,ein Segway,einen McDonald's-Burger,eine Gefängniszelle,einen Schäferhund,ein Maisfeld,ein Feuerwehrauto,einen Hausmeisterschrank,ein Go-Kart,einen Obdachlosen,ein Baby,einen Polizeihelm,einen Affen,einen Schulbus,einen gesamten Strand,eine ganze Kreuzung,einen Eiswagen,ein Beerdigungsinstitut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Graffiti",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Polizeipferd",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> mit Graffiti besprüht hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pferd,ein Pferd,Polizeipferd,Dienstpferd,ein Dienstpferd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Polizeipferd",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> mit Graffiti besprüht hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

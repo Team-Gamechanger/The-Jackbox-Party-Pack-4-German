@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "565091_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,13 @@
     {
       "s": "[category=host]eine Kartoffel",
       "t": "A",
-      "v": "565089_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein weises russisches Sprichwort über Herzensangelegenheiten lautet: „Liebe ist nicht wie <BLANK>, man kann sie nicht einfach aus dem Fenster werfen.“",
       "t": "A",
-      "v": "565086_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

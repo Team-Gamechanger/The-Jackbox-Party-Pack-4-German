@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Liebeskummer,Ausreißer,Verstopfung,Madame,Der Mord,Wut auf Lisa,Abservierung,Pubertät,Wo ist die Oma hin?,Melancholie,Plötzlich verwaist,Pleitegeier,Dämmerung,Vati ist betrunken,Höllenfahrt,Spinnen,Pariser Morgen,Der Morgen nach dem Abend",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Menschliches Elend",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Titel dieser französischen Lithografie lautet einfach „<BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Das menschliche Elend,Menschliche Misere,elend,Menschliche Not,Menschliche Tragödie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "636847_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Menschliches Elend",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Titel dieser französischen Lithografie lautet einfach „<BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

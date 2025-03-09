@@ -82,13 +82,13 @@
     {
       "s": "[category=host]der dänischen Flagge",
       "t": "A",
-      "v": "559448_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Das Rotbunte Husumer Schwein ist eine seltene Schweinerasse, die bewusst so gezüchtet wurde, dass sie <BLANK> ähnelt.",
       "t": "A",
-      "v": "559445_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Katzenhaare,Milch,Frösche,Vögel,Reinigungsalkohol,Golfbälle,Feuer,Ahornsirup,Tannenzapfen,Säure,Kaugummi,Fische,Schlangen,Äpfel,iPods,Erdnüsse,Urin,tote Fliegen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Regen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Regenwürmer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 versammelten sich in der Nähe von Bergen, Norwegen, erstaunte Wissenschaftler, um herauszufinden, warum es <BLANK> regnete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Würmer,Regen Würmer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Regenwürmer",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 versammelten sich in der Nähe von Bergen, Norwegen, erstaunte Wissenschaftler, um herauszufinden, warum es <BLANK> regnete.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

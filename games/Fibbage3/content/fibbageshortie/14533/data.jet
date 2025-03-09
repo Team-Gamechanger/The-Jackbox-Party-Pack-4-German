@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suppe,Schlamm,Chips,Schokolade,Kuchen,Kinder,Haare,Joghurt,Felsen,Wanzen,Donuts,Kuchen,Schweinekoteletts,Kokos-Curry-Suppe,Pizza,Centstücke,Lakritze,Reiswaffeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nigeria",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Süßkartoffeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die nigerianische Version des Krümelmonsters kann nicht aufhören <BLANK> zu essen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Kartoffeln,Süsskartoffeln,Süßkartofeln,Süsskartofeln,Pommes,Süßkartoffelpommes,Süßkartoffel Pommes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Süßkartoffeln",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die nigerianische Version des Krümelmonsters kann nicht aufhören <BLANK> zu essen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

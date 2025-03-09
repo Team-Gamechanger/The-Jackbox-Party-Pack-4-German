@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Langweiler,Grausame,Impotente,Furzer,Alberne,Betrunkene,Stotterer,Ungeschickte,Gruselige,schüchterne Typ,Doofie,Billige,Ignorante,Widerwärtige,Narr,Tänzer,Freche,nicht königliche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Königliche Titel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sabberer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im späten 12. und frühen 13. Jahrhundert wurde das mittelalterlichen Königreich León von einem Monarchen regiert, der gemeinhin als Alfons der <BLANK> bekannt war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sabbernde,Saberer,Sabernde,Speichelnde,Speicheler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sabberer",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im späten 12. und frühen 13. Jahrhundert wurde das mittelalterlichen Königreich León von einem Monarchen regiert, der gemeinhin als Alfons der <BLANK> bekannt war.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

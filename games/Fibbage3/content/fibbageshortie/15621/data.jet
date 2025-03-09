@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Schere,ein Autoradio,einen Mord,eine kurze Hose,ein Messer,einen Zungenkuss,eine duschende Frau,ein Motel,einen BH,ein weinendes Baby,eine Mikrowelle,eine Bettdecke,eine tote Frau,einen Türspion,einen Kadaver,ein Telefon,eine Strumpfhose,einen Nippel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Psycho",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Toilettenspülung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Alfred Hitchcocks Thriller-Klassiker <i>Psycho</i> war der erste amerikanische Film, der <BLANK> zeigte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine toiletten spülung,eine wasserspülung,eine wasser spülung,eine Klospülung,eine spülende Toilette,ein spülendes Klo,ein spülendes WC,eine WC-Spülung,eine WC Spülung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Toilettenspülung",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alfred Hitchcocks Thriller-Klassiker <i>Psycho</i> war der erste amerikanische Film, der <BLANK> zeigte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

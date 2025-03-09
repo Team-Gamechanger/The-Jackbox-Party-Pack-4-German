@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "571216_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,12 @@
     {
       "s": "[category=host]den Ofen",
       "t": "A",
-      "v": "571214_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein junger Bengel, der versucht, Älteren zu sagen, was sie zu tun haben, könnte mit einer russischen Redewendung getadelt werden, die übersetzt so viel heißt wie: „Versuch nicht, vor deinem Vater in <BLANK> zu gelangen.“",
       "t": "A",
-      "v": "571211_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

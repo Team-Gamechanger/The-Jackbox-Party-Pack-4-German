@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der Kinderwagenhersteller Quinny stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
+      "v": "Der Kinderwagenhersteller <i>Quinny</i> stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
       "n": "QuestionText"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Skateboards",
       "t": "A",
-      "v": "375875_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der Kinderwagenhersteller Quinny stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
+      "s": "[category=host]Der Kinderwagenhersteller <i>Quinny</i> stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
       "t": "A",
-      "v": "375872_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

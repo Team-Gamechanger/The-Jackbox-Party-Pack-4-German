@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Studien",
       "t": "A",
-      "v": "425544_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Eine im Jahr 2015 von finnischen und US-amerikanischen Professoren durchgeführte Studie kam zu dem Schluss, dass es zu viele <BLANK> gibt.",
       "t": "A",
-      "v": "425541_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

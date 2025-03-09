@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Furzgerüche,Millennials,eingewachsenen Zehennägel,Milchhäute,Kugelschreiber,Salamistangen,Rückenhaare,Vorliebe für 90er Musik,Weihnachtsmänner,Bigfoot-Schwangerschaften,vollen Windeln,Flugzeugtoiletten,Eichhörnchen-Telepathie,Augenringe,Mid-Life-Crisis,Cargoshorts,deutschen Blätter-Glasschüsseln,erotischen Kornkreise",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Delfinvaginas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dara Orbach von der Dalhousie University hat ihr Leben einem spannenden Forschungsgebiet gewidmet: der Lösung des Geheimnisses der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Delphinvaginas,Delfinvagina,Delphinvagina",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Delfinvaginas",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dara Orbach von der Dalhousie University hat ihr Leben einem spannenden Forschungsgebiet gewidmet: der Lösung des Geheimnisses der <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -83,13 +83,13 @@
     {
       "s": "[category=host]Trommeln",
       "t": "A",
-      "v": "415090_3",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der tschechische General Jan Zizka gab seinen Truppen vor seinem Tod den Befehl, dass seine Haut entfernt und zur Herstellung von <BLANK> verwendet werden soll.",
       "t": "A",
-      "v": "415087_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

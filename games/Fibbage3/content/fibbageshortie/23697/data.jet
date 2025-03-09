@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Milliardäre,aus Boygroups,Staatsoberhäupter,Geologen,Priester,Autoren,Schachgroßmeister,Jongleure,Kampfpiloten,Pantomimen,Atheisten,Vegetarier,Extremsportler,Jungfrauen,Weltrekordhalter,Modedesigner,Unterwäschemodels,Zirkusartisten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sperma",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nobelpreisträger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In den 1990er-Jahren gründete ein Unternehmer namens Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Leute die den Nobelpreis gewonnen haben,Leute die Nobel Preise gewonnen haben,Nobel Gewinner,Nobelpreisgewinner,Nobelpreis Träger, Nobelpreis Gewinner,Gewinner von Nobelpreisen,Träger von Nobelpreisen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nobelpreisträger",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In den 1990er-Jahren gründete ein Unternehmer namens Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

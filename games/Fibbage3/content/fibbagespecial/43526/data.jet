@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564423_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,13 @@
     {
       "s": "[category=host]eine Ziege",
       "t": "A",
-      "v": "564421_2",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die wörtliche russische Übersetzung der Redewendung „Liebe ist blind“  lautet: „Die Liebe ist böse, denn du wirst sogar <BLANK> lieben.“ ",
       "t": "A",
-      "v": "564418_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Das Downtown Hotel im kanadischen Dawson City bietet einen einzigartigen Cocktail an, der <BLANK> enthält.",
       "t": "A",
-      "v": "318866_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

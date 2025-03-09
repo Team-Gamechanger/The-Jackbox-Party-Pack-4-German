@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Herz,Körperfett,Kot,Nasenhaaren,Zähnen,Zunge,Verletzungen,Magenschleimhaut,Dickdärmen,Augenringen,Flossennägeln,Leber,Brusthaaren,Blaslöchern,Algenanhaftungen,Zahnbelag,Falten,Knochenschichten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ohrenschmalz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wie bestimmen Wissenschaftler das Alter eines Blauwals? Ganz einfach, sie zählen die Schichten von dessen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ohrwachs,Ohrenschleim,Ohrenschmalzes,Ohrenablagerungen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ohrenschmalz",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wie bestimmen Wissenschaftler das Alter eines Blauwals? Ganz einfach, sie zählen die Schichten von dessen <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

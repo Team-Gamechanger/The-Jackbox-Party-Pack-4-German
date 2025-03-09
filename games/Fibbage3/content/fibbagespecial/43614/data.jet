@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566219_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -94,7 +94,7 @@
     {
       "s": "[category=host]Hier ist eine Erfindung von Patentanmelder Waldemar Anguita: Der revolutionäre <BLANK>-Helm.",
       "t": "A",
-      "v": "566214_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

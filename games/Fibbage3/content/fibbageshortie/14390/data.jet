@@ -82,13 +82,13 @@
     {
       "s": "[category=host]warmem Duschwasser",
       "t": "A",
-      "v": "319871_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten mit <BLANK>.",
       "t": "A",
-      "v": "319868_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

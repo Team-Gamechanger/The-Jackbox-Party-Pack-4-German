@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Schuldschein,Küssen,Umarmungen,High Fives,Chicken Nuggets,Salz,Waffen,Organen,Briefmarken,abgelaufenen Parktickets,Uhren,Pommes,Toilettenpapier,antiken Lampen,Stickern,lebenden Spinnen,einem guten Zeugnis,Tinte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Parken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kastanien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Herbst 2013 gab ein englischer Parkhausbetreiber seinen Kunden die Möglichkeit, mit <BLANK> zu bezahlen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Edelkastanien,Esskastanien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kastanien",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Herbst 2013 gab ein englischer Parkhausbetreiber seinen Kunden die Möglichkeit, mit <BLANK> zu bezahlen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

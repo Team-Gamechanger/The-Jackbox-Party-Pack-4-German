@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Molkenbad nehmen,Nackt tanzen,im Schlamm ringen,mit Dreck eingerieben werden,im Regen stehen,Essensreste tragen,mit Müll beworfen werden,im Matsch rollen,mit Pudding übergossen werden,durch Schlamm kriechen,mit Farbe bemalt werden,mit Federn beklebt werden,in Honig getaucht werden,in Mehl gewälzt werden,mit Öl begossen werden,mit Tinte beschmiert werden,mit Sahne bedeckt sein,mit Marmelade beschmiert werden,mit Joghurt übergossen werden,mit Ketchup besprüht werden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeitstraditionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mit Schleim bedeckt sein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine alte schottische Hochzeitstradition besagt, dass das Paar, als Vorbereitung auf die Ehe, <BLANK> muss.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mit Schleim überzogen sein,mit Schleim beschmiert sein,mit Schlamm bedeckt sein,mit Schlamm überzogen sein,eingeschleimt sein,verschleimt sein,verschlammt sein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mit Schleim bedeckt sein",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine alte schottische Hochzeitstradition besagt, dass das Paar, als Vorbereitung auf die Ehe, <BLANK> muss.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einer Schlange",
       "t": "A",
-      "v": "574568_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Das Haar-Mode-Team in Dresden ist ein Friseursalon, der Kunden die einzigartige Gelegenheit bietet, sich von <BLANK> massieren zu lassen.",
       "t": "A",
-      "v": "574565_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

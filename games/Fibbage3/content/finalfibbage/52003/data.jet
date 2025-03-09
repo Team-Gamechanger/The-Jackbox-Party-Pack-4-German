@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nasenhaare|einem Mammut,die toten Corgis|der Queen,das Gebiss|Margaret Thatcher,den Urin|Will Smith,Unterhosen|David Cameron,das Sperma|dem hässlichsten Hund der Welt,benutzte Zigaretten|Helmut Schmidt,ein Unfallwagen|Prinz Philip,ein benutztes Taschentuch|Theresa May,die Eier|dem königlichen Huhn,die Kurzgedichte|Kim Jong-il,Kritzeleien|Stalin,löchrige Socken|One Direction,die Heimvideos|ABBA,die Bettpfanne|John Lennon\n,die vier Eheringe|Charlie Chaplin,die Fingernägel|Stephen Hawking,der Rollator|Robbie Williams' Oma",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auktion",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "das Blut|Winston Churchill",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Am 12. März 2015 versteigerte das englische Auktionshaus <i>Duke’s of Dorchester</i> eine wahre Kuriosität: <BLANK> von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Blut|Winston Churchill,das Blut|Churchill,Blut|Churchill,das Blut|Winston Churchil,Blut|Winston|Churchil",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]das Blut|Winston Churchill",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Am 12. März 2015 versteigerte das englische Auktionshaus <i>Duke’s of Dorchester</i> eine wahre Kuriosität: <BLANK> von <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

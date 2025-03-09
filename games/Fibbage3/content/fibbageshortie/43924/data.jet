@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Kaffee zu trinken",
       "t": "A",
-      "v": "573150_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Um zu beweisen, wie gefährlich es ist, bestrafte König Gustav III. von Schweden einmal einen Gefangenen, indem er ihn zwang, für den Rest seines Lebens jeden Tag <BLANK>.",
       "t": "A",
-      "v": "573147_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

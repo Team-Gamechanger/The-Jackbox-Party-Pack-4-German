@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Sexspielzeug",
       "t": "A",
-      "v": "404998_1f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Designer Mark Sturkenboom möchte einem beim Gedenken an einen geliebten Menschen helfen, indem er 21 Gramm der Asche des Verstorbenen in <BLANK> füllt.",
       "t": "A",
-      "v": "404995_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen verlassenen Zirkus,eine unterirdische Bunkeranlage,eine riesige Skulptur aus Gabeln,einen Minigolfplatz,einen alten Schulbus voller Stofftiere,eine vergrabene Zeitkapsel,die Perücke von Donald Trump,fünfundzwanzig Heißluftfritteusen,einen Flugzeugträger,einen ausrangierten Regenbogen-Panzer,einen Haufen Spielautomaten,einen Haufen Bowlingkugeln,eine Bowlingbahn,einen Haufen Einkaufswagen,eine überwucherte Achterbahn,ein altes Atomkraftwerk,ein Kunstwerk aus Autoreifen,einen Teich voller Goldfische",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wald und Wiesen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "über 100kg Pasta",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Bewohner der amerikanischen Stadt Old Bridge staunten nicht schlecht, als sie plötzlich <BLANK> in einem Wald vorfanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mehr als 100kg Pasta,über 100kg Nudeln,mehr als 100kg Nudeln,über 100kg Spaghetti,mehr als 100kg Spaghetti,Pasta-Haufen,Nudel-Haufen,Spaghetti-Haufen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]über 100kg Pasta",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Bewohner der amerikanischen Stadt Old Bridge staunten nicht schlecht, als sie plötzlich <BLANK> in einem Wald vorfanden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

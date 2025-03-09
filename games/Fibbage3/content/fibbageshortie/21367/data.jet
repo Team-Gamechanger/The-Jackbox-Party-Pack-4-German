@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlangen,Banditen,Waschbären,Influencern,Vogelspinnen,Waisen,Bären,Ninjas,Drachen,Robotern,Motorradbanden,Schmetterlingen,Astronomen,Vielfrassen,Aalen,Hasen,Models,Schildkröten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japan",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Tashirojima ist eine Insel vor der Küste Japans, die von <BLANK> geradezu überrannt wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Haufen Katzen,wilden Katzen,obdachlosen Katzen,Strassenkatzen,Katze,Kätzchen,Straßenkatzen,streunenden Katzen,Miezen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Katzen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tashirojima ist eine Insel vor der Küste Japans, die von <BLANK> geradezu überrannt wird.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

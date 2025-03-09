@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]ein Kondom",
       "t": "A",
-      "v": "355850_1",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]1960 wurde Paul McCartney in Hamburg festgenommen, nachdem er <BLANK> anzündete.",
       "t": "A",
-      "v": "355847_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

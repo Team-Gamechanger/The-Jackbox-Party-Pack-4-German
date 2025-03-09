@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Leiche,Tapete,Vogelscheuche,Schaufensterpuppe,Pflanze,Attrappe,Statue,Puppe,Kulisse,Requisite,Geräuschkulisse,Zeitmaschine,Wetterstation,Antenne,Kamera,Parkuhr,Brücke,Sendestation,Anrufbeantworterin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Harte Arbeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bettwärmerin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Viktoria Ivachyova hat einen einzigartigen Beruf: Sie arbeitet als „Menschliche <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bettwärmer,Bett-Wärmerin,Bett Wärmerin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bettwärmerin",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Viktoria Ivachyova hat einen einzigartigen Beruf: Sie arbeitet als „Menschliche <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

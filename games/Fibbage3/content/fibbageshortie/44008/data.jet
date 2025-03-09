@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Monopoly-Spielen",
       "t": "A",
-      "v": "575546_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Während des Zweiten Weltkriegs verhalfen die Briten ihren Soldaten zur Flucht aus deutschen Gefangenenlagern, indem sie Kompasse, Feilen und Karten in <BLANK> versteckten.",
       "t": "A",
-      "v": "575543_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

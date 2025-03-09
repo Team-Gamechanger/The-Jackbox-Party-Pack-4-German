@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hirnwärme,Schönwerde,Taschenfriseur,Idioten,Schädelschüttler,Genie,Haarbleichungs,Läusetötungs,Altersumkehr,Gedankenleser,Haarverbrenner,Dauerwellen,Erinnerungslöscher,Staubsauger,Alienschutz,Zeitreise,Hirnfrost-Schutz,Kopfschmerzenverursacher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vibrations",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1969 ließ sich Charles H. M. Schamblin dieses Gerät, den „<BLANK>-Hut“, patentieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Massage,Vibrierende,Vibrator",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "590497_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vibrations",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 1969 ließ sich Charles H. M. Schamblin dieses Gerät, den „<BLANK>-Hut“, patentieren.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nackt trainiert,laut singt,rückwärts läuft,Alkohol trinkt,barfuß joggt,Käse isst,tanzt,im Regen trainiert,nachts trainiert,Videospiele spielt,Milch trinkt,meditiert,Tee trinkt,Yoga macht,kalt duscht,Musik hört,spät schläft,früh aufsteht,langsam läuft,schnell geht",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fitness-Tricks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schimpfwörter benutzt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie der Keele University in Großbritannien aus dem Jahr 2017 behauptet, dass man besser in Form kommt, wenn man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Schimpfwörter verwendet,Flüche benutzt,flucht,Kraftausdrücke benutzt,Kraftausdrücke verwendet,Flüche verwendet,Schimpfwort benutzt,Kraftwörter benutzt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Schimpfwörter benutzt",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine Studie der Keele University in Großbritannien aus dem Jahr 2017 behauptet, dass man besser in Form kommt, wenn man <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

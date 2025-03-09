@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Lebensmittel",
+      "v": "Experimente",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Scheidenpilz-Bakterien",
       "t": "A",
-      "v": "384872_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Cecilia Westbrook, eine Doktorandin an der Universität von Wisconsin, wurde bekannt für ihr außergewöhnliches Experiment, in dem sie Joghurt mit <BLANK> herstellte.",
       "t": "A",
-      "v": "384869_3",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

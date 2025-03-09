@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im Juli 2015 kam es nach der Meldung eines toten Tieres in den Kanälen von Manchester zu einem Polizeieinsatz. Aber keine Sorge. Es stellte sich heraus, dass es nur <BLANK> gefüllt mit <BLANK> war.",
       "t": "A",
-      "v": "561755_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

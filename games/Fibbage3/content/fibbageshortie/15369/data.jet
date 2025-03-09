@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Alte Männer",
       "t": "A",
-      "v": "339775_3",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Beim merkwürdigen japanischen Anbieter <i>Ossan Rental</i> kann man <BLANK> mieten.",
       "t": "A",
-      "v": "339772_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Taxifahrer,Friseur,Jongleur,Schuhputzer,Rodeo-Clown,Papst John Paul Imitator,Tänzer,Hundefriseur,Wrestler,Barista,Boxer,bescheidener Zimmermann,Bergarbeiter,Pantomime,Autoverkäufer,Frühstücksfernsehmoderator,Koch,Vogelflüsterer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Buenos Aires",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Türsteher",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als junger Student hat Papst Franziskus in Buenos Aires als <BLANK> gearbeitet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tür steher,Pförtner,Portier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Türsteher",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als junger Student hat Papst Franziskus in Buenos Aires als <BLANK> gearbeitet.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

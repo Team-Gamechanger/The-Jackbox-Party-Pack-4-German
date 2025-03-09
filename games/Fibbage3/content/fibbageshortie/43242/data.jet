@@ -82,13 +82,13 @@
     {
       "s": "[category=host]beim Kacken",
       "t": "A",
-      "v": "559098_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
       "t": "A",
-      "v": "559095_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

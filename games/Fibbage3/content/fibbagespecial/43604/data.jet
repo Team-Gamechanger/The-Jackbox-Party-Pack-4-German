@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "565985_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]Halloween-Rucksacks",
       "t": "A",
-      "v": "565983_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Dieses Patent gehört Deborah A. Morphet, der stolzen Erfinderin des <BLANK>.",
       "t": "A",
-      "v": "565980_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566394_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -93,7 +93,7 @@
     {
       "s": "[category=host]Seit Generationen lindern russische Mütter die kleinen Schrammen und blauen Flecken ihrer Kinder mit den Worten: „Bis <BLANK> wird es schon wieder verheilt sein.“",
       "t": "A",
-      "v": "566389_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

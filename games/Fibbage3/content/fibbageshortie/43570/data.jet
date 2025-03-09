@@ -83,13 +83,13 @@
     {
       "s": "[category=host]Monopoly",
       "t": "A",
-      "v": "565473_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es „zu gemein“ wird.",
       "t": "A",
-      "v": "565470_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

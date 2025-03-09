@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Baumstamm,einem Schlafsack,einem Kleiderbügel,einem Pfandautomaten,einem Hundehaus,seinem Briefkasten,einem Vogelhaus,einem Tresor,einem Aquarium,einem Gymnastikball,einem Schuhkarton,einer Regentonne,einem Dönerhalter,einer Trompetenöffnung,einem Würstchenglas,einer Nudelrolle,seinem Kleiderschrank,seinem Kamin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschmeidige Sache",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Waschmaschine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein 20-Jähriger aus Sydney brauchte die Hilfe der Feuerwehr und viel Olivenöl, um sich aus <BLANK> zu befreien.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einer Waschmaschine,seine Waschmaschine,der Waschmaschine,seinem Waschautomaten,seinem Waschgerät,seinem Wascher,seinem Waschapparat,einem Waschautomaten,einem Waschgerät,einem Wascher,einem Waschapparat,einer Wäschetrommel,seiner Wäschetrommel,der Wäschetrommel,seinem Toplader,einem Toplader,dem Toplader",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seiner Waschmaschine",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein 20-Jähriger aus Sydney brauchte die Hilfe der Feuerwehr und viel Olivenöl, um sich aus <BLANK> zu befreien.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

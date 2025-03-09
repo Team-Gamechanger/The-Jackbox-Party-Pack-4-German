@@ -22,7 +22,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
@@ -87,6 +87,7 @@
     {
       "s": "[category=host]Im Jahr 2010 füllte der britische Biomediziner James Gilpin seine eigene Single-Malt-Whisky-Marke ab, die mit <BLANK> von <BLANK> fermentiert wird.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

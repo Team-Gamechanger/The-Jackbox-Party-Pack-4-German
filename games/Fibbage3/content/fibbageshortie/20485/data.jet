@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "brennt,einen Esel küsst,schläft,Suppe kocht,einen Daumen nach unten zeigt,Sex hat,seine Zunge zu Jesus rausstreckt,eine Ziege schlachtet,Kekse bäckt,in der Nase bohrt,in seinen Schritt greift,seine Zähne putzt,Seifenblasen bläst,eine Kuh melkt,sich rasiert,ein Schwein malt,eine Steinschleuder abfeuert,Dame spielt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feliz Navidad",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Notdurft verrichtet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine katalanische Weihnachtskrippe enthält meist eine Figur namens „Caganer“, ein Bauer mit rotem Hut, der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "kackt,scheißt,kotet,stuhlt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seine Notdurft verrichtet",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine katalanische Weihnachtskrippe enthält meist eine Figur namens „Caganer“, ein Bauer mit rotem Hut, der <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

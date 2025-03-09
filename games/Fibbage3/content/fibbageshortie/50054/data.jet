@@ -17,32 +17,32 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasQuestionAudio"
     },
     {
       "t": "S",
-      "v": "BHs,Quietscheentchen,Topflappen,Schweine,Smartphones,Geldbündel,Mafiosi,Teebeutel,Katzenpfoten,Schwämme,QR-Codes,Toaster,Panzer,Pferdeäpfel,Zungen,Raufasertapeten,traurige Emojis,Fritteusen,Taxameter,schwarze Löcher",
+      "v": "eine Atombombe,sein linkes Ohr,seinen Geschmackssinn,Zeit mit seinem Enkel,eine abgelaufene Busfahrkarte,seinen Speichel,seine Haare,den Mond,die Venus,das Mittelmeer,das Lamm Gottes,ein Schwimmbad,ein Katapult,Haferflocken,seine Zehennägel,einen McDonald's-Gutschein,den Atem vom Papst,Bernd das Brot,sein Onlindedatingprofil,seinen Arbeitsplatz",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Italienischer Adel",
+      "v": "Online-Shopping",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Hoden",
+      "v": "seine Kirche",
       "n": "CorrectText"
     },
     {
       "t": "S",
-      "v": "Die alte italienische Adelsfamilie Colleoni hat ein eigentümliches Familienwappen, auf dem drei <BLANK> abgebildet sind.",
+      "v": "Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
       "n": "QuestionText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "Testikel",
+      "v": "eine Kirche,ein Gotteshaus,sein Gotteshaus,die Kirche,Kirche,ein Kloster,sein Kloster,das Kloster,ein Pfarrhaus,sein Pfarrhaus,das Pfarrhaus",
       "n": "AlternateSpellings"
     },
     {
@@ -80,13 +80,15 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Hoden",
+      "s": "[category=host]seine Kirche",
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die alte italienische Adelsfamilie Colleoni hat ein eigentümliches Familienwappen, auf dem drei <BLANK> abgebildet sind.",
+      "s": "[category=host]Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
       "t": "A",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

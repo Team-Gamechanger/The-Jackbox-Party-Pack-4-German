@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suppe,Eiscreme,Kartoffelbrei,eine Gemüsepfanne,Sahnemeerrettich,Salami,ein Donut,ein Kartoffelchip,ein Müsliriegel,Frischkäse,ein Bonbon,Pizza,eine Lammkeule,Makkaroni mit Käse,Hummus,ein Doritochip,Sauerkraut,ein Chicken Wing",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weltraum",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Apfelmus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das erste, was im Weltraum gegessen wurde, war <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "apfelbrei,apfelkompott,apfelmark",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Apfelmus",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das erste, was im Weltraum gegessen wurde, war <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

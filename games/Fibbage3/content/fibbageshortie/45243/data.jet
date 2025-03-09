@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Apfel essen,Knoblauch riechen,in den Vollmond schauen,einen Wurm berühren,Salz auf die Zunge streuen,rückwärts gehen,eine Zwiebel unter dem Kopfkissen platzieren,ein Ei balancieren,Kaffeesatz lesen,drei Mal husten,Basilikum kauen,in Essig baden,eine Münze schlucken,Meerrettich einreiben,einen Regenwurm zerteilen,Spinnennetze sammeln,Kerzenwachs tropfen,in Milch schwimmen,Brennnesseln pflücken,Mondwasser trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwanger!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Frosch Urin injizieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der britische Wissenschaftler Lancelot Hogben war der Erfinder eines seltsamen Schwangerschaftstests. Um festzustellen, ob man schwanger war, musste man nur <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Frosch mit Urin spritzen,Froschurin verabreichen,Urin in einen Frosch spritzen,einem Frosch Harn injizieren,Urin einem Frosch spritzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem Frosch Urin injizieren",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der britische Wissenschaftler Lancelot Hogben war der Erfinder eines seltsamen Schwangerschaftstests. Um festzustellen, ob man schwanger war, musste man nur <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

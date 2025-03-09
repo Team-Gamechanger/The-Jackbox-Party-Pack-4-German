@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gummibärchen|Fallschirme,Bananen|Telefon,Spaghetti|Antennen,Würstchen|Kompass,Käsescheiben|Sonnensegel,Salzstangen|Stromleiter,Papierflugzeuge|Satelliten,Mortadella|Datenspeicher,Radiergummis|Stoßdämpfer,Eiswürfel|Brillengläser,benutzte Socken|Mikrofone,Teebeutel|Sensoren,Kronkorken|Räder,Luftballons|Kondome,Tassen|Reifen,Essensreste|Bilderrahmen,alte CDs|Spiegel,alte Kassetten|Fußabtreter,Kassenzettel|Geschirrtücher,altes Dämmmaterial|Kissenfüllung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nobelscheiß",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tote Spinnen|Greifarm",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Forschende aus Preston haben im Jahr 2023 den IG-Nobelpreis für ihr kurioses Forschungsprojekt gewonnen, bei dem sie <BLANK> als <BLANK> benutzt haben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Spinnen|Greifarm,eine tote Spinne|Greifarm,tote Spinnen|Greifarme,Spinnen|Greifarme,tote Spinnen|Greifzange,tote Spinnen|Greifzange,Spinnen|Greifzange,eine tote Spinne|Greifzange,tote Spinnen|Greifzangen,Spinnen|Greifzangen,verstorbene Spinnen|Greifarm,gestorbene Spinnen|Greifarm,tote Spinnen|Greiferarm,Spinnen|Greiferarm,verstorbene Spinnen|Greiferam,gestorbene Spinnen|Greiferarm,verstorbene Spinnen|Greifzange,gestorbene Spinnen|Greifzange",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]tote Spinnen|Greifarm",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Forschende aus Preston haben im Jahr 2023 den IG-Nobelpreis für ihr kurioses Forschungsprojekt gewonnen, bei dem sie <BLANK> als <BLANK> benutzt haben.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

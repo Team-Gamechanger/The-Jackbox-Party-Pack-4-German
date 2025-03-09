@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Taschentuch,Kautabak,eine Rose,Münzen,ein Stück Schokolade,Fotos von sich selbst,eine Haarlocke,einen Ring,ein Bonbon,ein Lavendelkissen,eine Feder,einen Kieselstein,ein Stück Würfelzucker,eine Socke,ihren Haustürschlüssel,einen Glücksbringer,Murmeln,ein Stoffherz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Achsel-Liebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Apfelstück",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im 19. Jahrhundert gab es in Österreich einen Brauch, bei dem alleinstehende Frauen während eines Tanzes <BLANK> in ihrer Achselhöhle aufbewahrten und anschließend einem Mann schenkten, der es ihnen angetan hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Apfel,Apfelstück,Apfelschnitz,einen Apfelschnitz,Äpfel,Äpfelstücke,Apfelschnitze,eine Apfelscheibe,ein Stück Apfel\n",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Apfelstück",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im 19. Jahrhundert gab es in Österreich einen Brauch, bei dem alleinstehende Frauen während eines Tanzes <BLANK> in ihrer Achselhöhle aufbewahrten und anschließend einem Mann schenkten, der es ihnen angetan hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

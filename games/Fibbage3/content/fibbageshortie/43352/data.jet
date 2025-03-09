@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einen Berg",
       "t": "A",
-      "v": "561088_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der exzentrische Pekinger Zhang Biqing war fest entschlossen, dass seinem Wohngebäude etwas wichtiges fehlte und baute deshalb auf sein Dach <BLANK>.",
       "t": "A",
-      "v": "561085_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Toilette|eines Fernsehers,ein Baby|eines Dosenöffners,einen Dildo|eines Spielzeugschwertes,eine PS4|einer Milchpumpe,eine Granate|eines Nintendo DS,eine Katze|einen Goldfisch,ein Pony|eine Schlange,einen lebenden Pinguin|eines Kühlschranks,ein Auto|eines Fahrrads,ein Einhornkostüm|eines Hochzeitskleides,eine Statue von Donald Trump|eines Weihnachtsbaumes,ein Auto|eines Kinderwagens,Zyanidpillen|Nasenspray,ein Teleskop|einer Bratpfanne,einen Sarg|Hustensaft,ein Bierfass|einer Sexschaukel,Dynamit|Play-Doh,einen Kronleuchter|einer Taschenlampe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Honest Mistakes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Sturmgewehr|eines Spielzeugflugzeuges",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Während des Weihnachtsgeschäfts 2016 überraschte <i>UPS</i> ein New Yorker Ehepaar, als das Unternehmen versehentlich <BLANK> statt <BLANK> lieferte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Sturmgewehr|eines Spielzeugflugzeugs,ein Sturmgewehr|ein Spielzeugflugzeug,ein Gewehr|eines Spielzeugflugzeugs,ein Gewehr|eines Spielzeugflugzeuges,ein Gewehr|ein Spielzeugflugzeug,eine Waffe|eines Spielzeugflugzeuges,eine Waffe|eines Spielzeugflugzeugs,eine Waffe|ein Spielzeugflugzeug,ein Maschinengewehr|eines Spielzeugflugzeuges,ein Maschinengewehr|eines Spielzeugflugzeugs,ein Maschinengewehr|ein Spielzeugflugzeug",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Sturmgewehr|eines Spielzeugflugzeuges",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Während des Weihnachtsgeschäfts 2016 überraschte <i>UPS</i> ein New Yorker Ehepaar, als das Unternehmen versehentlich <BLANK> statt <BLANK> lieferte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

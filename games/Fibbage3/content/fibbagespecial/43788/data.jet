@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "569400_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -93,7 +93,7 @@
     {
       "s": "[category=host]Das deutsche Sprichwort „Alles zu seiner Zeit“ hat ein ähnliches russisches Pendant: „Jedes <BLANK> hat seine Zeit“.",
       "t": "A",
-      "v": "569395_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

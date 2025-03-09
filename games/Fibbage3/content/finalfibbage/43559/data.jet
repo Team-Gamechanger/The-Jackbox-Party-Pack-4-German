@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im Jahr 2013 musste das Postamt von San Diego die Menschen an ein Gesetz erinnern, nach dem man zwar <BLANK>, aber nicht <BLANK> verschicken darf.",
       "t": "A",
-      "v": "565211_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

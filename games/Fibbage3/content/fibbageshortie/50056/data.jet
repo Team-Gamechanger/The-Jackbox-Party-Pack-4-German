@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Gartenschlauch,einer Fernbedienung,einem Staubsauger,einem Föhn,einem Bügeleisen,einem Toaster,einer Klobürste,einer Wärmflasche,einem Schneebesen,einem Lockenstab,einem Waffeleisen,einem Spielzeug-Lichtschwert,einem Sodastream,einem Göffel,einem Dosenöffner,einer Heißklebepistole,einem Laubbläser,einem Dosentelefon",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Überfall!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Pürierstab",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Anfang 2019 versuchte eine Frau im nordrhein-westfälischen Hamm mit <BLANK> bewaffnet eine Spielhalle zu überfallen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Stabmixer,einem Stabmixer,Pürierstab,Blender,einem Blender,einem Messerstab,Messerstab,einem Mixstab,Mixstab",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem Pürierstab",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Anfang 2019 versuchte eine Frau im nordrhein-westfälischen Hamm mit <BLANK> bewaffnet eine Spielhalle zu überfallen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

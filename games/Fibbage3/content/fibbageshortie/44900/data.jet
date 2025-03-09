@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Ratten sein Geld fraßen",
       "t": "A",
-      "v": "600431_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der kolumbianische Drogenboss Pablo Escobar verlor schätzungsweise 2 Milliarden US-Dollar durch <BLANK>.",
       "t": "A",
-      "v": "600428_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

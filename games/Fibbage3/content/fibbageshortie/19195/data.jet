@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Der japanische Getränkehersteller <i>B&H Lifes</i> hat einen alkoholfreien Wein speziell für <BLANK> hergestellt.",
       "t": "A",
-      "v": "382628_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blindenschrift lesen,Gewichte heben,den Tisch decken,malen,Candy Crush spielen,einen Zauberwürfel lösen,putzen,einen Joint rollen,Spaghetti kochen,eine Waffe reinigen,Gitarre spielen,baden,urinieren,sprechen,jonglieren,Rasenmähen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nase",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auf einer Tastatur tippen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Mohammed Khurshid Hussain wurde 2014 ins <i>Guinness-Buch der Rekorde</i> aufgenommen, weil er besonders schnell mit der Nase <BLANK> kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "schreiben,tippen,auf der Tastatur tippen,Tastatur tippen,auf der Tastatur schreiben,auf einer Tastatur schreiben,mit einer Tastatur tippen,mit einer Tastatur schreiben,Tastatur schreiben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]auf einer Tastatur tippen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Mohammed Khurshid Hussain wurde 2014 ins <i>Guinness-Buch der Rekorde</i> aufgenommen, weil er besonders schnell mit der Nase <BLANK> kann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

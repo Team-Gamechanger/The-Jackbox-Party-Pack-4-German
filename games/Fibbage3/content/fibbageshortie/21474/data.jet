@@ -82,13 +82,13 @@
     {
       "s": "[category=host]High Heels",
       "t": "A",
-      "v": "406314_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, das <BLANK> für Babys verkauft.",
       "t": "A",
-      "v": "406311_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

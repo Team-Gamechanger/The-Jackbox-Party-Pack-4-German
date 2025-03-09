@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Ehebruch",
       "t": "A",
-      "v": "383684_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre langes Verbot von <BLANK> aufgehoben hatte.",
       "t": "A",
-      "v": "383681_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

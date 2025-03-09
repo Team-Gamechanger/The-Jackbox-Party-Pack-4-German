@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Totengräber",
       "t": "A",
-      "v": "583145_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die Brüder Ladislav und Csaba setzten sich in der Slowakei gegen 10 andere Teams durch und wurden so die schnellsten <BLANK> Mitteleuropas.",
       "t": "A",
-      "v": "583142_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

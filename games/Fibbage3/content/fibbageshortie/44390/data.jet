@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einen Vulkan",
       "t": "A",
-      "v": "586984_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der 20. Februar 1943 war ein schicksalhafter Tag für den mexikanischen Bauern Dionisio Pulido. Er warf einen Blick auf sein Maisfeld und war schockiert, als er <BLANK> erblickte.",
       "t": "A",
-      "v": "586981_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

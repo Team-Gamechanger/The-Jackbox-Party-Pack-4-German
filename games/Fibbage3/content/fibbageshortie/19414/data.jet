@@ -82,13 +82,13 @@
     {
       "s": "[category=host]blaue Haut",
       "t": "A",
-      "v": "385256_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die Familie Fugate aus Kentucky hatte ein besonderes Merkmal, das wahrscheinlich durch Inzucht verbreitet wurde: Sie hatten alle <BLANK>.",
       "t": "A",
-      "v": "385253_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

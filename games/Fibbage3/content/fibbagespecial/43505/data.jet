@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563962_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -94,7 +94,7 @@
     {
       "s": "[category=host]Dieses schöne Kunstwerk von Kikukawa Eizan stammt aus der Serie <i>Die zwölf Stunden <BLANK></i>.",
       "t": "A",
-      "v": "563957_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

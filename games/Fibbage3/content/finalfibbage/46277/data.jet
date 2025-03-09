@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Helene Adelaide Shelby hat einen ziemlich innovativen Apparat entwickelt, um Verbrecher dazu zu bringen, ihre Taten zu gestehen. Es war im Wesentlichen <BLANK> mit <BLANK>.",
       "t": "A",
-      "v": "640257_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

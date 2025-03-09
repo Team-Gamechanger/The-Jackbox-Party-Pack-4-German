@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Steuern zu erlassen,Bier zu brauen,Schiffe zu kapern,Sklaven zu befreien,Könige zu ernennen,Feiertage festzulegen,das Wetter zu kontrollieren,Religionen zu gründen,Namen zu ändern,Musik zu zensieren,Preise festzulegen,Duelle zu führen,Bildung abzuschaffen,Straßen zu benennen,Tiere zu domestizieren,Berufe zu verbieten,Wahlen auszusetzen,Militär aufzulösen,Grenzen zu verschieben,Währungen einzuführen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gesetze aus Übersee",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Piraten anzuheuern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Artikel 1, Abschnitt 8, Klausel 11 der Verfassung der Vereinigten Staaten von Amerika gibt dem Kongress die Befugnis, Kriege zu erklären. Überraschenderweise verleiht er ihm auch die Macht, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Piraten anheuern,Pirat anheuern,Seeräuber anheuern,Seeräuber anwerben,Piraten anwerben,Freibeuter anheuern,Freibeuter anwerben,Korsaren anheuern,Korsaren anwerben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Piraten anzuheuern",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Artikel 1, Abschnitt 8, Klausel 11 der Verfassung der Vereinigten Staaten von Amerika gibt dem Kongress die Befugnis, Kriege zu erklären. Überraschenderweise verleiht er ihm auch die Macht, <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

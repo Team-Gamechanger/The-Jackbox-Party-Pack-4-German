@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Strohmännern,Supermodels,Taschentuchverpackungen,Briefkästen,Schafen,Großmüttern,Fenstern,Zelten,Puppen,Socken,Geldautomaten,Pferden,Hunden,Kaffeekannen,Ziegen,Furbys,Geistern,Furrys,Kaninchen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erregung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Autos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Edward Smith aus Yelm erregte Medienaufmerksamkeit, als er behauptete, mit über 1.000 <BLANK> Sex gehabt zu haben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Automobilen,fahrzeugen,Kraftfahrzeugen,PKWs,Auto,SUVs,Kfz",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Autos",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Edward Smith aus Yelm erregte Medienaufmerksamkeit, als er behauptete, mit über 1.000 <BLANK> Sex gehabt zu haben.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

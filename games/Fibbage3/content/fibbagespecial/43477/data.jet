@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563235_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,12 @@
     {
       "s": "[category=host]Grübchen",
       "t": "A",
-      "v": "563233_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Bei diesem im Jahr 1923 von Evangeline I. Gilbert angemeldeten Patent handelt es sich um den <BLANK>-Erzeuger.",
       "t": "A",
-      "v": "563230_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

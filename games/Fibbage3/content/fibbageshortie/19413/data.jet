@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einer Bauchrednerpuppe",
       "t": "A",
-      "v": "385232_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen von <BLANK> im Dienst zu erhalten.",
       "t": "A",
-      "v": "385229_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Zwillinge",
       "t": "A",
-      "v": "600611_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Inspiriert von einem surrealen Film eröffnete der russische Gastronom Alexei Khodorkovsky eine Bar, in der ausschließlich <BLANK> arbeiten.",
       "t": "A",
-      "v": "600608_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

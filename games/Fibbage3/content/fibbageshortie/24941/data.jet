@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "menschlichen Haaren,Gummibändern,Spinnenseide,Getränkedosen,alten Handys,Grillen,Einkaufstüten,Bienenstöcken,Büchern,Trockeneis,Fingernägeln,Bierflaschen,Hühnerknochen,alten Gameboys,gebrauchten Geburtstagskarten,DVDs,Socken,Zucker",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>Ford</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tomaten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Juni 2014 kündigte <i>Ford</i> an, dass sie versuchen würden, neue Autoteile aus <BLANK> zu entwickeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tomate,einer Tomate,Tomatten,Tomaten Plastik, einer Tomatten,Tomatte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tomaten",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Juni 2014 kündigte <i>Ford</i> an, dass sie versuchen würden, neue Autoteile aus <BLANK> zu entwickeln.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

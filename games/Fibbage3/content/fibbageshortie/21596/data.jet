@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Pferdefleisch esst",
       "t": "A",
-      "v": "409003_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Betreibt ihr „Hippophagie“? Ja, für den Fall, dass ihr <BLANK>.",
       "t": "A",
-      "v": "409000_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hinterwäldler,Gamer,Zocker,Leute die Furzen,Fallschirmspringer,Fans von Batman,Cosplayer,Snowboarder,Nudisten,Veganer,Großwildjäger,Briefträger,Tierpfleger,Jockeys,Stenografen,Krankenschwestern,Golfspieler,Floristen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Psychologie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Metal-Fans",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Einer kuriosen Studie der US-amerikanischen Humboldt-Universität folgend, gehören <BLANK> zu der Gruppe von Menschen, die mit ihrem Leben am zufriedensten sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Metler,Metaler,Rock Fans,80er Metaler,Metal Fans,Fans von Heavy Metal,Heavy-Metal-Fans,Heavy Metal Fans",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Metal-Fans",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Einer kuriosen Studie der US-amerikanischen Humboldt-Universität folgend, gehören <BLANK> zu der Gruppe von Menschen, die mit ihrem Leben am zufriedensten sind.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

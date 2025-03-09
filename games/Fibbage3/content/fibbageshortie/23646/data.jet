@@ -82,13 +82,13 @@
     {
       "s": "[category=host]in Delfinblut gebadet",
       "t": "A",
-      "v": "415915_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Aus dem Glauben heraus, dass er dadurch jung bleiben würde, hat der burmesische Diktator Ne Win manchmal <BLANK>.",
       "t": "A",
-      "v": "415912_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

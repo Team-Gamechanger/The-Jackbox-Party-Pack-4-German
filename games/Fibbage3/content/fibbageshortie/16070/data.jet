@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Plastikflaschen,Argentinien,ihren Mund,den Ozean,Gruppen,Gedanken,die Wüste,die Waschmaschine,den Pool,ihre Gärten,Höhlen,ein Waschbecken,ihre Betten,ihre Autotanks,die Hose,Becher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Regenwald",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Dusche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 startete eine brasilianische Umweltschutzorganisation eine Kampagne, die Menschen dazu aufrief, in <BLANK> zu pinkeln, um den Regenwald zu retten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "duschen,die Badewanne,die Duschkabine,beim Duschen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]die Dusche",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2009 startete eine brasilianische Umweltschutzorganisation eine Kampagne, die Menschen dazu aufrief, in <BLANK> zu pinkeln, um den Regenwald zu retten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aufs Klo gehen,ein Buch lesen,singen,beten,malen,nochmal nackt sind,Jodeln,Sex hatten,meditieren,kräftig rülpsen,ihre Sünden bekennen,jonglieren,weinen,backen,einander umarmen,baden,Alkohol trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alexander der Große",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rasiert sind",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Alexander der Große soll von seinen Soldaten verlangt haben, dass sie vor der Schlacht <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sich rasiert haben,rasieren,ihren Bart abrasieren,ihre Bärte abrasieren,ihren Bart trimmen,ihre Bärte trimmen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]rasiert sind",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alexander der Große soll von seinen Soldaten verlangt haben, dass sie vor der Schlacht <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

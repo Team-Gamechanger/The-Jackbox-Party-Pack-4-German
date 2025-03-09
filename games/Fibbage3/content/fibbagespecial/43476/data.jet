@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563210_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]Toiletten",
       "t": "A",
-      "v": "563208_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Diese Zeichnung wurde 1877 von Nanette S. Emerson-French für eine zum Patent angemeldete Erfindung eingereicht: die <BLANK>-Maske.",
       "t": "A",
-      "v": "563205_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

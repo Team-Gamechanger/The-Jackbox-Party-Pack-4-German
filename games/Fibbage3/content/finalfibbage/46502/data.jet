@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im April 2017 fand ein Bauunternehmer außerhalb der kleinen australischen Stadt Kuranda die Überreste von <BLANK> in <BLANK>.",
       "t": "A",
-      "v": "645369_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

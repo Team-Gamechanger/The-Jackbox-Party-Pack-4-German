@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hat, weil er ihm angeblich <BLANK> gestohlen hatte.",
       "t": "A",
-      "v": "372689_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

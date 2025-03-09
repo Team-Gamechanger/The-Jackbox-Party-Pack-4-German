@@ -1,1 +1,89 @@
-{"fields":[{"t":"B","v":"false","n":"HasBumperAudio"},{"t":"B","v":"false","n":"HasKeywordAudio"},{"t":"B","v":"false","n":"HasBumperType"},{"t":"B","v":"false","n":"HasCorrectAudio"},{"t":"B","v":"true","n":"HasQuestionAudio"},{"t":"S","v":"einen Esel reiten,mein beschissener Babysitter,einen Mann töten,Geburtstagsparty,Sesamstrasse,mein erstes Bad,einen Käfer essen","n":"Suggestions"},{"t":"S","v":"Eines deiner frühesten Erinnerungen ist <BLANK>.","n":"PersonalQuestionText"},{"t":"S","v":"first","n":"Category"},{"t":"S","v":"","n":"CorrectText"},{"t":"S","v":"None","n":"BumperType"},{"t":"S","v":"Eines von <PLAYER>s frühesten Erinnerungen ist <BLANK>.","n":"QuestionText"},{"t":"S","v":"","n":"SocialMediaDate"},{"t":"S","v":"","n":"KeywordResponse"},{"t":"S","v":"","n":"SocialMediaName"},{"t":"S","v":"","n":"AlternateSpellings"},{"s":"[category=host]","t":"A","n":"KeywordResponseAudio"},{"s":"[category=host]","t":"A","n":"BumperAudio"},{"t":"G","n":"Pic"},{"s":"[category=host]","t":"A","n":"CorrectAudio"},{"s":"[category=host]One of this player\u2019s earliest memories is of <BLANK>.","t":"A","v":"360158_0","n":"QuestionAudio"}]}
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Esel reiten,mein beschissener Babysitter,einen Mann töten,Geburtstagsparty,Sesamstrasse,mein erstes Bad,einen Käfer essen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Was ist eine deiner frühsten Erinnerungen?",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eine der frühesten Erinnerungen von <PLAYER> ist <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine der frühesten Erinnerungen von <PLAYER> ist <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

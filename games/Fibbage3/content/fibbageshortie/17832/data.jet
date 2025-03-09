@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Ein amerikanisches Onlinecasino zahlte auf eBay 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "v": "Ein amerikanisches Onlinecasino zahlte auf <i>eBay</i> 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Atem",
       "t": "A",
-      "v": "372908_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein amerikanisches Onlinecasino zahlte auf eBay 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "s": "[category=host]Ein amerikanisches Onlinecasino zahlte auf <i>eBay</i> 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
       "t": "A",
-      "v": "372905_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

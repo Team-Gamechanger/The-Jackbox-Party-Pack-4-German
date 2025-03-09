@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Flaschen Eierlikör|Babynahrung,Bücher|iPads,Rollkragenpullover|Strampler,schwarze Socken|weiße Socken,Lesebrillen|Sonnenbrillen,Hüftprotektoren|Kinderhelme,Rollatoren|Skateboards,Tablettendosen|Brotdosen,Bettpfannen|Toiletten,Stuhlweichmacher|Stühle,Zahnprothesen|Kinderzahnbürsten,Anleitungen für Blu-Ray-Player|Blu-Ray-Player,Golfschläger|Skateboards,Heizdecken|Kinderdecken,Viagra-Pillen|M&Ms,CDs|MP3s,Urnen|Kinderbetten,Treppenlifte|Dreiräder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aging",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Erwachsenenwindeln|Babywindeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Aufgrund seiner überalterten Bevölkerung werden in Japan mehr <BLANK> als <BLANK> verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Erwachsenenwindeln|Babywindeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Aufgrund seiner überalterten Bevölkerung werden in Japan mehr <BLANK> als <BLANK> verkauft.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

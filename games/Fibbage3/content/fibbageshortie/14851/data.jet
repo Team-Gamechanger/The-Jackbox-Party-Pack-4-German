@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Särge",
       "t": "A",
-      "v": "329011_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 1908 erfand und patentierte Georg Willems ein Periskop für <BLANK>.",
       "t": "A",
-      "v": "329008_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

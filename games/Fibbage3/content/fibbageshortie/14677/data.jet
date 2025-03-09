@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sein Schwert,seinen Kolostomiebeutel,seine Schrotflinte,sein Einhornkuscheltier,sein Bierfass,seinen Pelzmantel,sein Kind,seine Donuts,sein Auto,seinen Glücksbringer,seine Kamera,sein Tretrad,sein Abendessen,seine Handcreme,seine Oma,seinen schwulen Freund,seinen Baseballschläger,seinen Rasenmäher,seine Frau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haftgründe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Katze",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 wurde ein Mann aus Florida verhaftet, da er die Polizei rief, als er <BLANK> nicht in einen Stripclub mitnehmen durfte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "seine muschi,sein kätzchen,seinen Kater,die Katze,eine Katze,einen Kater,den Kater",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seine Katze",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2012 wurde ein Mann aus Florida verhaftet, da er die Polizei rief, als er <BLANK> nicht in einen Stripclub mitnehmen durfte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Müll",
       "t": "A",
-      "v": "564896_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem an einem College studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
       "t": "A",
-      "v": "564893_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

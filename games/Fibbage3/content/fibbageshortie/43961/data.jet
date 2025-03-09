@@ -82,13 +82,13 @@
     {
       "s": "[category=host]zu heiraten",
       "t": "A",
-      "v": "574352_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Die im Russland des 10. Jahrhunderts lebende Prinzessin Olga hatte den üblen Ruf, jeden zu töten, der ihr nahelegte, <BLANK>.",
       "t": "A",
-      "v": "574349_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

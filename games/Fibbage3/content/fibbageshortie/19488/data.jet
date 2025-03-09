@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In einem Werbegag in 1998 kündigte Burger King an, dass ihre Whopper jetzt <BLANK> seien.",
+      "v": "In einem Werbegag in 1998 kündigte <i>Burger King</i> an, dass ihre Whopper jetzt <BLANK> seien.",
       "n": "QuestionText"
     },
     {
@@ -85,9 +85,9 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In einem Werbegag in 1998 kündigte Burger King an, dass ihre Whopper jetzt <BLANK> seien.",
+      "s": "[category=host]In einem Werbegag in 1998 kündigte <i>Burger King</i> an, dass ihre Whopper jetzt <BLANK> seien.",
       "t": "A",
-      "v": "387149_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

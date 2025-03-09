@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Münzen,Quietscheenten,Bierkrüge,Schuhe,Autoreifen,Eheringe,Schlüsselanhänger,Totenköpfe,Plastikflaschen,Kugelschreiber,Kronkorken,Fischskelette,antike Statuen,Nessie-Stofftiere,Pappteller,Schnorchel,Zähne,Schnuller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Loch Ness",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Golfbälle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 entdeckten Wissenschaftler bei der Erkundung von Loch Ness per U-Boot unerwartet hunderttausende <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Golfball,Golf-Bälle,Golf Bälle,Golfkugeln,Golf-Kugeln,Golf Kugeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Golfbälle",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2009 entdeckten Wissenschaftler bei der Erkundung von Loch Ness per U-Boot unerwartet hunderttausende <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

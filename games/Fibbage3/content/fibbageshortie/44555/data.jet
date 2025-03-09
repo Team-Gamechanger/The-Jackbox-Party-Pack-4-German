@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Jo-Jo",
       "t": "A",
-      "v": "591047_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Wurden Kinder des antiken Griechenlands erwachsen, erwartete man von ihnen, dass sie die Götter erfreuten, indem sie <BLANK> auf einen Altar legten.",
       "t": "A",
-      "v": "591044_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

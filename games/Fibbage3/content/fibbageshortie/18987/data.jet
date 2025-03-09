@@ -82,13 +82,13 @@
     {
       "s": "[category=host]seiner Windel",
       "t": "A",
-      "v": "381188_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]2008 wurde ein Mann aus New Orleans verhaftet, als die Polizei 200 Gramm Heroin in <BLANK> entdeckte.",
       "t": "A",
-      "v": "381185_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

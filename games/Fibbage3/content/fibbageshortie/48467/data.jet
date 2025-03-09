@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schottland: Nüchtern sind wir nie,Hauptsache nicht England,Dudelsäcke inklusive,Kilts für jedermann,Regen als Lifestyle,Highlands und Hangover,Mehr Schafe als Menschen,Schlösser ohne Ende,Whisky ist Kultur,Haggis schmeckt anders,Nebel mit Charakter,Wo Männer Röcke tragen,Bei uns spukt's garantiert,Besser als Irland,Nessie grüßt herzlich,Unser Wetter ist speziell,Fast wie England,Kälter als gedacht,Einfach anders hier,Immer noch unabhängig",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schottische Slogans",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Willkommen in Schottland",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 gab Schottland 125.000 Pfund für eine neue Tourismus-Werbekampagne aus. Das Ergebnis war der verlockende Slogan: „<BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Welcome to Scotland,Scotland welcomes you,Herzlich willkommen in Schottland",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Willkommen in Schottland",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2007 gab Schottland 125.000 Pfund für eine neue Tourismus-Werbekampagne aus. Das Ergebnis war der verlockende Slogan: „<BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]einen Geburtstagsgruß",
       "t": "A",
-      "v": "401108_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Wer in Kanada wohnt und älter als 65 Jahre ist, muss den Premierminister mindestens sechs Wochen im Voraus informieren, wenn man <BLANK> möchte.",
       "t": "A",
-      "v": "401105_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

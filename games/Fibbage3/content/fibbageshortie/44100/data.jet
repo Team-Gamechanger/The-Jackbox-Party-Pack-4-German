@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Sudokus machte",
       "t": "A",
-      "v": "578437_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Dezember 2015 berichteten Forscher der Universität München über den seltsamen Fall eines Studenten, der jedes Mal Anfälle bekam, wenn er <BLANK>.",
       "t": "A",
-      "v": "578434_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

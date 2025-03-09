@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Dynamit",
       "t": "A",
-      "v": "320500_2",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]In der amerikanischen Stadt Rogers in Arkansas wurde ein Mann namens Johnny Lee Nichols verhaftet, weil er von Tür zu Tür ging und anbot, <BLANK> gegen Sex zu tauschen.",
       "t": "A",
-      "v": "320497_2",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

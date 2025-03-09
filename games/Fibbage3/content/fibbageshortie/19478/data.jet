@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gummibändern,Brusthaaren,Spaghetti,Bananenschalen,einem Buchhalter,Essstäbchen,Zahnseide,Teebeuteln,dem Neffen,Büroklammern,Stachelschweinen,Alkoholikern,Regenwürmern,Nasenhaaren,Gefängnisinsassen,Rennmäusen,Politikern,Katzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strickkunst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hundehaaren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Kendall Corlius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hundehaar,Hundewolle,Hundefell",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hundehaaren",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kendall Corlius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

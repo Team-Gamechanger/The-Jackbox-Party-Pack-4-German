@@ -82,13 +82,13 @@
     {
       "s": "[category=host]die Treppe herunterfallen",
       "t": "A",
-      "v": "565264_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Schon mal etwas von „Klimakophilie“ gehört? Dabei fühlen Betroffene sexuelle Befriedigung, wenn sie <BLANK>.",
       "t": "A",
-      "v": "565261_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

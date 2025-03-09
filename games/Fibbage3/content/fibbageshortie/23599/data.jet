@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,12 +82,13 @@
     {
       "s": "[category=host]Pferde",
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens „Weitsprung für <BLANK>“.",
       "t": "A",
-      "v": "414760_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

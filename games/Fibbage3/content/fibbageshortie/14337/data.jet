@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Kokain",
       "t": "A",
-      "v": "318708_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Der Superschurke Snowflame aus dem DC-Universum erhielt seine Kräfte durch <BLANK>.",
       "t": "A",
-      "v": "318705_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

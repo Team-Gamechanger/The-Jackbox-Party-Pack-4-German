@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Häusern,Hüten,Schutzbrillen,Rohren,Schuhen,Särgen,Regenschirmen,Schlitten,Hockeyschlägern,Uhren,Fahrrädern,Windeln,Bumerangs,Spazierstöcken,Betten,Toiletten,Sonnenbrillen,Ampeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Winzig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin-Pullovern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Alfie Date, ein 109-jähriger Australier, verbrachte seine Freizeit mit der Herstellung von winzigen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pinguinpullovern,pinguin pullis,pinguinpullis,pinguin Klamotten,pinguinklamotten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pinguin-Pullovern",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alfie Date, ein 109-jähriger Australier, verbrachte seine Freizeit mit der Herstellung von winzigen <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

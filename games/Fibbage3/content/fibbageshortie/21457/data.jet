@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in den Anden überleben,ein Reh füttern,das Haus tapezieren,in Babysprache sprechen,Französisch lernen,Filme anschauen,ein Auto reparieren,ins Weltall fliegen,einen Babyschimpansen großziehen,ein Flugzeug fliegen,Monopoly spielen,nur blaue Sachen verwenden,eine Maus jagen,ein Wochenende im Dschungel verbringen,ein Bootcamp durchstehen,für ihre ganze Familie kochen,einen Roboter bauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Therapeut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "IKEA-Möbel zusammenbauen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die bahnbrechende Therapeutin Dr. Ramani Durvasula lässt Paare gemeinsam <BLANK>, um ihre Kommunikationsfähigkeit zu verbessern.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "IKEA-Möbel aufbauen,IKEA-Möbel bauen,Möbel zusammenbauen,Möbel aufbauen,Möbel bauen,Ikea Möbel aufbauen,Ikea Möbel zusammenbauen,Ikea Möbel bauen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]IKEA-Möbel zusammenbauen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die bahnbrechende Therapeutin Dr. Ramani Durvasula lässt Paare gemeinsam <BLANK>, um ihre Kommunikationsfähigkeit zu verbessern.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

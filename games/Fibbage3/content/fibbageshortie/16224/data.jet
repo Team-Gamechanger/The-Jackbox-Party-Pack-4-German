@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Muffins,Oma,verbranntem Haar,Pommes,Gefängnis,Hummus,verfaulten Eiern,Whiskey,totem Fisch,alten Schuhen,frischen Blumen,Zitrone,Orange,Schwefel,Stinktier,Sumpfwasser,Furz,Kuhmist,Lakritze",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rückruf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzenurin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 startete die Firma <i>Dell</i> eine Rückrufaktion, nachdem sich Kunden beschwert hatten, dass ihre Notebooks nach <BLANK> rochen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "katzen urin,katzenpisse,katzen pisse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Katzenurin",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2013 startete die Firma <i>Dell</i> eine Rückrufaktion, nachdem sich Kunden beschwert hatten, dass ihre Notebooks nach <BLANK> rochen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

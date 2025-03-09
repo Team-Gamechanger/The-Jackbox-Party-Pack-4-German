@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fliegen kann,hungrig wird,Wasser trinken muss,zusammenbricht,stirbt,sich paart,kacken muss,erbrechen muss,sich in einen Geist verwandelt,den Besitzer anschreit,furzt,schlafen muss,verrückt wird, etwas töten will,ausrutscht,Kopfschmerzen kriegt,aggressiv wird,verschwindet",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einheit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pinkeln muss",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Finnen haben einen Längenmaß namens “Poronkusema”, das angibt, wie weit ein Rentier ungefähr laufen kann, bevor es <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "urinieren muss,pissen muss,Wasserlassen muss,Wasser lassen muss,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]pinkeln muss",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Finnen haben einen Längenmaß namens “Poronkusema”, das angibt, wie weit ein Rentier ungefähr laufen kann, bevor es <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ratschläge,Tritte,Ritte,Kartenspiele,Witze,Massagen,Gedichte,Kochkurse,Lob,Goldmünzen,Träume,Karikaturen,Tanzstunden,Ruhm,Küsse,Rätsel,Gold,Feuer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Endlos",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Alkohol",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der nordischen Mythologie zufolge erhalten die Krieger in Valhalla von einer Ziege namens Heidrun <BLANK> ohne Ende.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Met,Bier,Fusel,Ale,Schnaps,Honigwein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Alkohol",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der nordischen Mythologie zufolge erhalten die Krieger in Valhalla von einer Ziege namens Heidrun <BLANK> ohne Ende.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

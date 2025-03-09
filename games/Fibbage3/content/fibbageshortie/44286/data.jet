@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Pinguin",
       "t": "A",
-      "v": "583835_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2005 wurde in Edinburgh eine Statue zu Ehren von Sir Nils Olav errichtet, dem ersten Mitglied der norwegischen Königsgarde, das <BLANK> war.",
       "t": "A",
-      "v": "583832_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

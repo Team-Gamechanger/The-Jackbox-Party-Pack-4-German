@@ -87,7 +87,7 @@
     {
       "s": "[category=host]In den 1980ern wählte die texanische Ortschaft Lajitas „Clay Henry“ zum Bürgermeister. Ungewöhnlicherweise handelte es sich bei Henry um <BLANK> mit <BLANK>.",
       "t": "A",
-      "v": "590499_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

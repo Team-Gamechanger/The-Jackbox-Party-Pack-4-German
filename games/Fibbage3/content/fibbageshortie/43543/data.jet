@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Den Entschuldigungsbrief",
       "t": "A",
-      "v": "564846_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Nick Lutz, ein amerikanischer Student, ging im Jahr 2017 viral, nachdem er öffentlich <BLANK> seiner Ex-Freundin benotet hatte.",
       "t": "A",
-      "v": "564843_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

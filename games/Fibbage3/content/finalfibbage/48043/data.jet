@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "stinken|Fürze,verliert ihr|Milchzähne,biegen sich|Finger,schwitzen|Füße,funktionieren|Ellbogen,wachsen|Fingernägel,hasst ihr|eigene Stimme,liebt ihr|Mutter,schließen sich|Augen,tränen|Augen,spürt ihr|Müdigkeit,wachsen|Haare,schlafen|Gehirnzellen,bluten|Wunden,vergesst ihr|Passwörter,funktionieren|Stimmen,spürt ihr|Zunge,kennt ihr|Geschwister",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Genetik",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "stinken|Achseln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr zu den zwei Prozent der Menschen gehört, die das Gen ABCC11 tragen, dann <BLANK> eure <BLANK> nicht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "riechen|Achseln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]stinken|Achseln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wenn ihr zu den zwei Prozent der Menschen gehört, die das Gen ABCC11 tragen, dann <BLANK> eure <BLANK> nicht.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

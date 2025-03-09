@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anschreien,waschen,weiterverkaufen,werfen,infragestellen,beerdigen,während des Schlafens verwenden,in Kontakt mit Sauerstoff bringen,zu sehr genießen,rasieren,kritisieren,aufschrauben,tauschen,kitzeln,laden,im Flugzeug benutzen,mit Kopfhörern benutzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>iPod</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "essen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Kleingedruckten des <i>iPod Shuffle</i> befand sich folgender Hinweis: „Den iPod Shuffle nicht <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fressen,verspeisen,verzehren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]essen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Kleingedruckten des <i>iPod Shuffle</i> befand sich folgender Hinweis: „Den iPod Shuffle nicht <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

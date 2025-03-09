@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Star Trek",
+      "v": "<i>Star Trek</i>",
       "n": "Category"
     },
     {
@@ -82,13 +82,13 @@
     {
       "s": "[category=host]die Mondlandung",
       "t": "A",
-      "v": "574538_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]15 Menschen in Ottawa haben sich bei ihrem lokalen Fernsehsender beschwert, als eine Folge <i>Star Trek</i> durch <BLANK> unterbrochen wurde.",
       "t": "A",
-      "v": "574535_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

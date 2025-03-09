@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zwei Kinder im Kostüm,zusammengeklebte Rennmäuse,ein langhaariges Pferd,einen Staubsauger,einen Teppich,eine Eisskulptur,eine Kuh,eine Videoprojektion,eine Katze,eine Vogelscheuche,ein totes Schwein,einen Spiegel,einen Pappaufsteller,einen Leinensack,gelbe Schlafanzüge,eine Hauskatze,eine Blondine,eine Ziege,einen Wolf,einen Bär",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Löwe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Hund",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 versuchte ein chinesischer Zoo, <BLANK> als afrikanischen Löwen auszugeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "hund,einen grossen hund,den Hund,Hunde,nen Hund,einen großen Hund",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Hund",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2013 versuchte ein chinesischer Zoo, <BLANK> als afrikanischen Löwen auszugeben.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

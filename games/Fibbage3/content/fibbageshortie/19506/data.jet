@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gold,ein Haus,einen Hahn,eine Klimaanlage,eine Frau,Bier,einen Diamanten,eine persönliche Assistentin,ein Auto,eine Massage,Schmuck,Schuhe,Geld,Konzerttickets,eine eigene Radiosendung,einen Fernseher,ein Handy,ein Pferd",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vasektomien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Waffenschein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2008 sollten in der indischen Stadt Shivpuri mehr Männer zu einer Vasektomie verleitet werden, indem sie im Gegenzug <BLANK> erhielten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Waffenscheine,eine Waffenlizenz,Waffenlizenzen,Waffenlizenz,Waffenschein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Waffenschein",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2008 sollten in der indischen Stadt Shivpuri mehr Männer zu einer Vasektomie verleitet werden, indem sie im Gegenzug <BLANK> erhielten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

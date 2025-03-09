@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Die Operation der Oper",
+      "v": "Oper",
       "n": "Category"
     },
     {
@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die Opernsängerin Amy Herbst behauptet, sie habe aufgrund einer Operation ihren Job in der Oper von Nashville verloren, da sie dadurch nicht mehr aufhören könnte <BLANK>.",
       "t": "A",
-      "v": "341334_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

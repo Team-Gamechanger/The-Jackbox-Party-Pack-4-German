@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]Golfbällen",
       "t": "A",
-      "v": "597883_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2017 musste eine amerikanische Marke ihre tiefgefrorenen Röstis zurückrufen, weil sie vermutlich mit <BLANK> kontaminiert waren.",
       "t": "A",
-      "v": "597880_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

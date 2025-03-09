@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Ahornsirup",
       "t": "A",
-      "v": "564996_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2013 gab es eine Kontroverse um Kanadas neuen 100$-Schein. Viele behaupteten, er rieche nach <BLANK>.",
       "t": "A",
-      "v": "564993_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die Einwohner der Île de Ré, einer Insel vor der Küste Frankreichs, haben einen ausgefallenen Brauch: Sie ziehen <BLANK> jeden Morgen <BLANK> an.",
       "t": "A",
-      "v": "559595_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

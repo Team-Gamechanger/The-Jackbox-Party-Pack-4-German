@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Als Milton Bradley 1860 die erste Version des Brettspiels Das Spiel des Lebens herausbrachte, konnten unglückliche Spieler auf dem „<BLANK>“-Feld landen.",
       "t": "A",
-      "v": "563055_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

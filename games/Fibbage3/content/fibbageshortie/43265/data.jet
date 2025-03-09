@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ein Telefon",
       "t": "A",
-      "v": "559673_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]In einem bizarren Experiment aus dem Jahr 1929 gelang es zwei Forschern aus Princeton, eine Katze in <BLANK> zu verwandeln.",
       "t": "A",
-      "v": "559670_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

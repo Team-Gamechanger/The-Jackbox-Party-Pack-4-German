@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566169_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -94,7 +94,7 @@
     {
       "s": "[category=host]Der Titel dieses dänischen Kunstwerks lautet <i>Zwei nackte Männer <BLANK></i>.",
       "t": "A",
-      "v": "566164_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

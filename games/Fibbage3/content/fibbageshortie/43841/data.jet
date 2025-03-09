@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Brüste",
       "t": "A",
-      "v": "571030_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein Moskauer Zoo zeigte sich besorgt, als der dort lebende Waschbär Thomas eine plötzliche Begeisterung für <BLANK> entwickelte.",
       "t": "A",
-      "v": "571027_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Trunkenheit am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
       "t": "A",
-      "v": "637665_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

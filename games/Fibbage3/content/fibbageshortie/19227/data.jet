@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gefrorenen Tränen,Achselhaaren,Zehennägeln,Rentier-Schweiß,Geweihen,Lavagestein,Robbenmilch,Windeln,Erde,Hirsch-Penissen,Handtüchern,Teppichen,Ratten,Klee,Blauschimmelkäse,Lachs,Eiern,Couscous",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Braukunst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "geräucherten Walhoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Für eine begrenzte Zeit im Jahr 2015 verkaufte die isländische Mikrobrauerei Stedji ein kurios klingendes Bier, das mit <BLANK> aromatisiert war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "geräuchertem Walhoden,geräucherte Walhoden,Walhoden,geräucherten Testikeln vom Wal,geräucherten Wal-Testikeln,Testikeln vom Wal,Wal-Testikeln,Wal Hoden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]geräucherten Walhoden",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Für eine begrenzte Zeit im Jahr 2015 verkaufte die isländische Mikrobrauerei Stedji ein kurios klingendes Bier, das mit <BLANK> aromatisiert war.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

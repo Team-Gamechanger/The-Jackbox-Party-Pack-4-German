@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Teenager,Hundetrainer,Priester,Sportler,Babysitter,Klempner,Karikaturkünstler,Opernsänger,Tote,Babysitter,Radfahren,Obdachlose,Straßenkünstler,LKW-Fahrer,Babys,Millionäre,Pantomimen,Schuhputzer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rumänien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hexen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 hat die rumänische Regierung aufgrund finanzieller Schwierigkeiten damit begonnen, <BLANK> zu besteuern.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "wahrsager,hellseher,wahrsagerinnen,hellseherinnen,Hexer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hexen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2011 hat die rumänische Regierung aufgrund finanzieller Schwierigkeiten damit begonnen, <BLANK> zu besteuern.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

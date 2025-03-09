@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bienenzucht, Regentänzen, Drachenkämpfen, Zahnpflege, Leberwurst, Currywurst, Bratwurst, Bahnfahrten, Musicals, Rockkonzerten, Computerviren, Bürokratie, Steuererklärungen, Postboten, Fußballspiele, Bauarbeiten, Straßenbahnen, Gartenzwergen, Trompetenmusik, Briefmarken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Minecraft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Paarung von Papageien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Entwickler des Videospiels <i>Minecraft</i> lösten 2017 eine Kontroverse aus, nachdem Fans die Darstellung von <BLANK> im Spiel kritisierten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "der Paarung von Papageien, Papageienpaarung, der Papageien-Paarung, der Fortpflanzung von Papageien, der Vermehrung von Papageien, des Paarungsverhaltens von Papageien, Papageien, Papagei",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]der Paarung von Papageien",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Entwickler des Videospiels <i>Minecraft</i> lösten 2017 eine Kontroverse aus, nachdem Fans die Darstellung von <BLANK> im Spiel kritisierten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

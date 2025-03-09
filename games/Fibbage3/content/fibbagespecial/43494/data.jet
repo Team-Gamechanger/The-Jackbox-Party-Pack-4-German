@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "563735_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]meditiert",
       "t": "A",
-      "v": "563733_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Dieses Gemälde von Thomas Eakins aus dem Jahr 1877 nennt sich <i>Junges Mädchen <BLANK></i>.",
       "t": "A",
-      "v": "563730_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

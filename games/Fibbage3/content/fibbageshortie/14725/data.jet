@@ -82,13 +82,13 @@
     {
       "s": "[category=host]eine Penispumpe",
       "t": "A",
-      "v": "326636_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein amerikanischer Richter wurde im Jahr 2006 zu einer vierjährigen Haftstrafe verurteilt, nachdem herausgefunden wurde, dass er während mehrerer Prozesse heimlich <BLANK> verwendet hat.",
       "t": "A",
-      "v": "326633_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

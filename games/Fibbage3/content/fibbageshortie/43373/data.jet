@@ -82,13 +82,13 @@
     {
       "s": "[category=host]eine Handgranate",
       "t": "A",
-      "v": "561613_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Ein Mann aus dem chinesichen Shaanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
       "t": "A",
-      "v": "561610_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

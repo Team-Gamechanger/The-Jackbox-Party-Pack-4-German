@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566194_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -89,13 +89,13 @@
     {
       "s": "[category=host]Papa-Sattel",
       "t": "A",
-      "v": "566192_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Bei diesem Patent handelt es sich um Paul. R. Harriss' <BLANK>.",
       "t": "A",
-      "v": "566189_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

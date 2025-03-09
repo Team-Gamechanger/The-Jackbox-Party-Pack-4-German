@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kleine Wölfe|Kindern,den Teufel|Männerhosen,den Bürgermeister|Stiften,Frauen|Tomaten,schwarze Katzen|Fingern,Werwölfe|Lebkuchen,Vampire|Brezeln,Kobolde|Kuchen,böse Geister|altem Brot,Bauern|Hasenpfoten,Betrunkene|Giftpilzen,Drachen|Hundewelpen,ein Seemonster|Schuhen,Förster|Holz,Skelette|alter Butter,Eulen|Hufeisen,Ungläubige|Ziegenhörnern,schlafende Reisende|lebenden Enten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Witch Hobbies",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gestohlene Penisse|Hafer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1486 veröffentlichte der deutsche Geistliche Heinrich Kramer ein Buch, in dem er behauptete, dass Hexen unter anderem <BLANK> mit <BLANK> fütterten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gestohlene Penisse|Mais,gestohlene Penisse|Mais und Hafer,gestohlene Penisse|Hafer und Mais,Penisse|Hafer,Penisse|Mais,Penisse|Hafer und Mais,Penisse|Mais und Hafer,geklaute Penisse|Mais,geklaute Penisse|Mais und Hafer,geklaute Penisse|Hafer und Mais,gestohlene Penes|Mais,gestohlene Penes|Mais und Hafer,gestohlene Penes|Hafer und Mais,Penes|Hafer,Penes|Mais,Penes|Hafer und Mais,Penes|Mais und Hafer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]gestohlene Penisse|Hafer",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 1486 veröffentlichte der deutsche Geistliche Heinrich Kramer ein Buch, in dem er behauptete, dass Hexen unter anderem <BLANK> mit <BLANK> fütterten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gehirn,Brustvergrößerung,Herd,Sorgen,Feuer,BH,Seele,Küche,Ehemann,Nase,Geschmackssinn,Fernseher,Pferd,Budget,rechte Hand,David Hasselhoff,Gesicht,Hausfrau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rezepte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Buch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Pam Anderson schrieb ein Kochbuch, in dem sie zeigt, wie man ohne <BLANK> kocht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Kochbuch,ein Buch,ein Kochbuch,das Buch,das Kochbuch,Bücher,Kochbücher,Koch Buch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Buch",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pam Anderson schrieb ein Kochbuch, in dem sie zeigt, wie man ohne <BLANK> kocht.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Handgranaten,Kondome,Zigaretten,Maschinengewehre,Bomben,Bierflaschen,Schlagringe,Särge,Uniformen,Sprengstoff,Panzer,Minen,Kampfflugzeuge,Raketen,Helme,Granaten,Patronen,Pistolen,Gewehre,Munition",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Disney",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gasmasken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In den 1940er Jahren arbeitete Walt Disney mit einem Partnerunternehmen zusammen, um eine Reihe von etwas bedenklichen Micky Maus <BLANK> zu entwerfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gasmaske,Schutzmaske,Atemschutzmaske,Atemmaske,Schutzmasken,Atemschutzmasken,Atemmasken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Gasmasken",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In den 1940er Jahren arbeitete Walt Disney mit einem Partnerunternehmen zusammen, um eine Reihe von etwas bedenklichen Micky Maus <BLANK> zu entwerfen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

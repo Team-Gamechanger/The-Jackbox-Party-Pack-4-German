@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "566419_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,12 @@
     {
       "s": "[category=host]saugt zwei Mütter",
       "t": "A",
-      "v": "566417_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Eine russische Redewendung, die besagt, dass man im Leben weiterkommt, wenn man nett zu seinen Mitmenschen ist, heißt übersetzt: „Ein zärtliches Kalb <BLANK>.“",
       "t": "A",
-      "v": "566414_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwimmen,Pink pantern,Rosa Augen,neues Tattoo,Komplett pink,Laut schreien,Parade,Marathon,Dein Haustier,Seifenkistenrennen,Karaoke-Contest,Dein Kunstwerk,Mobbing,Rasen,Fliegen,Nie wieder zum Friseur,Schlaflos,Arbeitslos",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "P!nk",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nicht Pinkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der niedersächsische Radiosender <i>ffn</i> veranstaltete 2023 einen kuriosen Ticketwettbewerb für ein Pink-Konzert namens „<BLANK> für Pink“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pinkeln,Nie Pinkeln,Nicht pinkeln müssen,Nicht urinieren,Nicht aufs Klo gehen,Nicht auf die Toilette gehen,Nicht Pipi machen,Kein Pieseln,Kein Pinkeln,Nicht zur Toilette,Nicht wasserlassen,kein Wasserlassen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nicht Pinkeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der niedersächsische Radiosender <i>ffn</i> veranstaltete 2023 einen kuriosen Ticketwettbewerb für ein Pink-Konzert namens „<BLANK> für Pink“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

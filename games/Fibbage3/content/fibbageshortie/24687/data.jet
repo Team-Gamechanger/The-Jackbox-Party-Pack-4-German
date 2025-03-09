@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Käfern,der Sonne,Clowns,Milch,dem Meer,älteren Menschen,Außerirdischen,Regen,der Regierung,unreinen Blutlinien,Hühnern,einem Statusverlust,Geistern,Bäumen,Blitzen,Spinnen,Walrossen,Statuen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Griechenland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zombies",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 fand eine Gruppe von Wissenschaftlern der Universität Pittsburgh heraus, dass die Menschen im antiken Griechenland große Angst vor <BLANK> hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Zombis,Untote,Untoten,den Toten,Toten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Zombies",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2015 fand eine Gruppe von Wissenschaftlern der Universität Pittsburgh heraus, dass die Menschen im antiken Griechenland große Angst vor <BLANK> hatten.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

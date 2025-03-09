@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die US-amerikanische Brauerei <i>Rogue Ales</i> hat für ein Bier ihren eigenen Hefestamm entwickelt, der aus <BLANK> des Braumeisters gewonnen wurde.",
       "t": "A",
-      "v": "329829_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

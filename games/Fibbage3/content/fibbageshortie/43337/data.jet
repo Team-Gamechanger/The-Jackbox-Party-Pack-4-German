@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Aliens",
       "t": "A",
-      "v": "560688_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Das Londoner Versicherungsunternehmen Grip verdiente Anfang der 2000er stattliche 4 Millionen Pfund mit dem Verkauf einer bizarren Police, die Kunden vor <BLANK> schützte.",
       "t": "A",
-      "v": "560685_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

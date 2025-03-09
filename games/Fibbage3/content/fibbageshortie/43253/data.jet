@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Im Jahr 2015 musste ein Frachtflug von Australien nach Kuala Lumpur unerwartet landen, nachdem der Feueralarm durch <BLANK> ausgelöst worden war.",
       "t": "A",
-      "v": "559370_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

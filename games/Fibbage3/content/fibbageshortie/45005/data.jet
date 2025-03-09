@@ -87,7 +87,7 @@
     {
       "s": "[category=host]In Dänemark wird eine unverheiratete Person an ihrem 25. Geburtstag von Freunden mit <BLANK> beworfen.",
       "t": "A",
-      "v": "602046_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

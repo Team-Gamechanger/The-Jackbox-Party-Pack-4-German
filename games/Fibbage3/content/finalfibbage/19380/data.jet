@@ -87,7 +87,7 @@
     {
       "s": "[category=host]APOPO ist eine Organisation, die afrikanische Riesenhamsterratten darauf trainiert, <BLANK> und <BLANK> aufzuspüren.",
       "t": "A",
-      "v": "384170_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

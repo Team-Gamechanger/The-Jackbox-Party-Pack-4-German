@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -82,13 +82,12 @@
     {
       "s": "[category=host]eine Kokosnuss",
       "t": "A",
-      "v": "573394_0f",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Jahr 2013 nahm die Polizei auf den Malediven einen Verdächtigen fest, der sich in der Nähe eines Wahllokals aufhielt und der schwarzen Magie verdächtigt wurde. Bei dem Verdächtigen handelte es sich um <BLANK>.",
       "t": "A",
-      "v": "573391_1",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

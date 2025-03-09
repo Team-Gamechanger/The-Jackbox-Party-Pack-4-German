@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Interesse, das Entroido-Fest in Laza, Spanien zu besuchen? Dann solltet ihr euch besser gut vorbereiten, denn die Stadtbewohner werden euch vermutlich mit <BLANK> und <BLANK> bewerfen.",
       "t": "A",
-      "v": "568624_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

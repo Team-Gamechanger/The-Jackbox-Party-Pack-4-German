@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Salvador Dali schrieb ein wirklich skurriles Kochbuch namens <i>Die Diners mit Gala</i>. Darin enthalten: ein Avocado-Toast-Rezept, für das <BLANK> und <BLANK> benötigt werden.",
       "t": "A",
-      "v": "588657_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

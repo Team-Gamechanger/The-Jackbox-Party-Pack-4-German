@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -78,7 +78,7 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "564137_0",
+      "v": "bumper",
       "n": "BumperAudio"
     },
     {
@@ -88,13 +88,12 @@
     {
       "s": "[category=host]Friseure",
       "t": "A",
-      "v": "564135_0",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Geht es um schlecht gehütete Geheimnisse verwenden die Russen eine Redewendung, die übersetzt so viel bedeutet wie „Das wissen alle <BLANK>.“",
       "t": "A",
-      "v": "564132_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Kontroversen Aussagen gegenüber Schülern folgend gab der isländische Präsident Gudni Johannesson auf Facebook bekannt, dass er <BLANK> nicht verbieten werde.",
       "t": "A",
-      "v": "565395_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

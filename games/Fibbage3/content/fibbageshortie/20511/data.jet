@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mit Hunden zu reden,die Zukunft vorherzusagen,Physik zu verstehen,Gedanken von Menschen zu hören,Gedanken zu riechen,das Wetter vorherzusagen,einen Zauberwürfel zu lösen,Pinball perfekt zu spielen,ein Haus zu bauen,sofort zu schlafen,Schach zu spielen,zu jonglieren,zu schweben,Laktose zu verdauen,Stenografie zu schreiben,Latein zu lesen,jedes Land zu benennen,perfekt Kopfrechnen zu können",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Koma",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chinesisch zu sprechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Australier Ben McMahon lag nach einem Autounfall in einem einwöchigen Koma. Als er aufwachte, stellte er fest, dass er plötzlich die Fähigkeit hatte, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mandarin zu sprechen,Chinesisch zu reden,Mandarin zu reden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Chinesisch zu sprechen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Australier Ben McMahon lag nach einem Autounfall in einem einwöchigen Koma. Als er aufwachte, stellte er fest, dass er plötzlich die Fähigkeit hatte, <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

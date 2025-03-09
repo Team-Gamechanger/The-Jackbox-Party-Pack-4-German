@@ -82,13 +82,13 @@
     {
       "s": "[category=host]kannibalischer Hamster",
       "t": "A",
-      "v": "561463_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die Maisfelder waren voller <BLANK>.",
       "t": "A",
-      "v": "561460_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

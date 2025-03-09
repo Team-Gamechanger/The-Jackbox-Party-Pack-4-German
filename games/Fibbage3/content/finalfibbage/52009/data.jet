@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Süßigkeiten|Zahnärzten,Hüpfburgen|Gottesdiensten,Jongleuren|Bars,Pantomimen|Fußballspielen,Clowns|Parteitagen,Paintball-Waffen|Uni-Lesungen,Wurfbuden|Staatsempfängen,Opernsängern|Pressekonferenzen,Polonäsen|Volksfesten,Rappern|Comedyshows,Kissenschlachten|Hotelbesuchen,All-you-can-eat-Büffets|Vorstellungsgesprächen,Pokémon|Hochzeiten,Pinguinen|Klassenarbeiten,Go-Karts|Geburtstagsfeiern,Yoga|Videokonferenzen,Gruselkostümen|Ausschusssitzungen,Dragqueens|Museumseröffnungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "China",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Strippern|Beerdigungen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im April 2015 kündigte das chinesische Kulturministerium an, gegen die wachsende Popularität von <BLANK> bei <BLANK> vorgehen zu wollen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Strippers|Beerdigungen,Stripern|Beerdigungen,Striptänzern|Beerdigungen,Striptänzerinnen|Beerdigungen,Strippern|Bestattungen,Strippers|Bestattungen,Stripern|Bestattungen,Striptänzern|Bestattungen,Striptänzerinnen|Bestattungen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Strippern|Beerdigungen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im April 2015 kündigte das chinesische Kulturministerium an, gegen die wachsende Popularität von <BLANK> bei <BLANK> vorgehen zu wollen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

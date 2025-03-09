@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babys,Tote,Hunde,Katzen,Mäuse,Astronauten,Nonnen,Geister,Schwangere,Fische,Gefängnisinsassen,Piraten,Wassermelonen,Puppen,Hasen,Elfen,Gewichtheber,Sumoringer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gut gebettet",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kühe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Unternehmen <i>Advanced Comfort Technology</i> stellt Wasserbetten für <BLANK> her.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Rinder,Kälber,eine Kuh,die Kühe,die Kuhhaltung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kühe",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Unternehmen <i>Advanced Comfort Technology</i> stellt Wasserbetten für <BLANK> her.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Gasmaske",
       "t": "A",
-      "v": "338185_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Dr. Elena Bodnar erfand im Jahr 2009 einen BH, der auch als <BLANK> verwendet werden kann.",
       "t": "A",
-      "v": "338182_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

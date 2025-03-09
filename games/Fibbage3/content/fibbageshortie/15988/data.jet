@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Teddybär,einem Zauberstab,einem Lockenstab,einer Yogamatte,einem Regenschirm,einem Schnurrbartkamm,einem Spiegel,einem Baseballschläger,einem Nackenkissen,dem goldenen Ticket,einer Bowlingkugel,einer Kuckucksuhr,einer Taschenlampe,einer Schreibmaschine,einer Ledermaske,einem Zylinder,einer Granate,einer Dose Bohnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schokolade",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Motorsäge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Als Roald Dahl, der Autor von <i>Charlie und die Schokoladenfabrik</i> starb, wurde er mit Snooker-Queues, einem Burgunderwein, Schokolade, Bleistiften und <BLANK> beerdigt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einer Kettensäge,einer Motor-Säge,einer Motorkettensäge,einer Benzinsäge,einer Elektrosäge,einer elektrischen Säge,einer Baumsäge",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einer Motorsäge",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Als Roald Dahl, der Autor von <i>Charlie und die Schokoladenfabrik</i> starb, wurde er mit Snooker-Queues, einem Burgunderwein, Schokolade, Bleistiften und <BLANK> beerdigt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

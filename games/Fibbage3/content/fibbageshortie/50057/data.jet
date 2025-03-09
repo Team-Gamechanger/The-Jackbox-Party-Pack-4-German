@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hamsterräder,Gummibänder,Staubsauger,Haarföhne,Kaffemühlen,Wasserpistolen,Bürostühle,Ventilatoren,Waschmaschinen,Mixer,Fahrradpumpen,Automatische Dosenöffner,Nähmaschinen,Schneebesen,Kreissägen,Klobürsten,Laubbläser,Fleischwölfe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rasante Rennen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Akkuschrauber",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Hochschule aus Hildesheim veranstaltet in regelmäßigen Abständen ein Rennen, bei dem die Fahrzeuge durch <BLANK> angetrieben werden. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Akku-Schrauber,Akku Schrauber,Akkubohrer,Akku-Bohrer,Elektroschrauber",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Akkuschrauber",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine Hochschule aus Hildesheim veranstaltet in regelmäßigen Abständen ein Rennen, bei dem die Fahrzeuge durch <BLANK> angetrieben werden. ",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

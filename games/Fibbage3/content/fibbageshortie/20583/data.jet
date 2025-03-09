@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Löwen reitet,Französisch spricht,Klavier spielt,Risotto macht,Gebärdensprache nutzt,programmiert,Tiere zähmt,eine Sprengfalle baut,einen Zug fährt,mit dem Schwert kämpft,Zaubersprüche wirkt,die Zukunft liest,Schlösser plant,ein Zauberwürfel löst,einen Slam Dunk macht,preisgekrönte Filme produziert,Webseiten baut,klingonisch spricht",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schulbücher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Auto fährt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einem Lehrbuch, das 2015 an nordkoreanische Schullehrer verteilt wurde, wird behauptet, dass Kim Jong-un bereits im Alter von drei Jahren gelernt habe, wie man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Auto fährt,fährt,Autofährt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Auto fährt",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einem Lehrbuch, das 2015 an nordkoreanische Schullehrer verteilt wurde, wird behauptet, dass Kim Jong-un bereits im Alter von drei Jahren gelernt habe, wie man <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

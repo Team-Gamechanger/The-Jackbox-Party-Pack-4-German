@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Staubwedel|einem Drachen,eine Sockenpuppe|einem Hamster,ein Kuscheltier|einem Adler,einen Schlafsack|einem Krokodil,eine Plastiktüte|einer Giftschlange,einen Gartenschlauch|einem Tiger,eine Wolldecke|einem Löwen,eine Klopapierrolle|einem Gorilla,einen Regenschirm|einem Nilpferd,eine Handtasche|einem Fuchs,einen Spiegel|einer Klapperschlange,einen Wischmop|einem Alligator,eine Mülltüte|einem Nashorn,einen Wandschrank|einem Bären,einen Kleinwagen|einem Wal,einen Kleiderständer|einem Strauß,einen Tennisball|einem Papageien,einen Schal|einer Python",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verwechslungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Croissant|einem Leguan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bei einem Einsatz im polnischen Krakau fanden alarmierte Tierschützer im April 2021 nicht wie gemeldet eine „Kreatur“ vor. Die Melderin verwechselte <BLANK> mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Croissant|einem Leguan,ein Croissant|Leguan,ein Crossant|einem Leguan|ein Croisant|einem Leguan,einen Leguan|einem Croissant",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Croissant|einem Leguan",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei einem Einsatz im polnischen Krakau fanden alarmierte Tierschützer im April 2021 nicht wie gemeldet eine „Kreatur“ vor. Die Melderin verwechselte <BLANK> mit <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

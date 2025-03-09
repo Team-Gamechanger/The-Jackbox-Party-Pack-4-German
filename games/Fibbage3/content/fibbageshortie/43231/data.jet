@@ -82,13 +82,13 @@
     {
       "s": "[category=host]ihren Fingerabdruck",
       "t": "A",
-      "v": "558823_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Medizinischen Studien nach kann die Einnahme des Medikaments Capecitabin dazu führen, dass Patienten vorübergehend <BLANK> verlieren.",
       "t": "A",
-      "v": "558820_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

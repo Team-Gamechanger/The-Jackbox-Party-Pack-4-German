@@ -87,7 +87,7 @@
     {
       "s": "[category=host]Die <i>Relson Gracie Jiu-Jitsu Academy</i> veröffentlichte ein Lehrvideo, in dem gezeigt wird, wie man sich vor <BLANK> schützen kann.",
       "t": "A",
-      "v": "564743_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]

@@ -82,13 +82,13 @@
     {
       "s": "[category=host]Pokémon fangen",
       "t": "A",
-      "v": "585095_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "s": "[category=host]Im Oktober 2015, während sie eigentlich einer Debatte im Parlament folgen sollte, wurde die norwegische Ministerpräsidentin beim <BLANK> erwischt.",
       "t": "A",
-      "v": "585092_0",
+      "v": "question",
       "n": "QuestionAudio"
     }
   ]
