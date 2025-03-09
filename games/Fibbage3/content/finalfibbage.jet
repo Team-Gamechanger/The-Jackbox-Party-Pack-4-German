@@ -1,0 +1,311 @@
+{
+  "episodeid": 1313,
+  "content": [
+    {
+      "x": true,
+      "personal": "",
+      "id": 14942,
+      "portrait": false,
+      "category": "Sexy Scents",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 14973,
+      "portrait": false,
+      "category": "Spurensuche",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19380,
+      "portrait": false,
+      "category": "Auf Streife",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43262,
+      "portrait": false,
+      "category": "Morgenroutine",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43382,
+      "portrait": false,
+      "category": "Ach England",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43483,
+      "portrait": false,
+      "category": "Monster",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43490,
+      "portrait": false,
+      "category": "Honest Mistakes",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43559,
+      "portrait": false,
+      "category": "Mail Rule",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43724,
+      "portrait": false,
+      "category": "Celebrations",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43851,
+      "portrait": false,
+      "category": "Drinking",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43891,
+      "portrait": false,
+      "category": "Aging",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44063,
+      "portrait": false,
+      "category": "Villainy",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44114,
+      "portrait": false,
+      "category": "Specific Smells",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44149,
+      "portrait": false,
+      "category": "complex people",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44152,
+      "portrait": false,
+      "category": "Dutch Crime",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44458,
+      "portrait": false,
+      "category": "Just a Pinch",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44536,
+      "portrait": false,
+      "category": "Texas Politics",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44820,
+      "portrait": false,
+      "category": "Anime",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45157,
+      "portrait": false,
+      "category": "Employee Guides",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46190,
+      "portrait": false,
+      "category": "Drunk Driving",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46277,
+      "portrait": false,
+      "category": "Confessions",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46500,
+      "portrait": false,
+      "category": "Temple Tourism",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46502,
+      "portrait": false,
+      "category": "Remains",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47195,
+      "portrait": false,
+      "category": "Life Finds a Way",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48043,
+      "portrait": false,
+      "category": "Genetik",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48315,
+      "portrait": false,
+      "category": "Witch Hobbies",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52000,
+      "portrait": false,
+      "category": "Großstadtfieber",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52001,
+      "portrait": false,
+      "category": "",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52002,
+      "portrait": false,
+      "category": "Drink up",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52003,
+      "portrait": false,
+      "category": "Auktion",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52008,
+      "portrait": false,
+      "category": "Nobelscheiß",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52009,
+      "portrait": false,
+      "category": "China",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52010,
+      "portrait": false,
+      "category": "Verwechslungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 52012,
+      "portrait": false,
+      "category": "Organisierte Kriminalität",
+      "bumper": "",
+      "us": false
+    }
+  ]
+}

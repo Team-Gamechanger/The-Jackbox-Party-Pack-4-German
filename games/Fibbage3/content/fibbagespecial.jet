@@ -1,0 +1,437 @@
+{
+  "episodeid": 1317,
+  "content": [
+    {
+      "x": false,
+      "personal": "",
+      "id": 43321,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43476,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43477,
+      "portrait": true,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43479,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43491,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43493,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43494,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": true
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43502,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43505,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43512,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43526,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43527,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43554,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43555,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43556,
+      "portrait": false,
+      "category": "Mütterchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43562,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43604,
+      "portrait": true,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43612,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43613,
+      "portrait": true,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43614,
+      "portrait": true,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43615,
+      "portrait": true,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43621,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43622,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43626,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43738,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43786,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43788,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43847,
+      "portrait": false,
+      "category": "Müttcherchen Russland",
+      "bumper": "Russian",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44466,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44535,
+      "portrait": false,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45079,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45276,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45282,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45287,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45338,
+      "portrait": false,
+      "category": "Kunst oder Krempel",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46562,
+      "portrait": true,
+      "category": "Verrückte Erfindungen",
+      "bumper": "Photo",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51000,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 51001,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51002,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51003,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51004,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51005,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51006,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51007,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51009,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 51010,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51011,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 51012,
+      "portrait": false,
+      "category": "Promis auf Social Media",
+      "bumper": "SayWhat",
+      "us": false
+    }
+  ]
+}
