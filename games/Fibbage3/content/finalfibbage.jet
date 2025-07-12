@@ -103,6 +103,15 @@
     {
       "x": true,
       "personal": "",
+      "id": 43940,
+      "portrait": false,
+      "category": "giving thanks",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 44063,
       "portrait": false,
       "category": "Villainy",
@@ -133,6 +142,15 @@
       "id": 44152,
       "portrait": false,
       "category": "Dutch Crime",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44196,
+      "portrait": false,
+      "category": "Medieval Pairings",
       "bumper": "",
       "us": false
     },
@@ -220,9 +238,99 @@
     {
       "x": true,
       "personal": "",
+      "id": 47675,
+      "portrait": false,
+      "category": "Strange Instagrams",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47842,
+      "portrait": false,
+      "category": "Life Goals",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47859,
+      "portrait": false,
+      "category": "Enticing Offers",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47880,
+      "portrait": false,
+      "category": "kappa",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47926,
+      "portrait": false,
+      "category": "workout routine",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47940,
+      "portrait": false,
+      "category": "noise pollution",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47941,
+      "portrait": false,
+      "category": "superstitious passengers",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47970,
+      "portrait": false,
+      "category": "Decisions Decisions",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 48043,
       "portrait": false,
       "category": "Genetik",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48276,
+      "portrait": false,
+      "category": "Volkswagen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48280,
+      "portrait": false,
+      "category": "Frank Zappa",
       "bumper": "",
       "us": false
     },
@@ -232,6 +340,15 @@
       "id": 48315,
       "portrait": false,
       "category": "Witch Hobbies",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48394,
+      "portrait": false,
+      "category": "Animal Needs",
       "bumper": "",
       "us": false
     },
@@ -272,6 +389,42 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 52004,
+      "portrait": false,
+      "category": "Slogan",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52005,
+      "portrait": false,
+      "category": "Themenparks",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52006,
+      "portrait": false,
+      "category": "Alaska",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52007,
+      "portrait": false,
+      "category": "Forschung",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 52008,
@@ -295,6 +448,15 @@
       "id": 52010,
       "portrait": false,
       "category": "Verwechslungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 52011,
+      "portrait": false,
+      "category": "Aufbruch",
       "bumper": "",
       "us": false
     },

@@ -382,6 +382,42 @@
     {
       "x": true,
       "personal": "",
+      "id": 19616,
+      "portrait": false,
+      "category": "Geheimes Gold",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 20371,
+      "portrait": false,
+      "category": "Bewusstsein",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 20434,
+      "portrait": false,
+      "category": "Laufband",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 20437,
+      "portrait": false,
+      "category": "<i>Herr der Ringe</i>",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 20489,
       "portrait": false,
       "category": "Frustrierte Käfer",
@@ -409,6 +445,15 @@
     {
       "x": true,
       "personal": "",
+      "id": 21460,
+      "portrait": false,
+      "category": "Zahnmedizin",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 21474,
       "portrait": false,
       "category": "Babyartikel",
@@ -421,6 +466,15 @@
       "id": 21596,
       "portrait": false,
       "category": "Definitionen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 21598,
+      "portrait": false,
+      "category": "Stockholm",
       "bumper": "",
       "us": false
     },
@@ -562,9 +616,36 @@
     {
       "x": true,
       "personal": "",
+      "id": 43331,
+      "portrait": false,
+      "category": "Zum Angriff!",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 43337,
       "portrait": false,
       "category": "Sicherheit geht vor",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43345,
+      "portrait": false,
+      "category": "Wunder",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43348,
+      "portrait": false,
+      "category": "Niagarafälle",
       "bumper": "",
       "us": false
     },
@@ -583,6 +664,15 @@
       "id": 43354,
       "portrait": false,
       "category": "Tierreich",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43359,
+      "portrait": false,
+      "category": "Wohnungssuche",
       "bumper": "",
       "us": false
     },
@@ -681,7 +771,7 @@
       "personal": "",
       "id": 43520,
       "portrait": false,
-      "category": "Zeitlose Partys",
+      "category": "Stephen Hawking",
       "bumper": "",
       "us": false
     },
@@ -760,6 +850,15 @@
     {
       "x": true,
       "personal": "",
+      "id": 43551,
+      "portrait": false,
+      "category": "Geschenke",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
       "id": 43561,
       "portrait": false,
       "category": "Befriedigung",
@@ -826,6 +925,15 @@
       "id": 43924,
       "portrait": false,
       "category": "Schwedische Verbrechen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43931,
+      "portrait": false,
+      "category": "Papperla-Papst",
       "bumper": "",
       "us": false
     },
@@ -902,6 +1010,15 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 44058,
+      "portrait": false,
+      "category": "Londoner Ecken",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 44100,
@@ -956,6 +1073,24 @@
       "us": false
     },
     {
+      "x": true,
+      "personal": "",
+      "id": 44275,
+      "portrait": false,
+      "category": "Haiprobleme",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44284,
+      "portrait": false,
+      "category": "Taucher",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": false,
       "personal": "",
       "id": 44286,
@@ -970,6 +1105,15 @@
       "id": 44294,
       "portrait": false,
       "category": "Exotisch",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44305,
+      "portrait": false,
+      "category": "Gefälligkeiten",
       "bumper": "",
       "us": false
     },
@@ -1230,7 +1374,7 @@
       "personal": "",
       "id": 44864,
       "portrait": false,
-      "category": "Nashörner",
+      "category": "Paarung",
       "bumper": "",
       "us": false
     },
@@ -1262,7 +1406,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "",
       "id": 45005,
       "portrait": false,
@@ -1469,11 +1613,137 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 46183,
+      "portrait": false,
+      "category": "Lustige Hobbys",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46304,
+      "portrait": false,
+      "category": "Teufelswerk",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46373,
+      "portrait": false,
+      "category": "Amis",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46444,
+      "portrait": false,
+      "category": "Große Sammlungen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46451,
+      "portrait": false,
+      "category": "Große Pläne",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46531,
+      "portrait": false,
+      "category": "Super-Kameras",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46533,
+      "portrait": false,
+      "category": "Übersetzungsfehler",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46549,
+      "portrait": false,
+      "category": "Selbstgemachte Statuen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46689,
+      "portrait": false,
+      "category": "Goldene Möwe",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46858,
+      "portrait": false,
+      "category": "Frankenstein",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 46956,
       "portrait": false,
       "category": "Porno-Suchen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47189,
+      "portrait": false,
+      "category": "Verkaufsautomaten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47230,
+      "portrait": false,
+      "category": "Baustelle",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47553,
+      "portrait": false,
+      "category": "Grüner werden",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47710,
+      "portrait": false,
+      "category": "Spaß mit Chirurgie",
       "bumper": "",
       "us": false
     },
@@ -1487,13 +1757,112 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 47948,
+      "portrait": false,
+      "category": "99",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48117,
+      "portrait": false,
+      "category": "Ausgefallenes",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48272,
+      "portrait": false,
+      "category": "Romantiker",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48275,
+      "portrait": false,
+      "category": "Kleingedrucktes",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48312,
+      "portrait": false,
+      "category": "Berühmt werden",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 48467,
       "portrait": false,
       "category": "Schottische Slogans",
       "bumper": "",
-      "us": true
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 17811,
+      "portrait": false,
+      "category": "25000",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 17850,
+      "portrait": false,
+      "category": "Japanische Kochbücher",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18020,
+      "portrait": false,
+      "category": "Geheimdienste",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18133,
+      "portrait": false,
+      "category": "Mindesthaltbarkeit",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18193,
+      "portrait": false,
+      "category": "Babys",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18249,
+      "portrait": false,
+      "category": "Hochzeit",
+      "bumper": "",
+      "us": false
     },
     {
       "x": false,
@@ -1510,6 +1879,42 @@
       "id": 18380,
       "portrait": false,
       "category": "Hühner",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 18399,
+      "portrait": false,
+      "category": "Tequila",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18487,
+      "portrait": false,
+      "category": "<i>Playmobil</i>",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18488,
+      "portrait": false,
+      "category": "Zahnärzte",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 18507,
+      "portrait": false,
+      "category": "Kreditwürdig",
       "bumper": "",
       "us": false
     },
@@ -1555,6 +1960,51 @@
       "id": 19227,
       "portrait": false,
       "category": "Braukunst",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19406,
+      "portrait": false,
+      "category": "Römer",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19422,
+      "portrait": false,
+      "category": "Delikatessen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 19441,
+      "portrait": false,
+      "category": "Hobbys",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19452,
+      "portrait": false,
+      "category": "Abwehr",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 19462,
+      "portrait": false,
+      "category": "Farbe",
       "bumper": "",
       "us": false
     },
@@ -1761,7 +2211,7 @@
       "personal": "",
       "id": 23697,
       "portrait": false,
-      "category": "Sperma",
+      "category": "Samen",
       "bumper": "",
       "us": false
     },
@@ -1973,6 +2423,15 @@
       "us": false
     },
     {
+      "x": true,
+      "personal": "",
+      "id": 15632,
+      "portrait": false,
+      "category": "Minigolf",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": false,
       "personal": "",
       "id": 15744,
@@ -2074,6 +2533,15 @@
     {
       "x": false,
       "personal": "",
+      "id": 16011,
+      "portrait": false,
+      "category": "Wasserspeier",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 16020,
       "portrait": false,
       "category": "Steuerung",
@@ -2153,7 +2621,7 @@
       "us": false
     },
     {
-      "x": false,
+      "x": true,
       "personal": "",
       "id": 50002,
       "portrait": false,
@@ -2196,6 +2664,15 @@
       "category": "Vor Gericht",
       "bumper": "",
       "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50025,
+      "portrait": false,
+      "category": "Schutzkleidung",
+      "bumper": "",
+      "us": true
     },
     {
       "x": true,
@@ -2324,6 +2801,15 @@
       "us": false
     },
     {
+      "x": false,
+      "personal": "",
+      "id": 50049,
+      "portrait": false,
+      "category": "Oberhummer",
+      "bumper": "",
+      "us": false
+    },
+    {
       "x": true,
       "personal": "",
       "id": 50050,
@@ -2416,6 +2902,78 @@
     {
       "x": false,
       "personal": "",
+      "id": 50060,
+      "portrait": false,
+      "category": "Doktor-Küsse",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50061,
+      "portrait": false,
+      "category": "10 Gebote",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50062,
+      "portrait": false,
+      "category": "<i>IKEA</i>",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50063,
+      "portrait": false,
+      "category": "Umfragen",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50064,
+      "portrait": false,
+      "category": "Weihnachten",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 50065,
+      "portrait": false,
+      "category": "Papagei-Problematik",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50066,
+      "portrait": false,
+      "category": "Erste Hilfe",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50067,
+      "portrait": false,
+      "category": "Sammelwut",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
       "id": 50068,
       "portrait": false,
       "category": "Fotobeweis",
@@ -2437,6 +2995,33 @@
       "id": 50070,
       "portrait": false,
       "category": "China",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50071,
+      "portrait": false,
+      "category": "Guten Morgen!",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50072,
+      "portrait": false,
+      "category": "Schmerzmittel",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 50073,
+      "portrait": false,
+      "category": "Neueröffnung",
       "bumper": "",
       "us": false
     }

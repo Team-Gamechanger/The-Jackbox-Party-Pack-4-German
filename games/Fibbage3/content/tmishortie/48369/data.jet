@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Die längste Schlange, in der du gestanden hast, war für <BLANK>.",
+      "v": "Für was war die längste Schlange, in der du gestanden hast?",
       "n": "PersonalQuestionText"
     },
     {
