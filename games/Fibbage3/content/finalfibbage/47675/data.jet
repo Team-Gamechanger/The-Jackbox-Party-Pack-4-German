@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Dose|eine Tastatur,Essiggurken|Bilder von Angela Merkel,Gläser|Backsteinwände,ihr Auto|Haufen von Stofftieren,Katzen|Zuckerwatte,ihren Hintern|Müll,Actionfiguren|benutzte Windeln,Fremde|einander,Süßigkeiten|den Mund ihres Freundes,ihre Füße|weißen Bastelkleber,Farbkugeln|alte Kühlschränke,Glatzenköpfe|Trampoline,Bilder von Helmut Kohl|einen Mixer,die eigenen Erwartungen|Staub,Diamanten|Kaugummiballen,Wassermelonen|Knetmasse,Roboter|Regierungsgebäude,Salz|ihre offenen Wunden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strange Instagrams",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihr Gesicht|Brot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Es gibt einen <i>Instagram</i>-Account mit über 150.000 Followern, der nur aus einer Frau besteht, die <BLANK> in <BLANK> drückt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ihr Antlitz|Brot,ihr Gesicht|Brötchen,ihren Kopf|Brot,ihren Kopf|Backwaren,ihr Gesicht|Gebäck",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ihr Gesicht|Brot",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Es gibt einen <i>Instagram</i>-Account mit über 150.000 Followern, der nur aus einer Frau besteht, die <BLANK> in <BLANK> drückt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

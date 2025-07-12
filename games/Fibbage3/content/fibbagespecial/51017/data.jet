@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Psychologen für Katzen,einen Goldfisch,300kg Glitzer,eine Konfetti-Maschine,einen Butler für meine Zimmerpflanzen,einen Ninja,einen QR-Code als Tattoo,5G,Maultaschen,eine konservative Frau,gutes Bier,eigene Visitenkarten,ein Seepferdchen,25 Scheren und 30 Baguettes,weißen Bastelkleber,stabiles Internet,2 Tonnen Weizenmehl,einen Apfelbaum",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine propellermütze",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Klaas Heufer-Umlauf tweetete „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "13:14 Uhr<br />13. Okt. 2013",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@damitdasklaas",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine Propeller-Mütze,ein Propellerhut,ein Propeller-Hut,eine Propellerkappe,eine Propeller-Kappe,eine Helikoptermütze,eine Helikopter-Mütze,eine Hubschraubermütze,eine Hubschrauber-Mütze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine propellermütze",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Klaas Heufer-Umlauf tweetete „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fledermäuse gibt es nicht,es gibt keine männlichen Katzen,Sosse kommt von Bäumen,Snickers hat 0 Kalorien,Martin Sheen war Präsident,Zweimal Unrecht ergibt einmal Recht,Die Mondlandung war gefaked",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Welche seltsame Sache hast du geglaubt, bis du herausgefunden hast, dass sie nicht stimmt?",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eine seltsame Sache, die <PLAYER> für eine lange Zeit geglaubt hat: <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine seltsame Sache, die <PLAYER> für eine lange Zeit geglaubt hat: <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasKeywordAudio"
     },
     {
@@ -68,7 +68,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "567853_0",
       "n": "KeywordResponseAudio"
     },
     {

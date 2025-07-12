@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "benutzten Kondomen,ihrem eigenen Erbrochenen,Walpenissen,dem Maul von Haien,Atommüll,Hummerkäfigen,zerbrochenen Flaschen,menschlichen Überresten,toten Delfinen,Müllhalden,Vulkanschloten,gefrorenen Gletschern,alten Toiletten,Sandburgen,Delfindärmen,Abwasserrohren,Plastiktüten,Klemmbausteinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wohnungssuche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hintern von Seegurken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Viele Perlfische leben in <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Seegurken-Hintern,Anus von Seegurken,After von Seegurken,Kloake von Seegurken,Kloaken von Seegurken,Enddarm von Seegurken,Enddärmen von Seegurken,Po von Seegurken,Darmausgang von Seegurken,Darmausgängen von Seegurken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hintern von Seegurken",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Viele Perlfische leben in <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Beerdigung erfunden,mein Handy ist in den See gefallen,behauptet Flötenunterricht zu haben ohne sie spielen zu können,Lebensmittelvergiftung,so getan als wäre ich in Holland,eine Verlobte erfunden,behauptet mein Kind hätte ein Knicklicht verschluckt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Was ist die dümmste Ausrede, die du je benutzt hast, um dich vor etwas zu drücken?",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Die dümmste Ausrede, die <PLAYER> benutzte, um sich vor etwas zu drücken, war <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die dümmste Ausrede, die <PLAYER> benutzte, um sich vor etwas zu drücken, war <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

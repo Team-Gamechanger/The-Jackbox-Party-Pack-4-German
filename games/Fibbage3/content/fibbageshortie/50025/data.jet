@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Parfüm,die Frisur,die Schuhgröße,tägliches Joggen,der Musikgeschmack,das Mittagessen,die Lieblingsfarbe,ein Meditationskurs,das Handy-Modell,das Urlaubsziel,ein Lächeln,der Ehepartner,die Atemtechnik,die Sockenfarbe,die Lesebrille,regelmäßiges Blutspenden,der Kaffeekonsum,ein Spitzname,die maximale Augenkontakt-Dauer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schutzkleidung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Unterwäsche-Farbe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Laut einem Urteil des Landesarbeitsgerichts Köln aus 2010 darf dem Personal in Flughafen-Sicherheitskontrollen durch den Arbeitgeber <BLANK> vorgeschrieben werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "die Unterwäschefarbe,die Farbe der Unterwäsche,die Dessous-Farbe,Dessous-Farbe,die Farbe der Unterbekleidung,die Slip-Farbe, die Unterhosen-Farbe,die BH-Farbe,Unterwäschefarbe,Farbe der Unterwäsche,Farbe der Unterbekleidung,Slip-Farbe,Unterhosen-Farbe,Unterhosenfarbe,BH-Farbe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]die Unterwäsche-Farbe",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Laut einem Urteil des Landesarbeitsgerichts Köln aus 2010 darf dem Personal in Flughafen-Sicherheitskontrollen durch den Arbeitgeber <BLANK> vorgeschrieben werden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

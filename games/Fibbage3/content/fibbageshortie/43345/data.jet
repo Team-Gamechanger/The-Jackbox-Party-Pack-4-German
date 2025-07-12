@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mit Gemüse warfen,absurde Theaterstücke aufführten,Steuergeld verbrannten,töpferten,ihre Hintern entblößten,Spottlieder sangen,Kinder wie Politiker verkleideten,als Schweine verkleidet protestierten,hässliche Kunst erstellten,beleidigende Gedichte vortrugen,Pferde wie Kühe verkleideten,Affen als Adlige verkleideten,Fäkalien auf Regierungsgebäude warfen,alle gemeinsam frühstückten,öffentlich urinierten,Plakate mit Schimpfwörtern aufhängten,schlechte Witze machten,Schals mit anstößigen Texten strickten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wunder",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "obszöne Schneemänner bauten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das Wunder von 1511 war ein Fest in Brüssel, bei dem die Bürger ihren Unmut über die Regierung zum Ausdruck brachten, indem sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Schneemänner mit Genitalien bauten,anstößige Schneefiguren formten,vulgäre Schneeskulpturen errichteten,anzügliche Schneemänner erschufen,pornografische Schneefiguren gestalteten,pornografische Schneemänner gestalteten,unzüchtige Schneeskulpturen aufstellten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]obszöne Schneemänner bauten",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Wunder von 1511 war ein Fest in Brüssel, bei dem die Bürger ihren Unmut über die Regierung zum Ausdruck brachten, indem sie <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "den Pausenraum-Kühlschrank|einer Axt,eine Mikrowelle|einem signierten Baseballschläger,einen Konferenzraum|einer Flex,einen Getränkeautomaten|einem Vorschlaghammer,einen Kopierer|einem Feuerlöscher,eine Teeküche|einem Klappstuhl,einen Aktenschrank|einer Bohrmaschine,einen Drucker|einem Bürostuhl,ein Fax|einem Dosenöffner,einen Serverraum|einer Kettensäge,einen Schreibtisch|einem Briefbeschwerer,einen Pausenraum|einem Korkenzieher,einen Aufzug|einem Aktenvernichter,einen Wasserspender|einem Tennisschläger,einen Safe|einem Toilettendeckel,einen Sicherungskasten|einem Feuerzeug,einen Münzautomaten|einer Tastatur,die Küchenwand|einer Nagelfeile",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aufbruch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Twix-Automaten|einem Gabelstapler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein Amerikaner aus Milford wurde gefeuert, nachdem er bei der Arbeit <BLANK> mit <BLANK> aufgebrochen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Automaten|einem Gabelstapler,einen Twix Automaten|einem Gabelstapler,einen Süßwarenautomaten|einem Gabelstapler,einen Twix-Automaten|einem Hubwagen,einen Süßigkeitenautomaten|einem Gabelstapler,einen Twix-Snackautomaten|einem Gabelstapler,einen Schokoriegel-Automaten|einem Hubstapler,einen Schokoriegel-Automaten|einem Gabelstapler,einen Twix-Automaten|einem Stapler,einen Twix-Automaten|einem Hubstapler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Twix-Automaten|einem Gabelstapler",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein Amerikaner aus Milford wurde gefeuert, nachdem er bei der Arbeit <BLANK> mit <BLANK> aufgebrochen hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Kuss versprochen bekommen,ein Glas Honig erhalten,Münzen sehen,Hintern sehen,herzhaft lachen,weinen,beten,Salat essen,an ihre Kindheit denken,Schokoladen-Werbung sehen,Döner essen,ein Centstück finden,ein Bier trinken,Seife benutzen,aufs Klo gegangen sind,mit dem linken Bein aufgestanden sind,eine Standpauke erhalten,Heavy Metal hören",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erste Hilfe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "frisches Brot riechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einer Studie haben Forscher der französischen Universität der Südbretagne herausgefunden, dass Menschen eher bereit sind, Fremden zu helfen, wenn sie zuvor <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "frisches Brot riechen können,frisches Brot gerochen haben,frischgebackenes Brot riechen,frisch gebackenes Brot riechen,gebackenes Brot riechen, gebackenes Brot riechen können,Brot riechen,Brot riechen können,Brot gerochen haben,den Duft von Brot riechen,den Duft von Brot gerochen haben,den Duft von Brot wahrgenommen haben,den Duft von Brot wahrnehmen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]frisches Brot riechen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einer Studie haben Forscher der französischen Universität der Südbretagne herausgefunden, dass Menschen eher bereit sind, Fremden zu helfen, wenn sie zuvor <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

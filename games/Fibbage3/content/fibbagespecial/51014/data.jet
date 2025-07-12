@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Weltreise mit Klaas,einen Tanzkurs bei Let's Dance,Game of Thrones,ein Duett mit Helene Fischer,Spaghetti-Eis,eine Katzenshow mit Olli Schulz,einen Tag als Kanzler,eine Gürtelsammlung,schwedisches Ferienhaus,ein Backduell mit dem Gottschalk,einen Wackelkopf von mir selbst,eine Karriere als Extremgärtner,fliegender Teppich,eine Nacht im Freizeitpark,einen goldenen Strohhalm,Visitenkarten,Excel,Tesafilm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "weihnachten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Joko Winterscheidt tweetete „ich hätte voll bock auf <BLANK>!“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "14:28 Uhr<br />1. Jan. 2019",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@officiallyjoko",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsfest,X-mas,Christmas,Heiligabend,die Weihnacht",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]weihnachten",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Joko Winterscheidt tweetete „ich hätte voll bock auf <BLANK>!“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

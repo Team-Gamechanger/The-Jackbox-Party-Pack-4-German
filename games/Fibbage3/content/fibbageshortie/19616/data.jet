@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alten Bunkern,verlassenen U-Bahn-Tunneln,Zahngold amerikanischer Bürger,Elektronikschrott,Mount Rushmore,Area 51,ausgedienten Satelliten,den Tresoren der Vatikanbank,Teddybären,ungeöffneten Pokémon-Karten,ausrangierten U-Booten,Schweizer Käse,Disney-Freizeitparks,verlorenen Flugzeugen im Bermuda-Dreieck,Fast-Food-Fritteusen,alten Matratzen,Nordkorea,amerikanischen Schulgebäuden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimes Gold",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "menschlichen Fäkalien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Nach Angaben des U.S. Geological Survey sind Hunderte von Millionen Dollar an Gold und anderen Edelmetallen in <BLANK> versteckt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "menschlichem Kot,menschlichen Exkrementen,Fäkalien,Ausscheidungen,Stuhlgang,Kot,menschlichen Abfällen,Fäzes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]menschlichen Fäkalien",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Nach Angaben des U.S. Geological Survey sind Hunderte von Millionen Dollar an Gold und anderen Edelmetallen in <BLANK> versteckt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

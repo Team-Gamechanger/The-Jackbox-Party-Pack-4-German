@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1400 Jahren fanden.",
+      "v": "Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1.400 Jahren fanden.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1400 Jahren fanden.",
+      "s": "[category=host]Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1.400 Jahren fanden.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

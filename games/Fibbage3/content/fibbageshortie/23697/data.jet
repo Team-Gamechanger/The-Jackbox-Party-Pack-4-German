@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Sperma",
+      "v": "Samen",
       "n": "Category"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In den 1990er-Jahren gründete ein Unternehmer namens Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
+      "v": "In den 1990er-Jahren gründete der Unternehmer Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In den 1990er-Jahren gründete ein Unternehmer namens Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
+      "s": "[category=host]In den 1990er-Jahren gründete der Unternehmer Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

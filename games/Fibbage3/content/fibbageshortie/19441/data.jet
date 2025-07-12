@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schwedische Massagen,Hundekot,ABBA-Lieder,Kröten lecken,Grammatik korrigieren,Zehennägel essen,Fußgeruch,alleine sein,Bauchnabel,unnötige Operationen,Fallschirmspringen,Arztbesuche,Babys adoptieren,Milchzähne,Schnäppchen kaufen,Tattoos,gewürgt werden,Treppensteigen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hobbys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Esel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Jemand, der „Onolatrie“ praktiziert, mag <BLANK> wirklich sehr.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Esel,Maulesel,die Esel,Hausesel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Esel",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jemand, der „Onolatrie“ praktiziert, mag <BLANK> wirklich sehr.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

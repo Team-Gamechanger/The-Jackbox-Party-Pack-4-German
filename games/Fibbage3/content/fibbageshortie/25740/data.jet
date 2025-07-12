@@ -7,7 +7,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasKeywordAudio"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Mittelalter wurde die „Bahrprobe“ bei Mordermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
+      "v": "Im Mittelalter wurde die „Bahrprobe“ bei Ermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
       "n": "QuestionText"
     },
     {
@@ -68,7 +68,6 @@
     {
       "s": "[category=host]",
       "t": "A",
-      "v": "567833_0f",
       "n": "KeywordResponseAudio"
     },
     {
@@ -87,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Mittelalter wurde die „Bahrprobe“ bei Mordermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
+      "s": "[category=host]Im Mittelalter wurde die „Bahrprobe“ bei Ermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Reis|die Toilette,Glückskekse|den Gepäckraum,Salz|das Cockpit,eine Wassermelone|den Gang,Opfergaben|die Bordküche,Papierflieger|den Notausgang,ein Amulett|das Cockpit,Weihwasser|den Treibstofftank,Reis|das Handgepäckfach,Glücksbambus|das Fahrwerk,Räucherstäbchen|den Getränkewagen,Knoblauch|das Haar des Piloten,Weihrauch|ihr Kissen,einen Brief|den Flugsimulator,Salz|den Feuermelder,ein Stofftier|die Sicherheitsrutsche,ein Taschentuch|den Frachtraum,ihr Ticket|die erste Klasse",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "superstitious passengers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Münzen|ein Triebwerk des Flugzeugs",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bei einem Flug von Shanghai verzögerte eine abergläubische Passagierin den Start um mehr als fünf Stunden, nachdem sie <BLANK> in <BLANK> geworfen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Münze|ein Triebwerk des Flugzeugs,Münzen|die Turbine,Geldmünzen|das Triebwerk,Kleingeld|ein Flugzeugtriebwerk,Münzen|ein Flugzeugtriebwerk,Geld|die Flugzeugturbine,Münzen|den Motor des Flugzeugs,Münzen|die Triebwerke,Kleingeld|die Triebwerke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Münzen|ein Triebwerk des Flugzeugs",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei einem Flug von Shanghai verzögerte eine abergläubische Passagierin den Start um mehr als fünf Stunden, nachdem sie <BLANK> in <BLANK> geworfen hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

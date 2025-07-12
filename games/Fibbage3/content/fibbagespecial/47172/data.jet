@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Staubwischen,meine Puppenmaschine,mein Dreirad Fahrrad und Einrad,Pete und die Radler,imaginäre Bekannte,die Geigencrew,das Bauchnabel-Bonanza,Tortendiagramme,Lampen die zu Menschen werden,mein ärmelloses Hemd,meine Truppe vom Sommer '95,diese peinlichen Familienessen,den alten Cello-Bauch,Apples Keynote 2012,den Tag an dem ich meine Brieftasche verlor,das Wartezimmer im Einwohnermeldeamt,meine Erdnussallergie,Cheddar",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Damenkapelle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Titel dieser kuriosen Zeichnung von Paul Klee lautet „Zur Erinnerung an <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Damenkapelle,Frauen-Kapelle,eine Frauen-Kapelle,die Frauen-Kapelle,Damen-Orchester,ein Damen-Orchester,das Damen-Orchester,Frauenorchester,Frauen-Orchester,ein Frauenorchester,das Frauenorchester,ein Frauen-Orchester,das Frauen-Orchester,Frauenkapelle,die Frauenkapelle,eine Frauenkapelle,Damen-Kapelle,Damenkapelle,eine Damen-Kapelle,die Damen-Kapelle,eine Damenkapelle,die Damenkapelle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "654198_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Damenkapelle",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Titel dieser kuriosen Zeichnung von Paul Klee lautet „Zur Erinnerung an <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

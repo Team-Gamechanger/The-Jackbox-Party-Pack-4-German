@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Krümelmonster,Barack Obama,Wladimir Putin,Peter Griffin,dem Grinch,Adolf Hitler,Angela Merkel,SpongeBob Schwammkopf,Elmo,Super Mario,Bill Cosby,Dracula,Albert Einstein,Betty White,Cap’n Crunch,Julius Cäsar,Jesus,Lassie",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>Playmobil</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luther",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Überraschenderweise hält eine kleine <i>Playmobil</i>-Figur von <BLANK> den Rekord für die am schnellsten verkaufte Figur der Firma.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luthor,Luther,M. Luther",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Martin Luther",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Überraschenderweise hält eine kleine <i>Playmobil</i>-Figur von <BLANK> den Rekord für die am schnellsten verkaufte Figur der Firma.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

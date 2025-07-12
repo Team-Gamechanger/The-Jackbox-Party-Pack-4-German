@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Schreibtherapie-Praxis,eine Tintenfisch-Ausstellung,ein Museum für kaputte Stifte,eine Graffiti-Akademie,einen Filzstift-Friedhof,eine Reparaturwerkstatt für Marker,ein Handgelenk-Fitnessstudio,einen Anti-Sauklaue-Kurs,ein Spa für gestresste Stifte,eine Universität für Kalligrafie,eine Diskothek für Büroartikel,eine Wäscherei gegen Tintenflecken,eine Tankstelle für leere Patronen,eine interaktive Filzstift-Ausstellung,einen Skateboard-Laden,ein Restaurant nur für Linkshänder,einen Filzstift-Lieferservice,eine Stift-Gewerkschaft",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Neueröffnung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Tattoo-Studio",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im August 2020 verkündete der Schreibwarenhersteller <i>edding</i>, dass er in der Hamburger Innenstadt <BLANK> eröffnet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tattoo-Studio,ein Tattoo Studio,Tattoo Studio,ein Tattoostudio,Tattoostudio,ein Tatoo-Studio,Tatoo-Studio,ein Tatoo Studio,Tatoo Studio,ein Tatoostudio,Tatoostudio,ein Tatto-Studio,Tatto-Studio,ein Tatto Studio,Tatto Studio,ein Tattostudio,Tattostudio,einen Tätowierer,ein Tätowierer,das Tattoo-Studio,das Tattoo Studio,das Tattoostudio",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Tattoo-Studio",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im August 2020 verkündete der Schreibwarenhersteller <i>edding</i>, dass er in der Hamburger Innenstadt <BLANK> eröffnet.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

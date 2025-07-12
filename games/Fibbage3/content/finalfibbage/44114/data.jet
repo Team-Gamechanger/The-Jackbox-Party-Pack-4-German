@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im März 2017 brachte die Firma The Library of Fragrance ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
+      "v": "Im März 2017 brachte die Firma <i>The Library of Fragrance</i> ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im März 2017 brachte die Firma The Library of Fragrance ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
+      "s": "[category=host]Im März 2017 brachte die Firma <i>The Library of Fragrance</i> ihr neuestes Parfüm auf den Markt, dass wie <BLANK> von <BLANK> riecht.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

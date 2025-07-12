@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem falschen Feuer,Popeye,einem großen Hai,Superman,einem glitzernden Wikingerschiff,einem Mittelfinger,einem Seemonster,einem wütenden Wikinger,Gott,einer blinkenden Atombombenwarnung,einem mahnenden Totenkopf,einem sexy Hirsch,ABBA,einem gespenstischen Geisterschiff,einem riesigen Stoppschild,einem riesigen Hintern,Thor,einem feuerspeienden Drachen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stockholm",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem tanzenden schwulen Seemann",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Um russische U-Boote von ihren Gewässern fernzuhalten, hat eine schwedische Friedensorganisation vor der Küste Stockholms ein großes Neonschild mit <BLANK> aufgestellt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einem schwulen tanzenden Matrosen,einem homosexuellen Seemann,einem Gay-Sailor,einem tanzenden schwulen Marinesoldat,einem queeren Seemann,einem homosexuellen Matrosen,einem Gay-Seemann,einem tanzenden Seemann,einem tanzenden Matrosen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem tanzenden schwulen Seemann",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Um russische U-Boote von ihren Gewässern fernzuhalten, hat eine schwedische Friedensorganisation vor der Küste Stockholms ein großes Neonschild mit <BLANK> aufgestellt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

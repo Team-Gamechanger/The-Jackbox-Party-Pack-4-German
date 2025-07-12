@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "den Heiligen Maiskolbenhalter,den Jesus-Zahnstocher,die Heilige Reißzwecke,die Heilige Haarnadel,die Christus-Manschettenknöpfe,die Kirchen-Vogelscheuche,den Heiligen Zaunpfahl,die Papst-Anstecknadel,das Heilige Putenthermometer,den Heiligen Kirschenentsteiner,den Bibel-Mango-Schäler,das Heilige Lesezeichen,den gesegneten Fondue-Spieß,den heiligen Torpedo,die Jesus-Handgranate,den christlichen Dartpfeil,den Jesus-Eierschalensollbruchstellenverursacher,die Jesus-Gartenleuchte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Weihwasser-Rasensprenger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei diesem Patent handelt es sich um <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Weihwassersprenger,Weihwassersprinkler,Weihwasser-Rasensprinkler,Weihwasser Sprenger,Weihwasser Sprinkler,Weihwasser Rasensprinkler,Weihwasser Rasensprenger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646927_2",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]den Weihwasser-Rasensprenger",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bei diesem Patent handelt es sich um <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in den Buckingham Palace einbrach,den Mount Rushmore bestieg,behauptete Shakespeares Urenkel zu sein,Alaska für England beanspruchte,Dodos aß,Mark Twains Frau entführte,behauptete es seien die 1890er,den Big Ben in einer Windel erklomm,gefälschte Dinosaurierknochen entdeckte,versuchte zum Mond zu fliegen,Schnurrbärte auf den Mount Rushmore zeichnete,sich in Tutanchamuns Grab schlich,eine ganze Autobatterie aß,Scherzanrufe bei Teddy Roosevelt machte,Dynamit verschluckte,nackt durch Museen lief,lebende Ratten aß,vor dem Weißen Haus schlief",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Berühmt werden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "von Brücken sprang",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Schon mal von Larry Donovan gehört? Er versuchte in den 1880er Jahren berühmt zu werden, indem er wiederholt <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Brückensprünge machte,von Brücken in die Tiefe sprang,sich von Brücken stürzte,von Brücken stürzte,von hohen Brücken sprang,von Brücken ins Wasser sprang",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]von Brücken sprang",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Schon mal von Larry Donovan gehört? Er versuchte in den 1880er Jahren berühmt zu werden, indem er wiederholt <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

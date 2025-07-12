@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Elch|Polizeichef,einen Hund|Touristenführer,einen Lachs|Maskottchen,einen Schlittenhund|Ehrenbürger,eine Gans|Stadtwächterin,ein Murmeltier|Wettervorhersager,eine Schaufensterpuppe|Sheriff,ein Fossil|Glücksbringer,eine Baumstumpf|Ratgeber,eine Petroleumlampe|Touristenmagnet,ein Thermometer|Wirtschaftsbeauftragten,einen Stiefel|Maskottchen,einen Waschbären|Postboten,einen Teddybären|Pressesprecher,einen Totempfahl|Streitschlichter,einen Kaktus|Stadtsprecher,einen Truthahn|Zeremonienmeister,einen Papagei|Wettervorhersager",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alaska",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Katze|Bürgermeister",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Stadt Talkeetna in Alaska hatte 20 Jahre lang <BLANK> als <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Kater|Bürgermeister,eine Miezekatze|Bürgermeister,eine Hauskatze|Bürgermeisterin,eine Hauskatze|Bürgermeister,ein Kätzchen|Bürgermeister,eine Katze|Oberbürgermeister,ein Kater|Bürgermeister,eine Mieze|Bürgermeister,ein Kätzchen|Bürgermeister",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Katze|Bürgermeister",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Stadt Talkeetna in Alaska hatte 20 Jahre lang <BLANK> als <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kurort|Krönung,Heilquellen|Hochkultur,Thermalbäder|Eleganz,Stadtluft|Moderne,Gesundheit|Genuss,Wasser|Wohlstand,Quellen|Qualität,Entspannung|Erholung,Wellness|Wanderung,Schlösser|Schönheit,Kaiser|Krone,Natur|Nobelhotels,Eleganz|Erlebnis,Heilung|Herrschaft,Bäder|Bildung,Wohlfühlen|Weitblick,Höhenluft|Herzlichkeit,Zauber|Zukunft,Kurwesen|Kultur",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Slogan",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Champagnerluft|Tradition",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die hessische Stadt Bad Homburg vor der Höhe hat den kuriosen Slogan „<BLANK> und <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tradition|Champagnerluft,Champagner|Tradition,Schampagner|Tradition,Schampagnerluft|Tradition,Champagner-Luft|Tradition,Champagnerluft|Traditionen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Champagnerluft|Tradition",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die hessische Stadt Bad Homburg vor der Höhe hat den kuriosen Slogan „<BLANK> und <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

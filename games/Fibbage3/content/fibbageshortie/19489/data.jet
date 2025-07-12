@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten „55 Cancri e“ aus <BLANK> besteht..",
+      "v": "Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten Janssen aus <BLANK> besteht..",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten „55 Cancri e“ aus <BLANK> besteht..",
+      "s": "[category=host]Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten Janssen aus <BLANK> besteht..",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer goldenen Klobürste,einer Urkunde aus Bananenschalen,einem lebensgroßen Plüschtier,einer Bienenzucht,einem Vulkanbaukasten,einer singenden Trophäe,einem Jahresvorrat Kaffee,einem Atom-Modell aus Schokolade,einer Jahreskarte für den Zoo,einer Privataudienz beim Papst,einem eigenen schwarzen Loch,einem Satz Reagenzgläser aus Kristall,einem zerlegten Toaster,einer Steinschleuder,einem sprechenden Mikroskop,einem lebensgroßen Einstein-Hologramm,einem Frosch in Formaldehyd,einem Kasten Bier,einer Packung Wunderkerzen,einem Sack Kartoffeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Oberhummer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Glas Alpakakot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Heinz-Oberhummer-Award, ein jährlich verliehener Preis für Wissenschaftskommunikation, ist mit 20.000 Euro und <BLANK> dotiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Alpakakot,einem Glas mit Alpakakot,einem Alpakakot-Glas,einem Alpakakot Glas,Alpaka Kot,Kot von Alpakas,einem Alpaka Kot Glas,einem Behälter mit Alpakakot,einem Glas mit Alpakadung,einem Gefäß Alpakamist,einem Glas Alpaka-Exkrementen,einem Glasgefäß mit Alpakakot,einem Alpakakot-Behälter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem Glas Alpakakot",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Heinz-Oberhummer-Award, ein jährlich verliehener Preis für Wissenschaftskommunikation, ist mit 20.000 Euro und <BLANK> dotiert.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

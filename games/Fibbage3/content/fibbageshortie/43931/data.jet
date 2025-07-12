@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vergorene Milch trinken,Schokolade essen,Theaterstücke besuchen,tanzen,Schnurrbart tragen,Hunde besitzen,Liebesromane lesen,Strohhüte tragen,Seide tragen,schnipsen,Italienisch sprechen,ihre Wände “cremeweiß” streichen,Spiegel besitzen,Schach spielen,Bier brauen,auf dem Bauch schlafen,ihre Haare zu zöpfen binden,Gabeln besitzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Papperla-Papst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kaffee trinken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im 17. Jahrhundert widersetzte sich Papst Clemens VIII. seinen Beratern und verfügte, dass Katholiken fortan <BLANK> dürfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Kaffeetrinken,Kaffee konsumieren,Kaffee probieren,Kafee trinken,Kaffe trinken,Coffee trinken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kaffee trinken",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im 17. Jahrhundert widersetzte sich Papst Clemens VIII. seinen Beratern und verfügte, dass Katholiken fortan <BLANK> dürfen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Ein Mann aus dem chinesichen Shaanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
+      "v": "Ein Mann aus dem chinesichen Shanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein Mann aus dem chinesichen Shaanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
+      "s": "[category=host]Ein Mann aus dem chinesichen Shanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

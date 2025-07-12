@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Burger|einer Portion Pommes,ein Boot|einem Radsatz,eine Person|einem dritten Arm,eine Hose||Klett- statt Reißverschluss,eine Gitarre|wirklich funkigen Sound,eine Ehefrau|einer Hausspinne,eine Karte|eingebautem Kompass,ein Zwillingspaar|einer Neigung zum Jodeln,einen Mann|sechs Fingern,eine alte Dame|einem dunklen Geheimnis,einen Geist|einem selbstgebauten Geisterfinder,eine verlorene Goldmünze|einem Metalldetektor,einen Tempel|einem fluoreszierenden Totenkopf,einen berittenen Polizisten|einer Reisegruppe,ein Café|einer verlässlichen WLAN-Verbindung,eine Mumie|einem verfluchten Dolch,eine Schlange|einem dreifachen Kopf,ein Restaurant|Hygienestandards",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Life Goals",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Ente|pinkem Kopf",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Seit 2009 hat der Forscher Richard Thorns sechs Reisen nach Myanmar unternommen, um <BLANK> mit <BLANK> zu finden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ente|pinkem Kopf,eine Ente|einem pinken Kopf,Ente|einem pinken Kopf,eine Ente|pinken Kopf,Ente|pinken Kopf,eine Ente|einen pinken Kopf,Ente|einen pinken Kopf,eine Ente|rosa Kopf,Ente|rosa Kopf,eine Ente|einem rosa Kopf,Ente|einem rosa Kopf,eine Ente|rosa Kopf,Ente|rosa Kopf,eine Ente|einen rosanen Kopf,Ente|einen rosanen Kopf",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Ente|pinkem Kopf",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Seit 2009 hat der Forscher Richard Thorns sechs Reisen nach Myanmar unternommen, um <BLANK> mit <BLANK> zu finden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

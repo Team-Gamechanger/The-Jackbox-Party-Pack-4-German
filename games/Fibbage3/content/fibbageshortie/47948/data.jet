@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Löffel,Stühle,Stifte,Parfüm-Duftproben,Hinweise auf seine abscheulichen Verbrechen,Puzzleteile,Luftballons,Hirschgeweihe,bestandene Vokabeltests,Gründe warum Ringo der beste Beatle ist,verwelkte Blumen,Genesungskarten,Muffins,Kopien von Blade Runner auf VHS,Käseräder,Briefe an den Weihnachtsmann,leere Geschenkkartons,Einkaufswagenchips",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "99",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wassermelonen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wer den oder die Ex zurückgewinnen will, sollte vielleicht nicht dem Beispiel eines Studenten der Henan-Universität in China folgen. Er schenkte seiner ehemaligen Freundin 99 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Melonen,Wassermelone,Melonenstücke,Honigmelonen,Zuckermelonen,Wassermelonenstücke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Wassermelonen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wer den oder die Ex zurückgewinnen will, sollte vielleicht nicht dem Beispiel eines Studenten der Henan-Universität in China folgen. Er schenkte seiner ehemaligen Freundin 99 <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Kendall Corlius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
+      "v": "Kendall Crolius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Kendall Corlius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
+      "s": "[category=host]Kendall Crolius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

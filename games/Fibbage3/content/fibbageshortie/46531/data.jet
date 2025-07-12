@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gedanken fotografieren,unsichtbare Krankheiten erkennen,bewegte Fotos aufnehmen,Snapchat-Filter lebendig machen,anständige Aufnahmen bei schlechtem Licht machen,verborgene Farben sehen,Verschmutzungsgrade messen,Gerüche reproduzieren,die Zeit anhalten,Erinnerungen aufzeichnen,Flüche aufheben,interdimensionale Signale empfangen,Träume filtern,Spiegelbilder manipulieren,Paralleluniversen scannen,Erinnerungen löschen,Sehschwäche korrigieren,Hunde fliegen lassen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Super-Kameras",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "geschlossene Bücher lesen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Es mag unmöglich erscheinen, aber Forscher am MIT und Georgia Institute of Technology haben eine spezielle „Terahertz-Kamera“ entwickelt, die tatsächlich <BLANK> kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ins Innere von Büchern sehen,nicht geöffnete Bücher lesen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]geschlossene Bücher lesen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Es mag unmöglich erscheinen, aber Forscher am MIT und Georgia Institute of Technology haben eine spezielle „Terahertz-Kamera“ entwickelt, die tatsächlich <BLANK> kann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

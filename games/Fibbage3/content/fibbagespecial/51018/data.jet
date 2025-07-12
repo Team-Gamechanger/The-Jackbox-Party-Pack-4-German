@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Geschlechtsverkehr,Sachsen-Besuch,Nacktbaden im Regierungsviertel,die Karriere als Feuerschlucker,Dates?,Zumba Kurs,Netflix & Chill,Hagelsturm,Atomkrieg,Revolution,Geburt,Weltuntergang,Auferstehung,Brot,Muttertag,Bundestagswahl,Dschungelcamp,Tesafilm Knappheit,Bowlingabend",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "murmeltiertag",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Klaas Heufer-Umlauf tweetete „heute wäre tendenziell eher ungünstig für <BLANK>.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "22:26 Uhr<br />7. Jan. 2020",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@damitdasklaas",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Murmeltier-Tag,Groundhog Day,Murmeltiertage,Tag des Murmeltiers,Murmeltier Tag,Groundhogday,Murmeltier-Feiertag,Punxsutawney Phil Tag",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]murmeltiertag",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Klaas Heufer-Umlauf tweetete „heute wäre tendenziell eher ungünstig für <BLANK>.“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

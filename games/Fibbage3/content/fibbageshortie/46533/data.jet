@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mord,Impfgegner,Furry,Schwarzäugige Erbsen,Pelz,Kannibalisten,Tentakel,Hintern-Anfassen,Orgien,Marionetten,Penis,Müllverspeisungs,Schimmel,Zehennägel,Soziopathen,Schwarze Magie,Mittelalter-Toiletten,Google Translate",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Übersetzungsfehler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Klitoris",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine kleine Stadt in Nordspanien versuchte, Online-Anzeigen für ihr Food Festival 2015 zu schalten. Leider wurde aufgrund eines <i>Google</i>-Übersetzungsfehlers versehentlich ein <BLANK>-Festival beworben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Klitorisse,Klitoriden,Klitorisfest",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Klitoris",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine kleine Stadt in Nordspanien versuchte, Online-Anzeigen für ihr Food Festival 2015 zu schalten. Leider wurde aufgrund eines <i>Google</i>-Übersetzungsfehlers versehentlich ein <BLANK>-Festival beworben.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

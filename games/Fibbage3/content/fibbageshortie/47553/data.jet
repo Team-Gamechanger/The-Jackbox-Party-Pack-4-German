@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Eisbärensterben,die Erderwärmung,die Erdrotation,Ölbohrungen,Bienensterben durch Roboterbienen,das Meckern der Leute,die Sonne vom Scheinen,Meteoriten mit Lasern,jammernde Hippies,SUVs auf den Autobahnen,Massentierhaltung,falsche Mülltrennung,Geländewagen beim Starten,den Drang nach Zigaretten,Styroporpartys,Müllschiffe beim Ablegen,Zahnpasta mit Glitzerpartikeln,Pizzakartons",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Grüner werden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kuhrülpser",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "DSM, ein Unternehmen aus den Niederlanden, hat ein neues Produkt erfunden, das zur Rettung der Umwelt beitragen könnte, indem es <BLANK> stoppt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Rülpser von Kühen,Kuh Rülpser,Kuh-Rülpser,Kuhrülpsen,das Rülpsen von Kühen,Kuh Rülpsen,Kuh-Rülpsen,Rülpser von Rindern,Rinder Rülpser,Rinder-Rülpser,Rinderrülpsen,das Rülpsen von Rindern,Rinder Rülpsen,Rinder-Rülpsen,Rinderrülpser",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kuhrülpser",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]DSM, ein Unternehmen aus den Niederlanden, hat ein neues Produkt erfunden, das zur Rettung der Umwelt beitragen könnte, indem es <BLANK> stoppt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

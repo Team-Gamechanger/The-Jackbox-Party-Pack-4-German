@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sex,atmen,Geisteskranke,Füße,Hintern,Spaziergänge,Rückenhaare,Selbstgespräche,rothaarig sein,Geburtstage,Sommer,hässliche Kinder,singen,lachen,weiblich sein,Zahnverlust,Luft,das Wort “Furz”",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Römer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Urin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ihr denkt, ihr zahlt zu viele Steuern? Dann habt ihr wohl nicht unter dem römischen Herrscher Vespasian gelebt, der Steuern für <BLANK> erhob.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pipi,Pisse,Harn,Urinieren,Pinkeln,das Urinieren,das Pinkeln,Pissen,das Pissen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Urin",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ihr denkt, ihr zahlt zu viele Steuern? Dann habt ihr wohl nicht unter dem römischen Herrscher Vespasian gelebt, der Steuern für <BLANK> erhob.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

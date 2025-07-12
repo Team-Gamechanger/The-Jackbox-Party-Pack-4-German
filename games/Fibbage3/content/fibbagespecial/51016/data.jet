@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Gesichtsmaske,ein Rap-Solo,einen Netflix-Marathon in Unterwäsche,die komplette Käsetheke,einen Tanz mit dem Staubsauger,neue Krawatten,einen Schnack mit meinen Topfpflanzen,eine Partie Twister,eine spontane Zaubershow,ein Rap-Battle,ein Liedchen mit meinem Waffeleisen,einen Weitsprungwettbewerb,Socken mit meinem Gesicht drauf,sieben Folgen Dschungelcamp,einen Jodelkurs,eine Opernaufführung für meine Gummiente,eine neue Zahnbüste,nen Döner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Cuba Libre",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jens Spahn tweetete „Also, ich gönne mir heute Abend <BLANK>.“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "19:25 Uhr<br />26. Nov. 2016",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@jensspahn",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einen Kuba Libre,einen Cuba-Libre,einen Kuba-Libre,einen Bacardi-Cola,eine Bacardi-Cola,einen Bacardi Cola,eine Bacardi Cola,einen Rum-Cola,eine Rum-Cola,einen Rum Cola,eine Rum Cola",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Cuba Libre",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jens Spahn tweetete „Also, ich gönne mir heute Abend <BLANK>.“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

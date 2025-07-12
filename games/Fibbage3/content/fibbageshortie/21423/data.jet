@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> mit Graffiti besprüht hatte.",
+      "v": "Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> besprüht hatte.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> mit Graffiti besprüht hatte.",
+      "s": "[category=host]Im Jahr 2015 suchte die Polizei von Los Angeles nach einem Graffitikünstler, der ausgerechnet <BLANK> besprüht hatte.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

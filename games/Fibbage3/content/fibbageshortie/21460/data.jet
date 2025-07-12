@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Stoppuhr,Funkgeräte,Kompass,GPS-Tracker,Pulsmesser,Thermometer,Wasserwaage,Bluetooth-Lautsprecher,Zahnarztterminplaner,Smartphones,Miniatur-Kameras,Trillerpfeife,Schrittzähler,Luftfeuchtigkeitsmesser,Funkchips,Höhenmesser,Powerbanks,Notrufknöpfe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zahnmedizin",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Flaschenöffner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Werbeagentur Ogilvy & Mather hat eine Gruppe argentinischer Rugbyspieler mit speziellen Zahnimplantaten ausgestattet, die auch als <BLANK> dienen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bieröffner,Kronkorkenöffner,Flaschen Öffner",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Flaschenöffner",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Werbeagentur Ogilvy & Mather hat eine Gruppe argentinischer Rugbyspieler mit speziellen Zahnimplantaten ausgestattet, die auch als <BLANK> dienen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

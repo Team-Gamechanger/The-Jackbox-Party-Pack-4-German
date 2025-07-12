@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Produzent von <BLANK>.",
+      "v": "Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Ursprung von <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Produzent von <BLANK>.",
+      "s": "[category=host]Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Ursprung von <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

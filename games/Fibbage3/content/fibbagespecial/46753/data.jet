@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "macht es sich zu gemütlich,fliegt zum Mond,findet einen Freund,stiehlt Eier,ist jetzt der Chef,besucht einen Freizeitpark,lernt Spanisch,und die Parkbank,kauft einen Bademantel,sieht eher aus wie ein Panther,und das Holzpferd,als Taxifahrer,rettet die Stadt,erfindet Kunst,zerstört die Sanitäranlagen,verlor seine Kontaktlinse,fällt einen Baum,ist aufsässig",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst oder Krempel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "versucht sich als Zimmermann",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Titel dieses Werks aus dem 18. Jahrhundert lautet „Der Affe <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "versucht sich als Tischler,versucht sich als Schreiner,wird Schreiner,wird Zimmermann,wird Tischler,als Schreiner,als Zimmermann,als Tischler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "649125_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]versucht sich als Zimmermann",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Titel dieses Werks aus dem 18. Jahrhundert lautet „Der Affe <BLANK>“.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

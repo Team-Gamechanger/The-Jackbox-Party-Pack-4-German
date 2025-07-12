@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "erstickte an einem Stück Kuchen,ertrank in einer Pfütze,spielte Golf,fiel durch einen Gullideckel,sang “Happy Birthday”,fiel von einem Gartenstuhl,verbrühte sich mit Tee,verlor das Gleichgewicht beim Zeitungslesen,erschlug sich selbst,trat auf einen Nagel,verschluckte seinen Zahnstocher,leckte an einem Giftfrosch,verschluckte sich an einer Murmel,verirrte sich in seinem Garten,stieß sich den Kopf am Türrahmen,erlag einem Schluckauf,hat zu viel geschlafen,hat sich im Auto eingeschlossen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Niagarafälle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rutschte auf einer Orangenschale aus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bobby Leach, der zweite Mensch, der eine Fahrt über die Niagarafälle überlebte, fand sein Ende auf eine weit weniger spektakuläre Weise: Denn er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "stolperte über eine Orangenschale,stolperte über eine Apfelsinenschale,rutschte auf einer Apfelsinenschale aus,glitt auf einer Orangenschale aus,rutschte auf einer Mandarinenschale aus,stolperte über Zitrusfruchtschalen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]rutschte auf einer Orangenschale aus",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bobby Leach, der zweite Mensch, der eine Fahrt über die Niagarafälle überlebte, fand sein Ende auf eine weit weniger spektakuläre Weise: Denn er <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

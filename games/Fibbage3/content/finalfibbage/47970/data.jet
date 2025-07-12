@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cola|Pepsi,einen schnellen Tod|ein langes Leiden,Sake|Tee,einen Kuss|eine Umarmung,ewigen Schlaf|ewige Schlaflosigkeit,Krieg|Frieden,das Messer|die Axt,einen Wunsch|eine Strafe,einen Fluch|einen Segen,einen Anruf|eine SMS,McDonalds|Burger King,Senf|Ketchup,weiße|schwarze Socken,Erde|Wasser,ein Geständnis|ein Geheimnis,die Wahrheit|eine Lüge,ein Lied|ein Gedicht,einen Actionfilm|eine Komödie anschauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Decisions Decisions",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rotes Toilettenpapier|blaues Toilettenpapier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In Japan gibt es eine gruselige urbane Legende über den bösartigen Geist „Aka Manto“. Bevor er dich tötet, fragt er dich einfach, ob du <BLANK> oder <BLANK> möchtest.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "rotes Klopapier|blaues Klopapier,rotes WC-Papier|blaues WC-Papier,rote Klorolle|blaue Klorolle,blaues Toilettenpapier|rotes Toilettenpapier,blaues Klopapier|rotes Klopapier,blaues WC-Papier|rotes WC-Papier,blaue Klorolle|rote Klorolle,das rote|das blaue Toilettenpapier,rotes|blaues Toilettenpapier,das blaue|das rote Toilettenpapier,blaues|rotes Toilettenpapier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]rotes Toilettenpapier|blaues Toilettenpapier",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In Japan gibt es eine gruselige urbane Legende über den bösartigen Geist „Aka Manto“. Bevor er dich tötet, fragt er dich einfach, ob du <BLANK> oder <BLANK> möchtest.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

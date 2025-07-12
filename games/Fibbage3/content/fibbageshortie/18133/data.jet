@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wodkaflaschen,Hämmer,Münzen,Zahnpasta,Marmor,Würmer,Unterwäsche,Zähne,Weizen,Zitronen,Pistolenkugeln,Seife,Haare,Hamburger,geheime Notizen,Kartoffeln,Knochen,Apfelscheiben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mindesthaltbarkeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Frösche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Bevor Kühlschränke erfunden wurden, benutzten einige Russen einen seltsamen, aber effektiven Trick, um Milch vor dem Verderben zu schützen. Sie legten <BLANK> in ihre Milchkübel.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Frosch,froschkröte,kröte,Kröten,Froschkröten,Fröschchen,Lurche,lebende Frösche",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Frösche",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bevor Kühlschränke erfunden wurden, benutzten einige Russen einen seltsamen, aber effektiven Trick, um Milch vor dem Verderben zu schützen. Sie legten <BLANK> in ihre Milchkübel.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gitarrensaiten|Plektren,Schallplatten|Kassettenbändern,Notenblättern|Drumsticks,Stahlwolle|Maschendrahtzaun,Eiswürfeln|Klebeband,Wolfspelz|Konfetti,kaputten Laufsocken|Fanbriefen,Autogrammkarten|Fanpost,toter Haut|Beinhaaren,alten Fallschirmen|Schlafsäcken,Bettlaken|Lakritze,amerikanischen Flaggen|Jeans,Notizblöcken|Hotelhandtüchern,Tourbussen|Bühnenteilen,toten Delfinen|benutzten Sneakern,Toilettenpapier|getrockneter Spucke,Strandtüchern|Bierdosen,Bandshirts|Merchandiseartikeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frank Zappa",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "BHs|Unterhosen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In den frühen 80ern gab der amerikanische Experimentalmusiker Frank Zappa eine ungewöhnliche Steppdecke in Auftrag. Sie bestand vollständig aus <BLANK> und <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "BHs|Slips,Büstenhaltern|Unterhosen,Büstenhalter|Unterwäsche,BH-Teile|Unterhöschen,BH-Stücke|Unterwäschestücke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]BHs|Unterhosen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In den frühen 80ern gab der amerikanische Experimentalmusiker Frank Zappa eine ungewöhnliche Steppdecke in Auftrag. Sie bestand vollständig aus <BLANK> und <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

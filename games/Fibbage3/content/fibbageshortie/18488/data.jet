@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kinder,Mormonen,Rowdies,geschiedene Väter,Polizisten,Praktikanten,Mütter,Geschäftsführer,Lehrer,Serienmörder,Rechtsanwälte,Zahnärzte,die Briten,Fabrikarbeiter,Tierhändler,Sekretärinnen,romantische Komödienliebhaber,Musikkritiker",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zahnärzte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Athleten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Zahnärzte des Universitätsklinikums Heidelberg veröffentlichten im Jahr 2014 eine eigenartige Studie, in der festgestellt wurde, dass <BLANK> mehr Zahnlöcher bekommen als andere Menschen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sportler,body builder,body builders,profisportler,Profiathleten,Profi Sportler,Profi Sportler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Athleten",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Zahnärzte des Universitätsklinikums Heidelberg veröffentlichten im Jahr 2014 eine eigenartige Studie, in der festgestellt wurde, dass <BLANK> mehr Zahnlöcher bekommen als andere Menschen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Fußballkarte,diese Tupperdose,euren Impfpass,meine Pfandflaschen,meinen Elektromüll,ein Eis im Becher,meinen abgelaufenen Hustensaft,die Topf meiner Schwester,meinen Kopf,das T-Shirt,das Grundgesetz,stinkenden Käse,Lesezeichen,Alufolie,meine Steuererklärung,einen Twitter-Account,Biomüll,27 Fernbedienungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diesen hässlichen Teller",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Matthias Opdenhövel tweetete „Holt euch <BLANK>!“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "20:33 Uhr<br />29. Jan. 2016",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@MOpdenhoevel",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "den Teller,diesen Teller,den hässlichen Teller",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]diesen hässlichen Teller",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Matthias Opdenhövel tweetete „Holt euch <BLANK>!“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

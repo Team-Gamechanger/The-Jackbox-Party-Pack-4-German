@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "angezogen duschen,im Schlaf reden,falsche Rezensionen schreiben, ihre Socken im Schlaf ausziehen,mit offenem Mund schlafen,ihren Koffer nie auspacken,Hotelshampoo stehlen,die Zähne in der Dusche putzen,Sprachnachrichten auf dem Klo aufnehmen,ihre Unterwäsche im Waschbecken waschen,Hotelbetten nach Geld durchsuchen,mit eingeschaltetem Fernseher einschlafen,Essensreste im Hotelsafe aufbewahren,Zimmerpflanzen gießen,die Zimmereinrichtung umstellen,handschriftliche Kritik hinterlassen,Klopfzeichen an Nachbarzimmer senden,heimlich Haustiere mitbringen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Umfragen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mit Teddybär schlafen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Hotelkette <i>Travelodge</i> befragte 6.000 britische Erwachsene und fand heraus, dass 35 % von ihnen regelmäßig <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mit einem Teddybär schlafen,mit einem Plüschtier schlafen,mit Plüschtier schlafen,mit Plüschtieren schlafen,mit Teddybären schlafen,mit einem Kuscheltier schlafen,mit Stofftieren schlafen,mit Teddys schlafen,mit Kuscheltieren einschlafen,mit Plüschbären schlafen,mit einem Plüschtier kuscheln,mit Stofftier im Bett schlafen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]mit Teddybär schlafen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Hotelkette <i>Travelodge</i> befragte 6.000 britische Erwachsene und fand heraus, dass 35 % von ihnen regelmäßig <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

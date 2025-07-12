@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Clown-Chauffeur|einem winzigen Auto,ein Baum|einem Theaterstück,ein Spaghetti-Koch|einem chinesischen Restaurant,ein Programmierer|einer Schweinefarm,verewigt|einer Pudding-Statue,ein Masseur|einem Seniorenheim,ein Synchronsprecher|einem anstößigen Videospiel,ein General|der britischen Armee,ein Triangel-Spieler|der schlechtesten Band der Welt,eingewickelt|gemütlichen Decken,ein Werbefigur|einem Zombie-Kostüm,ein Schachpartner|einer Eishöhle,ein Vogelbeobachter|einem U-Boot,ein Bärenfütterer|einem Museumsgebäude,ein Testschläfer|einem Ikea-Showroom,ein Spinnenfänger|einem Ballsaal,ein Kuhflüsterer|einem Leuchtturm,ein Hutmodel|einem Weinkeller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Enticing Offers",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Kindermädchen|einem Spukhaus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Obwohl die letzten fünf Personen gekündigt hatten, bot eine Stellenausschreibung aus dem Jahr 2017 in Scottish Borders ein Gehalt von £50.000 für jeden, der bereit war, <BLANK> in <BLANK> zu sein.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "das Kindermädchen|einem verfluchten Haus,ein Kindermädchen|einem Spukhaus,das Kindermädchen|einem verfluchten Haus,Kindermädchen|einem Spukhaus,Kindermädchen|einem verfluchten Haus,ein Babysitter|einem Spukschloss,ein Babysitter|einem Spukhaus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Kindermädchen|einem Spukhaus",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Obwohl die letzten fünf Personen gekündigt hatten, bot eine Stellenausschreibung aus dem Jahr 2017 in Scottish Borders ein Gehalt von £50.000 für jeden, der bereit war, <BLANK> in <BLANK> zu sein.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

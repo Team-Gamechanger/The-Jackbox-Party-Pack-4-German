@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Radfahren|Mobbern,Laufen|Betonblöcken,Volleyball|Bomben,Ringen|alten Männern,Jonglieren|Messern,Schwimmen|Haien,Liegestütze|Feuer,Kickboxen|Bären,Tanzen|kaputten Absätzen,Surfen|Komodowaranen,Trommeln|Zurückhaltung,Ballett|fiesen Bemerkungen,Klettern|einem Picknick-Korb,Karate|Bier,Pilates|Krokodilen,Meditation|Motorsägen\n,Yoga|Pfandflaschen,Fußball|Bowlingkugeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "workout routine",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Yoga|Ziegen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Möchtet ihr euer Trainingsprogramm aufpeppen? Dann meldet euch an für einen Kurs bei Lainey Morse. Sie unterrichtet <BLANK> mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Yoga|Böcken,Yoga|Geißen,Yogaübungen|Zicklein,Yogastunden|Ziegenböcken,Yoga-Training|Bergziegen,Yogakurse|Ziegen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Yoga|Ziegen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Möchtet ihr euer Trainingsprogramm aufpeppen? Dann meldet euch an für einen Kurs bei Lainey Morse. Sie unterrichtet <BLANK> mit <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

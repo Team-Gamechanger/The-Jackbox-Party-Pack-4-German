@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem an einem College studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
+      "v": "Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem an einem College studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
+      "s": "[category=host]Terri Cox ist keine gewöhnliche Mutter. Denn sie schickte ihrem studierenden Sohn ein Carepaket, das mit <BLANK> gefüllt war.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

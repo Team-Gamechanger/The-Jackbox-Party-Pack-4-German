@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Albert Einstein,Marilyn Monroe,einer Ente,Abraham Lincoln,Rapunzel,Satan,Batman,Super Mario,einem Mittelfinger,ALF,Pikachu,Harry Potter,einem einäugigen Stachelschwein,dem Nesquik-Hasen,dem Glöckner in Notre Dame,Freddy Krueger,einem Clown,einem Hintern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wasserspeier",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Darth Vader",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Auf dem Nordwestturm der Washington National Cathedral befindet sich ein Wasserspeier, der <BLANK> ähnelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Vader",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Darth Vader",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Auf dem Nordwestturm der Washington National Cathedral befindet sich ein Wasserspeier, der <BLANK> ähnelt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

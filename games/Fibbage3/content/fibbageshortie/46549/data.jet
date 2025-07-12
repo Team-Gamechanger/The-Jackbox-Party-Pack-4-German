@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon,Dick & Doof,seiner nicht toten Frau Beatrice,Leitungswasser,im Dienst verstorbenen Schädlingsbekämpfern,Marilyn Monroe,The Rolling Stones,Gaius Iulius Caesar,Donald Trump,Scheren,Faxgeräten,Planet Erde,Stop-Motion-Animation,Insektenkundlern,Prinzessin Diana,Bananenbrot,Frankensteins Monster,Helmut Schmidt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Selbstgemachte Statuen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "toten Käfern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "1975 schuf der japanische Bildhauer Yoneji Inamura eine Statue aus 20.000 toten Käfern als Denkmal zu Ehren von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Käferleichen,tote Käfer,toter Käfer,Käfer,Insekten,toten Insekten,toter Insekten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]toten Käfern",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]1975 schuf der japanische Bildhauer Yoneji Inamura eine Statue aus 20.000 toten Käfern als Denkmal zu Ehren von <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

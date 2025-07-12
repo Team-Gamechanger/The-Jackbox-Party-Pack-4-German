@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Salamander,Norweger,Kothaufen,Klaviere,Zahnpastatuben,Kaulquappen,Lady Gaga Fans,Tamagotchis,Oreo Kekse,Bauchtaschen,Sport-BHs,Zehennagelscheren,Glückskekse,Lamas,Eisbären,Einwegfeuerzeuge,Klobürsten,leere Kisten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "25000",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Windeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ende 2014 verhaftete die Grenzpolizei in Nordschweden zwei ungewöhnliche Verbrecher, die versuchten, über 25.000 <BLANK> ins Land zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Stoffwindeln,Babywindeln,Pampers,Windelpackungen,Kinderwindeln,Wegwerfwindeln,Einwegwindeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Windeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ende 2014 verhaftete die Grenzpolizei in Nordschweden zwei ungewöhnliche Verbrecher, die versuchten, über 25.000 <BLANK> ins Land zu schmuggeln.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

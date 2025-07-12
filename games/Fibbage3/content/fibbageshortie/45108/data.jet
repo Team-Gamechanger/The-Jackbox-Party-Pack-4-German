@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "geschlafen",
+      "v": "schlafen",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]geschlafen",
+      "s": "[category=host]schlafen",
       "t": "A",
       "n": "CorrectAudio"
     },

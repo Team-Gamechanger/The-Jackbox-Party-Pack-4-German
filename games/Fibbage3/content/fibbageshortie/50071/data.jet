@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine IKEA-Filialie,Pinguine beim Rasenmähen,Atlantis,einen Flashmob tanzender Rentiere,eine lebensgroße Rakete aus LEGO,das Nordlicht in Regenbogenfarben,eine Gruppe meditierender Eisbären,das norwegische Parlament beim Grillen,eine komplette Filmcrew,Donald Trump beim Ölsuchen,eine komplette Wikinger-Siedlung,17 tanzende Walrosse,eine Weltkriegsbombe,ein Polizeiauto voller Hühner,ein U-Boot im Tomatenbeet,das örtliche Schwimmbad,ein altes Piratenschiff,knapp 100 orangene Katzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Guten Morgen!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein riesiges Containerschiff",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Norweger Johan Helberg staunte nicht schlecht, als er morgens aus dem Fenster schaute und plötzlich <BLANK> in seinem Garten sah.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein großes Containerschiff,ein gewaltiges Containerschiff,ein riesiger Container-Frachter,ein enormes Frachtschiff,ein Riesencontainerschiff,ein Containerschiff,ein Container-Schiff,ein Container Schiff,ein Containerfrachter,ein Container-Frachter,ein Container Frachter,ein Frachter,ein riesiger Frachter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein riesiges Containerschiff",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Norweger Johan Helberg staunte nicht schlecht, als er morgens aus dem Fenster schaute und plötzlich <BLANK> in seinem Garten sah.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

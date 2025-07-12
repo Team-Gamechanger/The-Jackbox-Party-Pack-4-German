@@ -1,0 +1,89 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in der 8. Klasse länger wegbleiben aus erlaubt,ein komplettes Glas Nutella essen,bei einer Mathearbeit schummeln,von der Garage meines Onkels springen,ein antikes Schwert kaufen,freiwillig hypnotisieren lassen,mit einem Fahrradfahrer kämpfen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Was war das Dümmste, was du dir jemals von jemand anderem hast aufschwatzen lassen?",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Das Dümmste, was sich <PLAYER> jemals von jemand anderem hat aufschwatzen lassen, war <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das Dümmste, was sich <PLAYER> jemals von jemand anderem hat aufschwatzen lassen, war <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

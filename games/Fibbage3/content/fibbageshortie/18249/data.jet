@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Esel,Laib Brot,Beutel mit Kerzen,Sitzsack,Marshmallow,Haufen von toten Bauern,Lamm,Walnussvorrat,Kürbis,Kronleuchter aus Holz,Krug mit Schmalz,Hüpfburgschloss,Kartoffelsack,Sandsack,Pferdeapfel,1. Testament,Teigwarenvorrat",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Käselaib",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Für ihre Hochzeit im Jahr 1840 erhielt Königin Victoria von Großbritannien das ungewöhnliche Geschenk von einem 450 Kilo schweren <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Käse,Käse Laib,Käseleib,Käse leib,Laib Käse,Käse-Laib,Käse-Leib",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Käselaib",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Für ihre Hochzeit im Jahr 1840 erhielt Königin Victoria von Großbritannien das ungewöhnliche Geschenk von einem 450 Kilo schweren <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

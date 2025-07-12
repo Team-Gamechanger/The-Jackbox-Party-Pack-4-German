@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zahnspangen,Arschgeweihe,Kopfhörer,Baseballkappen,Flammentätowierungen,Leuchtflossen,Pornonamen,Hoffnung,Seaworld-Tickets,Warnglocken,Kopfschmerz-Tabletten,kostenlose Mittagessen,Krankenkassenkarten,Kochkurse,weichere Zähne,Selbsthilfekurse,eigene Mixtapes,Brillen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haiprobleme",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Twitter-Accounts",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Um die Anzahl der Haiangriffe zu reduzieren, haben Forscher der australischen Regierung im Jahr 2014 über 300 Haien <BLANK> gegeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Twitter-Account,Twitter-Zugang,X-Zugang,X-Accounts,X-Account,Twitter Accounts,Twitter Account,Twitter Zugang,X Accounts,X Account,X Zugang",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Twitter-Accounts",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Um die Anzahl der Haiangriffe zu reduzieren, haben Forscher der australischen Regierung im Jahr 2014 über 300 Haien <BLANK> gegeben.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

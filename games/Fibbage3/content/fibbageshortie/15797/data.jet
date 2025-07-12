@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In den 90erJahren mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
+      "v": "In den 90er-Jahren mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In den 90erJahren mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
+      "s": "[category=host]In den 90er-Jahren mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

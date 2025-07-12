@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Flugzeugturbinen|Vogelgezwitscher,Presslufthämmern|Klaviermusik,Sirenen|Walgesänge,Motorrädern|Harfenklänge,Baustellenlärm|Meeresrauschen,Rasenmähern|Katzengeräusche,Feueralarmen|Windspielklänge,Zughupen|Flötenmusik,Müllfahrzeugen|Bienensummen,Handyweckern|Regentropfen,Diskomusik|Waldgeräusche,Großstadtlärm|Vogelkonzerte,Flugzeugstarts|Grillenzirpen,Güterzügen|Blockflötenklänge,Hausalarmen|Nachtigallgesang,Reklamesprecher|Mönchsgesänge,Gewitter|Brunnenplätschern,Schlagzeugen|Meeresmuscheln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "noise pollution",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Autohupen|Entenquaken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Lärmschutz ist ein wichtiges Unterfangen. Deshalb schlagen Forscher einer Universität in Südkorea vor, das Geräusch von <BLANK> durch <BLANK> zu ersetzen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Autohupen|Entengequake,Autohupe|Entenquaken,Autohupe|Entengequake,Hupen|Quaken,Fahrzeughupen|Ententöne,Autohupen|Quaken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Autohupen|Entenquaken",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lärmschutz ist ein wichtiges Unterfangen. Deshalb schlagen Forscher einer Universität in Südkorea vor, das Geräusch von <BLANK> durch <BLANK> zu ersetzen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

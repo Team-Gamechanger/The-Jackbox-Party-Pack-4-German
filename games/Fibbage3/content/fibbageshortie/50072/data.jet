@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alten Socken,Katzenstreu,Zigarettenstummeln,Kaugummi,Bananenschalen,Kaffeesatz,Hundekot,Fingernägeln,Ohrenschmalz,Zahnstein,Schuppen,abgelaufenem Joghurt,verschimmeltem Brot,Staubmilben,Toilettenpapier,Seifenresten,Wattestäbchen,Windeln,Katzenhaar",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmerzmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Plastikflaschen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie aus dem Jahr 2025 kam zu dem spektakulären Ergebnis, dass das Schmerzmittel Paracetamol mittels Bakterien aus <BLANK> hergestellt werden kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "PET-Flaschen,PET Flaschen,Plastik Flaschen,Plastik-Flaschen,Flaschen,Plastikabfällen,Plastikmüll,Plastik Müll,Plastik-Müll,Plastik-Abfällen,Plastik Abfällen,Plastikabfall,Plastik Abfall,Plastik-Abfall",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Plastikflaschen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine Studie aus dem Jahr 2025 kam zu dem spektakulären Ergebnis, dass das Schmerzmittel Paracetamol mittels Bakterien aus <BLANK> hergestellt werden kann.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

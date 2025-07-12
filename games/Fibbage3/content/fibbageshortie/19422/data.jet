@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tintenfischaugen,Walhoden,Katzengehirne,Hummerkot,Otterfüße,Kuhherzen,Baby-Mantarochen,Thunfisch-Darmschleim,Ochsenhaut,verlorene Clownfische,Schmetterlingsflügel,Pferdeleber,imaginäre Fische,Meerjungfrauen,Augenlider eines Schweins,die Gebärmutter eines Delfins,Tintenfisch-Tinte,menschlichen Kot",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Delikatessen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fischsperma",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die japanische Delikatesse „Shiraku“ sollte man nur bestellen, wenn man unbedingt <BLANK> essen möchte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fischspermien,Fischsamen,Fisch Sperma,Fisch-Sperma,Sperma von Fischen,Spermien von Fischen,Sperma von Fische,Fisch Samen,Fisch-Samen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Fischsperma",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die japanische Delikatesse „Shiraku“ sollte man nur bestellen, wenn man unbedingt <BLANK> essen möchte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "laute Geräusche|kacken zu können,Angst|einen Tests zu bestehen,12 Stunden|ihre Nahrung zu verdauen,8 Freunde|glücklich zu sein,eine Nacht|den Tag zu verarbeiten,4 Monate|schwimmen zu lernen,zwei Partner|sich fortzupflanzen,Essen|zu leben,einen festen Schlafrhythmus|leistungsfähig zu sein,Mondlicht|sich zu orientieren,eine Stunde|einen Erzfeind zu haben,4 Spaziergänge|den Stoffwechsel anzuregen,eine Belohnung|zu lernen,drei Wochen|stubenrein zu sein,regelmäßige Pausen|produktiv zu sein,Süßigkeiten|zu leben,eine Geburtstagsparty|sich an ihr Alter zu erinnern,eine Minute|einzuschlafen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Animal Needs",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "21 Sekunden|zu pinkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Eine merkwürdige Studie aus dem Jahr 2015 kam zu dem Schluss, dass die meisten Säugetiere <BLANK> brauchen, um <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "21 Sekunden|zu urinieren,21 Sekunden|zu pullern,einundzwanzig Sekunden|zu pinkeln,21 Sekunden|zu wasserlassen,21 Sekunden|ihr Geschäft zu verrichten,21 Sekunden|Wasser zu lassen,21 Sekunden|aufs Klo zu gehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]21 Sekunden|zu pinkeln",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Eine merkwürdige Studie aus dem Jahr 2015 kam zu dem Schluss, dass die meisten Säugetiere <BLANK> brauchen, um <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

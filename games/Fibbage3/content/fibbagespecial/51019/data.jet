@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Unterwasser-Socken,Glückskekse mit Geld drin,Haustier-Übersetzer,rollende Katzentoiletten,Eiscreme die nicht schmilzt,Bananen ohne diese nervigen Fäden,Schlaflieder für Erwachsene,Zahnpasta mit Pizzageschmack,ein Fitnessprogramm für Daumen,Mitnehm WLAN-Router,Hunde-Götter,Oreo-Füllung für Croissants,Gummibären mit Klebestift-Geschmack,Entspannungs-Trainer,Avocado Drinks,elektrische Frisbees,Krawatten für Vögel,Blumengieß-Maschinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "babytauben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Klaas Heufer-Umlauf tweetete „warum gibts eigentlich keine <BLANK>?“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "22:26 Uhr<br />3. Mär. 20213",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@damitdasklaas",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Baby-Tauben,Taubenbabys,Tauben-Babys,Taubenküken,Taubenjunge,Taubenküklein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]babytauben",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Klaas Heufer-Umlauf tweetete „warum gibts eigentlich keine <BLANK>?“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

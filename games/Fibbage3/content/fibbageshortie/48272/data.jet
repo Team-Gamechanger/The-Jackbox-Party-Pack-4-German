@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "auf der Toilette saß,eine Tiefkühlpizza zubereitete,den Rasen mähte,im Garten Unkraut jätete,vorgab tot zu sein,einen Hotdog-Esswettbewerb gewann,ihre Schwester heiratete,aus dem Gefängnis ausbrach,sich den Rücken waxen ließ,eine Darmspiegelung bekam,mit Lachsen jonglierte,aus einer Kanone geschossen wurde,einen Müllmann erschlug,einen Fallschirmsprung machte,eine Schlägerei hatte,ein Tattoo ihrer Mutter bekam,sich vom Trinken übergab,auf Entenjagd war",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Romantiker",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "verhaftet wurde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Brandon Thompson ist ein unkonventioneller Romantiker. Er hat seiner Freundin einen Heiratsantrag gemacht, während er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "festgenommen wurde,eingebuchtet wurde,in Gewahrsam genommen wurde,von der Polizei abgeführt wurde,in Polizeigewahrsam kam,von Polizisten mitgenommen wurde,von Polizisten verhaftet wurde,von Polizisten eingebuchtet wurde",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]verhaftet wurde",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Brandon Thompson ist ein unkonventioneller Romantiker. Er hat seiner Freundin einen Heiratsantrag gemacht, während er <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

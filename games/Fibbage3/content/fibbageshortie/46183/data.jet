@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hobbygärtner,Straßenmusiker,Imker,Schachgroßmeister,Würstchenverkäufer,Postbote,Tierarzt,Graffitikünstler,Tauchlehrer,Bäcker,Taxifahrer,Feuerwehrmann,DJ,Straßenkünstler,Zauberer,Comiczeichner,Friseur,Eisverkäufer,Sportkommentator,Puppenspieler",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lustige Hobbys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Berufspilot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "2017 entdeckten niederländische Medien, dass König Willem-Alexander ein Doppelleben als <BLANK> geführt hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pilot,Berufspiloten,Linienpilot,Verkehrspilot,Flugzeugführer,Flugkapitän,Commercial Pilot",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Berufspilot",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]2017 entdeckten niederländische Medien, dass König Willem-Alexander ein Doppelleben als <BLANK> geführt hatte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Dalai Lama,ein digitaler Prophet,der Herrscher seines eigenen Landes,ein Außerirdischen-Kriegsherr,der Erfinder des Internets,ein Zeitreisender,ein ägyptischer Pharao,der Herzog von Essex,der Sohn von Bigfoot,der König von Atlantis,ein Schlumpf,der Erbe des Skittles-Vermögens,eine Fee,virtueller Wanderprediger,ein Apostel der Algorithmen,ein Meerjungfraumann,der Botschafter der deutschen Reichsbürger,ein Magier",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Amis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Papst",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Wenn man David Bawden fragt, ist er nicht nur ein Typ aus Belvue, in Kansas; er ist auch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Papst,Papst",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]der Papst",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Wenn man David Bawden fragt, ist er nicht nur ein Typ aus Belvue, in Kansas; er ist auch <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

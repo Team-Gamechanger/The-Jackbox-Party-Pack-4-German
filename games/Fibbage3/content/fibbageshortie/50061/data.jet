@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Internetnutzer,Touristen,Katzenbesitzer,Nachbarn,Musiker,Briefmarkensammler,Schuhträger,Hobbyköche,Bücherwürmer,Astronauten,Skateboarder,Sportfans,YouTube-Stars,Fernsehzuschauer,Vegetarier,Gärtner,Busfahrgäste,Hundebesitzer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "10 Gebote",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Autofahrer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 veröffentlichte der Vatikan die 10 Gebote für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fahrzeugführer,Verkehrsteilnehmer,PKW-Fahrer,Auto Fahrer,Kraftfahrer,Autolenkende,Fahrer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Autofahrer",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2007 veröffentlichte der Vatikan die 10 Gebote für <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pudding,Orangenschalen,Lehm,Bildern von sich selbst,Bratensoße,Müll,Straßenkindern,Zuckerwatte,Eis,Fallschirmen,Knochenstücken,fünf hässlicheren Kleidern,Maschendraht und Marshmallows,Steuerformularen,ihren eigenen Haaren,Erotikmagazinen,edler Unterwäsche,Glühbirnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ausgefallenes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "toten Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Seid ihr echte Fashionistas? Selbst wenn, werdet ihr niemals die berühmte Kate Fearing Strong schlagen, die 1883 einen New Yorker Ball in einem Kleid aus <BLANK> besuchte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Katzen,ausgestopften Katzen,Katzenfellen,präparierten Katzen,verstorbenen Katzen,Katzenkadavern,toten Miezen,toten Kätzchen,toten Katern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]toten Katzen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Seid ihr echte Fashionistas? Selbst wenn, werdet ihr niemals die berühmte Kate Fearing Strong schlagen, die 1883 einen New Yorker Ball in einem Kleid aus <BLANK> besuchte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

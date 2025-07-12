@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benzin,Ethanol,Dünger,Gold,Bier,Wasser,Stahl,Aluminium,sauren Regen,Hustenmedizin,Whisky,WD-40,Leim,Kohlenmonoxid,Meth,Farbe,Augentropfen,Kokain",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tequila",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Diamanten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2008 gelang es Wissenschaftlern an der Nationalen Autonomen Universität von Mexiko, Tequila in <BLANK> zu verwandeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Diamant,einen Diamanten,einen Diamant",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Diamanten",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2008 gelang es Wissenschaftlern an der Nationalen Autonomen Universität von Mexiko, Tequila in <BLANK> zu verwandeln.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

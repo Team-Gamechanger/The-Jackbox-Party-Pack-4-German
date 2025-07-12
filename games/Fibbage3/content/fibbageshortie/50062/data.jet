@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen schlafenden Bären,eine unterirdische Höhle,einen vollständigen Dinosaurierschädel,ein verlassenes U-Boot,einen geheimen Nachtclub,einen vergessenen Atombunker,ein eingefrorenes Mammut,eine illegale Käserei,eine verlassene Bowlingbahn,eine Zeitkapsel aus dem Kalten Krieg,ein Filmset für Horrorfilme,einen geheimen Tunnel nach Russland,eine Mini-Golfanlage,ein altes Wikingerschiff,ein illegales Casino,einen sowjetischen Spionageposten,eine mittelalterliche Taverne,eine Familie die dort wohnte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>IKEA</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "240 Panzerminen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die Mitarbeiter eines polnischen <i>IKEA</i> waren vermutlich ziemlich baff, als sie im Juli 2024 <BLANK> in ihrem Warenlager fanden. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "zweihundertvierzig Panzerminen,240 Anti-Panzer-Minen,240 Landminen,zweihundertundvierzig Panzerminen,240 Antipanzerminen,240 Panzer-Minen,240 Sprengkörper",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]240 Panzerminen",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die Mitarbeiter eines polnischen <i>IKEA</i> waren vermutlich ziemlich baff, als sie im Juli 2024 <BLANK> in ihrem Warenlager fanden. ",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

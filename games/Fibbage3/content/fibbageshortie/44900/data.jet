@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Ratten sein Geld fraßen",
+      "v": "Ratten die sein Geld fraßen",
       "n": "CorrectText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]Ratten sein Geld fraßen",
+      "s": "[category=host]Ratten die sein Geld fraßen",
       "t": "A",
       "v": "correct",
       "n": "CorrectAudio"

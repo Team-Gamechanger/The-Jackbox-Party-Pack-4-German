@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Roboter|Parkführer,Enten|Nachtwächter,Schauspieler|lebende Statuen,Hunde|Sicherheitspersonal,Gänse|Wecker, Ziegen|Rasenmäher,Papageien|Ansager,Schmetterlinge|Dekoration,Schafe|Landschaftspfleger,Ponys|Taxis,Esel|Gepäckträger,Kinder|Maskottchen,Falken|Taubenschreck,Geister|Fremdenführer,Musikboxen|Vogelfutterautomaten,alte Soßen|Tinte,alte Wasserflaschen|Shampooflaschen,Katzen|Fotografen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Themenparks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Krähen|Müllabfuhr",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der französische Themenpark <i>Puy du Fou</i> hatte eine clevere Idee und setzt seitdem <BLANK> als <BLANK> ein.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Krähen|Müllsammler,Rabenvögel|Müllabfuhr,Raben|Müllbeseitigung,Raben|Müllabfuhr,Raben|Reinigungskräfte,Krähen|Reinigungskräfte,Krähen|Abfallsammler,Raben|Abfallsammler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Krähen|Müllabfuhr",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der französische Themenpark <i>Puy du Fou</i> hatte eine clevere Idee und setzt seitdem <BLANK> als <BLANK> ein.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

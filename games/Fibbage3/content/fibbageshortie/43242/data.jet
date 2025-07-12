@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
+      "v": "Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen",
+      "s": "[category=host]Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

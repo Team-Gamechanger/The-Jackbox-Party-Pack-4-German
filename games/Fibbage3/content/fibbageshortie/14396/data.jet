@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespült.",
+      "v": "Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida angespült.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespült.",
+      "s": "[category=host]Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida angespült.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

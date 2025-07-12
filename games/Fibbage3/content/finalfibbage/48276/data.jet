@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fahrräder|Helme,Grills|Grillzangen,T-Shirts|Baseballkappen,Würstchenbuden|Biergärten,Campingmöbel|Zeltstangen,günstige Stifte|teure Stifte,Taschenlampen|Batterien,Spielzeugautos|Modelleisenbahnen,Golfschläger|Golfbälle,Kaffeemaschinen|Kaffeebohnen,Sonnenbrillen|Regenschirme,Bierkrüge|Brezeln,Honig|Marmelade,Hundefutter|Hundeleinen,Weihnachtsbaumschmuck|Adventskränze,Taschenmesser|Kompass,Eiscreme|Waffeln,Wasserflaschen|Thermoskannen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Volkswagen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Currywurst|Ketchup",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Volkswagen verkauft nicht nur Autos. Kurioserweise verkaufen sie auch <BLANK> und <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Currywurst|Ketschup,Curry-Wurst|Tomatensoße,Volkswagen-Currywurst|VW-Ketchup,Currywürste|VW-Ketchup,Volkswagen-Currywurst|Tomatensoße,Currywürstchen|Tomatenketchup",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Currywurst|Ketchup",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Volkswagen verkauft nicht nur Autos. Kurioserweise verkaufen sie auch <BLANK> und <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

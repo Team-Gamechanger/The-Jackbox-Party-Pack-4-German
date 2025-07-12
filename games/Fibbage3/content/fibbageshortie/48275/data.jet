@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ohne Unterwäsche herumlaufen,einen ganzen Schinken in sechs Minuten essen,ihre Schwester küssen,eine Kugel mit den Zähnen fangen,Gitarrenunterricht nehmen,die Herr-der-Ringe-Bücher lesen,eine Woche nicht trinken,eine Nacht in einem Spukhaus verbringen,ihre Körperhaare rasieren,ein Kind adoptieren,zwei Katzen adoptieren,Portugiesisch lernen,an der Hochzeit eines Fremden teilnehmen,ihre Seele aufgeben,vor einem Clown urinieren,nackt durch einen öffentlichen Park stolzieren,jede Woche eine Ente füttern,jeden Tag ein Gedicht schreiben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleingedrucktes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "1000 Stunden gemeinnützige Arbeit leisten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2017 stimmten Menschen, die sich in England mit <i>Purple Wi-Fi</i> verbinden, unwissentlich einer rechtsverbindlichen Klausel zu, die besagt, dass sie <BLANK> müssen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tausend Stunden Sozialdienst ableisten,1000 Stunden Sozialdienst ableisten,tausend Stunden gemeinnützige Arbeit,eintausend Stunden Sozialdienst ableisten,eintausend Stunden gemeinnützige Arbeit,1000 Stunden ehrenamtlich arbeiten,tausend Stunden ehrenamtlich arbeiten,eintausend Stunden ehrenamtlich arbeiten,1000 Std. für soziale Projekte arbeiten,1000 Std. ehrenamtlich arbeiten,eintausend Stunden für die Gemeinschaft arbeiten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]1000 Stunden gemeinnützige Arbeit leisten",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Im Jahr 2017 stimmten Menschen, die sich in England mit <i>Purple Wi-Fi</i> verbinden, unwissentlich einer rechtsverbindlichen Klausel zu, die besagt, dass sie <BLANK> müssen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

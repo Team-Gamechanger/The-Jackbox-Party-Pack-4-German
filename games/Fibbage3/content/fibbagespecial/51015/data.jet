@@ -1,0 +1,100 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Einhorn-Eiscreme,den Sandmann,vegane Bratwurst,die Farbe Lila,meine Gummistiefel-Sammlung,Teletubbies,Angelina Jolie,Drachen die Saxophon spielen,feuchte Handtücher,Jongleure,Lothar Matthäus,Erdbeeren mit Senf,diesen tanzenden Kaktus,Darth Vader,Bikinis,Freibad-Pommes,RTL,YouTube",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Promis auf Social Media",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Shakespeare",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "SayWhat",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jens Spahn tweetete „Muss heute den ganzen Tag an <BLANK> denken...“",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "23:17 Uhr<br />14. Sep. 2015",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@jensspahn",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Shakespear,Shakspeare,William Shakespeare,Shakespeares Werke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Shakespeare",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jens Spahn tweetete „Muss heute den ganzen Tag an <BLANK> denken...“",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

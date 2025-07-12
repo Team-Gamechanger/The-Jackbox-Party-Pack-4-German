@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Robotern,Speichel,menschlichem Fleisch,essbarer Unterwäsche,Pferdemist,Süßigkeiten,Geldscheinen,Luft,Büroklammern,Schmutz,Maden,Gläsern,Uran,Motoröl,Pappe,Fischaugen,Holz,Federn",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japanische Kochbücher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kondomen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Ein merkwürdiges japanisches Kochbuch, das 2014 veröffentlicht wurde, enthält nur Rezepte, die mit <BLANK> zubereitet werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einem Kondom,Präservativen,Gummis,Verhütungsmitteln,Durex",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kondomen",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ein merkwürdiges japanisches Kochbuch, das 2014 veröffentlicht wurde, enthält nur Rezepte, die mit <BLANK> zubereitet werden.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

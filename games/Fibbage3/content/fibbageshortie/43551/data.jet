@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Whiskey,harte Drogen,Hyperventilations-Tüten,Lachgas,Taschentücher,Flugtickets,Kopfhörer,Videospiele,Ritterrüstungen,Schilde,Guinness-Bier,Guinness,Bibeln,Fish and Chips,Beruhigungspillen,Einwanderungsformulare,Boxsäcke,Pornos",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschenke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Stressbälle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Nach dem ersten Amtsantritt von US-Präsident Trump beschlossen die Wissenschaftler des Dachverbandes britischer Forschungsräte, ihren amerikanischen Kollegen <BLANK> zu schicken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Anti-Stressbälle,Anti-Stress-Bälle,Quetschbälle,Stress-Bälle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Stressbälle",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Nach dem ersten Amtsantritt von US-Präsident Trump beschlossen die Wissenschaftler des Dachverbandes britischer Forschungsräte, ihren amerikanischen Kollegen <BLANK> zu schicken.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

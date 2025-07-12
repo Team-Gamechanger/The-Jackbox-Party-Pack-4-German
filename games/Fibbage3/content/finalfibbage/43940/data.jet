@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gott|dem Teufel,seiner Mutter|seiner Stiefmutter,seinem Trainer|der Ex seines Trainers,den Bäumen|den Steinen,seinem Masseur|dem Mörder seiner Frau,seinem Hund|seiner Katze,Schokolade|Vanille,seinem Gehirn|seinem Hintern,dem Wind|dem Regen,seinem Vater|Thor,McDonald's|Burger King,Superman|Batman,Butter|Margarine,seiner linken Hand|seiner rechten Hand,seiner Zahnspange|seinem Rasenmäher,seinem Handy|seiner Unterwäsche,Bayern München|Borussia Dortmund,seiner Oma|seinem Tattoo-Künstler",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "giving thanks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Frau|seiner Liebhaberin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In einem Interview sorgte der ghanaische Fußballstar Mohammed Anas für Aufsehen, als er sowohl <BLANK> als auch <BLANK> dankte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "seiner Ehefrau|seiner Freundin,seiner Gattin|seiner Geliebten,seiner Partnerin|seiner Geliebten,seiner Ehegattin|seiner Affäre,seiner Freundin|seiner Ehefrau,seiner Geliebten|seiner Gattin,seiner Geliebten|seiner Partnerin,seiner Affäre|seiner Ehegattin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]seiner Frau|seiner Liebhaberin",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In einem Interview sorgte der ghanaische Fußballstar Mohammed Anas für Aufsehen, als er sowohl <BLANK> als auch <BLANK> dankte.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

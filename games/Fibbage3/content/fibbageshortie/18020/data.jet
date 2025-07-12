@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cola Light,Kinder,Kaffeetassen,Garfield-Kalender,Computer,Kaffeemühlen,Mikrowellen,Pokémon-Sammelkarten,Jeansjacken,Kleiderbügel,Kalender,Geschirrspüler,WCs,Tischkicker,Fussballposer,Taschentuchspender,Karten,Brieföffner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimdienste",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Furby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die NSA gab 1999 eine merkwürdige Mitteilung heraus, die allen Angestellten verbot, <BLANK> mit in ihre Büros zu bringen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Furby,Furby,Furbys,Furby Puppe,Furby Puppen,Furbypuppe,furbypuppen,Furbies,einen Furbie,ein Furbie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einen Furby",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die NSA gab 1999 eine merkwürdige Mitteilung heraus, die allen Angestellten verbot, <BLANK> mit in ihre Büros zu bringen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

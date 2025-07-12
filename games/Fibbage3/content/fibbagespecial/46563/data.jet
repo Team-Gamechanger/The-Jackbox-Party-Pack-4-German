@@ -1,0 +1,102 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Rettungsfloß zum Umschnallen,einen Auffangbehälter für verschüttete Suppe,den Bartverstecker,den Hustenfänger,einen Stoffdeckel für Kaffeebecher,eine männliche Hygieneeinlage,einen Hämorrhoiden-Donut,einen aufblasbaren Schlitten,einen Zungenschutz,eine kettenlose Halskette,einen Pups-Geruch-Neutralisierer,eine bequeme Augenklappe,ein Ellenbogenkissen,einen geheimen Bierbeutel,etwas Ekliges,einen falschen Babybauch für Katzen,einen Hunde-Jockstrap,einen revolutionären Geldbeutel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verrückte Erfindungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Tanga-Windel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photo",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dies ist ein Patent für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tanga-Windeln,die Tanga-Windel,eine Tanga Windel,Tanga Windeln,die Tanga Windel,eine Tangawindel,Tangawindeln,die Tangawindel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "bumper",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646825_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Tanga-Windel",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dies ist ein Patent für <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

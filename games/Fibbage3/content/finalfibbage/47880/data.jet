@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Frosch|Frauenkleidern,eine Gabel|einem Stück Kuchen,ein Monster|deinem Schrank,eine ausgefallene Frisur|Paris,eine Ziege|einem kleinen Kleid,ein Zahnrad|einem Roboter,einen Dinosaurier|einer Kissenburg,eine Maus|einem Flanellhemd,Schmerz|einem Nacken,ein Mettbrötchen|einer salzigen Brühe,eine Windel|einem Kindergarten,einen seltenen Edelstein|einem Vulkan,eine Kerze|einer dreieckigen Schüssel,denTeufel|einem roten Kleid,einen Wolf|Schafskleidung,einen Glücksbringer|deiner Hosentasche,einen roten Luftballon|einem Museum,ein Drillingskind|dem Krankenhaus",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "kappa",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine magische Kugel|deinem Anus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "In der japanischen Mythologie gibt es Monster namens Kappa, die immer versuchen, den „Shirikodama“, also <BLANK> aus <BLANK>, zu stehlen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eine mystische Kugel|deinem Po,eine Zauberkugel|deinem Hintern,einen magischen Stein|deinem Rektum,eine magische Perle|deinem After,einen Zauberball|deinem Gesäß,eine Wunderkugel|deinem Enddarm,eine verzauberte Kugel|deinem Podex",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine magische Kugel|deinem Anus",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]In der japanischen Mythologie gibt es Monster namens Kappa, die immer versuchen, den „Shirikodama“, also <BLANK> aus <BLANK>, zu stehlen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Zirkusbären,eine aufblasbare Sexpuppe,ein Skelett,einen Truthahn,eine Fliegengittertür,einen Tischtennistisch,einen Basketballkorb,ein Trampolin,einen Baby-Elefanten,eine Bauchtänzerin,einen Whiskey-Brennkessel,eine Palme,ein Solarium,eine Discokugel,einen Papageien,ein Riesenrad,ein Ballett,einen aufblasbaren Swimmingpool",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Taucher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Rentier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Während des Zweiten Weltkriegs machte ein russischer Admiral der britischen Besatzung der HMS Trident ein ungewöhnliches Geschenk. Er schenkte ihnen <BLANK> für ihr U-Boot.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Ren,Rentier,ein Nordisches Rentier,ein Karibu,einen Karibu",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Rentier",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Während des Zweiten Weltkriegs machte ein russischer Admiral der britischen Besatzung der HMS Trident ein ungewöhnliches Geschenk. Er schenkte ihnen <BLANK> für ihr U-Boot.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

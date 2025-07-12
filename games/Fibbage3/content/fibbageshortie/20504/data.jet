@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter Anderem angeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
+      "v": "In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter anderem aufgeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter Anderem angeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
+      "s": "[category=host]In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter anderem aufgeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

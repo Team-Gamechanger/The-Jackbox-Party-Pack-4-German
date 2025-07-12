@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Thunfischeis|Schokoladensauce,Karotten|Wein,Salatdressing|Zuckerwatte,Erdbeeren|Knoblauchgeschmack,Ketchup|dem Geschmack von Vanilleeis,Bananenbrei|Chilisauce,Fertigpizza|Sauerkraut,Essigsäure|Zimtgeruch,Würstchen|Karamell,Kaffee|Spinat,Schokolade|Senf,Wodka|Muschelsaft,Kürbissuppe|Wurst-Wasser,Kokosmilch|Red Bull,Tee|Gurkensaft,Reis|Klebestift-Geschmack,Nudeln|Erdbeergeschmack,Hackfleisch|Kaffeeresten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Forschung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Milch|Kohlensäure",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Aus irgendeinem seltsamen Grund haben Ernährungswissenschaftler an der US-amerikanischen Cornell University im Jahr 1995 <BLANK> mit <BLANK> entwickelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Milch|Kohlendioxid,Kuhmilch|Kohlensäure,Milchprodukte|Kohlensäure,Milch|Sprudel,Milch|CO2,Milch|Soda",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Milch|Kohlensäure",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Aus irgendeinem seltsamen Grund haben Ernährungswissenschaftler an der US-amerikanischen Cornell University im Jahr 1995 <BLANK> mit <BLANK> entwickelt.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

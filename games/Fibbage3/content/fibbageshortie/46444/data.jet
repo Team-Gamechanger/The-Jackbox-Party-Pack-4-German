@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "versteinerter Big Macs,angeknabberter Currywürste,politischer Anstecker,vergessener Socken,Museumsmäuse,verbeulter Blechdosen,DDR-Souvenirs,Sprühkäse,Foto-Toilettensitze,an Computerviren,vergessener Handyladekabel,Zinsoldaten,kurioser Postkarten,an UFO-Fotos,bizarrer Fahrradteile,Pausenbrotdosen aus den 80ern,anzüglichen Weihnachtsbaumschmucks,Briefmarken von Mikronationen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Große Sammlungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "versteinerter Kacke",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "George Frandsen aus Florida hat sich im Jahr 2024 einen Guinness-Weltrekord für die größte Sammlung <BLANK> gesichert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "versteinerte Exkremente,versteinerter Scheiße,versteinerten Kot,versteinerter Kot,versteinerter Mist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]versteinerter Kacke",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]George Frandsen aus Florida hat sich im Jahr 2024 einen Guinness-Weltrekord für die größte Sammlung <BLANK> gesichert.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

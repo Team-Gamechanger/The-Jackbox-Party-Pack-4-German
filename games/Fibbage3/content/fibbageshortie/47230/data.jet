@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "menschlicher Asche,benutzten Särgen,Kaffeesatz,Tetrapaks,Rattenkot,Fleisch,Kronkorken,Rock ‘n Roll,alten Snickers,Plankton,Schnee,alten Kleinstwägen,verschrotteten Karneval-Attraktionen,Feuer,recycelten iPhones,Zucker,Walross-Stoßzähnen,alten Fußball-Pokalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Baustelle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cannabis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Green Built ist ein Unternehmen, das ein feuerfestes, umweltfreundliches Baumaterial aus <BLANK> herstellt und verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hanf,Marihuana,Weed,Cannabispflanzen,Hanfpflanzen,Marijuana",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cannabis",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Green Built ist ein Unternehmen, das ein feuerfestes, umweltfreundliches Baumaterial aus <BLANK> herstellt und verkauft.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

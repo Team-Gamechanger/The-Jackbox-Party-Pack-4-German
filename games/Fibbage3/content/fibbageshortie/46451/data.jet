@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diamanten,Margarine,Farbe,Kaugummi,Lippenstift,Lehm,Zahnpasta,getrockneten Blättern,Kirschtomaten,Flugzeugen,alten Socken,Helium,Benzin,Bienenwachs,Schmelzkäse,Marzipan,Pfirsichkernen,Plastikflaschen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Große Pläne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Geoffrey Pyke war ein militärischer Erfinder, der vor allem für seinen seltsamen Vorschlag bekannt ist, Flugzeugträger aus <BLANK> zu bauen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Eis und Sand,Sand und Eis,Eis und Sägespähnen,Eis und Sägemehl,Sägespähnen und Eis,Sägemehl und Eis,gefrorenem Sand,gefrorenem Sägemehl,aus gefrorenen Sägespähnen,Eisberge,Eisbergen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Eis",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Geoffrey Pyke war ein militärischer Erfinder, der vor allem für seinen seltsamen Vorschlag bekannt ist, Flugzeugträger aus <BLANK> zu bauen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Strip-Club,einer Fernfahrerkneipe,einer Opiumhöhle,einem Wachsmuseum,einem Tierheim,einer Kläranlage,einer Klebstofffabrik,einem Affenschutzgebiet,einem Gefängnis,einer Samenbank,einem Bordell,einer Polizeistation,einem Schlachthaus,einem McDonalds,einer Tierklinik,einem Schwimmbad,einer Windmühle,einem Leuchtturm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Minigolf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Bestattungsinstitut",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Der Minigolfplatz Ahlgrim Acres in der Nähe von Chicago hat eine Besonderheit, denn er befindet sich seltsamerweise unter <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "einem bestattungshaus,einem beerdigungsinstitut,einem begräbnisinstitut,einem bestattungsunternehmen,einem Bestatter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]einem Bestattungsinstitut",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Der Minigolfplatz Ahlgrim Acres in der Nähe von Chicago hat eine Besonderheit, denn er befindet sich seltsamerweise unter <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

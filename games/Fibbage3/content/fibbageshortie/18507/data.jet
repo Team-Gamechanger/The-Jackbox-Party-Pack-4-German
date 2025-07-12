@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Umarmungen,Pasta,Klamotten,Lieder,Poesie,Kupferdraht,Bücher,Massagen,Baumsamen,Baseball-Karten,Autogramme,Fahrräder,Rezepte,ein Kompliment,Blumen,Wein,Violinen,den Eintritt ins Militär,150kg Walnüsse pro Jahr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kreditwürdig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Die italienische Bank <i>Credem</i> hat eine einzigartige Geschäftspraxis. Im Austausch für ein billiges Darlehen verlangt sie von Kunden <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan Käse,Käse,parmesan,Parmesankäse,Parmigiano,Parmigiano Reggiano",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parmesan",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Die italienische Bank <i>Credem</i> hat eine einzigartige Geschäftspraxis. Im Austausch für ein billiges Darlehen verlangt sie von Kunden <BLANK>.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

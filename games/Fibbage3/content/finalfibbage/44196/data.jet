@@ -1,0 +1,94 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Kaninchenkopf|ein Wildschwein,ein Stoffabzeichen|eine Männerhandtasche,eine Schleife|eine Tunika,Haifischzahn|einen Hut,ein Etikett|eine Unterhose,eine Warnung|ein krankes Kind,eine Perücke|eine Männerglatze,eine Wurst|ein Schild,ein Kätzchen|einen Hut,ein Kleid|ein schönes Kleid,ein Bauer|einen Edelmann,eine Feder|einen Hund,ein Käserad|einen Kuheuter,ein Horn|einen Pferdekopf,ein Rüstungsteil|einen Stier,eine Krone|ein Wildschwein,ein Umhang|eine Unterhose,ein Amulett|einen Frosch",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Medieval Pairings",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Schwein|ein Huhn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Das im mittelalterliche England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ein Schweinebraten|ein Hühnchen,ein Ferkel|ein Huhn,ein Schweinekörper|ein Geflügel,eine Sau|eine Henne,ein Eber|einen Hahn,ein Schweineteil|ein Hühnerteil,Schweinefleisch|Hühnerfleisch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]ein Schwein|ein Huhn",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Das im mittelalterliche England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}

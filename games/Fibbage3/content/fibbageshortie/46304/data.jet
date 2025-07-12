@@ -1,0 +1,95 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Schenke,ein Badehaus,einen Marktplatz,eine Herberge,ein Gasthaus,eine Spielstätte,einen Tanzsaal,eine Schänke,ein Freudenhaus,eine Taverne,einen Festsaal,eine Schankwirtschaft,ein Wirtshaus,eine Badestube,einen Weinkeller,eine Trinkstube,einen Bierkeller,eine Spelunke,ein Brauhaus,eine Meierei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Teufelswerk",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Weinbar",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Einer Legende zufolge hat der Teufel selbst beim Bau der Marienkirche in Lübeck geholfen, weil die Einwohner ihm vorgaukelten, sie würden <BLANK> bauen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Weinbar,Vinothek,Wine Bar,Weinstube,Weinlokal,Weinschenke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]eine Weinbar",
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Einer Legende zufolge hat der Teufel selbst beim Bau der Marienkirche in Lübeck geholfen, weil die Einwohner ihm vorgaukelten, sie würden <BLANK> bauen.",
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    }
+  ]
+}
