@@ -27,12 +27,12 @@
     },
     {
       "t": "S",
-      "v": "Ich bin so geboren,Das willst du nicht wissen!,Immer 10 Minuten zu spät,Ich weiß es schon gut,An die Hater,Bitte immer noch um Entschuldigung,Das riecht nach mir",
+      "v": "Ich bin so geboren,Das willst du nicht wissen!,Immer 10 Minuten zu spät,Ich weiß es besser,An die Hater,Bitte immer noch um Entschuldigung,Wer sonst?",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Wie würde deine Autobiografie heißen?",
+      "v": "Was wäre der Titel deiner eigenen Autobiografie?",
       "n": "PersonalQuestionText"
     },
     {

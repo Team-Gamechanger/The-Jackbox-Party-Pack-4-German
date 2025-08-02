@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Schule,Arbeit,ein Date,ein Kochkurs,Therapie,Kartenvorverkauf,ein Film",
+      "v": "die Schule,die Arbeit,ein Date,ein Kochkurs,die Therapie,ein Kartenvorverkauf,ein Film",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Das Letzte, wofür <PLAYER> zu spät kam, war <BLANK>.",
+      "v": "Das Letzte, für das <PLAYER> zu spät kam, war <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Das Letzte, wofür <PLAYER> zu spät kam, war <BLANK>.",
+      "s": "[category=host]Das Letzte, für das <PLAYER> zu spät kam, war <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Die Gedanken von <PLAYER> über die Zukunft können mit dem Wort <BLANK> beschrieben werden.",
+      "v": "Die Gedanken von <PLAYER> über die Zukunft können mit dem Wort „<BLANK>“ beschrieben werden.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die Gedanken von <PLAYER> über die Zukunft können mit dem Wort <BLANK> beschrieben werden.",
+      "s": "[category=host]Die Gedanken von <PLAYER> über die Zukunft können mit dem Wort „<BLANK>“ beschrieben werden.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Klaas Heufer-Umlauf tweetete „warum gibts eigentlich keine <BLANK>?“",
+      "v": "Klaas Heufer-Umlauf tweetete: „warum gibts eigentlich keine <BLANK>?“",
       "n": "QuestionText"
     },
     {
@@ -91,7 +91,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Klaas Heufer-Umlauf tweetete „warum gibts eigentlich keine <BLANK>?“",
+      "s": "[category=host]Klaas Heufer-Umlauf tweetete: „warum gibts eigentlich keine <BLANK>?“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

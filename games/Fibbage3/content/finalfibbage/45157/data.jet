@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonalds' sorgte für Schlagzeilen, da sie den Arbeitsnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
+      "v": "Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonald's sorgte für Schlagzeilen, da sie den Arbeitnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonalds' sorgte für Schlagzeilen, da sie den Arbeitsnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
+      "s": "[category=host]Eine 2013 veröffentlichte Mitarbeiter-Webseite von McDonald's sorgte für Schlagzeilen, da sie den Arbeitnehmern empfahl, auf <BLANK> und <BLANK> zu verzichten.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

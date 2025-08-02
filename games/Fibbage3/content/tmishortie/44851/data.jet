@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Comicbücher,Disketten,Beanies,mein altes Spielzeug,Klamotten die immer noch passen,AOL CDs,Sportabzeichen der Schule",
+      "v": "Comics,CDs,Schlumpffiguren,mein altes Spielzeug,Klamotten die noch passen,Kugelschreiber,Sportabzeichen der Schule",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Eine merkwürdige Sache, die <PLAYER> nicht wegwerfen kann, ist <BLANK>.",
+      "v": "Eine merkwürdige Sache, die <PLAYER> nicht wegwerfen kann: <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Eine merkwürdige Sache, die <PLAYER> nicht wegwerfen kann, ist <BLANK>.",
+      "s": "[category=host]Eine merkwürdige Sache, die <PLAYER> nicht wegwerfen kann: <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Star Wars VIII,kostenlose Schuhe,iPhone,Fussball Tickets,die Kasse bei Edeka,die Sicherheitskontrolle,Tickets für Lady Gaga",
+      "v": "Star Wars VIII,kostenlose Schuhe,ein iPhone,Fußballtickets,die Kasse beim Edeka,die Sicherheitskontrolle am Flughafen,Tickets für Lady Gaga",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Die längste Schlange, in der <PLAYER> gestanden hat, war für <BLANK>.",
+      "v": "Die längste Schlange, in der <PLAYER> je gestanden hat, war für <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die längste Schlange, in der <PLAYER> gestanden hat, war für <BLANK>.",
+      "s": "[category=host]Die längste Schlange, in der <PLAYER> je gestanden hat, war für <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

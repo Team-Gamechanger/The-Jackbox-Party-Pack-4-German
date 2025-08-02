@@ -27,17 +27,17 @@
     },
     {
       "t": "S",
-      "v": "Herr der Fliegen,Unendlicher Spass,Der Fänger im Roggen,Gone Girl,Moby Dick,James und der Riesenpfirsich,1984",
+      "v": "Das Parfum,Momo,Der Fänger im Roggen,Die kleine Raupe Nimmersatt,Moby Dick,Harry Potter und der Stein der Weisen,1984",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Was ist ein Buch, bei dem du fälschlicherweise behauptet hast, es gelesen zu haben?",
+      "v": "Was ist ein Buch, bei dem du fälschlicherweise behauptest, es gelesen zu haben?",
       "n": "PersonalQuestionText"
     },
     {
       "t": "S",
-      "v": "Ein Buch, bei dem <PLAYER> fälschlicherweise behauptet hat, es gelesen zu haben, ist <i><BLANK></i>.",
+      "v": "Ein Buch, bei dem <PLAYER> fälschlicherweise behauptet, es gelesen zu haben, ist <i><BLANK></i>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Ein Buch, bei dem <PLAYER> fälschlicherweise behauptet hat, es gelesen zu haben, ist <i><BLANK></i>.",
+      "s": "[category=host]Ein Buch, bei dem <PLAYER> fälschlicherweise behauptet, es gelesen zu haben, ist <i><BLANK></i>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

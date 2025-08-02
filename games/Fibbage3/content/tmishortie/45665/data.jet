@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "genau so seltsam,eine Katze,3 Meter gross und verrückt,Will Smiths Kind,ein lustiger Papagei,eine grosse Eiche,ziemlich genervt",
+      "v": "genau so seltsam,eine Katze,3 Meter groß und verrückt,das Kind vom Wendler,ein lustiger Papagei,eine große Eiche,ziemlich genervt",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Wenn <PLAYER> wiedergeboren würde, wäre er/sie im nächsten Leben wahrscheinlich <BLANK>.",
+      "v": "Wenn <PLAYER> wiedergeboren würde, wäre er oder sie im nächsten Leben wahrscheinlich <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Wenn <PLAYER> wiedergeboren würde, wäre er/sie im nächsten Leben wahrscheinlich <BLANK>.",
+      "s": "[category=host]Wenn <PLAYER> wiedergeboren würde, wäre er oder sie im nächsten Leben wahrscheinlich <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

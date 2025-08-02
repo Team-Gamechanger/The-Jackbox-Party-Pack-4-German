@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Klaas Heufer-Umlauf tweetete „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
+      "v": "Klaas Heufer-Umlauf tweetete: „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
       "n": "QuestionText"
     },
     {
@@ -91,7 +91,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Klaas Heufer-Umlauf tweetete „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
+      "s": "[category=host]Klaas Heufer-Umlauf tweetete: „brauche DRINGEND <BLANK>. wo gibt es das in berlin?“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

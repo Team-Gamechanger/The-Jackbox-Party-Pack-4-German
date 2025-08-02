@@ -27,17 +27,17 @@
     },
     {
       "t": "S",
-      "v": "Jahrbuch von der Schule,ein älteres Foto,meine Kunstwerke,meine Gedichte,Stofftier aus der Kindheit,ein Körperkissen,Mixtapes",
+      "v": "das Schuljahrbuch,ein Kindheitsfoto,meine Kunstwerke,meine Gedichte,ein Stofftier aus der Kindheit,ein Body Pillow ,Mixtapes",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Was ist im Moment das Peinlichste, was man in deiner Wohnung findet?",
+      "v": "Was ist aktuell das Peinlichste, was man in deiner Wohnung finden würde?",
       "n": "PersonalQuestionText"
     },
     {
       "t": "S",
-      "v": "Das Peinlichste, was man im Moment in der Wohnung von <PLAYER> findet, ist <BLANK>.",
+      "v": "Das Peinlichste, was man aktuell in der Wohnung von <PLAYER> finden würde, ist <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Das Peinlichste, was man im Moment in der Wohnung von <PLAYER> findet, ist <BLANK>.",
+      "s": "[category=host]Das Peinlichste, was man aktuell in der Wohnung von <PLAYER> finden würde, ist <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

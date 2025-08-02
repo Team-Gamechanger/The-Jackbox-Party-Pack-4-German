@@ -17,7 +17,7 @@
     },
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Affen,Tom Cruise und Brad Pitt,Bud Spencer und Terence Hill,einer britischen Zirkustruppe,Ben Stiller und Owen Wilson,Finger-Puppen,Peter Jackson selbst,Rugby-Spielern,den Backstreet Boys,Schweinen,Pinguinen,Schneemännern,den Muppets,den Schlümpfen,den Simpsons,Ministerpräsidenten,Hasen,Monty Python",
+      "v": "Affen,Tom Cruise und Brad Pitt,Bud Spencer und Terence Hill,einer britischen Zirkustruppe,Ben Stiller und Owen Wilson,Fingerpuppen,Peter Jackson selbst,Rugby-Spielern,den Backstreet Boys,Schweinen,Pinguinen,Schneemännern,den Muppets,den Schlümpfen,den Simpsons,Ministerpräsidenten,Hasen,Monty Python",
       "n": "Suggestions"
     },
     {
@@ -82,7 +82,6 @@
     {
       "s": "[category=host]den Beatles",
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

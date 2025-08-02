@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "ein Küken|ihrem Mund,eine Kakerlake|ihrem Ohr,eine Fliege|ihrer Suppe,eine Chilischote|ihrem Nasenloch,einen Mimen|ihrem Kofferraum,eine Bibel|ihrem Hintern,Ferrero Rocher|ihren Schuhen,eine Dynamitstange|ihrem Haar,fünfzehn Kilogramm Gold|ihren Hosentaschen,eine Königskobra|ihrem Handschuhfach,einen Babytiger|ihrem Kofferraum,ein Bild des Polizisten|ihrem Rückspiegel,einen Maschendrahtzahn|ihrer Unterwäsche,drei Liter Bier|ihrem Tank,Tortillas|ihrem CD-Spieler,menschliches Fleisch|ihrem Mund,Gallensteine|ihrer Halskette,Bruchstücke der Berliner Mauer|ihrem Pferdeschwanz",
+      "v": "ein Küken|ihrem Mund,eine Kakerlake|ihrem Ohr,eine Fliege|ihrer Suppe,eine Chilischote|ihrem Nasenloch,einen Mimen|ihrem Kofferraum,eine Bibel|ihrem Hintern,Ferrero Rocher|ihren Schuhen,eine Dynamitstange|ihrem Haar,fünfzehn Kilogramm Gold|ihren Hosentaschen,eine Königskobra|ihrem Handschuhfach,einen Babytiger|ihrem Kofferraum,ein Bild des Polizisten|ihrem Rückspiegel,einen Maschendrahtzaun|ihrer Unterwäsche,drei Liter Bier|ihrem Tank,Tortillas|ihrem CD-Spieler,menschliches Fleisch|ihrem Mund,Gallensteine|ihrer Halskette,Bruchstücke der Berliner Mauer|ihrem Pferdeschwanz",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Trunkenheit am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
+      "v": "Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Alkohol am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Trunkenheit am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
+      "s": "[category=host]Als die Polizei im US-amerikanischen Taunton im Mai 2017 eine Frau wegen Alkohol am Steuer festnahm, stellte sie fest, dass sie <BLANK> in <BLANK> hatte.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

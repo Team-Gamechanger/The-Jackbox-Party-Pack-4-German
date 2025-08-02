@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Einhorn-Eiscreme,den Sandmann,vegane Bratwurst,die Farbe Lila,meine Gummistiefel-Sammlung,Teletubbies,Angelina Jolie,Drachen die Saxophon spielen,feuchte Handtücher,Jongleure,Lothar Matthäus,Erdbeeren mit Senf,diesen tanzenden Kaktus,Darth Vader,Bikinis,Freibad-Pommes,RTL,YouTube",
+      "v": "Einhorn-Eiscreme,den Sandmann,vegane Bratwurst,die Farbe Lila,meine Gummistiefel-Sammlung,Teletubbies,Angelina Jolie,Drachen die Saxophon spielen,feuchte Handtücher,Jongleure,Lothar Matthäus,Erdbeeren mit Senf,diesen tanzenden Kaktus,Darth Vader,Bikinis,Freibad-Pommes,RTL,Masken-Deals",
       "n": "Suggestions"
     },
     {
@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Jens Spahn tweetete „Muss heute den ganzen Tag an <BLANK> denken...“",
+      "v": "Jens Spahn tweetete: „Muss heute den ganzen Tag an <BLANK> denken...“",
       "n": "QuestionText"
     },
     {
@@ -91,7 +91,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Jens Spahn tweetete „Muss heute den ganzen Tag an <BLANK> denken...“",
+      "s": "[category=host]Jens Spahn tweetete: „Muss heute den ganzen Tag an <BLANK> denken...“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

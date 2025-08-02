@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Joko Winterscheidt tweetete „ich hätte voll bock auf <BLANK>!“",
+      "v": "Joko Winterscheidt tweetete: „ich hätte voll bock auf <BLANK>!“",
       "n": "QuestionText"
     },
     {
@@ -91,7 +91,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Joko Winterscheidt tweetete „ich hätte voll bock auf <BLANK>!“",
+      "s": "[category=host]Joko Winterscheidt tweetete: „ich hätte voll bock auf <BLANK>!“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

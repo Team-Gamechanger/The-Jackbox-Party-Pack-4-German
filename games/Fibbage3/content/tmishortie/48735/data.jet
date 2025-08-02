@@ -27,17 +27,17 @@
     },
     {
       "t": "S",
-      "v": "Dschungelcamp,DSDS,Top Chef,Das Supertalent,Last Comic Standing,Der Bachelor,Das Superhirn",
+      "v": "Dschungelcamp,DSDS,Die Küchenschlacht,Das Supertalent,LOL: Last One Laughing,Der Bachelor,Das Superhirn",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Bei welcher Reality-Show (real oder erfunden) hättest du die besten Chancen zu gewinnen?",
+      "v": "Bei welcher Reality-Show (real oder erfunden) hättest du die größten Gewinnchancen?",
       "n": "PersonalQuestionText"
     },
     {
       "t": "S",
-      "v": "Die Reality-Show, in der <PLAYER> die besten Chancen hätte zu gewinnen, wäre <BLANK>.",
+      "v": "Die Reality-Show, bei der <PLAYER> die größten Gewinnchancen hätte, wäre <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die Reality-Show, in der <PLAYER> die besten Chancen hätte zu gewinnen, wäre <BLANK>.",
+      "s": "[category=host]Die Reality-Show, bei der <PLAYER> die größten Gewinnchancen hätte, wäre <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

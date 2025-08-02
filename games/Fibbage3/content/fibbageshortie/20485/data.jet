@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "seine Notdurft verrichtet",
+      "v": "kackt",
       "n": "CorrectText"
     },
     {
@@ -62,7 +62,7 @@
     },
     {
       "t": "S",
-      "v": "kackt,scheißt,kotet,stuhlt,scheißen muss,kacken muss",
+      "v": "seine Notdurft verrichtet,scheißt,kotet,stuhlt,scheißen muss,kacken muss",
       "n": "AlternateSpellings"
     },
     {
@@ -80,7 +80,7 @@
       "n": "Pic"
     },
     {
-      "s": "[category=host]seine Notdurft verrichtet",
+      "s": "[category=host]kackt",
       "t": "A",
       "v": "correct",
       "n": "CorrectAudio"

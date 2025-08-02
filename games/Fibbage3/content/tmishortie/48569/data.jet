@@ -27,17 +27,17 @@
     },
     {
       "t": "S",
-      "v": "ein neues Auto,kostenlose Schuhe,600 Euro,ein neuer Computer,ein Truthahn,lebenlange Süssigkeiten,ein Stück Land",
+      "v": "ein neues Auto,kostenlose Schuhe,600 Euro,ein neuer Computer,ein Truthahn,lebenslange Süßigkeiten,ein Stück Land",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Was ist das Coolste, das du jemals gewonnen hast?",
+      "v": "Was war das Coolste, das du jemals gewonnen hast?",
       "n": "PersonalQuestionText"
     },
     {
       "t": "S",
-      "v": "Das Coolste, was <PLAYER> jemals gewonnen hat, ist <BLANK>.",
+      "v": "Das Coolste, was <PLAYER> je gewonnen hat, war <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Das Coolste, was <PLAYER> jemals gewonnen hat, ist <BLANK>.",
+      "s": "[category=host]Das Coolste, was <PLAYER> je gewonnen hat, war <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

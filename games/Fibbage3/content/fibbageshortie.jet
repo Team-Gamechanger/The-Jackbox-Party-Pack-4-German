@@ -1617,7 +1617,7 @@
       "personal": "",
       "id": 46183,
       "portrait": false,
-      "category": "Lustige Hobbys",
+      "category": "Doppelleben",
       "bumper": "",
       "us": false
     },
@@ -1928,7 +1928,7 @@
       "us": false
     },
     {
-      "x": false,
+      "x": true,
       "personal": "",
       "id": 18773,
       "portrait": false,

@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Das im mittelalterliche England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
+      "v": "Das im mittelalterlichen England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
       "n": "QuestionText"
     },
     {
@@ -85,7 +85,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Das im mittelalterliche England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
+      "s": "[category=host]Das im mittelalterlichen England erfundene „Cockentryce“ ist <BLANK> auf <BLANK> genäht.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

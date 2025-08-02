@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Erdnussbutter und Käse,Äpfel und Steak,Zitronen und Mayonnaise,Eis und Pommes,Kartoffelchips und Sandwiches,Erdnüsse und Dr. Pepper,Ketchup und Joghurt",
+      "v": "Erdnussbutter und Käse,Äpfel und Steak,Zitronen und Mayonnaise,Eis und Pommes,Chips und Sandwiches,Erdnüsse und Spezi,Ketchup und Joghurt",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Die beiden Lebensmittel, die <PLAYER> kombinieren möchte, sind <BLANK>.",
+      "v": "Die beiden Lebensmittel, die <PLAYER> kombinieren würde, sind <BLANK>.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die beiden Lebensmittel, die <PLAYER> kombinieren möchte, sind <BLANK>.",
+      "s": "[category=host]Die beiden Lebensmittel, die <PLAYER> kombinieren würde, sind <BLANK>.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

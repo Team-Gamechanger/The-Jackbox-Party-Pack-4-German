@@ -42,7 +42,7 @@
     },
     {
       "t": "S",
-      "v": "Der rumänische Diktator Nicolae Ceausescu hatte einst solche Angst vor Intellektualität, dass er <BLANK> verbot.",
+      "v": "Der rumänische Diktator Nicolae Ceausescu hatte eine solche Angst vor Intellektualität, dass er <BLANK> verbot.",
       "n": "QuestionText"
     },
     {
@@ -86,7 +86,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Der rumänische Diktator Nicolae Ceausescu hatte einst solche Angst vor Intellektualität, dass er <BLANK> verbot.",
+      "s": "[category=host]Der rumänische Diktator Nicolae Ceausescu hatte eine solche Angst vor Intellektualität, dass er <BLANK> verbot.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

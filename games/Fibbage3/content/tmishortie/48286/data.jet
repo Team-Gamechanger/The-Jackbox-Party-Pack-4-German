@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "vergiss die Eier nicht,Bis gleich,Ich kann meine Autoschlüssel nicht finden,Mir ist langweilig,Hab verschlafen,Siehst du den Ausschlag auf meinem Fuss?,Tut mir leid wegen der verpassten Geburtstagsparty",
+      "v": "Denk an die Eier,Bis gleich,Ich finde die Autoschlüssel nicht,Mir ist langweilig,Hab verschlafen,Siehst du den Ausschlag auf meinem Fuß?,Habe deinen Geburtstag vergessen",
       "n": "Suggestions"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "t": "S",
-      "v": "Die letzte Textnachricht, die <PLAYER> gesendet hat, war <BLANK>.",
+      "v": "Die letzte Textnachricht, die <PLAYER> gesendet hat, war „<BLANK>“.",
       "n": "QuestionText"
     },
     {
@@ -80,7 +80,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Die letzte Textnachricht, die <PLAYER> gesendet hat, war <BLANK>.",
+      "s": "[category=host]Die letzte Textnachricht, die <PLAYER> gesendet hat, war „<BLANK>“.",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"

@@ -47,7 +47,7 @@
     },
     {
       "t": "S",
-      "v": "Matthias Opdenhövel tweetete „Holt euch <BLANK>!“",
+      "v": "Matthias Opdenhövel tweetete: „Holt euch <BLANK>!“",
       "n": "QuestionText"
     },
     {
@@ -92,7 +92,7 @@
       "n": "CorrectAudio"
     },
     {
-      "s": "[category=host]Matthias Opdenhövel tweetete „Holt euch <BLANK>!“",
+      "s": "[category=host]Matthias Opdenhövel tweetete: „Holt euch <BLANK>!“",
       "t": "A",
       "v": "question",
       "n": "QuestionAudio"
