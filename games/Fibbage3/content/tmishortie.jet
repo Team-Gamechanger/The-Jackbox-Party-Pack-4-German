@@ -20,7 +20,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eines der ekligsten Dinge, die du je gegessen hast?",
       "id": 16247,
       "portrait": false,
@@ -29,7 +29,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eine deiner frühsten Erinnerungen?",
       "id": 16248,
       "portrait": false,
@@ -38,7 +38,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wäre eine Fähigkeit, die du gerne hättest?",
       "id": 16250,
       "portrait": false,
@@ -47,7 +47,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Film bringt dich IMMER zum Lachen?",
       "id": 43671,
       "portrait": false,
@@ -56,7 +56,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du niemals essen?",
       "id": 43672,
       "portrait": false,
@@ -65,7 +65,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war der Name deines Lieblings-Plüschtiers als Kind?",
       "id": 43673,
       "portrait": false,
@@ -74,7 +74,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eine berühmte Persönlichkeit, mit der du gerne deinen Körper für einen Tag tauschen möchtet?",
       "id": 43674,
       "portrait": false,
@@ -83,7 +83,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du irgendein Superheld sein könntest, welcher wäre es?",
       "id": 43675,
       "portrait": false,
@@ -92,7 +92,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wäre etwas Verrücktes, was du nach einem Lottogewinn kaufen würdest?",
       "id": 43677,
       "portrait": false,
@@ -101,7 +101,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Schauspieler oder Schauspielerin sollte dich in einem Film über dein Leben darstellen?",
       "id": 43679,
       "portrait": false,
@@ -110,7 +110,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Lied bringt dich immer wieder zum Tanzen?",
       "id": 43681,
       "portrait": false,
@@ -119,7 +119,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Bei welcher Fernsehsendung schämst du dich, zuzugeben, dass du sie magst?",
       "id": 43682,
       "portrait": false,
@@ -128,7 +128,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das erste Album, das du gekauft hast?",
       "id": 43685,
       "portrait": false,
@@ -137,7 +137,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wovon handelte der letzte Traum, an den du dich erinnern kannst?",
       "id": 43688,
       "portrait": false,
@@ -146,7 +146,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche Zeichentrickfigur würdest du auf jeden Fall daten?",
       "id": 43690,
       "portrait": false,
@@ -155,7 +155,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wäre dein Deckname als Geheimagent?",
       "id": 43692,
       "portrait": false,
@@ -173,7 +173,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was für einen peinlichen Sänger oder eine peinliche Band hörst du heimlich?",
       "id": 43726,
       "portrait": false,
@@ -182,7 +182,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Vor welcher seltsamen Sache hattest du als Kind Angst?",
       "id": 44841,
       "portrait": false,
@@ -191,7 +191,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen seltsamen Geruch liebst du?",
       "id": 44842,
       "portrait": false,
@@ -200,7 +200,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das Nerdigste, das du gerne machst?",
       "id": 44843,
       "portrait": false,
@@ -209,7 +209,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Ort würdest du gerne besuchen?",
       "id": 44847,
       "portrait": false,
@@ -218,7 +218,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was entspannt dich wirklich?",
       "id": 44848,
       "portrait": false,
@@ -227,7 +227,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Job würdest gerne ausprobieren?",
       "id": 44849,
       "portrait": false,
@@ -236,7 +236,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Film, den alle lieben, hasst du?",
       "id": 44850,
       "portrait": false,
@@ -245,7 +245,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche merkwürdige Sache kannst du einfach nicht wegwerfen?",
       "id": 44851,
       "portrait": false,
@@ -254,7 +254,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche berühmte Person hast du einmal getroffen oder bist ihr begegnet?",
       "id": 44852,
       "portrait": false,
@@ -263,7 +263,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du drei Wünsche hättest, was wäre einer davon?",
       "id": 44855,
       "portrait": false,
@@ -272,7 +272,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eine Angewohnheit, die du dir am liebsten abgewöhnen würdest?",
       "id": 44865,
       "portrait": false,
@@ -281,7 +281,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "In welcher Zeit würdest du, abgesehen von der Gegenwart, gerne leben?",
       "id": 44866,
       "portrait": false,
@@ -290,7 +290,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eine unpopuläre Meinung, die du hast?",
       "id": 44870,
       "portrait": false,
@@ -299,7 +299,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wie würde deine Catchphrase im Stil einer Sitcom lauten?",
       "id": 44893,
       "portrait": false,
@@ -308,7 +308,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wie hieß eines deiner Lieblings-Haustiere?",
       "id": 45289,
       "portrait": false,
@@ -317,7 +317,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Geräusch kannst du wirklich nicht ausstehen?",
       "id": 45290,
       "portrait": false,
@@ -326,7 +326,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war eines der letzten Dinge, bei denen du gelogen hast?",
       "id": 45293,
       "portrait": false,
@@ -335,7 +335,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war eines der seltsamsten Dinge, die du als Kind werden wolltest?",
       "id": 45297,
       "portrait": false,
@@ -344,7 +344,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Aus welchem Film kannst du am meisten zitieren?",
       "id": 45307,
       "portrait": false,
@@ -353,7 +353,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war eine der peinlichsten Situationen, in der du jemals gefurzt hast?",
       "id": 45308,
       "portrait": false,
@@ -362,7 +362,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was gehört für dich auf jeden Fall zu einem perfekten Tag?",
       "id": 45312,
       "portrait": false,
@@ -371,7 +371,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "In welchem Themengebiet hast du wahrscheinlich das meiste unnütze Wissen?",
       "id": 45316,
       "portrait": false,
@@ -389,7 +389,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Spitznamen hattest du früher, den du nicht mochtest?",
       "id": 45318,
       "portrait": false,
@@ -398,7 +398,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Halloween-Kostüm hat dir in den letzten Jahren am besten gefallen?",
       "id": 45320,
       "portrait": false,
@@ -407,7 +407,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "In welchem fiktionalen Werk wärst du gerne eine Figur?",
       "id": 45323,
       "portrait": false,
@@ -416,7 +416,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Worüber denkst du viel nach?",
       "id": 45324,
       "portrait": false,
@@ -425,7 +425,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Zwei-Wörter-Ratschlag würdest du deinem zwei Jahre jüngeren Ich geben?",
       "id": 45326,
       "portrait": false,
@@ -434,7 +434,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Für welche Hausarbeit würdest du Geld bezahlen, um sie nicht machen zu müssen?",
       "id": 45329,
       "portrait": false,
@@ -443,7 +443,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "In welcher Substanz würdest du am wenigsten gerne schwimmen?",
       "id": 45331,
       "portrait": false,
@@ -452,7 +452,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was für ein Bild oder Ausdruck ist auf deinem Lieblings-T-Shirt?",
       "id": 45333,
       "portrait": false,
@@ -461,7 +461,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Wort würdest du benutzen, um zu beschreiben, wie du über die Zukunft denkst?",
       "id": 45335,
       "portrait": false,
@@ -470,7 +470,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche Person (real oder erfunden) wäre ein guter Reisebegleiter?",
       "id": 45376,
       "portrait": false,
@@ -497,7 +497,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Den Flohmarkstand welches Promis würdest du am liebsten besuchen?",
       "id": 45407,
       "portrait": false,
@@ -506,7 +506,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du allen verbieten zu sagen, wenn du könntest?",
       "id": 45419,
       "portrait": false,
@@ -515,7 +515,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Thema oder welche Situation verwirrt dich schnell?",
       "id": 45422,
       "portrait": false,
@@ -524,7 +524,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welchen Teil deines Körpers würdest du am liebsten mit Robotertechnik ersetzen?",
       "id": 45425,
       "portrait": false,
@@ -533,7 +533,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Dümmste, was du dir jemals von jemand anderem hast aufschwatzen lassen?",
       "id": 45437,
       "portrait": false,
@@ -542,7 +542,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Film-Bösewicht wird deiner Meinung nach missverstanden?",
       "id": 45442,
       "portrait": false,
@@ -551,7 +551,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Bei welchem Guinness-Weltrekord hättest du eine Chance, ihn zu brechen?",
       "id": 45447,
       "portrait": false,
@@ -560,7 +560,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eines der seltsamsten Dinge, die du online gekauft hast?",
       "id": 45449,
       "portrait": false,
@@ -569,7 +569,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Mit wem würdest du nicht in einem Aufzug stecken bleiben wollen?",
       "id": 45458,
       "portrait": false,
@@ -578,7 +578,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war eines deiner merkwürdigsten Erlebnisse beim Baden/Duschen?",
       "id": 45459,
       "portrait": false,
@@ -587,7 +587,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war die dümmste Ausrede, die du je benutzt hast, um dich vor etwas zu drücken?",
       "id": 45463,
       "portrait": false,
@@ -596,7 +596,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was machen manche Menschen, was du nie verstehen wirst?",
       "id": 45527,
       "portrait": false,
@@ -605,7 +605,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wäre ein guter Profi-Wrestler-Name für dich?",
       "id": 45587,
       "portrait": false,
@@ -614,7 +614,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das Dümmste, was du je getan hast?",
       "id": 45588,
       "portrait": false,
@@ -623,7 +623,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du wahrscheinlich in deinem nächsten Leben sein, wenn du wiedergeboren würdest?",
       "id": 45665,
       "portrait": false,
@@ -632,7 +632,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist etwas, das du früher sehr gemocht hast, heute aber gar nicht mehr magst?",
       "id": 45753,
       "portrait": false,
@@ -641,7 +641,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist etwas, das du versucht hast zu mögen, zu dem du aber keinen Zugang gefunden hast?",
       "id": 45756,
       "portrait": false,
@@ -650,7 +650,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was beinhaltet dein Lieblings-Werbespot?",
       "id": 45763,
       "portrait": false,
@@ -659,7 +659,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das erste Wort, das dir gerade einfällt?",
       "id": 45765,
       "portrait": false,
@@ -668,7 +668,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wissen Leute, die jünger sind als du, nicht mehr zu schätzen?",
       "id": 45770,
       "portrait": false,
@@ -677,7 +677,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Für was kamst du zuletzt zu spät?",
       "id": 45832,
       "portrait": false,
@@ -686,7 +686,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Worauf wartest du derzeit ungeduldig?",
       "id": 45881,
       "portrait": false,
@@ -695,7 +695,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was brauchst du, um durch den Alltag zu kommen?",
       "id": 45990,
       "portrait": false,
@@ -704,7 +704,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "An wem oder was würdest du gerne näher wohnen?",
       "id": 45993,
       "portrait": false,
@@ -713,7 +713,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist etwas, von dem du glaubst, dass du es kannst, das du aber schon lange nicht mehr ausprobiert hast?",
       "id": 46043,
       "portrait": false,
@@ -731,7 +731,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du gerne machen, hast aber keine Zeit dafür?",
       "id": 46065,
       "portrait": false,
@@ -740,7 +740,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn dein Haus brennen würde und du nur eine Sache retten könntest, was würdest du retten?",
       "id": 46140,
       "portrait": false,
@@ -749,7 +749,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist dein Lieblingsgeschäft?",
       "id": 46158,
       "portrait": false,
@@ -758,7 +758,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du zu Hause ein zusätzliches Zimmer hättest, wofür würdest du es benutzen?",
       "id": 47689,
       "portrait": false,
@@ -767,7 +767,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war der schlimmste Beruf, den du je hattest?",
       "id": 47691,
       "portrait": false,
@@ -785,7 +785,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Von welchem Snack könntest du eine ganze Packung essen, ohne nachzudenken?",
       "id": 47703,
       "portrait": false,
@@ -794,7 +794,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche seltsame Sache hast du geglaubt, bis du herausgefunden hast, dass sie nicht stimmt?",
       "id": 47705,
       "portrait": false,
@@ -803,7 +803,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du dir morgen ein Tattoo stechen lassen müsstest, was wäre das Motiv?",
       "id": 47707,
       "portrait": false,
@@ -812,7 +812,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Worüber bist du heute noch verärgert, weil du es verloren hast?",
       "id": 47709,
       "portrait": false,
@@ -821,7 +821,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wofür solltest du unbedingt einen Doktortitel erhalten, auch wenn dafür eigentlich keiner verliehen wird?",
       "id": 47890,
       "portrait": false,
@@ -830,7 +830,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du deinen Vornamen ändern müsstest, welchen würdest du wählen?",
       "id": 48207,
       "portrait": false,
@@ -839,7 +839,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Lied würdest du wählen, wenn du Karaoke singen müsstest?",
       "id": 48232,
       "portrait": false,
@@ -848,7 +848,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wovon sollte es mehr geben, damit die Welt ein besserer Ort wird?",
       "id": 48284,
       "portrait": false,
@@ -857,7 +857,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war die letzte Textnachricht, die du gesendet hast?",
       "id": 48286,
       "portrait": false,
@@ -866,7 +866,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches war dein erstes großes Konzert?",
       "id": 48338,
       "portrait": false,
@@ -875,7 +875,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du ein Tier von der Erde verschwinden lassen könntest, welches wäre das?",
       "id": 48340,
       "portrait": false,
@@ -884,7 +884,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wer war der erste Promi, für den du geschwärmt hast?",
       "id": 48343,
       "portrait": false,
@@ -893,7 +893,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war deine Lieblingsfernsehsendung, als du 10 Jahre alt warst?",
       "id": 48345,
       "portrait": false,
@@ -902,7 +902,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du begehen, wenn für einen Tag jede Straftat erlaubt wäre?",
       "id": 48349,
       "portrait": false,
@@ -911,7 +911,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Film hat dir als Kind am meisten Angst eingejagt?",
       "id": 48350,
       "portrait": false,
@@ -920,7 +920,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das schönste Geschenk, das du als Kind bekommen hast?",
       "id": 48351,
       "portrait": false,
@@ -938,7 +938,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wofür gibst du zu viel Geld aus?",
       "id": 48357,
       "portrait": false,
@@ -947,7 +947,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Für was war die längste Schlange, in der du gestanden hast?",
       "id": 48369,
       "portrait": false,
@@ -956,7 +956,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du irgendeine Frage ein für alle Mal beantwortet bekommen könntest, was würdest du gerne wissen?",
       "id": 48375,
       "portrait": false,
@@ -965,7 +965,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist der schlechteste Film, den du im Kino gesehen hast?",
       "id": 48440,
       "portrait": false,
@@ -974,7 +974,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das letzte Souvenir, das du gekauft hast?",
       "id": 48444,
       "portrait": false,
@@ -983,7 +983,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das Beeindruckendste, das du je gebaut oder gesammelt hast?",
       "id": 48448,
       "portrait": false,
@@ -992,7 +992,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das dümmste Lied, von dem du einen Ohrwurm bekommen hast?",
       "id": 48461,
       "portrait": false,
@@ -1001,7 +1001,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wann oder warum hast du das letzte Mal den Fernseher angeschrien?",
       "id": 48463,
       "portrait": false,
@@ -1010,7 +1010,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Fach hat dir in der Schule am wenigsten Spaß gemacht?",
       "id": 48473,
       "portrait": false,
@@ -1019,7 +1019,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Coolste, das du jemals gewonnen hast?",
       "id": 48569,
       "portrait": false,
@@ -1028,7 +1028,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das Coolste, das du in letzter Zeit gelernt hast?",
       "id": 48571,
       "portrait": false,
@@ -1037,7 +1037,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das erste alkoholische Getränk, das du probiert hast?",
       "id": 48572,
       "portrait": false,
@@ -1046,7 +1046,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche beiden Lebensmittel würdest du gerne kombinieren?",
       "id": 48578,
       "portrait": false,
@@ -1055,7 +1055,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wie lautet die Pointe von deinem Lieblingswitz?",
       "id": 48614,
       "portrait": false,
@@ -1064,7 +1064,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche Person/Promi wolltest du unbedingt treffen, als du 10 Jahre alt warst?",
       "id": 48615,
       "portrait": false,
@@ -1073,7 +1073,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist der seltsamste Ort, an dem du geschlafen hast?",
       "id": 48616,
       "portrait": false,
@@ -1082,7 +1082,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war der dümmste Fehler, den du im letzten Jahr gemacht hast?",
       "id": 48620,
       "portrait": false,
@@ -1091,7 +1091,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist aktuell das Peinlichste, was man in deiner Wohnung finden würde?",
       "id": 48674,
       "portrait": false,
@@ -1100,7 +1100,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was wäre der Titel deiner eigenen Autobiografie?",
       "id": 48675,
       "portrait": false,
@@ -1109,7 +1109,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn du deinen eigenen Roboter hättest, was wäre seine Hauptaufgabe?",
       "id": 48677,
       "portrait": false,
@@ -1118,7 +1118,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was würdest du auf jeden Fall auf eine Expedition zum Mars mitnehmen?",
       "id": 48678,
       "portrait": false,
@@ -1127,7 +1127,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Peinlichste, was du in einem Laden kaufen musstest?",
       "id": 48679,
       "portrait": false,
@@ -1136,7 +1136,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welches Wort kannst du nur schwer buchstabieren?",
       "id": 48681,
       "portrait": false,
@@ -1145,7 +1145,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist eine Sache, die dich unnötig aufregt?",
       "id": 48684,
       "portrait": false,
@@ -1154,7 +1154,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das veraltetste Stück Technik, das du besitzt?",
       "id": 48686,
       "portrait": false,
@@ -1163,7 +1163,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist die teuerste Sache, die du dir ständig von der Arbeit „geliehen“ hast?",
       "id": 48692,
       "portrait": false,
@@ -1172,7 +1172,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist das Dümmste, was du aus Liebe getan hast?",
       "id": 48696,
       "portrait": false,
@@ -1181,7 +1181,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist der beste Streich, den du je gesehen oder bei dem du mitgemacht hast?",
       "id": 48699,
       "portrait": false,
@@ -1190,7 +1190,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Highlight deines letzten Urlaubs?",
       "id": 48701,
       "portrait": false,
@@ -1199,7 +1199,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche Fernsehsendung sollte deiner Meinung nach wiederkommen oder neu aufgelegt werden?",
       "id": 48702,
       "portrait": false,
@@ -1208,7 +1208,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Peinlichste, was du vor einer großen Gruppe von Menschen gemacht hast?",
       "id": 48703,
       "portrait": false,
@@ -1217,7 +1217,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Beschreibe dich selbst in drei Worten.",
       "id": 48710,
       "portrait": false,
@@ -1226,7 +1226,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welche Lieblingssache hast du zu Hause eingerahmt oder ausgestellt?",
       "id": 48720,
       "portrait": false,
@@ -1235,7 +1235,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist dein bester Tipp, um Geld zu sparen?",
       "id": 48729,
       "portrait": false,
@@ -1244,7 +1244,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Dein Albtraum wäre es, auf einem Planeten voller <BLANK> zu landen.",
       "id": 48731,
       "portrait": false,
@@ -1253,7 +1253,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Bei welcher Reality-Show (real oder erfunden) hättest du die größten Gewinnchancen?",
       "id": 48735,
       "portrait": false,
@@ -1262,7 +1262,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Trend von früher sollte deiner Meinung nach wiederkommen?",
       "id": 48737,
       "portrait": false,
@@ -1271,7 +1271,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wofür hast du einmal einen Pokal oder eine Auszeichnung bekommen?",
       "id": 48741,
       "portrait": false,
@@ -1280,7 +1280,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Wenn es ein Sandwich gäbe, das nach dir benannt ist, was wären die zwei Hauptzutaten?",
       "id": 48748,
       "portrait": false,
@@ -1289,7 +1289,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war der letzte Film oder die letzte Fernsehsendung, bei der du den Tränen nahe warst?",
       "id": 48750,
       "portrait": false,
@@ -1298,7 +1298,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war das Letzte, das du gegoogelt oder online nachgeschaut hast?",
       "id": 48753,
       "portrait": false,
@@ -1307,7 +1307,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Welcher Trend sollte deiner Meinung nach für immer verschwinden?",
       "id": 48757,
       "portrait": false,
@@ -1316,7 +1316,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist ein Buch, bei dem du fälschlicherweise behauptest, es gelesen zu haben?",
       "id": 48773,
       "portrait": false,
@@ -1325,7 +1325,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist die trashigste Webseite, die du häufig besuchst?",
       "id": 48774,
       "portrait": false,
@@ -1334,7 +1334,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was ist etwas, das in deiner Wohnung zu viel Platz wegnimmt?",
       "id": 48779,
       "portrait": false,
@@ -1343,7 +1343,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Was war letzten Samstagabend dein Highlight?",
       "id": 48780,
       "portrait": false,
@@ -1352,7 +1352,7 @@
       "us": false
     },
     {
-      "x": true,
+      "x": false,
       "personal": "Mit welchem Prominenten wärst du gerne befreundet?",
       "id": 48783,
       "portrait": false,

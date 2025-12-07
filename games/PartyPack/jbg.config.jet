@@ -1,0 +1,22 @@
+{
+	"flashKeyboard":"true",
+	"connectingDurationTrouble":"15000",
+	"legalText":"jackboxScaleformFmodCriware",
+	"pause-inputs":"[\"BACK\", \"B\", \"START\"]",
+	"uaAppId":"tjjp4picker",
+	"isBundle":"true",
+	"uaVersionId":"1.0.0",
+	"gameName":"PartyPack",
+	"supportsMouse":"true",
+	"needExitbutton":"true",
+	"StoreFront":"EpicStore",
+	"showBuildVersion":"true",
+	"serverUrl":"blobcast.jackboxgames.com",
+	"supportsJoysticksHotplugging":"true",
+	"supportsFullScreen":"true",
+	"uaAppName":"TJPP4Picker",
+	"supportsKeyboard":"true",
+	"connectingDurationAbort":"45000",
+	"buildTimeStamp":"2019-02-01 17:20:30",
+	"buildVersion":"Build:  130.0-DE"
+}
