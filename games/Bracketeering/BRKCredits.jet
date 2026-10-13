@@ -85,27 +85,27 @@
             "Name": ""
         },
         {
-            "Title": "LEITUNG",
+            "Title": "SPIELLEITUNG",
             "Name": "MARK TUROWETZ"
         },
         {
-            "Title": "LEITENDER INGENIEUR",
+            "Title": "LEITENDE PROGRAMMIERUNG",
             "Name": "BEN JACOBS"
         },
         {
-            "Title": "KUNST-DIREKTOR",
+            "Title": "KÜNSTLERISCHE LEITUNG",
             "Name": "ALLARD LABAN"
         },
         {
-            "Title": "LEITENDER KÜNSTLER",
+            "Title": "LEITENDE GRAFIK",
             "Name": "ALAIN HELMERS"
         },
         {
-            "Title": "AUDIODIREKTOR",
+            "Title": "AUDIODIREKTION",
             "Name": "BRIAN CHARD"
         },
         {
-            "Title": "MODERATOR",
+            "Title": "MODERATION",
             "Name": "PHIL RIDARELLI"
         },
         {
@@ -113,23 +113,23 @@
             "Name": "ARNIE NIEKAMP"
         },
         {
-            "Title": "CHEFREDAKTEUR",
+            "Title": "LEITENDES AUTORENTEAM",
             "Name": "WARREN ARNOLD"
         },   
         {
-            "Title": "CHEFREDAKTEUR",
+            "Title": "LEITENDES AUTORENTEAM",
             "Name": "SPENCER HAM"
         },   
         {
-            "Title": "AUTOREN",
+            "Title": "AUTORENTEAM",
             "Name": "MARLA CACERES"
         },		
         {
-            "Title": "AUTOREN",
+            "Title": "AUTORENTEAM",
             "Name": "DANNY GALLAGHER"
         },
         {
-            "Title": "AUTOREN",
+            "Title": "AUTORENTEAM",
             "Name": "STEPHANIE WEBER"
         },		
         {
@@ -153,59 +153,59 @@
             "Name": "LUKE CODY"
         }, 
         {
-            "Title": "TECHNISCHER ZEICHNER",
+            "Title": "TECHNISCHE GRAFIKENTWICKLUNG",
             "Name": "MARK TUROWETZ"
         },        
         {
-            "Title": "KÜNSTLER",
+            "Title": "GRAFIK",
             "Name": "NOLAN DOWNS"
         },
         {
-            "Title": "KÜNSTLER",
+            "Title": "GRAFIK",
             "Name": "HECTOR M PADILLA"
         },     
         {
-            "Title": "SOFTWARE-ENTWICKLER",
+            "Title": "SOFTWAREENTWICKLUNG",
             "Name": "EVAN JACOVER"
         },
         {
-            "Title": "SOFTWARE-ENTWICKLER",
+            "Title": "SOFTWAREENTWICKLUNG",
             "Name": "JORDAN ORELLI"
         }, 
         {
-            "Title": "SOFTWARE-ENTWICKLER",
+            "Title": "SOFTWAREENTWICKLUNG",
             "Name": "PASCAL POCHOL"
         },
         {
-            "Title": "SOFTWARE-ENTWICKLER",
+            "Title": "SOFTWAREENTWICKLUNG",
             "Name": "ALEX SWAN"
         },  
         {
-            "Title": "SOFTWARE-ENTWICKLER",
+            "Title": "SOFTWAREENTWICKLUNG",
             "Name": "MIKE ZUBA"
         },        
         {
-            "Title": "SOFTWARE-ENTWICKLUNGSPRAKTIKANTEN",
+            "Title": "PRAKTIKUM SOFTWAREENTWICKLUNG",
             "Name": "STASHA BLANK"
         },
         {
-            "Title": "SOFTWARE-ENTWICKLUNGSPRAKTIKANTEN",
+            "Title": "PRAKTIKUM SOFTWAREENTWICKLUNG",
             "Name": "JEANNETTE FORBES"
         },
         {
-            "Title": "SOFTWARE-ENTWICKLUNGSPRAKTIKANTEN",
+            "Title": "PRAKTIKUM SOFTWAREENTWICKLUNG",
             "Name": "APRIL MARTIN"
         },        
         {
-            "Title": "AUDIOASSISTENT",
+            "Title": "AUDIOASSISTENZ",
             "Name": "TOM BARRETT"
         },
 	{
-            "Title": "KORREKTURLESER",
+            "Title": "KORREKTURLEKTORAT",
             "Name": "ELAINE FRIEDBERG"
         },
         {
-            "Title": "LEITUNG DER QUALITÄTSSICHERUNG",
+            "Title": "TEAMLEITUNG QUALITÄTSSICHERUNG",
             "Name": "STEVE “WAT” PAKAL"
         },
         {
@@ -225,27 +225,27 @@
             "Name": "KEVIN VEKONY"
         },        
         {
-            "Title": "RECHTSBEISTAND",
+            "Title": "RECHTSBERATUNG",
             "Name": "KURT HIRSCH"
         },
         {
-            "Title": "RECHNUNGSPRÜFER",
+            "Title": "LEITUNG RECHNUNGSWESEN",
             "Name": "ANNA WODYNSKI"
         },
         {
-            "Title": "PERSONAL- UND BÜROLEITER & ERBSENZÄHLER",
+            "Title": "PERSONALWESEN, BÜROMANAGEMENT & ERBSENZÄHLEREI",
             "Name": "ROB ALLETTO"
         },
         {
-            "Title": "GESCHÄFTSFÜHRER",
+            "Title": "GESCHÄFTSFÜHRUNG (CEO)",
             "Name": "MIKE BILDER"
         },
         {
-            "Title": "VIZEPRÄSIDENT FÜR KREATIVES",
+            "Title": "VIZEPRÄSIDENT FÜR KREATIVENTWICKLUNG",
             "Name": "ALLARD LABAN"
         },
         {
-            "Title": "VIZEPRÄSIDENT FÜR ENTWICKLUNG",
+            "Title": "VIZEPRÄSIDENT FÜR SOFTWAREENTWICKLUNG",
             "Name": "EVAN JACOVER"
         },
         {
